@@ -1,362 +1,362 @@
 {
   "code": "8-18",
   "chapter": 8,
-  "title": "not only...but (also)...（倒裝）",
+  "title": "S + V + whether... or not",
   "formulas": [
     {
-      "formula": "Not only + 助動詞 + S + V..., but (also) + S + V...",
-      "zh": "不僅...而且...（置句首需倒裝，前半句助動詞提前，後半句正常語序）"
+      "formula": "S + V + whether... or not",
+      "zh": "主詞+動詞+whether...or not（無論是否...）"
     },
     {
-      "formula": "Not only + 助動詞 + S + V + O..., but also + S + V + O...",
-      "zh": "不僅...而且...（連接兩個完整子句，表達雙重強調）"
+      "formula": "S + V + whether or not + S + V",
+      "zh": "主詞+動詞+whether or not+主詞+動詞（無論...是否...）"
     }
   ],
-  "explanation": "Not only置於句首時，主句需進行倒裝，將助動詞提至主詞前；but (also)部分則保持正常語序。此句型用於強調兩個同等重要的事實或觀點，常見於學術寫作與正式表達。注意not only與but also必須連接相同詞性或句法結構，動詞時態應與兩個主詞相符。易混淆點：倒裝只發生在not only部分，but also後不倒裝；避免將but or also混淆。",
+  "explanation": "whether...or not 具有雙重功能：(1)引導名詞子句，表示「是否」的選擇意義，與 if 用法相似；(2)引導讓步副詞子句，表示「無論...是否...」的讓步意義。兩種用法結構不同，第一種強調不確定性，第二種強調結果不因條件改變。學測常考讓步用法，需區分是條件句還是讓步句，關鍵在於主句動詞邏輯與子句條件的關係。",
   "examples": [
     {
       "id": 1,
-      "eng": "Not only does he speak English fluently, but also he masters Mandarin Chinese.",
-      "chi": "他不僅英文說得流利，而且精通漢語。",
+      "eng": "Whether the weather is good or not, we will go hiking tomorrow.",
+      "chi": "無論天氣是否晴朗，我們明天都會去登山。",
       "keywords": [
-        "倒裝結構",
-        "does提前",
-        "強調雙重能力"
+        "whether...or not",
+        "讓步意義",
+        "條件無關"
       ]
     },
     {
       "id": 2,
-      "eng": "Not only will the project save money, but it will also improve efficiency.",
-      "chi": "這個計畫不僅會省錢，而且還會提高效率。",
+      "eng": "I don't care whether you agree or not; I've made my decision.",
+      "chi": "我不在乎你是否同意；我已經做好決定了。",
       "keywords": [
-        "助動詞will倒裝",
-        "未來時態",
-        "雙重優勢"
+        "whether or not",
+        "名詞子句",
+        "不確定性"
       ]
     },
     {
       "id": 3,
-      "eng": "Not only are smartphones useful tools, but they also influence our daily behavior.",
-      "chi": "智慧型手機不僅是有用的工具，而且還影響我們的日常行為。",
+      "eng": "Whether or not she attends the meeting, the project will proceed as planned.",
+      "chi": "無論她是否出席會議，該專案都將按計畫進行。",
       "keywords": [
-        "be動詞倒裝",
-        "are提前",
-        "社會影響"
+        "whether or not",
+        "讓步副詞子句",
+        "結果確定"
       ]
     },
     {
       "id": 4,
-      "eng": "Not only did Maria win the scholarship, but she also earned the teacher's award.",
-      "chi": "瑪麗亞不僅獲得了獎學金，而且還贏得了教師獎。",
+      "eng": "The teacher asked whether the students understood the lesson or not.",
+      "chi": "老師詢問學生們是否理解了課程內容。",
       "keywords": [
-        "did倒裝",
-        "過去式",
-        "多重成就"
+        "whether...or not",
+        "名詞子句",
+        "間接問句"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷倒裝的關鍵：not only置句首→主句倒裝；not only在句中→主句不倒裝。常見助動詞倒裝順序：do/does/did最常見，will/can次之，be動詞(am/is/are/was/were)亦需倒裝。注意but also後保持正常語序，勿重複倒裝。",
+    "tip": "區分兩種用法的關鍵：(1)名詞子句用法強調「不知道答案」，常與 ask, know, understand, decide 等動詞搭配。(2)讓步用法強調「結果無關條件」，主句通常表示確定的行動或結果。若前後邏輯是「無論...都...」即為讓步用法。注意 whether or not 順序不可倒置。",
     "examples": [
       {
-        "test": "✗ Not only he speaks English, but also he speaks Chinese.",
-        "result": "→ ✓ Not only does he speak English, but also he speaks Chinese. （缺少倒裝）"
+        "test": "I don't know whether he will come or not.",
+        "result": "→ 名詞子句：表示「不知道他是否會來」，用於間接問句"
       },
       {
-        "test": "✗ Not only does he speak English, but also does he speak Chinese.",
-        "result": "→ ✓ Not only does he speak English, but also he speaks Chinese. （but also後過度倒裝）"
+        "test": "Whether he comes or not, we will start the meeting.",
+        "result": "→ 讓步副詞子句：表示「無論他是否來，我們都會開始開會」，結果不變"
       },
       {
-        "test": "✓ Not only is she talented, but she is also hardworking.",
-        "result": "→ 正確。be動詞is倒裝至句首，but also後恢復正常語序。"
+        "test": "❌ The student asked whether or not the teacher would explain again.",
+        "result": "→ ✓ The student asked whether the teacher would explain again or not.（or not 應置於句末或與 whether 緊連）"
       }
     ],
-    "note": "Not only句首必倒裝，but also後歸位——記住『前倒後正』原則。"
+    "note": "名詞子句問「是否」→ ask/know/wonder；讓步副詞子句說「無論是否」→ 前後邏輯獨立，結果確定。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Not only ",
+        "The director decided to shoot the film ",
         null,
-        " the book interesting, but also it teaches us valuable lessons."
+        " the budget was sufficient or not."
       ],
       "blanks": [
-        "is"
+        "whether"
       ],
-      "sentence": "Not only is the book interesting, but also it teaches us valuable lessons.",
-      "translation": "這本書不僅有趣，而且還教會我們寶貴的功課。",
+      "sentence": "The director decided to shoot the film whether the budget was sufficient or not.",
+      "translation": "導演決定拍攝這部電影，無論預算是否充足。",
       "keywords": [
-        "be動詞倒裝",
-        "is提前",
-        "not only置句首"
+        "whether",
+        "讓步副詞子句",
+        "決定"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Not only ",
+        "The company doesn't care ",
         null,
-        " she attend the conference, but she also presented her research."
+        " the employees are satisfied or not."
       ],
       "blanks": [
-        "did"
+        "whether"
       ],
-      "sentence": "Not only did she attend the conference, but she also presented her research.",
-      "translation": "她不僅參加了會議，而且還發表了她的研究。",
+      "sentence": "The company doesn't care whether the employees are satisfied or not.",
+      "translation": "公司不在乎員工是否滿意。",
       "keywords": [
-        "助動詞did倒裝",
-        "過去式",
-        "雙重動作"
+        "whether or not",
+        "名詞子句",
+        "care"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Not only ",
+        "I wonder ",
         null,
-        " the students pass the exam, but they also achieved excellent grades."
+        " she will accept the job offer or not."
       ],
       "blanks": [
-        "did"
+        "whether"
       ],
-      "sentence": "Not only did the students pass the exam, but they also achieved excellent grades.",
-      "translation": "學生們不僅通過了考試，而且還獲得了優異成績。",
+      "sentence": "I wonder whether she will accept the job offer or not.",
+      "translation": "我想知道她是否會接受這份工作邀請。",
       "keywords": [
-        "過去式倒裝",
-        "did提前",
-        "複數主詞"
+        "whether...or not",
+        "名詞子句",
+        "wonder"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Not only ",
+        "The project will be completed on time ",
         null,
-        " this smartphone affordable, but it also has advanced features."
+        " any obstacles arise or not."
       ],
       "blanks": [
-        "is"
+        "whether"
       ],
-      "sentence": "Not only is this smartphone affordable, but it also has advanced features.",
-      "translation": "這支智慧型手機不僅價格親民，而且還具有先進功能。",
+      "sentence": "The project will be completed on time whether any obstacles arise or not.",
+      "translation": "無論是否出現任何障礙，該專案都將準時完成。",
       "keywords": [
-        "be動詞倒裝",
-        "現在式",
-        "產品特性"
+        "whether or not",
+        "讓步副詞子句",
+        "regardless"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "not only",
-      "zh": "不僅"
+      "adj": "regardless of",
+      "zh": "不管；不顧"
     },
     {
-      "adj": "but also",
-      "zh": "而且、同時"
+      "adj": "succeed",
+      "zh": "成功"
     },
     {
-      "adj": "助動詞倒裝",
-      "zh": "do/does/did/will/can/have等提至主詞前"
+      "adj": "proceed",
+      "zh": "進行；繼續"
     },
     {
-      "adj": "fluently",
-      "zh": "流利地、順暢地"
+      "adj": "uncertain",
+      "zh": "不確定的"
     },
     {
-      "adj": "master",
-      "zh": "精通、掌握"
+      "adj": "matter",
+      "zh": "重要；有關係"
     },
     {
-      "adj": "improve",
-      "zh": "改善、提高"
+      "adj": "care",
+      "zh": "在乎；關心"
     },
     {
-      "adj": "useful",
-      "zh": "有用的"
+      "adj": "decide",
+      "zh": "決定"
     },
     {
-      "adj": "influence",
-      "zh": "影響"
+      "adj": "determine",
+      "zh": "決定；確定"
     },
     {
-      "adj": "earn",
-      "zh": "獲得、贏得"
+      "adj": "hesitate",
+      "zh": "猶豫；遲疑"
     },
     {
-      "adj": "award",
-      "zh": "獎項、獎勵"
+      "adj": "depend on",
+      "zh": "取決於；依賴"
     },
     {
-      "adj": "同等重要",
-      "zh": "並列強調兩個相同權重的事實"
+      "adj": "agree",
+      "zh": "同意"
     },
     {
-      "adj": "強調效果",
-      "zh": "透過倒裝結構加強語氣和說服力"
+      "adj": "question",
+      "zh": "詢問；質疑"
     }
   ],
   "vocab_table_label": "核心詞彙",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的倒裝結構，完成Not only句型",
-      "question_eng": "Not only _______ he enjoy reading, but also he writes novels.",
+      "question_chi": "選擇合適的詞彙完成句子，表示「無論下雨或不下雨」",
+      "question_eng": "_______ it rains or not, the outdoor concert will proceed as scheduled.",
       "options": [
         {
           "key": "A",
-          "text": "does"
+          "text": "Whether"
         },
         {
           "key": "B",
-          "text": "he does"
+          "text": "If"
         },
         {
           "key": "C",
-          "text": "did"
+          "text": "Unless"
         },
         {
           "key": "D",
-          "text": "he is"
+          "text": "Since"
         }
       ],
       "answer": "A",
-      "explanation": "Not only置於句首時，主句需倒裝，助動詞does須置於主詞he之前。B項重複主詞，破壞倒裝結構。C項時態與but also部分不符（he writes現在式）。D項be動詞無法表達enjoy的意義。",
+      "explanation": "正確答案是 A (Whether)。此句表示讓步意義「無論下雨或不下雨」，音樂會都照常進行，需用 whether...or not 引導讓步副詞子句。If 引導條件句，表示條件決定結果，語義不符；Unless 表否定條件；Since 表原因，均不合題意。",
       "id": 1
     },
     {
-      "question_chi": "判斷正確的but also部分語序和助動詞搭配",
-      "question_eng": "Not only will the government invest in education, but also _______ support local communities.",
+      "question_chi": "選擇合適的連接詞，完成「是否同意」的選擇含義句子",
+      "question_eng": "I haven't decided yet _______ to accept this job offer or not.",
       "options": [
         {
           "key": "A",
-          "text": "will it"
+          "text": "whether"
         },
         {
           "key": "B",
-          "text": "it will"
+          "text": "if"
         },
         {
           "key": "C",
-          "text": "it does"
+          "text": "that"
         },
         {
           "key": "D",
-          "text": "does it"
+          "text": "which"
         }
       ],
-      "answer": "B",
-      "explanation": "but also後保持正常語序（主詞+動詞），不需倒裝。it will搭配will投資形成平行結構。A項錯誤倒裝於but also部分。C項時態與not only的will future不符。D項在but also後不應倒裝。",
+      "answer": "A",
+      "explanation": "正確答案是 A (whether)。句中 \"haven't decided\" 後接名詞子句，表示「是否接受」的不確定選擇，需用 whether 引導。if 引導名詞子句時功能較弱且較非正式；that 引導陳述句；which 為關係代詞，均不適合此上下文。",
       "id": 2
     },
     {
-      "question_chi": "選擇符合平行結構的完整Not only...but also句型",
-      "question_eng": "Not only _______ she improve her grades, but also she gained confidence in herself.",
+      "question_chi": "選擇合適詞彙完成句子，區分讓步與條件意義",
+      "question_eng": "The project will be completed on time _______ we receive additional funding or not.",
       "options": [
         {
           "key": "A",
-          "text": "does"
+          "text": "if"
         },
         {
           "key": "B",
-          "text": "did"
+          "text": "whether"
         },
         {
           "key": "C",
-          "text": "she did"
+          "text": "unless"
         },
         {
           "key": "D",
-          "text": "will"
+          "text": "as long as"
         }
       ],
       "answer": "B",
-      "explanation": "but also部分用過去式gained，故not only也應為過去式。助動詞did置於主詞she前完成倒裝。A項現在式與but also過去式時態不符。C項未倒裝。D項將時態改為未來式，與gained不符。",
+      "explanation": "正確答案是 B (whether)。\"will be completed\" 表確定的結果，而 \"or not\" 呼應結構提示此為讓步句，不管是否獲得經費，專案都會完成。if 表條件（結果取決於條件）；unless 為否定條件；as long as 表充分條件，均暗示條件影響結果，與題意不符。",
       "id": 3
     },
     {
-      "question_chi": "複雜句型：辨別not only倒裝、but also正常語序及動詞時態",
-      "question_eng": "Not only _______ this policy reduce carbon emissions, but also it _______ create thousands of green jobs across the nation.",
+      "question_chi": "理解讓步用法和條件用法的區別，選擇符合邏輯的表達",
+      "question_eng": "The CEO announced that _______ the company achieves profitability this quarter or not, employees will still receive their annual bonuses.",
       "options": [
         {
           "key": "A",
-          "text": "does; will"
+          "text": "if"
         },
         {
           "key": "B",
-          "text": "will; does"
+          "text": "whether"
         },
         {
           "key": "C",
-          "text": "does; does"
+          "text": "unless"
         },
         {
           "key": "D",
-          "text": "will; will"
+          "text": "only if"
         }
       ],
-      "answer": "D",
-      "explanation": "both子句敘述未來效果，應使用will future體現並行時態。Not only + will(倒裝)...but also + will(正常語序)形成完整平行結構。A項時態不一致。B項但also後不應用does。C項does無法表達未來含義。",
+      "answer": "B",
+      "explanation": "正確答案是 B (whether)。主句 \"will still receive bonuses\" 表無條件的承諾，業績是否達成都不影響結果，故為讓步句須用 whether...or not。if 條件句意味獲利才能發獎金，邏輯相反；unless 表否定條件；only if 加強條件必要性，均不合員工無條件獲獎的語義。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "這部電影不僅很有趣，而且還很感人。",
-      "answer": "Not only is this movie entertaining, but it is also very moving.",
+      "sentence_chi": "無論天氣是否晴朗，我們都會去郊遊。",
+      "answer": "Whether the weather is sunny or not, we will go on an outing.",
       "key_points": [
-        "Not only + is + S",
-        "but also + S + V（正常語序）",
-        "形容詞entertaining和moving的並列"
+        "whether...or not 引導讓步副詞子句",
+        "主句用 will go 表示確定的結果",
+        "逗號分隔讓步子句與主句"
       ],
       "hints": [
-        "提示1：Not only置於句首時，must + 助動詞is + 主詞movie，形成倒裝；but also後保持正常語序",
-        "提示2：避免寫成 'Not only this movie is entertaining...'（錯誤的倒裝位置）"
+        "提示1：句型結構為『Whether + S + V + or not, 主句』，表示『無論...是否...』結果不變",
+        "提示2：注意讓步子句通常置於句首，後面加逗號；不能用 if 代替 whether"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "她不僅學習認真，而且還積極參與課外活動。",
-      "answer": "Not only does she study hard, but she also actively participates in extracurricular activities.",
+      "sentence_chi": "他不知道是否應該告訴老師關於這個作弊事件。",
+      "answer": "He doesn't know whether he should tell the teacher about the cheating incident or not.",
       "key_points": [
-        "Not only + does + S + V",
-        "but also + S + V + O（正常語序）",
-        "時態一致性（does與participates）"
+        "whether...or not 引導名詞子句，作 know 的受詞",
+        "名詞子句用 should tell 表示不確定性",
+        "表達『是否應該』的選擇意義"
       ],
       "hints": [
-        "提示1：Not only句首需倒裝，使用助動詞does；but also後面用原形participate改為participates（第三人稱單數）",
-        "提示2：常見錯誤是在but also後也寫成倒裝，應保持'she also participates'的正常語序"
+        "提示1：句型結構為『S + V + whether + S + V + or not』，whether 子句作名詞用",
+        "提示2：此用法表示說話者對兩種可能性都不確定，不是讓步關係；or not 可置於句尾"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "這個社群媒體平台不僅方便了人們的溝通，而且也改變了資訊的傳播方式。",
-      "answer": "Not only has this social media platform made communication more convenient, but it has also changed the way information is spread.",
+      "sentence_chi": "無論你是否喜歡這份工作，你都必須認真對待它。",
+      "answer": "Whether you like this job or not, you must take it seriously.",
       "key_points": [
-        "Not only + has + S + V（完成式倒裝）",
-        "but also + S + has + V（完成式正常語序）",
-        "made與changed的對稱結構"
+        "whether...or not 引導讓步副詞子句",
+        "主句用 must take 表示義務性結論",
+        "讓步關係：喜歡與否不影響認真態度的必要性"
       ],
       "hints": [
-        "提示1：使用完成式時，倒裝為'Not only has + S + V(p.p.)'；but also後面用'S + has + V(p.p.)'保持平行結構",
-        "提示2：易混淆點是但不能只用'Not only made...but also changed'，必須包含完整的助動詞和主詞"
+        "提示1：讓步用法的關鍵是『主句結論與子句條件無必然因果關係』——喜歡不喜歡都要認真",
+        "提示2：常見錯誤是混淆條件句『If you like...you should...』和讓步句的邏輯差異"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "遠距教學不僅讓學生能在家自主學習，而且還促進了教師探索創新教學方法，但它也帶來了學生專注力下降的問題。",
-      "answer": "Not only has distance learning enabled students to study independently at home, but it has also encouraged teachers to explore innovative teaching methods, though it has brought about the problem of decreased student concentration.",
+      "sentence_chi": "醫生不能確定患者是否會因為這種治療而完全康復，但她仍然建議他進行治療。",
+      "answer": "The doctor is not certain whether the patient will fully recover from this treatment or not, but she still recommends he undergo the treatment.",
       "key_points": [
-        "Not only + has + S + V（完成式倒裝含受詞子句）",
-        "but also + S + has + V + O（完成式正常語序）",
-        "複雜句結構中的平行性與邏輯連接"
+        "whether...or not 引導名詞子句，作 certain 的補語",
+        "主句含轉折連接詞 but，表示結論與不確定性並存",
+        "複合句結構：含名詞子句的複雜句型"
       ],
       "hints": [
-        "提示1：複雜句型中，Not only部分仍需倒裝，but also保持正常語序；第三個子句用though轉折而非but（避免三個but並列）",
-        "提示2：注意enabled to do、encouraged to explore的不定式結構要完整；主詞it的一致性確保所有完成式助動詞都用has"
+        "提示1：『be certain/sure/clear whether...or not』是常見搭配，whether 子句補充說明不確定的內容",
+        "提示2：注意此題非讓步用法，而是名詞子句用法；讓步用法應呈現『無論如何結果不變』的邏輯"
       ]
     }
   ]

@@ -1,362 +1,364 @@
 {
   "code": "8-20",
   "chapter": 8,
-  "title": "either...or... / neither...nor...",
+  "title": "S + V + in that + S + V",
   "formulas": [
     {
-      "formula": "Either A or B + verb (verb agrees with B)",
-      "zh": "不是A就是B + 動詞（動詞與B一致）"
+      "formula": "S + V + in that + S + V",
+      "zh": "在於……方面；理由在於……（說明前句的具體內容或理由）"
     },
     {
-      "formula": "Neither A nor B + verb (verb agrees with B)",
-      "zh": "A和B都不 + 動詞（動詞與B一致）"
+      "formula": "S + V + in that + S + V + O",
+      "zh": "在於……方面做某事；理由在於……（含受詞的擴展式）"
     }
   ],
-  "explanation": "either...or 和 neither...nor 都遵循「近似一致原則」，即動詞與最接近的主詞保持一致。either...or 表示兩者中選其一；neither...nor 表示兩者都否定。結構為「either/neither + A + or/nor + B」。使用時機在於表達二選一或全盤否定的情況。易混淆點是誤用主語為複數時仍用單數動詞，或忽視最近主詞原則。注意 neither...nor 後的主詞若為複數，則動詞用複數形。",
+  "explanation": "in that 為正式書面用語，用於說明前一句子的理由、特點或具體內容。結構為「主句 + in that + 從句」，從句通常以 S + V 開始。意義上近似 because，但 in that 更精確、更正式，強調「在於……方面」或「理由在於……」。常見於學術、新聞、評論文章。注意：in that 後接完整句子，不能省略主詞或動詞；與 in which 或 where 的區別在於 in that 引導原因從句，而非關係從句。",
   "examples": [
     {
       "id": 1,
-      "eng": "Either you or your brother is responsible for the project.",
-      "chi": "不是你就是你弟弟要對這個專案負責。",
+      "eng": "This job is unique in that it offers both creativity and stability.",
+      "chi": "這份工作獨特之處在於它既提供創意空間，也提供穩定性。",
       "keywords": [
-        "either...or",
-        "近似一致原則",
-        "單數動詞"
+        "in that",
+        "unique",
+        "offers"
       ]
     },
     {
       "id": 2,
-      "eng": "Neither the teacher nor the students were satisfied with the exam results.",
-      "chi": "老師和學生都對考試成績不滿意。",
+      "eng": "The novel differs from others in that the author uses multiple narrators.",
+      "chi": "這部小說與其他作品不同之處在於作者使用多個敘述者。",
       "keywords": [
-        "neither...nor",
-        "複數動詞",
-        "全盤否定"
+        "in that",
+        "differs",
+        "uses"
       ]
     },
     {
       "id": 3,
-      "eng": "Either coffee or tea is available at the meeting.",
-      "chi": "咖啡或茶其中一種在會議上有供應。",
+      "eng": "The plan failed in that no one took responsibility for its implementation.",
+      "chi": "計畫失敗的原因在於沒人願意負責執行。",
       "keywords": [
-        "either...or",
-        "選擇性",
-        "單數名詞"
+        "in that",
+        "failed",
+        "took responsibility"
       ]
     },
     {
       "id": 4,
-      "eng": "Neither John nor his parents have decided where to go on vacation.",
-      "chi": "約翰和他的父母都還沒決定要去哪裡度假。",
+      "eng": "Modern technology is revolutionary in that it has transformed how we communicate.",
+      "chi": "現代科技之所以革命性，在於它改變了我們的溝通方式。",
       "keywords": [
-        "neither...nor",
-        "複數主詞",
-        "完成式"
+        "in that",
+        "revolutionary",
+        "transformed"
       ]
     }
   ],
-  "adj_table_for": [],
+  "adj_table_for": [
+    {
+      "adj": "unique",
+      "zh": "獨特的"
+    },
+    {
+      "adj": "different",
+      "zh": "不同的"
+    },
+    {
+      "adj": "special",
+      "zh": "特別的"
+    },
+    {
+      "adj": "significant",
+      "zh": "重要的"
+    },
+    {
+      "adj": "revolutionary",
+      "zh": "革命性的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "valuable",
+      "zh": "有價值的"
+    },
+    {
+      "adj": "effective",
+      "zh": "有效的"
+    },
+    {
+      "adj": "remarkable",
+      "zh": "值得注意的"
+    },
+    {
+      "adj": "advantageous",
+      "zh": "有利的"
+    },
+    {
+      "adj": "fortunate",
+      "zh": "幸運的"
+    },
+    {
+      "adj": "problematic",
+      "zh": "有問題的"
+    }
+  ],
   "adj_table_of": [],
   "extension": {
-    "tip": "近似一致原則為本句型重點：動詞與 or/nor 之後的主詞一致，而非與前面主詞一致。判斷時先找出最接近動詞的主詞，再決定動詞單複數。常見錯誤是將兩個主詞都視為複數或將動詞與前面主詞一致。",
+    "tip": "判斷是否使用 in that：若前句為判斷句（is, seems, appears 等）或陳述句，後需說明理由或具體內容，就適合用 in that。避免與 in which（關係副詞）混淆。記住 in that = because + specific reason，多用於正式文體。",
     "examples": [
       {
-        "test": "Either the student or the teachers _____ (is/are) going to the conference.",
-        "result": "→ 答案：are（teachers 在 nor 後，為複數，故用 are）"
+        "test": "The advantage lies in that the system is fully automated.",
+        "result": "→ 正確。in that 引導從句，說明「優點在於……」"
       },
       {
-        "test": "Neither the cats nor the dog _____ (like/likes) the new food.",
-        "result": "→ 答案：likes（dog 在 nor 後，為單數，故用 likes）"
+        "test": "The advantage lies in which the system is fully automated.",
+        "result": "→ 錯誤。應使用 in that，不是 in which（後者用於地點關係從句）"
       },
       {
-        "test": "Either my sister or I _____ (am/are) making dinner tonight.",
-        "result": "→ 答案：am（I 在 or 後，第一人稱，故用 am）"
+        "test": "The problem is serious in that many students cannot afford the fees.",
+        "result": "→ 正確。說明問題的具體內容和理由"
       }
     ],
-    "note": "記住關鍵：動詞永遠與 or/nor 之後最近的主詞一致，忽視前面的主詞。"
+    "note": "in that = 在於……方面；後接完整主要子句；正式書面用語，口語少用。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Either the manager or the employees ",
+        "This approach is effective ",
         null,
-        " to attend the meeting tomorrow."
+        " it reduces costs significantly.",
+        ""
       ],
       "blanks": [
-        "are required"
+        "in that"
       ],
-      "sentence": "Either the manager or the employees are required to attend the meeting tomorrow.",
-      "translation": "經理或員工其中一方被要求明天參加會議。",
+      "sentence": "This approach is effective in that it reduces costs significantly.",
+      "translation": "這個方法有效之處在於它能大幅降低成本。",
       "keywords": [
-        "either...or",
-        "複數主詞",
-        "被動語態"
+        "in that",
+        "effective",
+        "reduces costs"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Neither my friends nor my brother ",
+        "The study is valuable ",
         null,
-        " what I should do about this problem."
+        " researchers discovered a new treatment method.",
+        ""
       ],
       "blanks": [
-        "knows"
+        "in that"
       ],
-      "sentence": "Neither my friends nor my brother knows what I should do about this problem.",
-      "translation": "我的朋友和我的哥哥都不知道我應該如何解決這個問題。",
+      "sentence": "The study is valuable in that researchers discovered a new treatment method.",
+      "translation": "這項研究之所以有價值，在於研究人員發現了一種新的治療方法。",
       "keywords": [
-        "neither...nor",
-        "單數主詞",
-        "近似一致原則"
+        "in that",
+        "valuable",
+        "discovered"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Either the doctor or the nurses ",
+        "The strategy differs from previous ones ",
         null,
-        " to check the patient's vital signs regularly."
+        " it emphasizes collaboration rather than competition.",
+        ""
       ],
       "blanks": [
-        "are supposed"
+        "in that"
       ],
-      "sentence": "Either the doctor or the nurses are supposed to check the patient's vital signs regularly.",
-      "translation": "醫生或護士之一應該定期檢查病人的生命體徵。",
+      "sentence": "The strategy differs from previous ones in that it emphasizes collaboration rather than competition.",
+      "translation": "這一策略與以往的不同之處在於它強調合作而非競爭。",
       "keywords": [
-        "either...or",
-        "複數名詞",
-        "情態動詞被動"
+        "in that",
+        "differs",
+        "emphasizes"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Neither tea nor coffee ",
+        "The success is remarkable ",
         null,
-        " been served at the morning event last week."
+        " the team accomplished the goal within three months despite limited resources.",
+        ""
       ],
       "blanks": [
-        "has"
+        "in that"
       ],
-      "sentence": "Neither tea nor coffee has been served at the morning event last week.",
-      "translation": "茶和咖啡都沒有在上週上午的活動中被提供。",
+      "sentence": "The success is remarkable in that the team accomplished the goal within three months despite limited resources.",
+      "translation": "這次成功之所以了不起，在於團隊儘管資源有限，卻在三個月內完成了目標。",
       "keywords": [
-        "neither...nor",
-        "單數主詞",
-        "現在完成被動式"
+        "in that",
+        "remarkable",
+        "accomplished"
       ]
     }
   ],
-  "vocab_table": [
-    {
-      "adj": "either",
-      "zh": "不是...就是..."
-    },
-    {
-      "adj": "or",
-      "zh": "或；或者"
-    },
-    {
-      "adj": "neither",
-      "zh": "兩者都不"
-    },
-    {
-      "adj": "nor",
-      "zh": "也不"
-    },
-    {
-      "adj": "agree with",
-      "zh": "與...一致"
-    },
-    {
-      "adj": "choose between",
-      "zh": "在...之間選擇"
-    },
-    {
-      "adj": "responsible",
-      "zh": "負責任的"
-    },
-    {
-      "adj": "available",
-      "zh": "可得到的"
-    },
-    {
-      "adj": "acceptable",
-      "zh": "可接受的"
-    },
-    {
-      "adj": "verb agreement",
-      "zh": "動詞一致性"
-    },
-    {
-      "adj": "nearest subject",
-      "zh": "最近的主詞"
-    },
-    {
-      "adj": "conjunction",
-      "zh": "連接詞"
-    }
-  ],
-  "vocab_table_label": "常用連接詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的動詞形式，表示兩者中只有一人負責",
-      "question_eng": "Either you or your brother _______ responsible for cleaning the house.",
+      "question_chi": "選擇最適合的連接詞完成句子",
+      "question_eng": "This restaurant is popular _______ it serves authentic Italian food at reasonable prices.",
       "options": [
         {
           "key": "A",
-          "text": "are"
+          "text": "in that"
         },
         {
           "key": "B",
-          "text": "is"
+          "text": "because of"
         },
         {
           "key": "C",
-          "text": "am"
+          "text": "due to"
         },
         {
           "key": "D",
-          "text": "be"
+          "text": "as a result of"
         }
       ],
-      "answer": "B",
-      "explanation": "either...or遵循近似一致原則，動詞與最接近的主詞保持一致。此句最接近的主詞為單數your brother，故用is。A項are為複數動詞錯誤；C項am用法不符；D項be為動詞原型不適用。",
+      "answer": "A",
+      "explanation": "正確答案是 A。「in that」用於說明理由，後接完整句子（S + V），符合「it serves...」的結構。B、C、D 都是介系詞片語，後應接名詞，不能接完整句子。本題測試「in that 後必須接完整從句」的特點。",
       "id": 1
     },
     {
-      "question_chi": "判斷neither...nor結構中的正確動詞時態和形式",
-      "question_eng": "Neither the manager nor the employees _______ satisfied with the new company policy.",
+      "question_chi": "填入適當的連接詞，完成句意",
+      "question_eng": "The film succeeds _______ it combines serious themes with entertaining storytelling that appeals to diverse audiences.",
       "options": [
         {
           "key": "A",
-          "text": "is"
+          "text": "because"
         },
         {
           "key": "B",
-          "text": "are"
+          "text": "in that"
         },
         {
           "key": "C",
-          "text": "was"
+          "text": "whereas"
         },
         {
           "key": "D",
-          "text": "were"
+          "text": "when"
         }
       ],
       "answer": "B",
-      "explanation": "neither...nor遵循近似一致原則，動詞應與最接近的主詞employees（複數）一致，故用are。A項is為單數形式錯誤；C、D項為過去式，但句子無時態標記應為現在式。",
+      "explanation": "正確答案是 B。「in that」用於正式書面語中說明理由，後接完整從句。A 雖也可表理由，但較口語；C 表示「雖然」比較；D 表示時間，皆不符。題目強調「in that」的正式性與精確性。",
       "id": 2
     },
     {
-      "question_chi": "在either...or結構中判斷主詞與動詞的一致性，涉及人稱變化",
-      "question_eng": "Either John and his colleagues or she _______ going to attend the conference next month.",
+      "question_chi": "選擇適當用法說明該產品的獨特之處",
+      "question_eng": "The smartphone distinguishes itself from competitors _______ the camera system integrates AI technology that enhances image quality in low-light conditions.",
       "options": [
         {
           "key": "A",
-          "text": "is"
+          "text": "in which way"
         },
         {
           "key": "B",
-          "text": "are"
+          "text": "in that"
         },
         {
           "key": "C",
-          "text": "am"
+          "text": "in case"
         },
         {
           "key": "D",
-          "text": "be"
+          "text": "in order that"
         }
       ],
-      "answer": "A",
-      "explanation": "either...or遵循近似一致原則，動詞與最接近的主詞she（單數第三人稱）一致，故用is。選項B的are為複數；C項am與she不符；D項be為原型。雖然or前有複數主詞，但or後的單數主詞決定動詞形式。",
+      "answer": "B",
+      "explanation": "正確答案是 B。「in that」後接完整從句，用於說明「在於……方面」。A 的「in which way」非標準用法；C 表示「以防」；D 表示「以便」，都不符文意。本題測試「in that」與其他介系詞片語的區別。",
       "id": 3
     },
     {
-      "question_chi": "複雜句型考查，neither...nor連結多層主詞且涉及倒裝結構",
-      "question_eng": "Neither the students' poor preparation nor the teacher's unclear explanation _______ for the disappointing exam results, and neither _______ they willing to take responsibility.",
+      "question_chi": "選擇最適當的表達方式完成學術評論",
+      "question_eng": "The research paper makes a significant contribution to the field _______ it challenges conventional assumptions by proposing a novel theoretical framework that reconciles previously conflicting schools of thought.",
       "options": [
         {
           "key": "A",
-          "text": "account; were"
+          "text": "where"
         },
         {
           "key": "B",
-          "text": "accounts; was"
+          "text": "whereby"
         },
         {
           "key": "C",
-          "text": "account; was"
+          "text": "in that"
         },
         {
           "key": "D",
-          "text": "accounts; were"
+          "text": "in which"
         }
       ],
-      "answer": "A",
-      "explanation": "第一空：neither...nor遵循近似一致原則，最接近的主詞為explanation（單數），應用account，但account for為片語，主詞為複數概念（兩個否定概念合併），故用account。第二空：neither...they表倒裝，neither引導倒裝句時主詞為they（複數），故用were。B項accounts錯誤；C、D項動詞選擇均有誤。",
+      "answer": "C",
+      "explanation": "正確答案是 C。「in that」用於正式書面語說明具體理由，強調「理由在於……」。A「where」表地點；B「whereby」雖為正式用語但強調方式、手段，後接分詞或動詞不定式；D「in which」為關係副詞，通常指地點。本題測試「in that」在學術文章中的專用地位。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "明天要麼下雨，要麼下雪。",
-      "answer": "Either rain or snow will occur tomorrow.",
+      "sentence_chi": "這個應用程式很受歡迎，因為它很容易使用。",
+      "answer": "This application is popular in that it is easy to use.",
       "key_points": [
-        "Either...or 結構",
-        "will occur（動詞與最接近主詞 snow 一致）",
-        "表達二選一的可能性"
+        "in that 引導原因從句",
+        "主句：This application is popular",
+        "從句：it is easy to use"
       ],
       "hints": [
-        "提示1：Either A or B 的動詞應與 B 保持一致，此句 B 為 snow（單數）",
-        "提示2：不能寫成『Either rain or snow will occurs』，snow 是單數"
+        "提示1：結構為『主句 + in that + 完整從句』，in that 後需接完整的 S + V",
+        "提示2：不可省略從句中的主詞 it，也不可用 because 替代以符合「正式書面語」的要求"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "要不是你媽媽，要不就是你爸爸會來參加學校運動會。",
-      "answer": "Either your mother or your father will attend the school sports day.",
+      "sentence_chi": "這個考試很困難，在於它涵蓋了許多課本外的知識。",
+      "answer": "This exam is difficult in that it covers a lot of knowledge beyond the textbook.",
       "key_points": [
-        "Either...or 結構",
-        "will attend（動詞與 father 一致）",
-        "attend 表示「參加」"
+        "in that 強調「在於……方面」的正式用法",
+        "主句：This exam is difficult",
+        "從句：it covers a lot of knowledge beyond the textbook"
       ],
       "hints": [
-        "提示1：Either A or B，動詞應與最接近的主詞 B（your father）保持一致",
-        "提示2：注意 father 是單數，所以用 will attend，不能用 will attends"
+        "提示1：in that 比 because 更正式、更精確，適合學術語境；後接完整從句需含主詞和動詞",
+        "提示2：常見錯誤是將 in that 寫成 in which 或省略從句主詞，應注意 in that 引導原因而非關係"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "我既不喜歡數學也不喜歡化學，但我喜歡物理。",
-      "answer": "Neither mathematics nor chemistry appeals to me, but physics does.",
+      "sentence_chi": "網路購物有其優勢，優勢在於消費者可以在家中輕鬆比較不同商品的價格。",
+      "answer": "Online shopping has its advantages in that consumers can easily compare prices of different products at home.",
       "key_points": [
-        "Neither...nor 結構",
-        "appeals to me（倒裝用法，動詞與 chemistry 一致）",
-        "neither...nor 表全盤否定"
+        "in that 說明前句抽象概念的具體內容",
+        "主句使用 has its advantages（有其優勢）",
+        "從句：consumers can easily compare prices of different products at home"
       ],
       "hints": [
-        "提示1：Neither A nor B 動詞應與最接近的主詞 B 保持一致；此句 chemistry 為單數",
-        "提示2：常見錯誤是『Neither mathematics nor chemistry appeal to me』，應為 appeals（chemistry 單數）"
+        "提示1：當主句表達抽象概念（如優勢、特點）時，in that 從句提供具體說明；結構為『S + V + O + in that + S + V + O』",
+        "提示2：注意從句須為完整句型，動詞 can compare 不可簡化；avoid 用 which 或 where 替代 in that"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "無論是班長還是副班長都無法在下週一的班會上發言，因為他們都要參加模擬考。",
-      "answer": "Neither the class president nor the vice president is able to speak at the class meeting next Monday because they both have to take a mock exam.",
+      "sentence_chi": "社群媒體對年輕世代的影響是複雜的，複雜之處在於它既能促進溝通，也可能導致心理健康問題。",
+      "answer": "The impact of social media on young people is complex in that it can both promote communication and potentially cause mental health problems.",
       "key_points": [
-        "Neither...nor 結構搭配 is able to",
-        "因果關係（because 子句說明原因）",
-        "動詞與最接近主詞 vice president 一致"
+        "in that 引導並列從句結構（both...and...）",
+        "主句：The impact of social media on young people is complex",
+        "從句中包含並列複句：it can both promote...and cause..."
       ],
       "hints": [
-        "提示1：Neither A nor B，此句 B 為『the vice president』（單數），所以用 is able to，不用 are able to",
-        "提示2：注意主要子句用單數 is，但 because 子句後的代名詞 they 是複數指代兩人"
+        "提示1：in that 後的從句可包含複雜結構（如並列句或多個子句），仍需保持完整 S + V 形式；此題展示『S + V + C + in that + S + V + O + and + V + O』的複雜用法",
+        "提示2：常見錯誤包括：(1)在 both 前誤加 in that；(2)省略第二個動詞 cause；(3)誤用 because 而失去正式書面語的效果"
       ]
     }
   ]

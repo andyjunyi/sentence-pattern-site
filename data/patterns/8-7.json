@@ -1,374 +1,362 @@
 {
   "code": "8-7",
   "chapter": 8,
-  "title": "when / while / as + S + V（時間子句）",
+  "title": "before / after / until / since + S + V",
   "formulas": [
     {
-      "formula": "When/While/As + S + V, S + V",
-      "zh": "當…時候/雖然…時/當…邊…，主句動作發生"
+      "formula": "Before/After/Until/Since + S + V, S + V",
+      "zh": "在...之前/之後/直到/自從...時間點，主句動作發生"
     },
     {
-      "formula": "S + V + when/while/as + S + V",
-      "zh": "主句動作 + 當…時候/雖然…時/當…邊…"
+      "formula": "S + V before/after/until/since S + V",
+      "zh": "主句動作先發生，後接時間連接詞引導的時間子句"
     }
   ],
-  "explanation": "時間副詞子句用來表達兩個動作的時間關係。when表特定時間點或條件；while強調兩動作同時進行，主要搭配進行式；as表動作同步發生或漸進變化。時間副詞子句可置於句首或句末。置於句首時，主句前加逗號；置於句末時無逗號。注意：while有時表「雖然、儘管」的轉折意義，需由上下文判斷。",
+  "explanation": "時間連接詞引導時間副詞子句，說明主句動作發生的時間點。Before/After/Until 可用於任何時態；Since 特殊，從句接過去簡單式，主句接現在完成式或現在完成進行式。時間子句可置於句首或句尾。注意 Since 表示「自從...以來」，強調持續性，而 Before/After 表示單一時間點。",
   "examples": [
     {
       "id": 1,
-      "eng": "When I arrived at school, the bell was ringing loudly.",
-      "chi": "當我到達學校時，鐘聲正在響起。",
+      "eng": "Before I graduated from high school, I had never thought about studying abroad.",
+      "chi": "在我高中畢業之前，我從未想過出國留學。",
       "keywords": [
-        "when",
-        "時間點",
-        "進行式"
+        "before",
+        "過去完成式",
+        "時間子句"
       ]
     },
     {
       "id": 2,
-      "eng": "While the students were studying, the teacher was grading papers.",
-      "chi": "當學生在唸書時，老師正在批改試卷。",
+      "eng": "Since she moved to Taipei, she has made many new friends.",
+      "chi": "自從她搬到台北，她交了很多新朋友。",
       "keywords": [
-        "while",
-        "同時進行",
-        "進行式"
+        "since",
+        "現在完成式",
+        "持續性時間"
       ]
     },
     {
       "id": 3,
-      "eng": "As she grew older, she became more independent and confident.",
-      "chi": "隨著年齡增長，她變得越來越獨立且自信。",
+      "eng": "After the exam finished, the students felt relieved and celebrated together.",
+      "chi": "考試結束後，學生們感到放鬆並一起慶祝。",
       "keywords": [
-        "as",
-        "漸進變化",
-        "比較級"
+        "after",
+        "時間先後順序",
+        "過去簡單式"
       ]
     },
     {
       "id": 4,
-      "eng": "As soon as you finish your homework, you can play video games.",
-      "chi": "一旦你完成功課，你就可以玩電動遊戲。",
+      "eng": "Until you practice regularly, you will never improve your English pronunciation.",
+      "chi": "除非你定期練習，否則你永遠無法改善英文發音。",
       "keywords": [
-        "as soon as",
-        "立即",
-        "條件"
+        "until",
+        "條件含義",
+        "現在簡單式"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷使用哪個連接詞的要點：when用於單一時間點或普遍情況，while強調時間段內的同步動作（通常兩者都用進行式），as表「當…的同時」或「隨著…變化」。留意while有轉折意義時（意為「雖然」），主句後才有真正意涵。",
+    "tip": "Since 子句必須用過去簡單式，主句必須用現在完成式。Before 和 After 的時態需配合邏輯：Before 後通常接過去完成式；After 後接過去簡單式。Until 可表否定義（not...until），意為「直到才」。",
     "examples": [
       {
-        "test": "When I saw her, she _____ (talk) on the phone.",
-        "result": "→ was talking（過去進行式，表看到時她正在做的動作，強調進行中）"
+        "test": "Since she left, I have felt lonely. ✓ vs. Since she left, I felt lonely. ✗",
+        "result": "→ Since 子句用過去簡單式，主句必須用現在完成式表示持續至今的狀態"
       },
       {
-        "test": "While I _____ (do) homework, my brother _____ (watch) TV.",
-        "result": "→ was doing / was watching（兩個同時進行的進行式動作）"
+        "test": "Until he apologized, she didn't forgive him. ✓ vs. Until he apologized, she forgave him. ✗",
+        "result": "→ Until 配合否定形，表示「直到才」，強調時間的等待性"
       },
       {
-        "test": "As technology _____ (advance), life _____ (change) rapidly.",
-        "result": "→ advances / changes（漸進變化，兩者共同進展，可用簡單式表達流程）"
+        "test": "After I finished my homework, I watched TV. ✓ vs. After I finish my homework, I watched TV. ✗",
+        "result": "→ After 子句與主句時態保持一致的過去簡單式"
       }
     ],
-    "note": "when看時間點、while看同進行、as看漸變化——三者各有其時間層次之分。"
+    "note": "Since 用完成式，Before 用過去完成式，After 用過去簡單式，Until 配合否定義。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "When the students ",
+        "",
         null,
-        " the exam, they ",
-        null,
-        " very nervous."
+        " she moved to London, she has been very happy."
       ],
       "blanks": [
-        "started",
-        "felt"
+        "Since"
       ],
-      "sentence": "When the students started the exam, they felt very nervous.",
-      "translation": "當學生開始考試時，他們感到非常緊張。",
+      "sentence": "Since she moved to London, she has been very happy.",
+      "translation": "自從她搬到倫敦，她一直很快樂。",
       "keywords": [
-        "when",
-        "過去式",
-        "時間點"
+        "since",
+        "現在完成進行式",
+        "時間連接詞"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "While I ",
+        "",
         null,
-        " a book, my friend ",
-        null,
-        " the door."
+        " the meeting started, the director has been discussing the project details."
       ],
       "blanks": [
-        "was reading",
-        "knocked on"
+        "Since"
       ],
-      "sentence": "While I was reading a book, my friend knocked on the door.",
-      "translation": "當我在看書時，我的朋友敲門了。",
+      "sentence": "Since the meeting started, the director has been discussing the project details.",
+      "translation": "自從會議開始，主任一直在討論專案細節。",
       "keywords": [
-        "while",
-        "進行式",
-        "同時進行"
+        "since",
+        "現在完成進行式",
+        "持續動作"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "As she ",
+        "",
         null,
-        " older, her dream of becoming a doctor ",
-        null,
-        " clearer."
+        " graduation, many of my classmates have pursued their dreams in different fields."
       ],
       "blanks": [
-        "grew",
-        "became"
+        "Since"
       ],
-      "sentence": "As she grew older, her dream of becoming a doctor became clearer.",
-      "translation": "隨著年紀增長，她成為醫生的夢想變得越來越清楚。",
+      "sentence": "Since graduation, many of my classmates have pursued their dreams in different fields.",
+      "translation": "自從畢業以來，我的許多同學在不同領域追求他們的夢想。",
       "keywords": [
-        "as",
-        "漸進變化",
-        "簡單過去式"
+        "since",
+        "現在完成式",
+        "時間段落"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "As soon as you ",
+        "",
         null,
-        " home, please ",
-        null,
-        " me a message."
+        " you finish reading this book, you will understand the author's intention better."
       ],
       "blanks": [
-        "arrive",
-        "send"
+        "After"
       ],
-      "sentence": "As soon as you arrive home, please send me a message.",
-      "translation": "一旦你到家，請立即傳訊息給我。",
+      "sentence": "After you finish reading this book, you will understand the author's intention better.",
+      "translation": "在你讀完這本書之後，你會更好地理解作者的意圖。",
       "keywords": [
-        "as soon as",
-        "立即條件",
-        "祈使句"
+        "after",
+        "未來簡單式",
+        "時間先後順序"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "arrive",
-      "zh": "到達"
+      "adj": "before",
+      "zh": "在...之前"
     },
     {
-      "adj": "ring",
-      "zh": "響起"
+      "adj": "after",
+      "zh": "在...之後"
     },
     {
-      "adj": "study",
-      "zh": "唸書、學習"
+      "adj": "until",
+      "zh": "直到；直到...才"
     },
     {
-      "adj": "grade",
-      "zh": "批改、評分"
+      "adj": "since",
+      "zh": "自從；既然"
     },
     {
-      "adj": "grow",
-      "zh": "成長、長大"
+      "adj": "graduate",
+      "zh": "畢業"
     },
     {
-      "adj": "become",
-      "zh": "變得"
+      "adj": "moved",
+      "zh": "搬遷"
     },
     {
-      "adj": "simultaneously",
-      "zh": "同時地"
+      "adj": "finished",
+      "zh": "完成"
     },
     {
-      "adj": "gradually",
-      "zh": "漸漸地"
+      "adj": "practice",
+      "zh": "練習"
     },
     {
-      "adj": "meanwhile",
-      "zh": "同時、但是"
+      "adj": "improve",
+      "zh": "改善"
     },
     {
-      "adj": "eventually",
-      "zh": "最終"
+      "adj": "relieved",
+      "zh": "安心的；放鬆的"
     },
     {
-      "adj": "happening",
-      "zh": "發生中的"
+      "adj": "never",
+      "zh": "從不；決不"
     },
     {
-      "adj": "ongoing",
-      "zh": "進行中的"
+      "adj": "regularly",
+      "zh": "定期地"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "常用時間連接詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的時間連接詞完成句子，表示兩個動作的時間關係",
-      "question_eng": "_______ I got home, my mother was cooking dinner.",
+      "question_chi": "選擇適當的時間連接詞完成句子，說明事件發生順序。",
+      "question_eng": "_______ I arrived at the station, the train had already left.",
       "options": [
         {
           "key": "A",
-          "text": "When"
+          "text": "Before"
         },
         {
           "key": "B",
-          "text": "While"
+          "text": "After"
         },
         {
           "key": "C",
-          "text": "As"
+          "text": "Since"
         },
         {
           "key": "D",
-          "text": "Since"
+          "text": "Until"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A。When 用來表示特定時間點的到達，後接簡單過去式 (got)，主句用過去進行式 (was cooking) 表示動作正在進行中。B項 while 強調兩動作同時進行，通常兩句都用進行式。C項 as 表動作同步發生但語氣較生硬。D項 since 表因果關係，不符題意。",
+      "answer": "B",
+      "explanation": "正確答案是 B (After)。句子表示「在我到達車站之後，火車已經離開」，時間順序是：火車先離開，然後我才到達。After 引導的時間子句表示先發生的事件。選項 A (Before) 邏輯相反；C (Since) 用於持續性狀態不符；D (Until) 表示「直到...為止」邏輯不當。",
       "id": 1
     },
     {
-      "question_chi": "填空選擇，強調兩個動作同時進行的情境",
-      "question_eng": "_______ the children were playing in the park, their parents were sitting on the bench watching them.",
+      "question_chi": "根據句子時態判斷正確的時間連接詞，強調持續狀態。",
+      "question_eng": "_______ she graduated from university, she has been working as an engineer for five years.",
       "options": [
         {
           "key": "A",
-          "text": "When"
+          "text": "Before"
         },
         {
           "key": "B",
-          "text": "While"
+          "text": "After"
         },
         {
           "key": "C",
-          "text": "During"
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "Until"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (Since)。主句使用現在完成式 (has been working) 表示持續狀態，搭配 Since 引導的過去簡單式 (graduated)，表示「自從她大學畢業以來」的持續性。Before/After 用於單一時間點；Until 表示時間的終點，時態搭配不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "填入適當連接詞，主句使用完成式表達已完成的動作。",
+      "question_eng": "_______ we had finished our project, we celebrated with our team members at a nearby restaurant.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Since"
+        },
+        {
+          "key": "B",
+          "text": "Until"
+        },
+        {
+          "key": "C",
+          "text": "After"
         },
         {
           "key": "D",
           "text": "Before"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B。While 強調兩個動作同時進行，搭配過去進行式 (were playing / were sitting)。A項 when 也可用但語氣不如 while 強調同時性。C項 during 是介詞需搭配名詞。D項 before 表先後順序，不符情境。",
-      "id": 2
-    },
-    {
-      "question_chi": "選擇合適的連接詞，表示漸進變化的過程",
-      "question_eng": "_______ she read more books, her vocabulary became increasingly rich and diverse.",
-      "options": [
-        {
-          "key": "A",
-          "text": "When"
-        },
-        {
-          "key": "B",
-          "text": "While"
-        },
-        {
-          "key": "C",
-          "text": "As"
-        },
-        {
-          "key": "D",
-          "text": "Whenever"
-        }
-      ],
       "answer": "C",
-      "explanation": "正確答案是 C。As 表示兩個動作或狀態逐漸同步發生或變化，符合「讀越多書，詞彙越豐富」的漸進關係。A項 when 通常指特定時間點。B項 while 強調同時進行但不表漸進。D項 whenever 表「每當」，多指重複發生，不符句意。",
+      "explanation": "正確答案是 C (After)。主句使用過去簡單式 (celebrated)，表示在完成項目之後進行慶祝活動。After 引導時間子句說明先完成的事件 (had finished)。Since 需搭配現在完成式；Until 表終點不符；Before 邏輯相反。句子結構為：After + 過去完成式，+ 過去簡單式。",
       "id": 3
     },
     {
-      "question_chi": "判斷句型正確性，識別時間副詞子句的位置與標點用法",
-      "question_eng": "Which sentence is grammatically correct? A) While he was studying hard for the exam, his friends were having fun. B) While he was studying hard for the exam his friends were having fun. C) His friends were having fun while he was studying hard for the exam. D) While he was studying hard for the exam; his friends were having fun.",
+      "question_chi": "辨析 until 與 before 的區別，判斷合適的連接詞。",
+      "question_eng": "The company will continue to operate this factory _______ the new environmental regulations are implemented, which is expected to take another two years.",
       "options": [
         {
           "key": "A",
-          "text": "While he was studying hard for the exam, his friends were having fun."
+          "text": "before"
         },
         {
           "key": "B",
-          "text": "While he was studying hard for the exam his friends were having fun."
+          "text": "until"
         },
         {
           "key": "C",
-          "text": "His friends were having fun while he was studying hard for the exam."
+          "text": "since"
         },
         {
           "key": "D",
-          "text": "While he was studying hard for the exam; his friends were having fun."
+          "text": "after"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A 和 C 都語法正確，但選項中 A 正確示範了時間副詞子句置於句首時須加逗號。B 選項缺少逗號，違反規則。C 選項也正確但時間子句置於句末，可無逗號。D 項使用分號不當。A 展現標準句首時間子句的正確標點用法。",
+      "answer": "B",
+      "explanation": "正確答案是 B (until)。句意為「在新環保法規實施之前，公司會繼續運營這座工廠」。Until 表示持續狀態直到某時間點終止，符合「繼續運營直到新法規實施」的邏輯。Before 表示時間點，不強調持續；Since 強調自某點開始的持續狀態；After 表先後順序。Future continuous 搭配 until 表示某狀態在未來持續到某時間點停止。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "當我進入教室時，同學們都在討論數學考試。",
-      "answer": "When I entered the classroom, my classmates were discussing the math exam.",
+      "sentence_chi": "在我完成功課之前，我不能去朋友家玩。",
+      "answer": "Before I finish my homework, I cannot go to my friend's house. / I cannot go to my friend's house before I finish my homework.",
       "key_points": [
-        "When + S + V（過去簡單式）",
-        "主句用過去進行式 were discussing",
-        "時間點的明確轉換"
+        "Before + S + V 時間子句",
+        "cannot/can't 表示禁止或不能",
+        "主句一般現在式"
       ],
       "hints": [
-        "提示1：When表特定時間點，子句用過去簡單式，主句描述該時刻的動作狀態",
-        "提示2：主句應使用過去進行式來表示『正在進行』的動作，而非簡單過去式"
+        "提示1：Before 子句可置於句首（加逗號）或句尾（不加逗號）",
+        "提示2：注意 finish 用第一人稱單數形式，主句 cannot 後接原形動詞"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "當她在念書的時候，弟弟一直在玩電動遊戲。",
-      "answer": "While she was studying, her younger brother was playing video games.",
+      "sentence_chi": "自從她搬到台北以來，她一直在補習班教英文。",
+      "answer": "Since she moved to Taipei, she has been teaching English at a cram school. / She has been teaching English at a cram school since she moved to Taipei.",
       "key_points": [
-        "While + S + V（過去進行式）",
-        "兩個進行式同時搭配",
-        "對比兩個同時進行的動作"
+        "Since + S + V (過去簡單式)",
+        "現在完成進行式 has been teaching",
+        "表示持續性動作"
       ],
       "hints": [
-        "提示1：While強調兩個動作同時進行，兩個子句都應使用進行式",
-        "提示2：注意『while + was/were + V-ing』和『was/were + V-ing』的搭配，避免混用簡單過去式"
+        "提示1：Since 從句必須用過去簡單式，主句用現在完成式或現在完成進行式，強調動作自過去持續至今",
+        "提示2：常見錯誤是主句用現在簡單式 'teaches' 或從句用現在完成式"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "隨著他對這份工作越來越了解，他變得更有信心。",
-      "answer": "As he became more familiar with the job, he grew more confident.",
+      "sentence_chi": "直到他收到大學錄取通知後，他的父母才放心了。",
+      "answer": "After he received the university admission letter, his parents finally felt relieved. / His parents finally felt relieved after he received the university admission letter.",
       "key_points": [
-        "As表漸進變化或同步發生",
-        "become familiar with的用法",
-        "比較級 more...more...的結構"
+        "After + S + V (過去簡單式)",
+        "received 表示過去完成的動作",
+        "finally 強調時間點的轉變"
       ],
       "hints": [
-        "提示1：As可表示『隨著』或『當...時』，強調動作的漸進性或因果關係",
-        "提示2：避免誤用while或when，因為此處強調的是漸進的過程變化，而非單一時間點或同時進行"
+        "提示1：After 表示一個單一時間點之後，兩個動作都用過去簡單式表示先後順序",
+        "提示2：注意 'relieved' 是形容詞或過去分詞，作為感受狀態；不要混淆 'until' 和 'after' 的用法"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "儘管他努力準備了一個月，但當考試開始時，他還是感到非常緊張。",
-      "answer": "While he had prepared for a month, he felt very nervous when the exam started.",
+      "sentence_chi": "自從疫情開始以來，學生們已經習慣於在家上線課程，直到學校完全恢復實體上課為止。",
+      "answer": "Since the pandemic started, students have grown accustomed to taking online classes until schools fully resumed in-person classes. / Since the pandemic began, students have been adjusting to online learning until physical classes returned to normal.",
       "key_points": [
-        "While表轉折意義『雖然、儘管』",
-        "When表特定時間點『當...時'",
-        "過去完成式 had prepared的使用"
+        "Since + S + V (過去簡單式) 與現在完成式搭配",
+        "Until 表示持續到某個時間點",
+        "複合時間子句結構"
       ],
       "hints": [
-        "提示1：此題while用作轉折連詞（非時間連詞），需由上下文判斷；when才是時間副詞子句",
-        "提示2：過去完成式had prepared表示『已經準備完成』，動作發生在主句動作之前；避免混淆while和when的語意與用法"
+        "提示1：Since 引導的時間副詞子句置於句首，主句用現在完成式；Until 可單獨出現在主句尾，說明狀況持續到何時",
+        "提示2：注意 'since' 強調持續性（已經持續的狀態），'until' 標記終點；兩者可在同一句中搭配使用，但分別引導不同的時間概念"
       ]
     }
   ]

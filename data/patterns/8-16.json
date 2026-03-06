@@ -1,234 +1,234 @@
 {
   "code": "8-16",
   "chapter": 8,
-  "title": "both... and... / either... or... / neither... nor...",
+  "title": "S + V + as well as / in addition to + N/V-ing",
   "formulas": [
     {
-      "formula": "both A and B + 複數動詞",
-      "zh": "A和B兩者都...（動詞用複數）"
+      "formula": "S + V + as well as + N/V-ing",
+      "zh": "主詞＋動詞＋as well as（除……之外還）＋名詞/動名詞"
     },
     {
-      "formula": "either A or B / neither A nor B + 就近一致動詞",
-      "zh": "A或B其中之一/A和B都不...（動詞依靠近的主詞單複數）"
+      "formula": "S + V + in addition to + N/V-ing",
+      "zh": "主詞＋動詞＋in addition to（除……之外還）＋名詞/動名詞"
     }
   ],
-  "explanation": "對等連接詞組用於連接兩個對等的語法成分。both...and 表示「兩者都」，主詞一律採複數動詞；either...or 表示「兩者之一」，neither...nor 表示「兩者都不」，動詞形式遵循「就近一致原則」，即依靠近主動詞的主詞決定動詞單複數。此三組結構常見於學測，須注意動詞變化與邏輯搭配。",
+  "explanation": "as well as 與 in addition to 均表「除……之外還有」的附加關係。重點是動詞與主要主詞一致，不受後接的名詞或動名詞影響。as well as 用於正式與非正式場合；in addition to 較正式，後接名詞或動名詞形式。兩者都用來補充說明主詞的額外行為或屬性。需注意主動詞時態要與主要主詞相符，不因後接詞彙而改變。",
   "examples": [
     {
       "id": 1,
-      "eng": "Both studying hard and getting enough sleep are important for students.",
-      "chi": "認真讀書和充足睡眠對學生都很重要。",
+      "eng": "She speaks English as well as French fluently.",
+      "chi": "她不但說英文流利，法文也說得流利。",
       "keywords": [
-        "both...and",
-        "複數動詞",
-        "並列結構"
+        "as well as",
+        "補充說明",
+        "並列"
       ]
     },
     {
       "id": 2,
-      "eng": "Either the teacher or the students are responsible for the project's success.",
-      "chi": "老師或學生其中之一要為專案成功負責。",
+      "eng": "The director in addition to the actors attended the premiere event.",
+      "chi": "除了演員之外，導演也參加了首映式。",
       "keywords": [
-        "either...or",
-        "就近一致",
-        "單複數判斷"
+        "in addition to",
+        "正式用法",
+        "動詞單數"
       ]
     },
     {
       "id": 3,
-      "eng": "Neither John nor his friends were present at the meeting yesterday.",
-      "chi": "約翰和他的朋友昨天都沒出席會議。",
+      "eng": "Playing the piano as well as composing music is his passion.",
+      "chi": "彈鋼琴和作曲都是他的熱情所在。",
       "keywords": [
-        "neither...nor",
-        "否定意義",
-        "複數動詞"
+        "as well as",
+        "動名詞並列",
+        "單數動詞"
       ]
     },
     {
       "id": 4,
-      "eng": "Both the novel and the film have received excellent reviews from critics.",
-      "chi": "這部小說和電影都獲得評論家的好評。",
+      "eng": "The company will expand sales in addition to improving product quality.",
+      "chi": "除了改善產品品質外，公司還將擴大銷售。",
       "keywords": [
-        "both...and",
-        "完成式",
-        "並行敘述"
+        "in addition to",
+        "V-ing",
+        "計畫行動"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷動詞單複數時，both...and 永遠用複數；either...or 和 neither...nor 則看靠近動詞的主詞。若主詞為「動名詞/不定詞+名詞」，both...and 仍用複數。常見錯誤是忽視就近一致原則，導致主動詞搭配錯誤。",
+    "tip": "動詞單複數由主要主詞決定，不因 as well as/in addition to 後的詞彙而改變。in addition to 後須接名詞或 V-ing 形式，不接原形動詞。注意主要主詞若為單數，動詞必須單數；若為複數，動詞必須複數。",
     "examples": [
       {
-        "test": "Both he and I _____ (am/are) going to the party.",
-        "result": "→ are（both...and 必用複數）"
+        "test": "The teacher as well as the students (is/are) happy.",
+        "result": "→ 正確：is（以 teacher 為主）；錯誤：are（忽視主要主詞）"
       },
       {
-        "test": "Either the manager or the employees _____ (has/have) to make a decision.",
-        "result": "→ have（employees 為複數，靠近動詞，故用複數）"
+        "test": "He enjoys reading in addition to (write/writing) novels.",
+        "result": "→ 正確：writing（in addition to 後接 V-ing）；錯誤：write（違反語法）"
       },
       {
-        "test": "Neither the book nor the movies _____ (was/were) interesting to me.",
-        "result": "→ were（movies 為複數，靠近動詞，故用複數）"
+        "test": "She speaks French as well as English (good/well).",
+        "result": "→ 正確：well（修飾動詞 speaks，用副詞）；錯誤：good（應為副詞）"
       }
     ],
-    "note": "「Both 加複數、Either/Neither 靠近數」——記住這個口訣，就能快速判斷動詞變化。"
+    "note": "記住：主要主詞決定動詞，後接詞只是補充；in addition to 後一定是名詞或 V-ing。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Both the principal and the teachers ",
+        "The manager ",
         null,
-        " satisfied with the students' performance."
+        " the staff enjoys the new office environment."
       ],
       "blanks": [
-        "are"
+        "as well as"
       ],
-      "sentence": "Both the principal and the teachers are satisfied with the students' performance.",
-      "translation": "校長和老師對學生的表現都很滿意。",
+      "sentence": "The manager as well as the staff enjoys the new office environment.",
+      "translation": "經理和全體職員都喜歡新辦公室環境。",
       "keywords": [
-        "both...and",
-        "複數動詞",
-        "be動詞"
+        "as well as",
+        "動詞單數",
+        "補充主詞"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Either your sister or your brothers ",
+        "In addition to ",
         null,
-        " to help clean the house."
+        ", students must complete homework assignments."
       ],
       "blanks": [
-        "need"
+        "attending classes"
       ],
-      "sentence": "Either your sister or your brothers need to help clean the house.",
-      "translation": "要不你妹妹要不你哥哥其中之一需要幫忙打掃房子。",
+      "sentence": "In addition to attending classes, students must complete homework assignments.",
+      "translation": "除了上課之外，學生還必須完成家庭作業。",
       "keywords": [
-        "either...or",
-        "就近一致",
-        "複數主詞"
+        "in addition to",
+        "V-ing",
+        "補充要求"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Neither the president nor his advisors ",
+        "The athlete practices basketball ",
         null,
-        " willing to compromise on this issue."
+        " swimming every day."
       ],
       "blanks": [
-        "are"
+        "as well as"
       ],
-      "sentence": "Neither the president nor his advisors are willing to compromise on this issue.",
-      "translation": "總統和他的顧問都不願意在這個議題上妥協。",
+      "sentence": "The athlete practices basketball as well as swimming every day.",
+      "translation": "這位運動員每天既練籃球也練游泳。",
       "keywords": [
-        "neither...nor",
-        "複數動詞",
-        "否定意義"
+        "as well as",
+        "並列活動",
+        "日常習慣"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Both attending lectures and doing homework regularly ",
+        "In addition to improving customer service, the company will ",
         null,
-        " essential for academic success."
+        " its product line."
       ],
       "blanks": [
-        "are"
+        "expand"
       ],
-      "sentence": "Both attending lectures and doing homework regularly are essential for academic success.",
-      "translation": "定期上課和做功課對學業成功都是必要的。",
+      "sentence": "In addition to improving customer service, the company will expand its product line.",
+      "translation": "除了改善客服之外，公司還將擴大產品線。",
       "keywords": [
-        "both...and",
-        "動名詞",
-        "複數動詞"
+        "in addition to",
+        "未來計畫",
+        "並列行動"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "both",
-      "zh": "兩者；兩個都"
-    },
-    {
-      "adj": "and",
-      "zh": "且；和"
-    },
-    {
-      "adj": "either",
-      "zh": "任一個；兩者之一"
-    },
-    {
-      "adj": "or",
-      "zh": "或；抑或"
-    },
-    {
-      "adj": "neither",
-      "zh": "兩者都不；都沒有"
-    },
-    {
-      "adj": "nor",
-      "zh": "也不；亦不"
-    },
-    {
       "adj": "as well as",
-      "zh": "以及；和…一樣好"
-    },
-    {
-      "adj": "together with",
-      "zh": "連同；與…一起"
+      "zh": "除……之外還；同時"
     },
     {
       "adj": "in addition to",
-      "zh": "除…之外"
+      "zh": "除了……之外；加上"
     },
     {
-      "adj": "responsible",
-      "zh": "負責的；有責任的"
+      "adj": "besides",
+      "zh": "除……之外還"
     },
     {
-      "adj": "important",
-      "zh": "重要的"
+      "adj": "along with",
+      "zh": "和……一起；除……外"
     },
     {
-      "adj": "necessary",
-      "zh": "必要的；必須的"
+      "adj": "fluently",
+      "zh": "流利地"
+    },
+    {
+      "adj": "attend",
+      "zh": "參加"
+    },
+    {
+      "adj": "passion",
+      "zh": "熱情"
+    },
+    {
+      "adj": "expand",
+      "zh": "擴張"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善"
+    },
+    {
+      "adj": "compose",
+      "zh": "作曲"
+    },
+    {
+      "adj": "additional",
+      "zh": "額外的"
+    },
+    {
+      "adj": "supplement",
+      "zh": "補充"
     }
   ],
-  "vocab_table_label": "常用連接詞組",
+  "vocab_table_label": "常用附加連接詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的動詞形式使句子文法正確",
-      "question_eng": "Both reading books and watching movies _______ good ways to relax.",
+      "question_chi": "選擇正確的附加關係表達方式，使句子完整且語法正確。",
+      "question_eng": "Maria speaks Spanish _______ Portuguese fluently.",
       "options": [
         {
           "key": "A",
-          "text": "is"
+          "text": "as well as"
         },
         {
           "key": "B",
-          "text": "are"
+          "text": "as good as"
         },
         {
           "key": "C",
-          "text": "am"
+          "text": "also as"
         },
         {
           "key": "D",
-          "text": "be"
+          "text": "and well as"
         }
       ],
-      "answer": "B",
-      "explanation": "both...and 連接的主詞一律採複數動詞。「both reading books and watching movies」為複數概念，故使用 are。選項 A 是單數動詞，不符合 both...and 的規則；C、D 為不適當的動詞形式。",
+      "answer": "A",
+      "explanation": "正確答案是 A。'as well as' 表示「除……之外還有」，用於列舉相同或相似的事物。Maria 說西班牙語和葡萄牙語都很流利。B 項 'as good as' 表示「幾乎與……一樣好」，用法不同。C 項 'also as' 不是正確搭配。D 項 'and well as' 為文法錯誤。",
       "id": 1
     },
     {
-      "question_chi": "根據就近一致原則選擇正確的動詞形式",
-      "question_eng": "Either the manager or his assistants _______ going to attend the meeting tomorrow.",
+      "question_chi": "判斷句子主動詞時態應如何搭配，不受後接名詞影響。",
+      "question_eng": "The manager as well as the employees _______ attending the conference tomorrow.",
       "options": [
         {
           "key": "A",
@@ -240,123 +240,123 @@
         },
         {
           "key": "C",
-          "text": "was"
+          "text": "have been"
         },
         {
           "key": "D",
-          "text": "were"
+          "text": "will be"
         }
       ],
-      "answer": "B",
-      "explanation": "either...or 遵循就近一致原則，動詞形式由靠近它的主詞決定。此句中 assistants（複數）緊靠動詞，故用 are。選項 A 錯誤因為 assistants 是複數；C、D 時態錯誤，句子指未來動作。",
+      "answer": "D",
+      "explanation": "正確答案是 D。雖然後面有 'employees'（複數），但 'as well as' 不影響主詞的單數性質，主詞仍為單數 'manager'。加上句子提及 'tomorrow'，應用未來時 'will be'。A 項 'is' 時態錯誤，B 項忽視主詞為單數，C 項時態不符句意。",
       "id": 2
     },
     {
-      "question_chi": "在 neither...nor 結構中應用就近一致原則",
-      "question_eng": "Neither the students nor their teacher _______ aware of the rule change until yesterday.",
+      "question_chi": "選擇合適的介系詞短語並注意動詞形式與主詞搭配。",
+      "question_eng": "The professor, in addition to _______ the research project, _______ supervising ten graduate students.",
       "options": [
         {
           "key": "A",
-          "text": "were"
+          "text": "leading / are"
         },
         {
           "key": "B",
-          "text": "was"
+          "text": "leading / is"
         },
         {
           "key": "C",
-          "text": "is"
+          "text": "lead / is"
         },
         {
           "key": "D",
-          "text": "are"
+          "text": "leading / are"
         }
       ],
       "answer": "B",
-      "explanation": "neither...nor 遵循就近一致原則。此句中 teacher（單數）緊靠動詞，故用單數過去式 was。選項 A 錯誤因為 teacher 是單數；C 時態錯誤；D 雖為複數但時態不符合過去敘述。",
+      "explanation": "正確答案是 B。'in addition to' 後接動名詞 'leading'，主詞為單數 'professor'，所以動詞應用 'is'。A 項動詞用複數形錯誤。C 項 'lead' 前應為動名詞。D 項動詞用複數也錯誤。注意主詞-動詞一致性不受 'in addition to' 後名詞影響。",
       "id": 3
     },
     {
-      "question_chi": "在複雜句中正確應用對等連接詞組的動詞一致性",
-      "question_eng": "Both his leadership skills and his ability to communicate effectively _______ what make him an excellent manager, and either his colleagues or his supervisor _______ nominated him for promotion.",
+      "question_chi": "複雜句型，需判斷完整的時態搭配和並列結構正確性。",
+      "question_eng": "Not only the CEO but also the board members, _______ their personal interests, _______ committed to improving the company's sustainability initiatives.",
       "options": [
         {
           "key": "A",
-          "text": "is; have"
+          "text": "in addition to / are"
         },
         {
           "key": "B",
-          "text": "are; has"
+          "text": "as well as / is"
         },
         {
           "key": "C",
-          "text": "are; have"
+          "text": "in addition to / is"
         },
         {
           "key": "D",
-          "text": "is; has"
+          "text": "as well as having / are"
         }
       ],
-      "answer": "B",
-      "explanation": "第一空：both...and 連接複數主詞，動詞用 are；第二空：either...or，supervisor（單數）靠近動詞，故用 has。選項 C 第二空錯誤（supervisor 單數應用 has）；A、D 第一空錯誤（both...and 須用複數動詞）。",
+      "answer": "A",
+      "explanation": "正確答案是 A。主要主詞由 'not only...but also' 連接，結構上複數主詞應配複數動詞 'are'。'in addition to' 可正確引入補充資訊 'their personal interests'。B 項動詞誤用單數。C 項 'is' 與複數主詞不符。D 項 'as well as having' 結構冗長不合所需。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "瑪麗和湯姆都喜歡看電影。",
-      "answer": "Both Mary and Tom like watching movies.",
+      "sentence_chi": "除了學習數學，我還學習英文。",
+      "answer": "I study English as well as mathematics.",
       "key_points": [
-        "Both...and 連接兩個人名",
-        "複數動詞 like",
-        "動名詞 watching"
+        "as well as 連接兩個並列的名詞",
+        "主詞 I 與動詞 study 須一致",
+        "as well as 後接名詞形式"
       ],
       "hints": [
-        "提示1：Both...and 後面一律使用複數動詞，regardless of 主詞是否單數",
-        "提示2：常見錯誤是寫成 'Both Mary and Tom likes'，須記住 both...and = 複數"
+        "句型框架：S + V + as well as + N（主詞 + 動詞 + as well as + 名詞）",
+        "注意：as well as 後不改變主要動詞的時態，動詞仍與主詞 I 一致（study 而非 studies）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "你可以選擇去看演唱會或參加補習班，但不能兩者都選。",
-      "answer": "You can choose either attending the concert or joining the cram school, but not both.",
+      "sentence_chi": "除了參加社團活動，Tom 還參加了學校運動會。",
+      "answer": "Tom participated in the school sports meet as well as joining club activities.",
       "key_points": [
-        "Either...or 連接兩個動名詞短語",
-        "情態動詞 can choose",
-        "邏輯轉折 but not both"
+        "as well as 後可接動名詞 joining",
+        "主要動詞 participated 與主詞 Tom 一致",
+        "時態保持過去式"
       ],
       "hints": [
-        "提示1：Either...or 用於表示二選一的情況，兩個連接的成分應為平行結構（都用動名詞或都用名詞）",
-        "提示2：若要表達「不能兩者都選」，可加 'but not both' 來強調互斥性"
+        "句型框架：S + V (過去式) + as well as + V-ing（主詞 + 過去動詞 + as well as + 動名詞）",
+        "注意：as well as 後的動名詞 joining 不影響主要動詞時態，主要動詞時態仍由主詞決定"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "小王既不喜歡數學也不喜歡物理，所以他打算改選歷史。",
-      "answer": "Neither math nor physics appeals to Xiaowang, so he plans to switch to history.",
+      "sentence_chi": "除了完成功課，學生們還需要準備期末考試。",
+      "answer": "Students need to prepare for the final exam in addition to completing their homework.",
       "key_points": [
-        "Neither...nor 表示雙重否定",
-        "就近一致：physics（單數）+ appeals（單數動詞）",
-        "邏輯連接詞 so"
+        "in addition to 較正式，後接動名詞 completing",
+        "主詞 Students 與動詞 need 保持一致",
+        "不定詞 to prepare 與 in addition to completing 並列"
       ],
       "hints": [
-        "提示1：Neither...nor 遵循就近一致原則，動詞形式由最靠近的主詞（physics）決定，此處為單數",
-        "提示2：常見錯誤是忽視就近一致，誤寫成 'appeal'；另外 appeal to 意為『吸引』，比 like 更正式"
+        "句型框架：S + V + in addition to + V-ing（主詞 + 動詞 + in addition to + 動名詞）",
+        "注意：in addition to 後必須接動名詞或名詞，不能接不定詞；主要動詞 need 與複數主詞 Students 一致"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "不論是老師的建議還是父母的期望，都深深影響了她對大學科系的選擇；相反地，她自己的興趣或朋友的意見都沒有產生太大的影響。",
-      "answer": "Both her teachers' suggestions and her parents' expectations have deeply influenced her choice of university major; conversely, neither her own interests nor her friends' opinions have had much impact.",
+      "sentence_chi": "除了發展自己的興趣愛好，應屆畢業生還需要思考未來的職涯規劃。",
+      "answer": "High school graduates need to think about their future career planning in addition to developing their personal interests and hobbies.",
       "key_points": [
-        "Both...and + 複數動詞 have influenced",
-        "Neither...nor + 就近一致 have had（opinions 複數）",
-        "所有格與名詞短語的平行性"
+        "in addition to 後接複合動名詞片語 developing their personal interests and hobbies",
+        "主詞 graduates 與動詞 need 保持一致",
+        "不定詞 to think about 與 in addition to 動名詞結構並列"
       ],
       "hints": [
-        "提示1：Both...and 連接複雜名詞短語時（含所有格），仍須使用複數動詞；Neither...nor 時要確認靠近動詞的主詞數量",
-        "提示2：常見錯誤是名詞短語不平行（如一個用所有格一個不用），或混淆 impact 與 influence 的搭配用法（have influence vs. have impact）"
+        "句型框架：S + V + in addition to + V-ing...（主詞 + 動詞 + in addition to + 複雜動名詞片語）",
+        "注意：in addition to 後的動名詞片語可包含受詞和修飾詞；主要動詞 need 與主詞 graduates 保持現在式一致，不因後接的複雜結構而改變"
       ]
     }
   ]

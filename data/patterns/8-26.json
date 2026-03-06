@@ -1,364 +1,362 @@
 {
   "code": "8-26",
   "chapter": 8,
-  "title": "S + V + in that + S + V",
+  "title": "Seldom/Rarely/Never + 助動詞 + S + V（否定副詞倒裝）",
   "formulas": [
     {
-      "formula": "S + V + in that + S + V",
-      "zh": "在於……方面；理由在於……（說明前句的具體內容或理由）"
+      "formula": "Seldom/Rarely/Never/Hardly + 助動詞 + S + V",
+      "zh": "否定副詞置句首引發倒裝，助動詞提前，強調否定意義"
     },
     {
-      "formula": "S + V + in that + S + V + O",
-      "zh": "在於……方面做某事；理由在於……（含受詞的擴展式）"
+      "formula": "No sooner + had + S + V + than...",
+      "zh": "剛一...就...，表示兩個動作快速連續發生"
     }
   ],
-  "explanation": "in that 為正式書面用語，用於說明前一句子的理由、特點或具體內容。結構為「主句 + in that + 從句」，從句通常以 S + V 開始。意義上近似 because，但 in that 更精確、更正式，強調「在於……方面」或「理由在於……」。常見於學術、新聞、評論文章。注意：in that 後接完整句子，不能省略主詞或動詞；與 in which 或 where 的區別在於 in that 引導原因從句，而非關係從句。",
+  "explanation": "此句型將否定副詞（seldom, rarely, never, hardly, scarcely, little等）置於句首，引發助動詞倒裝提前，強調否定或稀少的意義。結構為：否定詞+助動詞（do/does/did/have/has/had）+主詞+動詞原型。用於強調某事幾乎不發生或從未發生。注意與簡單否定句的區別：此句型強調程度與語氣，倒裝形式使表達更有力度。No sooner...than為特殊用法，表「剛一...就...」。",
   "examples": [
     {
       "id": 1,
-      "eng": "This job is unique in that it offers both creativity and stability.",
-      "chi": "這份工作獨特之處在於它既提供創意空間，也提供穩定性。",
+      "eng": "Seldom does she go to the party without bringing a gift.",
+      "chi": "她很少去參加派對而不帶禮物。",
       "keywords": [
-        "in that",
-        "unique",
-        "offers"
+        "seldom",
+        "倒裝",
+        "助動詞does"
       ]
     },
     {
       "id": 2,
-      "eng": "The novel differs from others in that the author uses multiple narrators.",
-      "chi": "這部小說與其他作品不同之處在於作者使用多個敘述者。",
+      "eng": "Never have I seen such a beautiful sunset in my life.",
+      "chi": "我這輩子從未見過如此美麗的日落。",
       "keywords": [
-        "in that",
-        "differs",
-        "uses"
+        "never",
+        "have倒裝",
+        "強調"
       ]
     },
     {
       "id": 3,
-      "eng": "The plan failed in that no one took responsibility for its implementation.",
-      "chi": "計畫失敗的原因在於沒人願意負責執行。",
+      "eng": "Hardly had he finished his homework when his mother called him.",
+      "chi": "他剛做完功課，他媽媽就叫他。",
       "keywords": [
-        "in that",
-        "failed",
-        "took responsibility"
+        "hardly",
+        "had倒裝",
+        "時間連貫"
       ]
     },
     {
       "id": 4,
-      "eng": "Modern technology is revolutionary in that it has transformed how we communicate.",
-      "chi": "現代科技之所以革命性，在於它改變了我們的溝通方式。",
+      "eng": "No sooner had the meeting started than an urgent email arrived.",
+      "chi": "會議才剛開始，一封緊急郵件就到了。",
       "keywords": [
-        "in that",
-        "revolutionary",
-        "transformed"
+        "no sooner",
+        "than",
+        "連續動作"
       ]
     }
   ],
-  "adj_table_for": [
-    {
-      "adj": "unique",
-      "zh": "獨特的"
-    },
-    {
-      "adj": "different",
-      "zh": "不同的"
-    },
-    {
-      "adj": "special",
-      "zh": "特別的"
-    },
-    {
-      "adj": "significant",
-      "zh": "重要的"
-    },
-    {
-      "adj": "revolutionary",
-      "zh": "革命性的"
-    },
-    {
-      "adj": "important",
-      "zh": "重要的"
-    },
-    {
-      "adj": "valuable",
-      "zh": "有價值的"
-    },
-    {
-      "adj": "effective",
-      "zh": "有效的"
-    },
-    {
-      "adj": "remarkable",
-      "zh": "值得注意的"
-    },
-    {
-      "adj": "advantageous",
-      "zh": "有利的"
-    },
-    {
-      "adj": "fortunate",
-      "zh": "幸運的"
-    },
-    {
-      "adj": "problematic",
-      "zh": "有問題的"
-    }
-  ],
+  "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷是否使用 in that：若前句為判斷句（is, seems, appears 等）或陳述句，後需說明理由或具體內容，就適合用 in that。避免與 in which（關係副詞）混淆。記住 in that = because + specific reason，多用於正式文體。",
+    "tip": "判斷何時使用倒裝：若副詞具強負面或稀少意義且置句首，必須倒裝。常見錯誤：忘記倒裝或倒裝形式錯誤。記住：否定副詞句首→必須倒裝助動詞。若句子無助動詞，用do/does/did幫助倒裝。",
     "examples": [
       {
-        "test": "The advantage lies in that the system is fully automated.",
-        "result": "→ 正確。in that 引導從句，說明「優點在於……」"
+        "test": "✗ Never she has seen this movie.",
+        "result": "→ ✓ Never has she seen this movie.（助動詞has須提前）"
       },
       {
-        "test": "The advantage lies in which the system is fully automated.",
-        "result": "→ 錯誤。應使用 in that，不是 in which（後者用於地點關係從句）"
+        "test": "✗ Hardly the train arrived when he got on.",
+        "result": "→ ✓ Hardly had the train arrived when he got on.（需用had倒裝）"
       },
       {
-        "test": "The problem is serious in that many students cannot afford the fees.",
-        "result": "→ 正確。說明問題的具體內容和理由"
+        "test": "✗ Seldom they go there.",
+        "result": "→ ✓ Seldom do they go there.（現在簡單式需用do倒裝）"
       }
     ],
-    "note": "in that = 在於……方面；後接完整主要子句；正式書面用語，口語少用。"
+    "note": "否定詞句首即倒裝，助動詞必定提前於主詞之前，此為固定語法結構。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "This approach is effective ",
+        "Seldom ",
         null,
-        " it reduces costs significantly.",
-        ""
+        " he leave his hometown without visiting his parents."
       ],
       "blanks": [
-        "in that"
+        "does"
       ],
-      "sentence": "This approach is effective in that it reduces costs significantly.",
-      "translation": "這個方法有效之處在於它能大幅降低成本。",
+      "sentence": "Seldom does he leave his hometown without visiting his parents.",
+      "translation": "他很少離開家鄉而不去看望父母。",
       "keywords": [
-        "in that",
-        "effective",
-        "reduces costs"
+        "seldom",
+        "does倒裝",
+        "現在簡單式"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "The study is valuable ",
+        "Never ",
         null,
-        " researchers discovered a new treatment method.",
-        ""
+        " I imagined that she would become a famous scientist."
       ],
       "blanks": [
-        "in that"
+        "had"
       ],
-      "sentence": "The study is valuable in that researchers discovered a new treatment method.",
-      "translation": "這項研究之所以有價值，在於研究人員發現了一種新的治療方法。",
+      "sentence": "Never had I imagined that she would become a famous scientist.",
+      "translation": "我從未想過她會成為著名的科學家。",
       "keywords": [
-        "in that",
-        "valuable",
-        "discovered"
+        "never",
+        "had倒裝",
+        "過去完成式"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "The strategy differs from previous ones ",
+        "No sooner ",
         null,
-        " it emphasizes collaboration rather than competition.",
-        ""
+        " I entered the classroom than the teacher announced a quiz."
       ],
       "blanks": [
-        "in that"
+        "had"
       ],
-      "sentence": "The strategy differs from previous ones in that it emphasizes collaboration rather than competition.",
-      "translation": "這一策略與以往的不同之處在於它強調合作而非競爭。",
+      "sentence": "No sooner had I entered the classroom than the teacher announced a quiz.",
+      "translation": "我才進教室，老師就宣布了小考。",
       "keywords": [
-        "in that",
-        "differs",
-        "emphasizes"
+        "no sooner",
+        "than",
+        "連續動作"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The success is remarkable ",
+        "Hardly ",
         null,
-        " the team accomplished the goal within three months despite limited resources.",
-        ""
+        " the rain stopped when the children ran outside to play."
       ],
       "blanks": [
-        "in that"
+        "had"
       ],
-      "sentence": "The success is remarkable in that the team accomplished the goal within three months despite limited resources.",
-      "translation": "這次成功之所以了不起，在於團隊儘管資源有限，卻在三個月內完成了目標。",
+      "sentence": "Hardly had the rain stopped when the children ran outside to play.",
+      "translation": "雨才剛停，孩子們就跑出去玩了。",
       "keywords": [
-        "in that",
-        "remarkable",
-        "accomplished"
+        "hardly",
+        "had倒裝",
+        "時間先後"
       ]
     }
   ],
+  "vocab_table": [
+    {
+      "adj": "seldom",
+      "zh": "很少；難得"
+    },
+    {
+      "adj": "rarely",
+      "zh": "很少；罕見地"
+    },
+    {
+      "adj": "never",
+      "zh": "從不；絕不"
+    },
+    {
+      "adj": "hardly",
+      "zh": "幾乎不；剛剛"
+    },
+    {
+      "adj": "scarcely",
+      "zh": "幾乎不；勉強"
+    },
+    {
+      "adj": "little",
+      "zh": "很少（與not連用）"
+    },
+    {
+      "adj": "no sooner",
+      "zh": "剛一；才...就..."
+    },
+    {
+      "adj": "in no way",
+      "zh": "絕不；一點也不"
+    },
+    {
+      "adj": "do/does/did",
+      "zh": "助動詞，用於倒裝"
+    },
+    {
+      "adj": "have/has/had",
+      "zh": "助動詞，用於完成式倒裝"
+    },
+    {
+      "adj": "than",
+      "zh": "比...更；隨後（與no sooner搭配）"
+    },
+    {
+      "adj": "when",
+      "zh": "當...時；這時"
+    }
+  ],
+  "vocab_table_label": "常用頻率副詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適合的連接詞完成句子",
-      "question_eng": "This restaurant is popular _______ it serves authentic Italian food at reasonable prices.",
+      "question_chi": "填入最適當的選項，完成這句關於她很少參加派對的句子",
+      "question_eng": "Seldom _______ she attend parties without bringing a gift.",
       "options": [
         {
           "key": "A",
-          "text": "in that"
+          "text": "does"
         },
         {
           "key": "B",
-          "text": "because of"
+          "text": "she does"
         },
         {
           "key": "C",
-          "text": "due to"
+          "text": "is"
         },
         {
           "key": "D",
-          "text": "as a result of"
+          "text": "will"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。「in that」用於說明理由，後接完整句子（S + V），符合「it serves...」的結構。B、C、D 都是介系詞片語，後應接名詞，不能接完整句子。本題測試「in that 後必須接完整從句」的特點。",
+      "explanation": "否定副詞Seldom置於句首時，須引發助動詞倒裝。正確形式為：Seldom + does + she + attend。選項B重複主詞造成句子錯誤；C使用be動詞不符合此句結構；D用未來式不當，應用一般現在式表習慣性動作。",
       "id": 1
     },
     {
-      "question_chi": "填入適當的連接詞，完成句意",
-      "question_eng": "The film succeeds _______ it combines serious themes with entertaining storytelling that appeals to diverse audiences.",
+      "question_chi": "選擇正確的倒裝形式，表示他從未見過如此美麗的景象",
+      "question_eng": "Never _______ such a magnificent view in my entire life.",
       "options": [
         {
           "key": "A",
-          "text": "because"
+          "text": "I have seen"
         },
         {
           "key": "B",
-          "text": "in that"
+          "text": "have I seen"
         },
         {
           "key": "C",
-          "text": "whereas"
+          "text": "I saw"
         },
         {
           "key": "D",
-          "text": "when"
+          "text": "did I see"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B。「in that」用於正式書面語中說明理由，後接完整從句。A 雖也可表理由，但較口語；C 表示「雖然」比較；D 表示時間，皆不符。題目強調「in that」的正式性與精確性。",
+      "explanation": "Never置於句首引發完全倒裝，助動詞have提前於主詞I前。正確形式：Never have I seen...。選項A缺乏倒裝；C過去簡單式不符合現在完成的意義；D用did表示過去，但此句應強調從未經歷過的經驗，需用現在完成式。",
       "id": 2
     },
     {
-      "question_chi": "選擇適當用法說明該產品的獨特之處",
-      "question_eng": "The smartphone distinguishes itself from competitors _______ the camera system integrates AI technology that enhances image quality in low-light conditions.",
+      "question_chi": "選擇正確形式，表示很少有人知道這個秘密已經被揭露",
+      "question_eng": "Rarely _______ the secret _______ before today.",
       "options": [
         {
           "key": "A",
-          "text": "in which way"
+          "text": "has been revealed"
         },
         {
           "key": "B",
-          "text": "in that"
+          "text": "had the secret been revealed"
         },
         {
           "key": "C",
-          "text": "in case"
+          "text": "has the secret been revealed"
         },
         {
           "key": "D",
-          "text": "in order that"
-        }
-      ],
-      "answer": "B",
-      "explanation": "正確答案是 B。「in that」後接完整從句，用於說明「在於……方面」。A 的「in which way」非標準用法；C 表示「以防」；D 表示「以便」，都不符文意。本題測試「in that」與其他介系詞片語的區別。",
-      "id": 3
-    },
-    {
-      "question_chi": "選擇最適當的表達方式完成學術評論",
-      "question_eng": "The research paper makes a significant contribution to the field _______ it challenges conventional assumptions by proposing a novel theoretical framework that reconciles previously conflicting schools of thought.",
-      "options": [
-        {
-          "key": "A",
-          "text": "where"
-        },
-        {
-          "key": "B",
-          "text": "whereby"
-        },
-        {
-          "key": "C",
-          "text": "in that"
-        },
-        {
-          "key": "D",
-          "text": "in which"
+          "text": "have been revealed"
         }
       ],
       "answer": "C",
-      "explanation": "正確答案是 C。「in that」用於正式書面語說明具體理由，強調「理由在於……」。A「where」表地點；B「whereby」雖為正式用語但強調方式、手段，後接分詞或動詞不定式；D「in which」為關係副詞，通常指地點。本題測試「in that」在學術文章中的專用地位。",
+      "explanation": "Rarely置於句首引發倒裝：Rarely + has + the secret + been revealed。被動語態需用現在完成式表示至今未發生。選項A缺助動詞has；B多餘重複the secret；D主詞動詞不符（have應配複數主詞）。此題強調助動詞倒裝與被動語態結合。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適切的選項，表示他剛踏入辦公室就立即被指派任務",
+      "question_eng": "No sooner _______ the office _______ he was assigned a task.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did he enter than"
+        },
+        {
+          "key": "B",
+          "text": "had he entered than"
+        },
+        {
+          "key": "C",
+          "text": "he entered when"
+        },
+        {
+          "key": "D",
+          "text": "had he entered when"
+        }
+      ],
+      "answer": "B",
+      "explanation": "No sooner...than結構中，No sooner後須用過去完成式had + pp，than後用過去簡單式。正確形式：No sooner had he entered the office than he was assigned a task。選項A用did不符時態要求；C/D用when不符此固定搭配，No sooner必須搭配than而非when。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "這個應用程式很受歡迎，因為它很容易使用。",
-      "answer": "This application is popular in that it is easy to use.",
+      "sentence_chi": "我很少遲到上學。",
+      "answer": "Seldom do I arrive at school late.",
       "key_points": [
-        "in that 引導原因從句",
-        "主句：This application is popular",
-        "從句：it is easy to use"
+        "Seldom 置於句首",
+        "助動詞 do 倒裝提前",
+        "主詞 I 後接動詞原型 arrive"
       ],
       "hints": [
-        "提示1：結構為『主句 + in that + 完整從句』，in that 後需接完整的 S + V",
-        "提示2：不可省略從句中的主詞 it，也不可用 because 替代以符合「正式書面語」的要求"
+        "句型框架：Seldom + do/does + S + V 原型",
+        "注意：不能寫成 'Seldom I arrive'（缺少倒裝助動詞）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "這個考試很困難，在於它涵蓋了許多課本外的知識。",
-      "answer": "This exam is difficult in that it covers a lot of knowledge beyond the textbook.",
+      "sentence_chi": "他幾乎從未缺席過班級會議。",
+      "answer": "Hardly has he ever missed a class meeting.",
       "key_points": [
-        "in that 強調「在於……方面」的正式用法",
-        "主句：This exam is difficult",
-        "從句：it covers a lot of knowledge beyond the textbook"
+        "Hardly 置於句首表否定",
+        "助動詞 has 倒裝提前",
+        "過去分詞 missed 搭配完成式"
       ],
       "hints": [
-        "提示1：in that 比 because 更正式、更精確，適合學術語境；後接完整從句需含主詞和動詞",
-        "提示2：常見錯誤是將 in that 寫成 in which 或省略從句主詞，應注意 in that 引導原因而非關係"
+        "句型框架：Hardly + has/have + S + 過去分詞",
+        "注意：與簡單過去式 'did miss' 區別，此處用完成式強調'從未發生過'"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "網路購物有其優勢，優勢在於消費者可以在家中輕鬆比較不同商品的價格。",
-      "answer": "Online shopping has its advantages in that consumers can easily compare prices of different products at home.",
+      "sentence_chi": "她很少不完成功課就上床睡覺。",
+      "answer": "Rarely does she go to bed without finishing her homework.",
       "key_points": [
-        "in that 說明前句抽象概念的具體內容",
-        "主句使用 has its advantages（有其優勢）",
-        "從句：consumers can easily compare prices of different products at home"
+        "Rarely 否定副詞倒裝句首",
+        "助動詞 does 倒裝",
+        "without + V-ing 片語修飾"
       ],
       "hints": [
-        "提示1：當主句表達抽象概念（如優勢、特點）時，in that 從句提供具體說明；結構為『S + V + O + in that + S + V + O』",
-        "提示2：注意從句須為完整句型，動詞 can compare 不可簡化；avoid 用 which 或 where 替代 in that"
+        "句型框架：Rarely + does + S + V 原型 + 補語",
+        "注意：without + 動名詞是常見搭配，不影響倒裝結構"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "社群媒體對年輕世代的影響是複雜的，複雜之處在於它既能促進溝通，也可能導致心理健康問題。",
-      "answer": "The impact of social media on young people is complex in that it can both promote communication and potentially cause mental health problems.",
+      "sentence_chi": "我們才剛走出教室，大雨就傾盆而下。",
+      "answer": "No sooner had we left the classroom than it poured with rain.",
       "key_points": [
-        "in that 引導並列從句結構（both...and...）",
-        "主句：The impact of social media on young people is complex",
-        "從句中包含並列複句：it can both promote...and cause..."
+        "No sooner...than 特殊倒裝句型",
+        "第一個分句用過去完成式 had + 過去分詞",
+        "第二個分句用簡單過去式表先後順序"
       ],
       "hints": [
-        "提示1：in that 後的從句可包含複雜結構（如並列句或多個子句），仍需保持完整 S + V 形式；此題展示『S + V + C + in that + S + V + O + and + V + O』的複雜用法",
-        "提示2：常見錯誤包括：(1)在 both 前誤加 in that；(2)省略第二個動詞 cause；(3)誤用 because 而失去正式書面語的效果"
+        "句型框架：No sooner + had + S + 過去分詞 + than + S + 簡單過去式",
+        "注意：'剛一...就...' 的時序關係，前分句必須用 had（過去完成式），後分句用 did（簡單過去式）"
       ]
     }
   ]

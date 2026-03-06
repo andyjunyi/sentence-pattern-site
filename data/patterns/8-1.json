@@ -147,6 +147,43 @@
         "直接原因",
         "主句在前"
       ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        null,
+        " she missed the morning bus, she arrived at school late.",
+        null
+      ],
+      "blanks": [
+        "Because",
+        "So she arrived at school late 或 she was late to school"
+      ],
+      "sentence": "Because she missed the morning bus, she arrived at school late.",
+      "translation": "因為她錯過了早班公車，所以她上學遲到了。",
+      "keywords": [
+        "because",
+        "直接原因",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "We should leave now ",
+        null,
+        " there is heavy traffic ahead."
+      ],
+      "blanks": [
+        "because"
+      ],
+      "sentence": "We should leave now because there is heavy traffic ahead.",
+      "translation": "我們現在應該離開，因為前面交通擁堵。",
+      "keywords": [
+        "because",
+        "直接理由",
+        "行動動機"
+      ]
     }
   ],
   "vocab_table": [
@@ -300,6 +337,56 @@
       "answer": "C",
       "explanation": "C 項正確，Since 引導原因子句，句構合法。A 項錯誤，From 為介詞，不能接 S + V 結構，應改為 Because/Since。B 項錯誤，重複使用連接詞（As + because），屬結構重疊。D 項錯誤，Due to 後接名詞，不能同時用 so，產生雙連接詞錯誤。",
       "id": 4
+    },
+    {
+      "question_chi": "選擇適當的原因連接詞填入空格，表示直接明確的原因",
+      "question_eng": "_______ she missed the bus, she arrived at school late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "Since"
+        },
+        {
+          "key": "C",
+          "text": "As"
+        },
+        {
+          "key": "D",
+          "text": "So"
+        }
+      ],
+      "answer": "A",
+      "explanation": "因為題目要求表示直接明確的原因（她遲到的主要原因是錯過公車），應用 because 語氣最強。Since 表已知理由，as 表附帶理由，語氣較弱，不符。So 是結果連接詞，不能用於原因子句。",
+      "id": 5
+    },
+    {
+      "question_chi": "選擇正確的原因連接詞和語序，完成因果句",
+      "question_eng": "_______ you have already finished your homework, you can go out to play with your friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "Since"
+        },
+        {
+          "key": "C",
+          "text": "So"
+        },
+        {
+          "key": "D",
+          "text": "Therefore"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此句表達已知或顯而易知的原因（你已完成功課是眾所周知的事實），應用 since。Because 語氣太強不適合已知事實，so 和 therefore 是結果連接詞，不能引導原因子句。",
+      "id": 6
     }
   ],
   "translation_exercises": [
@@ -357,6 +444,34 @@
       "hints": [
         "提示1：複雜句型中，Because 後可接較複雜的子句結構；主句包含多重信息時，邏輯要清晰",
         "提示2：避免誤用 because...so... 或 from + 名詞；注意 such as 的用法；若從句在首位，逗號不可省"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "因為明天有英文考試，所以我今晚必須認真讀書。",
+      "answer": "Because there is an English exam tomorrow, I have to study hard tonight. / I have to study hard tonight because there is an English exam tomorrow.",
+      "key_points": [
+        "because 表直接原因",
+        "There is an English exam tomorrow",
+        "have to study hard"
+      ],
+      "hints": [
+        "提示1：because 子句可置於句首（後接逗號）或句尾，主句結構保持不變",
+        "提示2：不要使用『Because... so...』的雙重連接詞，因為語意重複"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "既然你已經完成作業，就可以去和朋友玩了。",
+      "answer": "Since you have already finished your homework, you can go play with your friends. / You can go play with your friends since you have already finished your homework.",
+      "key_points": [
+        "since 表已知或顯而易知的原因",
+        "have already finished",
+        "can go play with"
+      ],
+      "hints": [
+        "提示1：since 語氣弱於 because，常用於雙方都認可的事實；子句可前可後",
+        "提示2：注意完成式 have finished 的使用，強調動作已完成"
       ]
     }
   ]

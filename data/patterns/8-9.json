@@ -1,79 +1,79 @@
 {
   "code": "8-9",
   "chapter": 8,
-  "title": "before / after / until / since + S + V",
+  "title": "as soon as / the moment / once + S + V",
   "formulas": [
     {
-      "formula": "Before/After/Until/Since + S + V, S + V",
-      "zh": "在...之前/之後/直到/自從...時間點，主句動作發生"
+      "formula": "As soon as / The moment / Once + S + V, S + V",
+      "zh": "一……就……，表示兩個動作緊密相連，前一動作完成立刻引發後一動作"
     },
     {
-      "formula": "S + V before/after/until/since S + V",
-      "zh": "主句動作先發生，後接時間連接詞引導的時間子句"
+      "formula": "S + V as soon as / the moment / once + S + V",
+      "zh": "後置型：主要子句在前，時間連接詞子句在後"
     }
   ],
-  "explanation": "時間連接詞引導時間副詞子句，說明主句動作發生的時間點。Before/After/Until 可用於任何時態；Since 特殊，從句接過去簡單式，主句接現在完成式或現在完成進行式。時間子句可置於句首或句尾。注意 Since 表示「自從...以來」，強調持續性，而 Before/After 表示單一時間點。",
+  "explanation": "此句型用於表達兩動作的立即先後關係，強調時間上的緊密銜接。三個連接詞中，as soon as最常用且最直接；the moment帶有瞬間性；once則強調第一次發生的條件含義。關鍵點：時間子句必須用現在式表未來，不能用將來式；主要子句可用任何時態。常見錯誤是使用will在時間子句中，或混淆as soon as與when的細微差別（as soon as更強調立即性）。",
   "examples": [
     {
       "id": 1,
-      "eng": "Before I graduated from high school, I had never thought about studying abroad.",
-      "chi": "在我高中畢業之前，我從未想過出國留學。",
+      "eng": "As soon as you arrive at the airport, please call me.",
+      "chi": "你一到達機場，請立刻打電話給我。",
       "keywords": [
-        "before",
-        "過去完成式",
-        "時間子句"
+        "as soon as",
+        "現在式代未來",
+        "立即性"
       ]
     },
     {
       "id": 2,
-      "eng": "Since she moved to Taipei, she has made many new friends.",
-      "chi": "自從她搬到台北，她交了很多新朋友。",
+      "eng": "The moment the teacher enters the classroom, students stop talking.",
+      "chi": "老師一進教室，學生們就停止說話。",
       "keywords": [
-        "since",
-        "現在完成式",
-        "持續性時間"
+        "the moment",
+        "條件反射",
+        "規律性動作"
       ]
     },
     {
       "id": 3,
-      "eng": "After the exam finished, the students felt relieved and celebrated together.",
-      "chi": "考試結束後，學生們感到放鬆並一起慶祝。",
+      "eng": "Once you finish your homework, you can watch TV for one hour.",
+      "chi": "一旦你完成功課，你就可以看一個小時的電視。",
       "keywords": [
-        "after",
-        "時間先後順序",
-        "過去簡單式"
+        "once",
+        "第一次發生",
+        "條件許可"
       ]
     },
     {
       "id": 4,
-      "eng": "Until you practice regularly, you will never improve your English pronunciation.",
-      "chi": "除非你定期練習，否則你永遠無法改善英文發音。",
+      "eng": "She will inform us the moment she receives the test results.",
+      "chi": "她一收到考試成績就會告知我們。",
       "keywords": [
-        "until",
-        "條件含義",
-        "現在簡單式"
+        "the moment",
+        "後置型結構",
+        "將來式主句"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "Since 子句必須用過去簡單式，主句必須用現在完成式。Before 和 After 的時態需配合邏輯：Before 後通常接過去完成式；After 後接過去簡單式。Until 可表否定義（not...until），意為「直到才」。",
+    "tip": "判斷關鍵：看是否要表達「一……就……」的立即因果關係。時間子句不可用will，應用現在式。Once強調條件（一旦第一次），而as soon as只強調時間點的接近性。若要表達習慣性反應，用the moment最貼切。",
     "examples": [
       {
-        "test": "Since she left, I have felt lonely. ✓ vs. Since she left, I felt lonely. ✗",
-        "result": "→ Since 子句用過去簡單式，主句必須用現在完成式表示持續至今的狀態"
+        "test": "❌ As soon as you will arrive, I will pick you up.",
+        "result": "→ ✓ As soon as you arrive, I will pick you up.（時間子句用現在式，不用will）"
       },
       {
-        "test": "Until he apologized, she didn't forgive him. ✓ vs. Until he apologized, she forgave him. ✗",
-        "result": "→ Until 配合否定形，表示「直到才」，強調時間的等待性"
+        "test": "❌ Once you finished your work, you can leave.",
+        "result": "→ ✓ Once you finish your work, you can leave.（時間子句須用現在式，非過去式）"
       },
       {
-        "test": "After I finished my homework, I watched TV. ✓ vs. After I finish my homework, I watched TV. ✗",
-        "result": "→ After 子句與主句時態保持一致的過去簡單式"
+        "test": "✓ The moment I saw her face, I knew she was upset.",
+        "result": "→ 過去式：表過去完成的立即反應，時態保持一致"
       }
     ],
-    "note": "Since 用完成式，Before 用過去完成式，After 用過去簡單式，Until 配合否定義。"
+    "note": "時間子句永遠用現在式（代未來）或過去式（代過去），絕不用將來式；三詞詞根：as soon as=最快速、once=第一次、the moment=瞬間點。"
   },
   "exercises": [
     {
@@ -81,35 +81,35 @@
       "parts": [
         "",
         null,
-        " she moved to London, she has been very happy."
+        " the airport, send me a text message."
       ],
       "blanks": [
-        "Since"
+        "As soon as you arrive at"
       ],
-      "sentence": "Since she moved to London, she has been very happy.",
-      "translation": "自從她搬到倫敦，她一直很快樂。",
+      "sentence": "As soon as you arrive at the airport, send me a text message.",
+      "translation": "你一到達機場，就傳簡訊給我。",
       "keywords": [
-        "since",
-        "現在完成進行式",
-        "時間連接詞"
+        "as soon as",
+        "arrive",
+        "現在式代未來"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "",
+        "The moment the concert",
         null,
-        " the meeting started, the director has been discussing the project details."
+        ", the audience started cheering."
       ],
       "blanks": [
-        "Since"
+        "began"
       ],
-      "sentence": "Since the meeting started, the director has been discussing the project details.",
-      "translation": "自從會議開始，主任一直在討論專案細節。",
+      "sentence": "The moment the concert began, the audience started cheering.",
+      "translation": "音樂會一開始，觀眾就歡呼起來。",
       "keywords": [
-        "since",
-        "現在完成進行式",
-        "持續動作"
+        "the moment",
+        "過去式",
+        "立即反應"
       ]
     },
     {
@@ -117,246 +117,249 @@
       "parts": [
         "",
         null,
-        " graduation, many of my classmates have pursued their dreams in different fields."
+        " you understand this concept, the exam will be easier for you."
       ],
       "blanks": [
-        "Since"
+        "Once"
       ],
-      "sentence": "Since graduation, many of my classmates have pursued their dreams in different fields.",
-      "translation": "自從畢業以來，我的許多同學在不同領域追求他們的夢想。",
+      "sentence": "Once you understand this concept, the exam will be easier for you.",
+      "translation": "一旦你理解了這個概念，考試對你來說就會容易得多。",
       "keywords": [
-        "since",
-        "現在完成式",
-        "時間段落"
+        "once",
+        "條件含義",
+        "第一次掌握"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "",
+        "I will let you know ",
         null,
-        " you finish reading this book, you will understand the author's intention better."
+        " I receive the confirmation email."
       ],
       "blanks": [
-        "After"
+        "the moment"
       ],
-      "sentence": "After you finish reading this book, you will understand the author's intention better.",
-      "translation": "在你讀完這本書之後，你會更好地理解作者的意圖。",
+      "sentence": "I will let you know the moment I receive the confirmation email.",
+      "translation": "我一收到確認郵件，就會通知你。",
       "keywords": [
-        "after",
-        "未來簡單式",
-        "時間先後順序"
+        "the moment",
+        "後置型",
+        "將來式主句"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "before",
-      "zh": "在...之前"
+      "adj": "arrive",
+      "zh": "到達"
     },
     {
-      "adj": "after",
-      "zh": "在...之後"
+      "adj": "receive",
+      "zh": "收到"
     },
     {
-      "adj": "until",
-      "zh": "直到；直到...才"
-    },
-    {
-      "adj": "since",
-      "zh": "自從；既然"
-    },
-    {
-      "adj": "graduate",
-      "zh": "畢業"
-    },
-    {
-      "adj": "moved",
-      "zh": "搬遷"
-    },
-    {
-      "adj": "finished",
+      "adj": "finish",
       "zh": "完成"
     },
     {
-      "adj": "practice",
-      "zh": "練習"
+      "adj": "begin",
+      "zh": "開始"
     },
     {
-      "adj": "improve",
-      "zh": "改善"
+      "adj": "enter",
+      "zh": "進入"
     },
     {
-      "adj": "relieved",
-      "zh": "安心的；放鬆的"
+      "adj": "immediately",
+      "zh": "立刻"
     },
     {
-      "adj": "never",
-      "zh": "從不；決不"
+      "adj": "right away",
+      "zh": "馬上"
     },
     {
-      "adj": "regularly",
-      "zh": "定期地"
+      "adj": "without delay",
+      "zh": "沒有延遲地"
+    },
+    {
+      "adj": "instantaneous",
+      "zh": "瞬間的"
+    },
+    {
+      "adj": "consecutive",
+      "zh": "連貫的"
+    },
+    {
+      "adj": "simultaneous",
+      "zh": "同時的"
+    },
+    {
+      "adj": "prompt",
+      "zh": "迅速的"
     }
   ],
-  "vocab_table_label": "常用時間連接詞",
+  "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的時間連接詞完成句子，說明事件發生順序。",
-      "question_eng": "_______ I arrived at the station, the train had already left.",
+      "question_chi": "選擇最適合填空的連接詞，表達兩動作的立即先後關係",
+      "question_eng": "_______ you finish your homework, you can go out and play with your friends.",
       "options": [
         {
           "key": "A",
-          "text": "Before"
+          "text": "As soon as"
         },
         {
           "key": "B",
-          "text": "After"
+          "text": "Because"
         },
         {
           "key": "C",
-          "text": "Since"
+          "text": "Although"
         },
         {
           "key": "D",
-          "text": "Until"
+          "text": "Unless"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B (After)。句子表示「在我到達車站之後，火車已經離開」，時間順序是：火車先離開，然後我才到達。After 引導的時間子句表示先發生的事件。選項 A (Before) 邏輯相反；C (Since) 用於持續性狀態不符；D (Until) 表示「直到...為止」邏輯不當。",
+      "answer": "A",
+      "explanation": "正確答案為A「As soon as」，表示「一...就...」，強調兩動作的立即先後關係。選項B「Because」（因為）表因果關係；選項C「Although」（雖然）表讓步；選項D「Unless」（除非）表條件否定。文意需要表達完成功課後就可外出，只有A符合。",
       "id": 1
     },
     {
-      "question_chi": "根據句子時態判斷正確的時間連接詞，強調持續狀態。",
-      "question_eng": "_______ she graduated from university, she has been working as an engineer for five years.",
+      "question_chi": "填入適當的時態，注意時間子句的時態規則",
+      "question_eng": "The moment he _______ the news, he immediately called his parents to share the good news.",
       "options": [
         {
           "key": "A",
-          "text": "Before"
+          "text": "heard"
         },
         {
           "key": "B",
-          "text": "After"
+          "text": "will hear"
         },
         {
           "key": "C",
-          "text": "Since"
+          "text": "has heard"
         },
         {
           "key": "D",
-          "text": "Until"
+          "text": "would hear"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是 C (Since)。主句使用現在完成式 (has been working) 表示持續狀態，搭配 Since 引導的過去簡單式 (graduated)，表示「自從她大學畢業以來」的持續性。Before/After 用於單一時間點；Until 表示時間的終點，時態搭配不符。",
+      "answer": "A",
+      "explanation": "正確答案為A「heard」。雖然主要子句「called」用過去式表達已發生的事件，時間子句中的「The moment」後仍須用過去簡單式對應。選項B「will hear」違反時間子句不用將來式的規則；選項C「has heard」與過去敘事背景不符；選項D「would hear」為條件虛擬語氣，不適用於此。",
       "id": 2
     },
     {
-      "question_chi": "填入適當連接詞，主句使用完成式表達已完成的動作。",
-      "question_eng": "_______ we had finished our project, we celebrated with our team members at a nearby restaurant.",
+      "question_chi": "選擇正確句子，強調第一次發生的條件含義",
+      "question_eng": "Which sentence is correct? A. Once you will submit the application, it cannot be changed. B. Once you submit the application, it cannot be changed. C. Once you submitted the application, it cannot be changed. D. Once you have submitted the application, it cannot be changed.",
       "options": [
         {
           "key": "A",
-          "text": "Since"
+          "text": "Once you will submit the application, it cannot be changed."
         },
         {
           "key": "B",
-          "text": "Until"
+          "text": "Once you submit the application, it cannot be changed."
         },
         {
           "key": "C",
-          "text": "After"
+          "text": "Once you submitted the application, it cannot be changed."
         },
         {
           "key": "D",
-          "text": "Before"
-        }
-      ],
-      "answer": "C",
-      "explanation": "正確答案是 C (After)。主句使用過去簡單式 (celebrated)，表示在完成項目之後進行慶祝活動。After 引導時間子句說明先完成的事件 (had finished)。Since 需搭配現在完成式；Until 表終點不符；Before 邏輯相反。句子結構為：After + 過去完成式，+ 過去簡單式。",
-      "id": 3
-    },
-    {
-      "question_chi": "辨析 until 與 before 的區別，判斷合適的連接詞。",
-      "question_eng": "The company will continue to operate this factory _______ the new environmental regulations are implemented, which is expected to take another two years.",
-      "options": [
-        {
-          "key": "A",
-          "text": "before"
-        },
-        {
-          "key": "B",
-          "text": "until"
-        },
-        {
-          "key": "C",
-          "text": "since"
-        },
-        {
-          "key": "D",
-          "text": "after"
+          "text": "Once you have submitted the application, it cannot be changed."
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B (until)。句意為「在新環保法規實施之前，公司會繼續運營這座工廠」。Until 表示持續狀態直到某時間點終止，符合「繼續運營直到新法規實施」的邏輯。Before 表示時間點，不強調持續；Since 強調自某點開始的持續狀態；After 表先後順序。Future continuous 搭配 until 表示某狀態在未來持續到某時間點停止。",
+      "explanation": "正確答案為B。「Once」引導的時間子句須用現在簡單式表達未來事件「submit」，主要子句才能用「cannot be changed」表達後續結果。選項A「will submit」違反時間子句時態規則；選項C「submitted」為過去式，與主要子句現在狀態不符；選項D「have submitted」為完成式，改變原意為已完成的事實而非條件敘述。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考查連接詞選擇、時態運用及立即性強調",
+      "question_eng": "_______ the project manager _______ the final report, all team members _______ to celebrate the successful completion of their work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As soon as / submits / gather"
+        },
+        {
+          "key": "B",
+          "text": "The moment / will submit / will gather"
+        },
+        {
+          "key": "C",
+          "text": "Once / submitting / have gathered"
+        },
+        {
+          "key": "D",
+          "text": "When / has submitted / gathers"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「As soon as / submits / gather」。時間子句「As soon as the project manager submits」用現在簡單式表未來，強調立即性；主要子句「all team members gather」用現在簡單式描述隨後發生的動作。選項B「will submit」違反時間子句時態規則；選項C「submitting」為動名詞，不能作時間子句動詞；選項D「has submitted」為完成式，不符合簡潔敘事風格，且「when」的立即性不如「as soon as」。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "在我完成功課之前，我不能去朋友家玩。",
-      "answer": "Before I finish my homework, I cannot go to my friend's house. / I cannot go to my friend's house before I finish my homework.",
+      "sentence_chi": "你一到家，媽媽就會問你的功課進度。",
+      "answer": "As soon as you arrive home, your mother will ask about your homework progress. / The moment you arrive home, your mother will ask about your homework progress.",
       "key_points": [
-        "Before + S + V 時間子句",
-        "cannot/can't 表示禁止或不能",
-        "主句一般現在式"
+        "as soon as / the moment 引導時間子句",
+        "arrive（現在式表未來）",
+        "will ask（主句用未來式）"
       ],
       "hints": [
-        "提示1：Before 子句可置於句首（加逗號）或句尾（不加逗號）",
-        "提示2：注意 finish 用第一人稱單數形式，主句 cannot 後接原形動詞"
+        "提示1：時間子句用現在式 arrive，主句用 will ask 表未來",
+        "提示2：切勿寫成 'As soon as you will arrive'，時間子句不能用 will"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "自從她搬到台北以來，她一直在補習班教英文。",
-      "answer": "Since she moved to Taipei, she has been teaching English at a cram school. / She has been teaching English at a cram school since she moved to Taipei.",
+      "sentence_chi": "一旦他收到大學錄取通知，他就會立刻告訴朋友們。",
+      "answer": "Once he receives his university admission letter, he will immediately tell his friends. / The moment he receives his university admission letter, he will immediately inform his friends.",
       "key_points": [
-        "Since + S + V (過去簡單式)",
-        "現在完成進行式 has been teaching",
-        "表示持續性動作"
+        "once 強調第一次發生的條件",
+        "receives（現在式）",
+        "will tell / will inform（未來式）",
+        "immediately（強調立即性）"
       ],
       "hints": [
-        "提示1：Since 從句必須用過去簡單式，主句用現在完成式或現在完成進行式，強調動作自過去持續至今",
-        "提示2：常見錯誤是主句用現在簡單式 'teaches' 或從句用現在完成式"
+        "提示1：once 用於首次發生的事件，時間子句用現在式 receives",
+        "提示2：注意 once 與 as soon as 的區別——once 帶有『一旦』的條件義，as soon as 更強調時間緊密性"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "直到他收到大學錄取通知後，他的父母才放心了。",
-      "answer": "After he received the university admission letter, his parents finally felt relieved. / His parents finally felt relieved after he received the university admission letter.",
+      "sentence_chi": "只要考試結束，學生們就會衝出教室去討論答案。",
+      "answer": "As soon as the exam finishes, the students will rush out of the classroom to discuss the answers. / The moment the exam is over, students will rush out of the classroom discussing the answers.",
       "key_points": [
-        "After + S + V (過去簡單式)",
-        "received 表示過去完成的動作",
-        "finally 強調時間點的轉變"
+        "as soon as 最適合此情境（強調立即性）",
+        "exam finishes / is over（現在式）",
+        "will rush out（主句未來式）",
+        "to discuss / discussing（目的或伴隨動作）"
       ],
       "hints": [
-        "提示1：After 表示一個單一時間點之後，兩個動作都用過去簡單式表示先後順序",
-        "提示2：注意 'relieved' 是形容詞或過去分詞，作為感受狀態；不要混淆 'until' 和 'after' 的用法"
+        "提示1：時間子句必須用現在式 finishes 或 is over，不能用 will finish",
+        "提示2：『衝出去討論』可用不定詞 to discuss 表目的，或分詞 discussing 表伴隨動作"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "自從疫情開始以來，學生們已經習慣於在家上線課程，直到學校完全恢復實體上課為止。",
-      "answer": "Since the pandemic started, students have grown accustomed to taking online classes until schools fully resumed in-person classes. / Since the pandemic began, students have been adjusting to online learning until physical classes returned to normal.",
+      "sentence_chi": "你一聽到手機鈴聲，就應該檢查是否有重要訊息，但許多人往往忽略了這種禮貌。",
+      "answer": "The moment you hear your phone ringing, you should check whether there are any important messages, though many people tend to overlook this courtesy. / Once you hear the notification, you ought to examine if there are urgent messages, but it is often neglected as a matter of etiquette.",
       "key_points": [
-        "Since + S + V (過去簡單式) 與現在完成式搭配",
-        "Until 表示持續到某個時間點",
-        "複合時間子句結構"
+        "the moment 帶瞬間性，強調接收信息的一刻",
+        "hear / ringing（現在式表示時間點）",
+        "should check（情態動詞表建議）",
+        "從句轉折（though / but）連接社會現象評論"
       ],
       "hints": [
-        "提示1：Since 引導的時間副詞子句置於句首，主句用現在完成式；Until 可單獨出現在主句尾，說明狀況持續到何時",
-        "提示2：注意 'since' 強調持續性（已經持續的狀態），'until' 標記終點；兩者可在同一句中搭配使用，但分別引導不同的時間概念"
+        "提示1：『一聽到』用 the moment 更具瞬間感，時間子句用 hear（現在式），主句可用 should 表義務或建議",
+        "提示2：此題難在結合日常禮儀評論，須注意時間子句與主句的邏輯關係完整，避免主句用 will 而喪失情態意義"
       ]
     }
   ]

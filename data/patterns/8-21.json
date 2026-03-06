@@ -1,362 +1,360 @@
 {
   "code": "8-21",
   "chapter": 8,
-  "title": "however / therefore / moreover / furthermore（連接副詞）",
+  "title": "S + V + except that / except for + N",
   "formulas": [
     {
-      "formula": "S + V; however/therefore/moreover, S + V",
-      "zh": "獨立子句；連接副詞，獨立子句（需用分號或句號分隔）"
+      "formula": "S + V + except that + S + V",
+      "zh": "主語＋動詞＋除了……之外（後接子句）"
     },
     {
-      "formula": "S + V. However/Therefore/Moreover, S + V",
-      "zh": "獨立子句。連接副詞，獨立子句（可用句號分隔兩句）"
+      "formula": "S + V + except for + N",
+      "zh": "主語＋動詞＋除了……之外（後接名詞）"
     }
   ],
-  "explanation": "連接副詞（如 however、therefore、moreover）用於連接兩個獨立子句，但不能像對等連接詞一樣直接用逗號連接。正確用法：(1)分號+連接副詞+逗號；(2)句號後新起一句+連接副詞+逗號。連接副詞本身無連接功能，只提供邏輯關係。常見錯誤是用逗號直接連接兩句（逗號接合錯誤）。此句型適用於書面語、學術文章及正式寫作。",
+  "explanation": "except that 與 except for 均表達「除了……之外」的例外情況。except that 後接完整子句（含主語與動詞），用於說明某個具體狀況；except for 後接名詞或名詞片語，用於指出某個事物或要素。兩者不可互換。需特別注意與 besides 的區別：besides 表「另外加上」（累加），而 except/except for 表「排除」（減除）。此句型常用於考試、評論或說明完整性時，強調某個例外改變了整體狀況。",
   "examples": [
     {
       "id": 1,
-      "eng": "The job is challenging; however, the salary is very competitive.",
-      "chi": "這份工作很有挑戰性；然而，薪資非常具競爭力。",
+      "eng": "The concert was wonderful, except that the sound system failed once.",
+      "chi": "演唱會很精彩，除了音響系統故障了一次。",
       "keywords": [
-        "分號",
-        "however",
-        "對比關係"
+        "except that",
+        "子句",
+        "例外狀況"
       ]
     },
     {
       "id": 2,
-      "eng": "He studied hard for months. Therefore, he passed the exam with flying colors.",
-      "chi": "他準備了好幾個月。因此，他考試成績優異。",
+      "eng": "Everything is ready for the trip except for the plane tickets.",
+      "chi": "旅行的一切都準備好了，除了飛機票。",
       "keywords": [
-        "句號",
-        "therefore",
-        "因果關係"
+        "except for",
+        "名詞",
+        "遺漏要素"
       ]
     },
     {
       "id": 3,
-      "eng": "The company expanded its market; moreover, it increased employee benefits significantly.",
-      "chi": "公司擴展了市場；而且，它大幅增加了員工福利。",
+      "eng": "The project would have succeeded except that we ran out of budget.",
+      "chi": "這個專案本來會成功，除了我們的預算用完了。",
       "keywords": [
-        "分號",
-        "moreover",
-        "遞進關係"
+        "except that",
+        "條件句",
+        "轉折"
       ]
     },
     {
       "id": 4,
-      "eng": "The weather was terrible. Nevertheless, the team completed the project on time.",
-      "chi": "天氣很糟糕。儘管如此，團隊仍按時完成了專案。",
+      "eng": "The exam was easy except for the last three questions.",
+      "chi": "考試很簡單，除了最後三題。",
       "keywords": [
-        "句號",
-        "nevertheless",
-        "讓步關係"
+        "except for",
+        "特定部分",
+        "難度對比"
       ]
     }
   ],
-  "adj_table_for": [],
+  "adj_table_for": [
+    {
+      "adj": "successful",
+      "zh": "成功的"
+    },
+    {
+      "adj": "complete",
+      "zh": "完整的"
+    },
+    {
+      "adj": "ready",
+      "zh": "準備好的"
+    },
+    {
+      "adj": "perfect",
+      "zh": "完美的"
+    },
+    {
+      "adj": "available",
+      "zh": "可用的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必需的"
+    },
+    {
+      "adj": "would have + pp",
+      "zh": "本來會……（與過去事實相反）"
+    },
+    {
+      "adj": "ran out of",
+      "zh": "用完、耗盡"
+    },
+    {
+      "adj": "forgot",
+      "zh": "忘記"
+    },
+    {
+      "adj": "failed",
+      "zh": "失敗、故障"
+    },
+    {
+      "adj": "was broken",
+      "zh": "壞掉、受損"
+    },
+    {
+      "adj": "had not arrived",
+      "zh": "沒有到達"
+    }
+  ],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷關鍵：連接副詞前必須有分號或句號，後面必須跟逗號。若看到逗號直接連接兩個完整句子就是錯誤。連接副詞可移位於句子中間，但分號的位置不變。記住：分號分隔獨立子句，連接副詞提供邏輯關係。",
+    "tip": "判斷使用 except that 或 except for 的關鍵：看例外部分是否為完整敘述。若是具體事件或動作狀況，用 except that + 子句；若是單純名詞或物品，用 except for + 名詞。except 表減除，beside/besides 表加上，兩者意義相反。",
     "examples": [
       {
-        "test": "❌ The exam was difficult, however, I passed it.",
-        "result": "→ 錯誤：逗號接合。正確應為：The exam was difficult; however, I passed it."
+        "test": "The day was perfect __ the rain in the afternoon.",
+        "result": "→ 填 except for（名詞 the rain）；不填 except that（因為主要句無動詞缺失）"
       },
       {
-        "test": "✓ The exam was difficult. However, I passed it.",
-        "result": "→ 正確：句號分隔，新句開始加連接副詞。符合本句型標準格式。"
+        "test": "Everyone passed the test __ John forgot to submit his answer sheet.",
+        "result": "→ 填 except that（後接完整子句 John forgot...）；不填 except for（except for 後無法直接接子句）"
       },
       {
-        "test": "✓ The exam was difficult; I passed it, however.",
-        "result": "→ 正確：連接副詞可置於句尾，分號仍為必要標點。但通常置於句首較常見。"
+        "test": "X: I love this restaurant besides the slow service. / O: I love this restaurant except for the slow service.",
+        "result": "→ 此處應用 except for（排除），不用 besides（besides 會變成「我喜歡這間餐廳，另外還喜歡慢的服務」，邏輯錯誤）"
       }
     ],
-    "note": "連接副詞前用分號或句號，後用逗號；逗號直接連兩句是大錯。"
+    "note": "except that 連接『動詞片段』，except for 連接『名詞片段』；except 是減除，besides 是加入。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The product quality is excellent",
+        "The meeting was productive ",
         null,
-        "the price is too high for most consumers."
+        " we ran out of time."
       ],
       "blanks": [
-        "; however,"
+        "except that"
       ],
-      "sentence": "The product quality is excellent; however, the price is too high for most consumers.",
-      "translation": "產品品質很好；然而，價格對大多數消費者來說太高了。",
+      "sentence": "The meeting was productive except that we ran out of time.",
+      "translation": "會議很有成效，除了我們時間用完了。",
       "keywords": [
-        "分號",
-        "however",
-        "價格對比"
+        "except that",
+        "子句",
+        "時間不足"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "She practiced the piano every day.",
+        "The house is in excellent condition ",
         null,
-        "she won the national competition."
+        " a few broken windows."
       ],
       "blanks": [
-        " Therefore,"
+        "except for"
       ],
-      "sentence": "She practiced the piano every day. Therefore, she won the national competition.",
-      "translation": "她每天練習鋼琴。因此，她贏得了全國比賽。",
+      "sentence": "The house is in excellent condition except for a few broken windows.",
+      "translation": "這間房子狀況很好，除了幾扇破窗。",
       "keywords": [
-        "句號",
-        "therefore",
-        "因果連接"
+        "except for",
+        "名詞片語",
+        "物品缺陷"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "The company hired 50 new employees",
+        "The vacation would have been perfect ",
         null,
-        "it opened three new branches overseas."
+        " my friend got sick halfway through."
       ],
       "blanks": [
-        "; moreover,"
+        "except that"
       ],
-      "sentence": "The company hired 50 new employees; moreover, it opened three new branches overseas.",
-      "translation": "公司僱用了50名新員工；而且，它在海外開設了三個新分公司。",
+      "sentence": "The vacation would have been perfect except that my friend got sick halfway through.",
+      "translation": "度假本來會完美，除了我朋友到一半時生病了。",
       "keywords": [
-        "分號",
-        "moreover",
-        "遞進補充"
+        "except that",
+        "過去反事實",
+        "意外事件"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The meeting was scheduled for 10 AM.",
+        "All the equipment is working properly ",
         null,
-        "all participants arrived on time."
+        " the printer in the office."
       ],
       "blanks": [
-        " Nevertheless,"
+        "except for"
       ],
-      "sentence": "The meeting was scheduled for 10 AM. Nevertheless, all participants arrived on time.",
-      "translation": "會議定在上午10點。儘管如此，所有參與者都準時到達。",
+      "sentence": "All the equipment is working properly except for the printer in the office.",
+      "translation": "所有設備都正常運作，除了辦公室的印表機。",
       "keywords": [
-        "句號",
-        "nevertheless",
-        "讓步對比"
+        "except for",
+        "特定設備",
+        "故障要素"
       ]
     }
   ],
-  "vocab_table": [
-    {
-      "adj": "however",
-      "zh": "然而、但是（表對比）"
-    },
-    {
-      "adj": "therefore",
-      "zh": "因此、所以（表因果）"
-    },
-    {
-      "adj": "moreover",
-      "zh": "而且、況且（表遞進）"
-    },
-    {
-      "adj": "nevertheless",
-      "zh": "儘管如此、然而（表讓步）"
-    },
-    {
-      "adj": "furthermore",
-      "zh": "此外、而且（表補充）"
-    },
-    {
-      "adj": "consequently",
-      "zh": "因此、結果（表因果）"
-    },
-    {
-      "adj": "instead",
-      "zh": "反之、相反地（表對比）"
-    },
-    {
-      "adj": "otherwise",
-      "zh": "否則、要不然（表條件）"
-    },
-    {
-      "adj": "meanwhile",
-      "zh": "同時、與此同時（表時間）"
-    },
-    {
-      "adj": "similarly",
-      "zh": "同樣地、類似地（表比較）"
-    },
-    {
-      "adj": "independently",
-      "zh": "獨立子句之間的分隔標點"
-    },
-    {
-      "adj": "transitional",
-      "zh": "過渡詞的特性"
-    }
-  ],
-  "vocab_table_label": "常用連接副詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的連接副詞用法，完成句子",
-      "question_eng": "The weather was terrible; _______, the outdoor concert was cancelled.",
+      "question_chi": "選擇正確的例外表達方式，完成句子。",
+      "question_eng": "The meal was delicious _______ the dessert was too sweet.",
       "options": [
         {
           "key": "A",
-          "text": "however"
+          "text": "except for"
         },
         {
           "key": "B",
-          "text": "therefore"
+          "text": "except that"
         },
         {
           "key": "C",
-          "text": "moreover"
+          "text": "besides"
         },
         {
           "key": "D",
-          "text": "furthermore"
+          "text": "except of"
         }
       ],
       "answer": "B",
-      "explanation": "此題測試連接副詞的邏輯關係。前句說天氣很糟，後句說音樂會被取消，兩句有因果關係，因此 therefore（因此）最恰當。however 表對比（不符邏輯），moreover/furthermore 表添加（不符邏輯）。分號+連接副詞+逗號是正確用法。",
+      "explanation": "正確答案是 B。except that 後接完整子句（主詞 + 動詞），用於說明具體狀況。句子結構為「主餐很好吃，除了甜點太甜這個情況」。A 項 except for 後需接名詞，不能接子句。C 項 besides 表「另外加上」（累加意義），不符合例外排除的邏輯。D 項 except of 用法錯誤。",
       "id": 1
     },
     {
-      "question_chi": "判斷標點符號和連接副詞的正確搭配",
-      "question_eng": "She worked overtime for weeks _______ she was promoted to senior manager.",
+      "question_chi": "根據句義選擇適當的例外詞組，表達缺少的物品。",
+      "question_eng": "Everything is prepared for the wedding _______ the guest list.",
       "options": [
         {
           "key": "A",
-          "text": ", therefore"
+          "text": "besides"
         },
         {
           "key": "B",
-          "text": "; therefore,"
+          "text": "except that"
         },
         {
           "key": "C",
-          "text": ", however"
+          "text": "except for"
         },
         {
           "key": "D",
-          "text": "; moreover,"
+          "text": "except with"
         }
       ],
-      "answer": "B",
-      "explanation": "此題測試連接副詞的正確標點用法。「她加班幾週」與「她被升職」有因果關係，應用 therefore。連接兩個獨立子句時，連接副詞前必須用分號，後必須用逗號（; therefore,）。選項 A 用逗號連接會造成逗號接合錯誤；選項 C/D 的邏輯關係不符。",
+      "answer": "C",
+      "explanation": "正確答案是 C。except for 後接名詞或名詞片語，用於指出特定事物的缺失。「除了賓客名單外，婚禮一切準備就緒」是排除性表達。A 項 besides 表累加，邏輯相反。B 項 except that 後需完整子句，不適用於單一名詞。D 項 except with 用法不當。",
       "id": 2
     },
     {
-      "question_chi": "在正式寫作中，選擇適當的連接副詞和標點",
-      "question_eng": "The new policy has increased efficiency in the warehouse. _______, employee satisfaction has also improved significantly.",
+      "question_chi": "辨別 except that 與 except for 的用法區別，完成複雜句式。",
+      "question_eng": "The presentation went smoothly _______ there was a technical glitch halfway through, and _______ that glitch, the audience was completely engaged.",
       "options": [
         {
           "key": "A",
-          "text": "However,"
+          "text": "except for; except that"
         },
         {
           "key": "B",
-          "text": "Moreover,"
+          "text": "except that; except for"
         },
         {
           "key": "C",
-          "text": "Therefore,"
+          "text": "except for; except for"
         },
         {
           "key": "D",
-          "text": "Nevertheless,"
+          "text": "besides; except that"
         }
       ],
       "answer": "B",
-      "explanation": "此題考查句號後新起一句時的連接副詞用法。前句提效率提升，後句補充員工滿意度也提升，兩者是相加關係。應用 moreover（而且、此外）表示添加資訊。however/nevertheless 表對比（不符），therefore 表因果（此處不適合，因兩句是平行關係非嚴格因果）。句號後新句開始時，連接副詞後接逗號。",
+      "explanation": "正確答案是 B。第一空：except that 引導完整子句「there was a technical glitch halfway through」。第二空：except for 後接名詞 that glitch。句意：「簡報進行順利，除了中途有技術故障，除了那個故障外，聽眾完全投入」。A 項順序相反。C 項都用 except for 導致第一空語法錯誤。D 項 besides 不表例外。",
       "id": 3
     },
     {
-      "question_chi": "複雜語境中辨別連接副詞的邏輯關係和標點正確性",
-      "question_eng": "The research team discovered significant flaws in the original methodology; _______, they decided to completely redesign the experiment from scratch, which inevitably delayed the project timeline by several months.",
+      "question_chi": "在複合句中正確運用 except that 與 except for，辨別細微差異。",
+      "question_eng": "The research project has achieved all its objectives _______ the funding committee's requirements weren't fully met, and _______ the time constraints, the team still managed to produce comprehensive results.",
       "options": [
         {
           "key": "A",
-          "text": "however, this finding was valuable"
+          "text": "except that; except for"
         },
         {
           "key": "B",
-          "text": "therefore, conducting new tests"
+          "text": "except for; except that"
         },
         {
           "key": "C",
-          "text": "furthermore, the budget constraints"
+          "text": "except that; except that"
         },
         {
           "key": "D",
-          "text": "as a result, they had to revise"
+          "text": "except for; except for"
         }
       ],
-      "answer": "D",
-      "explanation": "此題考查複合句中連接副詞的邏輯關係、搭配詞性和完整性。前句述發現缺陷，後句述決定重新設計實驗，具因果關係。應選能完整表達因果的連接副詞短語「as a result」。選項 A 引入新主題（違反邏輯），B 動名詞形式不完整，C 引入預算話題（偏離主題）。分號用法正確。",
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空：except that 引導完整子句「the funding committee's requirements weren't fully met」，說明具體狀況。第二空：except for 後接名詞片語 the time constraints，指出特定的限制條件。整句邏輯：「研究計畫達成所有目標，除了委員會要求未完全滿足；除了時間限制外，團隊仍產出完整成果」。B 項順序錯誤。C、D 項混淆兩種結構用法。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "這部電影很有趣；然而，它太長了。",
-      "answer": "The movie is very interesting; however, it is too long.",
+      "sentence_chi": "除了沒有WiFi之外，這間咖啡廳的環境很舒適。",
+      "answer": "The café is comfortable except for the lack of WiFi.",
       "key_points": [
-        "分號 + however + 逗號",
-        "兩個獨立子句結構",
-        "however 提供轉折邏輯"
+        "except for + N (the lack of WiFi)",
+        "形容詞 comfortable 描述整體",
+        "強調單一缺點"
       ],
       "hints": [
-        "提示1：使用『分號 + 連接副詞 + 逗號』來連接兩個完整句子",
-        "提示2：常見錯誤是用逗號直接連接 (The movie is very interesting, however it is too long.)，這是逗號接合錯誤"
+        "提示1：用 except for + 名詞片語來指出單一例外要素",
+        "提示2：注意不能用 except that，因為後面只是名詞概念，非完整子句"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "他每天都努力讀書。因此，他在考試中取得了高分。",
-      "answer": "He studies hard every day. Therefore, he achieved a high score on the exam.",
+      "sentence_chi": "這次月考成績還不錯，除了數學考得不理想之外。",
+      "answer": "My midterm exam results were quite good except that I didn't do well in mathematics.",
       "key_points": [
-        "句號後新起一句 + therefore + 逗號",
-        "因果關係邏輯",
-        "therefore 需要被逗號隔開"
+        "except that + S + V (I didn't do well)",
+        "完整子句說明具體狀況",
+        "前後邏輯對比"
       ],
       "hints": [
-        "提示1：當用句號分開時，連接副詞後跟逗號才能銜接下一子句",
-        "提示2：注意 therefore 後必須有逗號，不能寫成 Therefore he achieved... 或 Therefore, he achieved...（後者正確）"
+        "提示1：用 except that 後接完整子句時，要有主語和動詞",
+        "提示2：不能寫 'except for math'，因為要說明的是『表現不佳』這個動作，非單純名詞"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "這份工作薪水不高；而且，工作時間很長，所以很多人不想做。",
-      "answer": "The job offers low salary; moreover, the working hours are very long, so many people don't want to do it.",
+      "sentence_chi": "除了缺少實踐經驗之外，他在理論知識上已經掌握得很充分了。",
+      "answer": "Except for the lack of practical experience, he has mastered the theoretical knowledge quite well.",
       "key_points": [
-        "分號 + moreover + 逗號",
-        "moreover 表補充說明",
-        "複雜句中的連接副詞位置"
+        "except for + 名詞片語 (the lack of practical experience)",
+        "句首位置的倒裝使用",
+        "對比句式強調例外"
       ],
       "hints": [
-        "提示1：moreover 用於補充或強化前一句的觀點，使用『分號 + moreover + 逗號』",
-        "提示2：連接副詞後的子句可以很長，但連接副詞本身不提供連接功能，只提供邏輯關係"
+        "提示1：except for 引導的短語可置於句首，用逗號隔開主句",
+        "提示2：注意與 'besides practical experience' 的區別——前者是『排除』缺點，後者是『額外加上』"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "學生不僅需要掌握課本知識，而且還要培養實踐能力。此外，他們應該學會與人合作。因此，學校應該提供更多實踐機會。",
-      "answer": "Students need not only to master textbook knowledge but also to develop practical skills. Furthermore, they should learn to cooperate with others. Therefore, schools should provide more opportunities for practice.",
+      "sentence_chi": "這份計畫幾乎完美，除了時間規劃太緊張，導致執行部門感到壓力很大。",
+      "answer": "The project is almost flawless except that the timeline is too tight, which puts tremendous pressure on the implementation team.",
       "key_points": [
-        "連續使用多個連接副詞 (furthermore + therefore)",
-        "句號後新起一句 + 連接副詞 + 逗號",
-        "段落邏輯遞進與因果關係"
+        "except that + 完整子句 (the timeline is too tight)",
+        "因果連鎖：例外原因引發後果",
+        "複雜句式結構"
       ],
       "hints": [
-        "提示1：多個連接副詞可在同一段落中使用，但每個都須遵循『句號後新起一句 + 連接副詞 + 逗號』或『分號 + 連接副詞 + 逗號』的規則",
-        "提示2：furthermore 表補充，therefore 表因果；不能混用或用逗號直接連接 (...they should learn to cooperate with others, therefore schools should...)"
+        "提示1：except that 後的子句可帶有因果關係或進一步說明，形成更複雜的邏輯",
+        "提示2：易誤用 'except for the tight timeline'——但若要強調『時間緊張導致的具體影響』，需用 except that 搭配完整動作敘述"
       ]
     }
   ]

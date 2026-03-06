@@ -1,362 +1,476 @@
 {
   "code": "8-10",
   "chapter": 8,
-  "title": "as soon as / the moment + S + V（一……就……）",
+  "title": "目的副詞子句 so that / in order that",
   "formulas": [
     {
-      "formula": "As soon as / The moment / Once + S + V, S + V",
-      "zh": "一……就……；強調兩個動作緊接發生，子句用現在式代未來"
+      "formula": "S + V + so that/in order that + S + can/will/may + V",
+      "zh": "主詞 + 動詞 + 為了讓/以便 + 主詞 + 能夠/將會/可能 + 動詞"
     },
     {
-      "formula": "No sooner + had + S + V + than + S + V（倒裝）",
-      "zh": "倒裝表達「剛……就……」，主句用過去完成式"
+      "formula": "S + V + in order to V / so as to V (不定詞改寫)",
+      "zh": "主詞 + 動詞 + 為了/以便 + 不定詞（當主詞相同時使用）"
     }
   ],
-  "explanation": "此句型用來表達兩個動作的緊接發生關係。時間副詞子句（as soon as / the moment / once）引導前置動作，主句表後續動作。重點是子句縱使指未來事件，仍用現在式，不用未來式。倒裝形式 no sooner...than、hardly...when 意義相同但語氣更強，使用過去完成式。易混淆之處在於忘記用現在式替代未來式，或混淆倒裝與非倒裝的時態搭配。",
+  "explanation": "此句型用於表達動作的目的，分為兩種形式：(1)完整子句形式使用「so that/in order that」，後接帶助動詞的完整子句；(2)簡化形式使用「in order to/so as to」直接加不定詞。兩者在意義相同但結構不同。使用時機為需明確表達「為什麼做某事」。易混淆點是助動詞的選擇（can用現在，will用未來）及與結果副詞子句的區分。注意「so that」既可表目的也可表結果，需由上下文判斷。",
   "examples": [
     {
       "id": 1,
-      "eng": "As soon as you arrive at the airport, call me immediately.",
-      "chi": "你一到達機場，就立刻打電話給我。",
+      "eng": "She studies hard so that she can pass the entrance exam.",
+      "chi": "她努力讀書，好讓她能通過升學考試。",
       "keywords": [
-        "as soon as",
-        "arrive",
-        "現在式代未來"
+        "so that",
+        "can pass",
+        "目的"
       ]
     },
     {
       "id": 2,
-      "eng": "The moment the teacher enters the classroom, all students stop talking.",
-      "chi": "老師一進教室，所有學生就停止說話。",
+      "eng": "They saved money in order that their children will have a better education.",
+      "chi": "他們存錢，以便他們的孩子能接受更好的教育。",
       "keywords": [
-        "the moment",
-        "enters",
-        "緊接發生"
+        "in order that",
+        "will have",
+        "目的"
       ]
     },
     {
       "id": 3,
-      "eng": "Once you finish your homework, you can play video games.",
-      "chi": "你一完成功課，就可以玩電動。",
+      "eng": "The teacher speaks slowly so as to help students understand the lesson.",
+      "chi": "老師說話很慢，以便幫助學生理解課程。",
       "keywords": [
-        "once",
-        "finish",
-        "條件時間"
+        "so as to",
+        "不定詞",
+        "目的"
       ]
     },
     {
       "id": 4,
-      "eng": "No sooner had he heard the news than he rushed to the hospital.",
-      "chi": "他剛聽到這個消息就趕往醫院。",
+      "eng": "Athletes train every day in order to achieve their goals and win competitions.",
+      "chi": "運動員每天訓練，為了達成目標並贏得比賽。",
       "keywords": [
-        "no sooner...than",
-        "倒裝",
-        "過去完成式"
+        "in order to",
+        "achieve",
+        "目的"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷時態時，記住：時間副詞子句縱使表未來，仍用現在式。倒裝形式 no sooner/hardly/scarcely 必搭過去完成式在主句，than/when 後用簡單過去式。若混淆時態會導致文法錯誤。",
+    "tip": "判斷時機：當句子表達「為了達成某個目的」時使用此句型。主詞相同時優先使用 in order to/so as to 簡化句子；主詞不同時必須用 so that/in order that 搭配助動詞。切勿混淆 so...that（如此...以至於）與 so that（為了）的用法。",
     "examples": [
       {
-        "test": "✗ As soon as you will arrive, I will pick you up.",
-        "result": "→ ✓ As soon as you arrive, I will pick you up.（子句用現在式）"
+        "test": "正確：He left early so that he could catch the train. / He left early in order to catch the train.",
+        "result": "→ 兩句都對，但主詞相同時用不定詞版本更簡潔"
       },
       {
-        "test": "✗ No sooner did he leave than his boss called.",
-        "result": "→ ✓ No sooner had he left than his boss called.（主句用過去完成式）"
+        "test": "錯誤：He left early so that to catch the train. / He left early for to catch the train.",
+        "result": "→ so that 後不能接不定詞，應改用 in order to；for to 為非文法式用法"
       },
       {
-        "test": "✓ The moment she enters, everyone applauds.",
-        "result": "→ 現在式背景下的標準用法，表習慣性動作"
+        "test": "對比：It was so difficult that he could not solve it. vs. He explained clearly so that students could understand.",
+        "result": "→ 前者表結果（so...that），後者表目的（so that）"
       }
     ],
-    "note": "時間副詞子句永遠現在式，倒裝形式主句用過去完成式——三個關鍵不能混。"
+    "note": "記住：so that = 為了讓別人；in order to = 為了讓自己（當主詞相同時最常使用）。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "As soon as the meeting ",
+        "The government built more hospitals ",
         null,
-        ", everyone left the room."
+        " more people can receive medical care."
       ],
       "blanks": [
-        "ended / ends"
+        "so that"
       ],
-      "sentence": "As soon as the meeting ends, everyone left the room.",
-      "translation": "會議一結束，每個人都離開了房間。",
+      "sentence": "The government built more hospitals so that more people can receive medical care.",
+      "translation": "政府建造了更多醫院，好讓更多人可以獲得醫療照護。",
       "keywords": [
-        "as soon as",
-        "ends",
-        "現在式代未來"
+        "so that",
+        "目的",
+        "can receive"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "The moment you ",
+        "She practiced her speech many times ",
         null,
-        " this form, submit it to the office."
+        " deliver it confidently at the conference."
       ],
       "blanks": [
-        "complete / completed"
+        "in order to"
       ],
-      "sentence": "The moment you complete this form, submit it to the office.",
-      "translation": "你一填完這個表格，就提交到辦公室。",
+      "sentence": "She practiced her speech many times in order to deliver it confidently at the conference.",
+      "translation": "她多次練習演講，為了在會議上自信地發表。",
       "keywords": [
-        "the moment",
-        "complete",
-        "現在式"
+        "in order to",
+        "不定詞",
+        "deliver"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "No sooner had she ",
+        "Parents work hard ",
         null,
-        " the news than she called her parents."
+        " their children will have better opportunities in the future."
       ],
       "blanks": [
-        "heard"
+        "in order that"
       ],
-      "sentence": "No sooner had she heard the news than she called her parents.",
-      "translation": "她剛聽到消息就打電話給父母。",
+      "sentence": "Parents work hard in order that their children will have better opportunities in the future.",
+      "translation": "父母努力工作，以便他們的孩子將來能有更好的機會。",
       "keywords": [
-        "no sooner...than",
-        "had heard",
-        "過去完成式"
+        "in order that",
+        "will have",
+        "目的"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Once the students ",
+        "The company reduced prices ",
         null,
-        " the exam, they can go home."
+        " to attract more customers and increase sales."
       ],
       "blanks": [
-        "finish / finished"
+        "in order"
       ],
-      "sentence": "Once the students finish the exam, they can go home.",
-      "translation": "學生一完成考試，就可以回家。",
+      "sentence": "The company reduced prices in order to attract more customers and increase sales.",
+      "translation": "公司降價，為了吸引更多顧客並增加銷售量。",
       "keywords": [
-        "once",
-        "finish",
-        "條件時間"
+        "in order to",
+        "attract",
+        "目的"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "The parents save money ",
+        null,
+        " they can send their children to university."
+      ],
+      "blanks": [
+        "so that"
+      ],
+      "sentence": "The parents save money so that they can send their children to university.",
+      "translation": "父母存錢為了能夠送孩子上大學。",
+      "keywords": [
+        "so that",
+        "can",
+        "目的"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "The government built new roads ",
+        null,
+        " traffic congestion would decrease."
+      ],
+      "blanks": [
+        "in order that"
+      ],
+      "sentence": "The government built new roads in order that traffic congestion would decrease.",
+      "translation": "政府建造新道路以便交通擁堵會減少。",
+      "keywords": [
+        "in order that",
+        "would",
+        "目的子句"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "as soon as",
-      "zh": "一……就……（最常見，任何時態背景）"
+      "adj": "study hard",
+      "zh": "努力讀書"
     },
     {
-      "adj": "the moment",
-      "zh": "一……就……（強調時間點，較正式）"
+      "adj": "work overtime",
+      "zh": "加班工作"
     },
     {
-      "adj": "once",
-      "zh": "一旦；一……就……（帶有條件色彩）"
+      "adj": "save money",
+      "zh": "存錢"
     },
     {
-      "adj": "no sooner...than",
-      "zh": "剛……就……（倒裝，過去完成式）"
+      "adj": "speak slowly",
+      "zh": "說話緩慢"
     },
     {
-      "adj": "hardly...when",
-      "zh": "剛……就……（倒裝，過去完成式）"
+      "adj": "arrive early",
+      "zh": "提早到達"
     },
     {
-      "adj": "scarcely...when",
-      "zh": "幾乎沒有……就……（倒裝，書面語）"
+      "adj": "practice regularly",
+      "zh": "定期練習"
     },
     {
-      "adj": "arrive",
-      "zh": "到達"
+      "adj": "use technology",
+      "zh": "使用科技"
     },
     {
-      "adj": "finish",
-      "zh": "完成"
+      "adj": "take notes",
+      "zh": "做筆記"
     },
     {
-      "adj": "hear",
-      "zh": "聽到"
+      "adj": "exercise daily",
+      "zh": "每日運動"
     },
     {
-      "adj": "see",
-      "zh": "看到"
+      "adj": "communicate clearly",
+      "zh": "清楚溝通"
     },
     {
-      "adj": "learn",
-      "zh": "得知"
+      "adj": "prepare well",
+      "zh": "充分準備"
     },
     {
-      "adj": "return",
-      "zh": "返回"
+      "adj": "manage time efficiently",
+      "zh": "有效管理時間"
     }
   ],
-  "vocab_table_label": "常用即時連接詞",
+  "vocab_table_label": "常用動詞片語",
   "mc_exercises": [
     {
-      "question_chi": "選填正確的時態，表示一到達就立即打電話",
-      "question_eng": "As soon as you _______ at the airport, call me immediately.",
+      "question_chi": "選擇最適當的選項完成句子，表達目的",
+      "question_eng": "He wakes up early every morning _______ he can catch the first bus to work.",
       "options": [
         {
           "key": "A",
-          "text": "arrive"
+          "text": "so that"
         },
         {
           "key": "B",
-          "text": "will arrive"
+          "text": "so as to"
         },
         {
           "key": "C",
-          "text": "have arrived"
+          "text": "in order to"
         },
         {
           "key": "D",
-          "text": "are arriving"
+          "text": "because"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A（arrive）。時間副詞子句 as soon as 後面應用現在式表示未來事件，不用未來式。B 選項錯誤，子句中不用 will；C 選項現在完成式不符文脈；D 選項進行式不適合表達確定事件。",
+      "explanation": "正確答案是 A。句子主詞「He」為單數，空格後接「he can catch」（含主詞與助動詞），必須用「so that + S + can/will + V」的結構。B 項 so as to 和 C 項 in order to 後接不定詞，且不需要主詞。D 項 because 表原因而非目的，語意不符。",
       "id": 1
     },
     {
-      "question_chi": "選填正確形式，表示老師一進教室就停止講話",
-      "question_eng": "The moment the teacher _______ the classroom, all students stop talking.",
+      "question_chi": "選擇正確的目的副詞子句形式，主詞相同",
+      "question_eng": "The company invested heavily in technology _______ improve their production efficiency.",
       "options": [
         {
           "key": "A",
-          "text": "will enter"
+          "text": "so that they can"
         },
         {
           "key": "B",
-          "text": "enters"
+          "text": "in order that they will"
         },
         {
           "key": "C",
-          "text": "has entered"
+          "text": "so as to"
         },
         {
           "key": "D",
-          "text": "is entering"
-        }
-      ],
-      "answer": "B",
-      "explanation": "正確答案是 B（enters）。the moment 後的時間副詞子句應用現在簡單式，主句亦用現在式表習慣性動作。A 選項錯誤，子句不用未來式；C 選項現在完成式不符；D 選項進行式語氣不當。",
-      "id": 2
-    },
-    {
-      "question_chi": "選填正確形式，表示一旦比賽開始就沒有人能改變規則",
-      "question_eng": "Once the game _______, no one can change the rules anymore.",
-      "options": [
-        {
-          "key": "A",
-          "text": "will begin"
-        },
-        {
-          "key": "B",
-          "text": "is beginning"
-        },
-        {
-          "key": "C",
-          "text": "begins"
-        },
-        {
-          "key": "D",
-          "text": "has begun"
+          "text": "so that to"
         }
       ],
       "answer": "C",
-      "explanation": "正確答案是 C（begins）。once 引導時間副詞子句，應用現在簡單式表示未來事件，主句用 can 表達可能性。A 選項錯誤，子句不用未來式；B 選項進行式不適合；D 選項現在完成式時態不符。",
-      "id": 3
+      "explanation": "正確答案是 C。因為主詞相同（都是 company/they），可使用不定詞形式 so as to + V。A 項雖文法正確但不夠簡潔。B 項 in order that 後應用 can 而非 will。D 項「so that to V」為常見錯誤，so that 後必須接助動詞，不能直接接不定詞。",
+      "id": 2
     },
     {
-      "question_chi": "選填倒裝句正確形式，強調一接到消息就立刻出發",
-      "question_eng": "No sooner _______ the news _______ he immediately set off for home.",
+      "question_chi": "辨別目的子句與結果子句的差異，選擇適切表達",
+      "question_eng": "The government implemented stricter environmental policies _______ reduce air pollution in major cities.",
       "options": [
         {
           "key": "A",
-          "text": "did he receive; than"
+          "text": "so that it can"
         },
         {
           "key": "B",
-          "text": "had he received; than"
+          "text": "in order that industries will"
         },
         {
           "key": "C",
-          "text": "he had received; when"
+          "text": "in order to"
         },
         {
           "key": "D",
-          "text": "he received; than"
+          "text": "so that to be able to"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B（had he received; than）。no sooner...than 倒裝句需用過去完成式 had received + 倒裝語序 had he，主句用過去簡單式。A 選項只用過去式不符倒裝要求；C 選項沒倒裝且用 when 不搭 no sooner；D 選項時態與結構均錯。",
+      "answer": "C",
+      "explanation": "正確答案是 C。主詞相同（政府實施政策→為了減少污染），應改寫為 in order to 或 so as to 搭配不定詞，更簡潔有力。A 項 so that 後主詞應與前句一致。B 項改變了主詞，造成邏輯混亂。D 項「so that to be able to」混合了兩種句型，為錯誤用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型判斷，考慮主詞變更與時態搭配",
+      "question_eng": "They distributed free masks throughout the neighborhood _______ vulnerable populations would have access to protective equipment during the health crisis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order to"
+        },
+        {
+          "key": "B",
+          "text": "so as to make sure"
+        },
+        {
+          "key": "C",
+          "text": "in order that"
+        },
+        {
+          "key": "D",
+          "text": "in order that they can provide"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。主詞變更（they → populations），目的子句有自己的主詞時，須用「in order that + S + would/can + V」的完整從句結構；空格後「vulnerable populations would have」符合此需求。A 項 in order to 和 B 項 so as to 皆為不定詞形，主詞必須相同。D 項改變了原句邏輯結構。",
       "id": 4
+    },
+    {
+      "question_chi": "選擇適當的目的子句形式，完成句子",
+      "question_eng": "He wakes up early every day _______ he can catch the first bus to work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "because"
+        },
+        {
+          "key": "D",
+          "text": "therefore"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「so that」。此句表示目的（為了能趕上公車），需用「so that + S + can + V」的完整子句形式。B「so」是連接詞但不能引導目的子句；C「because」表原因而非目的；D「therefore」是副詞無法引導子句。",
+      "id": 5
+    },
+    {
+      "question_chi": "判斷目的子句中的助動詞選用是否正確",
+      "question_eng": "The teacher explained the grammar rule slowly in order that all students _______ understand it clearly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "would"
+        },
+        {
+          "key": "C",
+          "text": "can"
+        },
+        {
+          "key": "D",
+          "text": "could"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「can」。「in order that + S + can + V」表示現在或一般性的目的，should use 「can」表可能性。A「will」用於未來確定事件；B「would」和D「could」為過去或假設用法，不適合此正式教學情境。",
+      "id": 6
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我一到家就開始做功課。",
-      "answer": "As soon as I get home, I start doing my homework. / The moment I get home, I start doing my homework.",
+      "sentence_chi": "我每天早起，以便準時上學。",
+      "answer": "I get up early every day so that I can arrive at school on time. / I get up early every day in order to arrive at school on time.",
       "key_points": [
-        "As soon as / The moment 引導時間副詞子句",
-        "子句用現在式 get（不用 will get）",
-        "主句用簡單現在式 start"
+        "so that + can",
+        "in order to + V",
+        "arrive at school on time"
       ],
       "hints": [
-        "句型框架：As soon as / The moment + S + V（現在式），S + V（現在式）",
-        "常見錯誤：子句誤用 will get home，但時間副詞子句中未來事件仍需用現在式表達"
+        "提示1：主詞相同時可用 so that + can 或 in order to 改寫",
+        "提示2：注意 so that 後接 can/will/may 搭配動詞，不能直接接不定詞"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "一旦老師宣布放假，全班同學就歡呼起來。",
-      "answer": "The moment the teacher announces the holiday, the whole class cheers. / Once the teacher announces the holiday, the whole class cheers.",
+      "sentence_chi": "學生認真讀書，為了在大學入學考試中取得好成績。",
+      "answer": "Students study hard so that they can get good grades in the university entrance exam. / Students study hard in order that they may achieve good results in the university entrance exam.",
       "key_points": [
-        "Once 也可引導時間副詞子句，意同 as soon as",
-        "cheers 搭配 the whole class（集合名詞用單數動詞）",
-        "子句與主句均用現在式"
+        "so that/in order that + S + can/may",
+        "study hard",
+        "get good grades in the entrance exam"
       ],
       "hints": [
-        "句型框架：Once + S + V（現在式），S + V（現在式）",
-        "注意：集合名詞 the whole class 視為單數，動詞用第三人稱單數"
+        "提示1：主詞不同時需用 so that 或 in order that 搭配助動詞（can/may/will）",
+        "提示2：avoid 誤用『so that to get』—so that 後必須有助動詞"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "她一看到考試成績就立刻打電話給父母告訴他們好消息。",
-      "answer": "As soon as she sees her exam results, she immediately calls her parents to tell them the good news. / The moment she sees her exam results, she immediately calls her parents to tell them the good news.",
+      "sentence_chi": "老師用了許多例子來解釋這個文法概念，以便學生能夠清楚地理解。",
+      "answer": "The teacher used many examples to explain the grammar concept so that students could understand it clearly. / The teacher used many examples to explain the grammar concept in order that the students might understand clearly.",
       "key_points": [
-        "sees 現在式表達未來事件",
-        "immediately 副詞修飾主句動詞 calls",
-        "不定詞片語 to tell them 表目的"
+        "so that + could/might",
+        "in order that",
+        "use examples to explain"
       ],
       "hints": [
-        "句型框架：As soon as + S + V（現在式），S + adv. + V（現在式）...",
-        "易錯點：不要在時間副詞子句中使用 will see，即使表未來事件也要用現在式"
+        "提示1：當表達過去情景或假設時，so that 後可用 could/might 替代 can/may",
+        "提示2：so that 子句表達目的時，助動詞選擇應符合主要子句時態"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "他剛一完成報告，主任就召集他進辦公室討論內容。",
-      "answer": "No sooner had he finished the report than the director called him into the office to discuss the content. / Hardly had he finished the report when the director called him into the office to discuss the content.",
+      "sentence_chi": "政府制定了新的環保政策，使得企業能夠減少碳排放，從而保護地球環境。",
+      "answer": "The government established new environmental policies so that enterprises could reduce carbon emissions in order to protect the Earth's environment. / The government established new environmental policies in order that companies might be able to decrease their carbon footprint and thus preserve the planetary ecosystem.",
       "key_points": [
-        "No sooner / Hardly 引導倒裝句，語氣比 as soon as 更強",
-        "前子句用過去完成式 had finished",
-        "than / when 後接過去簡單式 called（非倒裝句）"
+        "so that + could + V",
+        "in order that + might",
+        "reduce carbon emissions / decrease carbon footprint"
       ],
       "hints": [
-        "倒裝句型框架：No sooner / Hardly + had + S + V（過去分詞）+ than / when + S + V（過去式）",
-        "常見錯誤：倒裝時混淆時態，前半段應用 had + 過去分詞，後半段用過去簡單式；且 no sooner...than、hardly...when 搭配不能互換"
+        "提示1：複雜句中可結合多個目的子句，第一個 so that 後用 could 表達可能性，第二個可用 in order to 或另一個 so that",
+        "提示2：注意主詞一致性—若企業與政府不同，需用 so that/in order that + S + could/might，不能簡化為不定詞"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "我每天早起讀英文，以便能在學測中取得好成績。",
+      "answer": "I get up early every day so that I can get a good score on the college entrance exam.",
+      "key_points": [
+        "so that + S + can + V 的完整結構",
+        "get up early（早起）",
+        "college entrance exam（學測）"
+      ],
+      "hints": [
+        "提示1：目的子句使用『so that + S + can + V』，其中 can 表示現在或一般情況下的能力/可能性",
+        "提示2：注意不要寫成 so I can...（缺少主詞），也不要用 will 代替 can"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "老師把重點寫在黑板上，為的是讓所有學生都能理解這個概念。",
+      "answer": "The teacher writes the key points on the blackboard in order that all students can understand this concept.",
+      "key_points": [
+        "in order that + S + can + V 的目的子句",
+        "key points（重點）",
+        "understand the concept（理解概念）"
+      ],
+      "hints": [
+        "提示1：『in order that』與『so that』意義相同，都表達目的，後面接帶助動詞 can 的完整子句",
+        "提示2：注意『in order that』較正式，在學術或書面英文中較常見；『so that』更口語化"
       ]
     }
   ]

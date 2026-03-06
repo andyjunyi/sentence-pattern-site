@@ -1,357 +1,362 @@
 {
   "code": "8-2",
   "chapter": 8,
-  "title": "because / since / as + S + V（原因副詞子句）",
+  "title": "讓步副詞子句 although / even though / even if",
   "formulas": [
     {
-      "formula": "Because/Since/As + S + V, S + V.",
-      "zh": "因為...，所以...（表達原因的複句結構）"
+      "formula": "Although/Even though + S + V, S + V.",
+      "zh": "雖然……但是……（陳述事實）"
     },
     {
-      "formula": "S + V + because/since/as + S + V.",
-      "zh": "...因為/既然/由於...（主句在前，原因子句在後）"
+      "formula": "Even if + S + V, S + V.",
+      "zh": "即使……也……（表假設）"
     }
   ],
-  "explanation": "此句型用來表達因果關係，三個連接詞語氣遞減：because 語氣最強，表直接原因，常用於回答 Why 疑問句；since 表已知或顯而易知的原因；as 表附帶理由或伴隨原因，語氣最弱。原因子句可置於主句前或後。注意：不可與 so 同時使用在同一句中，因為 because 與 so 語意重複。",
+  "explanation": "此句型用於表達「雖然…但是…」的讓步關係。Although 和 even though 表示陳述已知事實，在句首或句中都可使用；even if 表示假設情景，不關心真偽。三者都不可與 but 同用在同一個句子裡，because but 與讓步意義重複。Though 較口語，可置於句尾表示「不過、然而」。此句型強調前半部事實不影響後半部結論的成立。",
   "examples": [
     {
       "id": 1,
-      "eng": "Because she studied hard, she passed the exam with excellent marks.",
-      "chi": "因為她用功讀書，所以她以優異成績通過考試。",
+      "eng": "Although she is very busy, she still makes time for her family.",
+      "chi": "雖然她非常忙碌，她仍然抽出時間陪伴家人。",
       "keywords": [
-        "because",
-        "原因子句前置"
+        "although",
+        "讓步",
+        "時間管理"
       ]
     },
     {
       "id": 2,
-      "eng": "Since you are already here, you might as well stay for dinner.",
-      "chi": "既然你已經來了，不妨留下來吃晚餐。",
+      "eng": "Even though it was raining heavily, the outdoor concert went on as planned.",
+      "chi": "儘管下著大雨，戶外音樂會仍按計畫進行。",
       "keywords": [
-        "since",
-        "已知原因"
+        "even though",
+        "事實",
+        "堅持"
       ]
     },
     {
       "id": 3,
-      "eng": "He couldn't attend the meeting because his flight was delayed.",
-      "chi": "他無法參加會議，因為他的班機延誤了。",
+      "eng": "Even if you study hard, success is not guaranteed in this competitive field.",
+      "chi": "即使你努力學習，在這個競爭領域中也不能保證成功。",
       "keywords": [
-        "because",
-        "直接原因"
+        "even if",
+        "假設",
+        "條件"
       ]
     },
     {
       "id": 4,
-      "eng": "As it was raining heavily, we decided to postpone the outdoor event.",
-      "chi": "由於下大雨，我們決定延期舉辦戶外活動。",
+      "eng": "Though expensive, this medicine is effective in treating the disease.",
+      "chi": "儘管昂貴，這種藥物在治療該疾病方面很有效。",
       "keywords": [
-        "as",
-        "伴隨原因"
+        "though",
+        "句尾",
+        "讓步"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷三詞區別：because 回答 Why 問題最直接；since 用於雙方都認可的原因（不用強調）；as 表時間同時發生的原因或附帶理由。記住：because 與 so 不能在同一句同時出現，應改用 because...period，或 S + V, so S + V。",
+    "tip": "區分 even though 和 even if：even though 陳述真實情況（已發生或確定），even if 表示假設（不管是否真實）。注意不可在讓步子句後用 but，應改用逗號或用 still/yet/however 在主句。句型公式中的兩個 S + V 各為獨立句子，須有主詞和動詞。",
     "examples": [
       {
-        "test": "✗ Because he was tired, so he went to bed early.",
-        "result": "→ ✓ Because he was tired, he went to bed early. 或 He was tired, so he went to bed early.（因果邏輯不重複）"
+        "test": "Even though he won the lottery, he is not happy.",
+        "result": "→ 正確。陳述事實（已經贏得彩票），用 even though。"
       },
       {
-        "test": "Since you mentioned it, I should tell you the truth.",
-        "result": "→ 正確用法：表已知的前提或背景原因，since 不強調因由本身"
+        "test": "Even if he won the lottery, he would not be happy.",
+        "result": "→ 正確。表假設（假如贏得），用 even if 搭配虛擬語氣。"
       },
       {
-        "test": "As the weather was fine, we went for a picnic.",
-        "result": "→ 正確用法：as 表伴隨的背景原因，天氣好這個條件恰好存在時進行活動"
+        "test": "Although she studied hard, but she failed the exam.",
+        "result": "→ 錯誤。不可同時用 although 和 but，應刪除 but 或改為逗號。"
       }
     ],
-    "note": "記憶口訣：Because 直接答 Why，Since 既知無需提，As 伴隨一起起。"
+    "note": "even though 看已經發生，even if 看假如發生；兩者都禁止配 but，要改用逗號或轉折詞。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
         null,
-        " she missed the morning bus, she arrived at school late.",
-        null
+        " she was tired, she insisted on finishing the project that day.",
+        ""
       ],
       "blanks": [
-        "Because",
-        "So she arrived at school late 或 she was late to school"
+        "Although"
       ],
-      "sentence": "Because she missed the morning bus, she arrived at school late.",
-      "translation": "因為她錯過了早班公車，所以她上學遲到了。",
+      "sentence": "Although she was tired, she insisted on finishing the project that day.",
+      "translation": "雖然她很疲倦，她仍堅持在當天完成這個專案。",
       "keywords": [
-        "because",
-        "直接原因",
-        "因果關係"
+        "although",
+        "讓步",
+        "堅持"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "We should leave now ",
+        "Even if you have the best equipment,",
         null,
-        " there is heavy traffic ahead."
+        " without practice."
       ],
       "blanks": [
-        "because"
+        "you cannot succeed"
       ],
-      "sentence": "We should leave now because there is heavy traffic ahead.",
-      "translation": "我們現在應該離開，因為前面交通擁堵。",
+      "sentence": "Even if you have the best equipment, you cannot succeed without practice.",
+      "translation": "即使你有最好的設備，沒有練習你也無法成功。",
       "keywords": [
-        "because",
-        "直接理由",
-        "行動動機"
+        "even if",
+        "假設",
+        "條件"
       ]
     },
     {
       "id": 3,
       "parts": [
+        "The team lost the match,",
         null,
-        " you have already finished your homework, you can relax this evening."
+        "they played exceptionally well."
       ],
       "blanks": [
-        "Since"
+        "though"
       ],
-      "sentence": "Since you have already finished your homework, you can relax this evening.",
-      "translation": "既然你已經完成功課了，你今晚可以放鬆一下。",
+      "sentence": "The team lost the match, though they played exceptionally well.",
+      "translation": "隊伍雖然輸掉比賽，但他們表現得格外出色。",
       "keywords": [
-        "since",
-        "已知事實",
-        "前提條件"
+        "though",
+        "句尾",
+        "轉折"
       ]
     },
     {
       "id": 4,
       "parts": [
         null,
-        " the concert started, the audience immediately quieted down."
+        " it rained all day, the children enjoyed playing in the garden.",
+        ""
       ],
       "blanks": [
-        "As"
+        "Even though"
       ],
-      "sentence": "As the concert started, the audience immediately quieted down.",
-      "translation": "當音樂會開始時，觀眾立即安靜下來。",
+      "sentence": "Even though it rained all day, the children enjoyed playing in the garden.",
+      "translation": "儘管整天下雨，孩子們還是喜歡在花園裡玩耍。",
       "keywords": [
-        "as",
-        "同時發生",
-        "伴隨背景"
+        "even though",
+        "讓步",
+        "事實"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "because",
-      "zh": "因為（語氣最強，表直接原因）"
+      "adj": "although",
+      "zh": "雖然（表陳述事實的讓步）"
     },
     {
-      "adj": "since",
-      "zh": "既然、因為（表已知原因）"
+      "adj": "even though",
+      "zh": "即使、儘管（表陳述事實的讓步）"
     },
     {
-      "adj": "as",
-      "zh": "由於、因為（表伴隨原因，語氣較弱）"
+      "adj": "even if",
+      "zh": "即使、縱然（表假設情景）"
     },
     {
-      "adj": "so",
-      "zh": "所以、因此（注意：不能與 because 同用）"
+      "adj": "though",
+      "zh": "雖然（較口語，可置句尾）"
     },
     {
-      "adj": "therefore",
-      "zh": "因此、所以（表結果推導）"
+      "adj": "despite",
+      "zh": "儘管（介系詞，後接名詞）"
     },
     {
-      "adj": "reason",
-      "zh": "理由、原因（名詞，表示因由）"
+      "adj": "in spite of",
+      "zh": "儘管（介系詞片語，後接名詞）"
     },
     {
-      "adj": "cause",
-      "zh": "原因、導致（名詞或動詞）"
+      "adj": "still",
+      "zh": "仍然（常與讓步句型搭配）"
     },
     {
-      "adj": "result",
-      "zh": "結果、導致（名詞或動詞）"
+      "adj": "nevertheless",
+      "zh": "然而、不過（表轉折）"
     },
     {
-      "adj": "due to",
-      "zh": "由於、因為（介詞片語，後接名詞）"
+      "adj": "however",
+      "zh": "然而（表轉折）"
     },
     {
-      "adj": "owing to",
-      "zh": "由於、因為（介詞片語，較正式）"
+      "adj": "yet",
+      "zh": "仍然、然而（表轉折）"
     },
     {
-      "adj": "consequently",
-      "zh": "因此、結果（副詞，表因果結果）"
+      "adj": "regardless",
+      "zh": "不管怎樣（不考慮）"
     },
     {
-      "adj": "explain",
-      "zh": "解釋、說明（動詞，說明原因）"
+      "adj": "notwithstanding",
+      "zh": "儘管（正式用法）"
     }
   ],
-  "vocab_table_label": "常用原因連接詞",
+  "vocab_table_label": "常用讓步連接詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的原因連接詞填入空格，表示直接明確的原因",
-      "question_eng": "_______ she missed the bus, she arrived at school late.",
+      "question_chi": "選擇適當的讓步連接詞完成句子",
+      "question_eng": "_______ she didn't have much experience, she performed very well in the interview.",
       "options": [
         {
           "key": "A",
-          "text": "Because"
+          "text": "Although"
         },
         {
           "key": "B",
-          "text": "Since"
+          "text": "Even if"
         },
         {
           "key": "C",
-          "text": "As"
+          "text": "Because"
         },
         {
           "key": "D",
-          "text": "So"
+          "text": "Since"
         }
       ],
       "answer": "A",
-      "explanation": "因為題目要求表示直接明確的原因（她遲到的主要原因是錯過公車），應用 because 語氣最強。Since 表已知理由，as 表附帶理由，語氣較弱，不符。So 是結果連接詞，不能用於原因子句。",
+      "explanation": "正確答案是 A (Although)。句子表達「雖然她缺乏經驗，但她在面試中表現很好」，這是陳述已知事實的讓步關係，應使用 although。B (even if) 表假設，不適合；C (because) 和 D (since) 表原因，與句意不符。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確的原因連接詞和語序，完成因果句",
-      "question_eng": "_______ you have already finished your homework, you can go out to play with your friends.",
+      "question_chi": "辨別讓步副詞子句中的連接詞選擇",
+      "question_eng": "_______ you study hard, you still need good rest to perform well on the exam.",
       "options": [
         {
           "key": "A",
-          "text": "Because"
+          "text": "Even though"
         },
         {
           "key": "B",
-          "text": "Since"
+          "text": "Although"
         },
         {
           "key": "C",
-          "text": "So"
+          "text": "Even if"
         },
         {
           "key": "D",
-          "text": "Therefore"
+          "text": "However"
         }
       ],
       "answer": "B",
-      "explanation": "此句表達已知或顯而易知的原因（你已完成功課是眾所周知的事實），應用 since。Because 語氣太強不適合已知事實，so 和 therefore 是結果連接詞，不能引導原因子句。",
+      "explanation": "正確答案是 B (Although)。句子表達「雖然你努力學習，但仍需要充分休息才能在考試中表現好」，這陳述已知事實。A、B 皆可表陳述事實，但 B 更正式；C (even if) 表假設；D (however) 是副詞，不能引導子句。",
       "id": 2
     },
     {
-      "question_chi": "選擇最適合的原因連接詞，表示附帶或伴隨的理由",
-      "question_eng": "_______ winter is approaching, many animals are preparing to hibernate for the season.",
+      "question_chi": "識別讓步副詞子句與假設情景的區分",
+      "question_eng": "_______ it rains tomorrow, the sports day will not be cancelled. The event will proceed indoors if necessary.",
       "options": [
         {
           "key": "A",
-          "text": "Because"
+          "text": "Although"
         },
         {
           "key": "B",
-          "text": "As"
+          "text": "Even though"
         },
         {
           "key": "C",
-          "text": "Since"
+          "text": "Even if"
         },
         {
           "key": "D",
-          "text": "For"
+          "text": "Unless"
         }
       ],
-      "answer": "B",
-      "explanation": "句子表達隨著冬天到來而發生的現象，語氣較溫和，應用 as 表附帶或伴隨理由。Because 語氣過強，since 多用於已知事實，for 為介詞或連接詞但此處用法不當。As 最能表達事物自然發展的附隨關係。",
+      "answer": "C",
+      "explanation": "正確答案是 C (even if)。後句說明運動會仍會進行，表示不關心「下雨」是否真實發生，這是假設情景，應用 even if。A、B 表陳述已知事實；D (unless) 表「除非」，不符讓步意義。",
       "id": 3
     },
     {
-      "question_chi": "判斷句型錯誤並選擇改正方案（考慮因果關係邏輯與連接詞搭配）",
-      "question_eng": "Because she was talented in music, so she became a professional pianist. _______ version is correct?",
+      "question_chi": "複雜讓步句型辨析與句法正確性判斷",
+      "question_eng": "_______ the project faced numerous obstacles and delays, the team's determination never wavered, and they eventually delivered results that exceeded expectations.",
       "options": [
         {
           "key": "A",
-          "text": "Because she was talented in music, she became a professional pianist."
+          "text": "Even though"
         },
         {
           "key": "B",
-          "text": "Since she was talented in music, so she became a professional pianist."
+          "text": "Even if"
         },
         {
           "key": "C",
-          "text": "She was talented in music, because so she became a professional pianist."
+          "text": "Although because"
         },
         {
           "key": "D",
-          "text": "As she was talented in music, so she became a professional pianist."
+          "text": "Though"
         }
       ],
       "answer": "A",
-      "explanation": "原句因 because 與 so 同時出現而錯誤，因兩者語意重複。正確做法是刪除 so，只保留 because 子句加主句。選項 B、D 仍保留 so，犯相同錯誤。選項 C 句型結構混亂。因此只有 A 正確。",
+      "explanation": "正確答案是 A (Even though)。句子敘述已發生的實際困境，強調這些困難未能動搖團隊決心，需用 even though 表陳述事實的讓步。B (even if) 表假設不適；C (although because) 混用讓步與因果會造成重複，文法錯誤；D (though) 較口語，通常置於句尾，句首較少用。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "因為明天有英文考試，所以我今晚必須認真讀書。",
-      "answer": "Because there is an English exam tomorrow, I have to study hard tonight. / I have to study hard tonight because there is an English exam tomorrow.",
+      "sentence_chi": "雖然這部電影很長，但我還是很享受看它。",
+      "answer": "Although/Even though the movie is long, I still enjoyed watching it.",
       "key_points": [
-        "because 表直接原因",
-        "There is an English exam tomorrow",
-        "have to study hard"
+        "Although/Even though + S + V",
+        "逗號分隔兩個子句",
+        "still 強調讓步對比"
       ],
       "hints": [
-        "提示1：because 子句可置於句首（後接逗號）或句尾，主句結構保持不變",
-        "提示2：不要使用『Because... so...』的雙重連接詞，因為語意重複"
+        "提示1：句型結構為『Although/Even though + S + V, S + V』，前半部說明已知事實",
+        "提示2：不可使用 but，因為讓步意義與 but 重複"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "既然你已經完成作業，就可以去和朋友玩了。",
-      "answer": "Since you have already finished your homework, you can go play with your friends. / You can go play with your friends since you have already finished your homework.",
+      "sentence_chi": "儘管天氣很糟糕，我們的班級旅行仍然進行了。",
+      "answer": "Even though the weather was terrible, our class trip still went ahead.",
       "key_points": [
-        "since 表已知或顯而易知的原因",
-        "have already finished",
-        "can go play with"
+        "Even though 表示已知事實",
+        "went ahead（進行、繼續）",
+        "still 強化讓步關係"
       ],
       "hints": [
-        "提示1：since 語氣弱於 because，常用於雙方都認可的事實；子句可前可後",
-        "提示2：注意完成式 have finished 的使用，強調動作已完成"
+        "提示1：Even though 與 although 意義相近，都表示陳述事實，句型位置相同",
+        "提示2：注意時態一致性（過去式 was 搭配 went）"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "由於天氣很冷，學生們在體育課時都穿著厚重的外套。",
-      "answer": "As the weather is very cold, the students wear thick coats during PE class. / The students wear thick coats during PE class as the weather is very cold.",
+      "sentence_chi": "即使你考試失敗了，你的父母仍然會為你感到驕傲。",
+      "answer": "Even if you fail the exam, your parents will still be proud of you.",
       "key_points": [
-        "as 表附帶理由或伴隨原因，語氣最弱",
-        "the weather is very cold",
-        "wear thick coats during PE class"
+        "Even if 表示假設情景、非事實",
+        "fail the exam（考試失敗）",
+        "條件句與主句的時態配合"
       ],
       "hints": [
-        "提示1：as 通常用於表達伴隨狀況或自然而然的原因，不強調因果關係本身",
-        "提示2：as 子句前置時需加逗號，後置時可加可不加，但前置更常見"
+        "提示1：Even if 用於假設狀況，不關心是否真實發生，與 although/even though 的差異在於『真偽性』",
+        "提示2：Even if 後常用現在式表示未來假設，主句用 will + V"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "因為社群媒體容易成癮，許多青少年應該限制他們每天使用手機的時間。",
-      "answer": "Because social media is addictive, many teenagers should limit the time they spend on their phones every day. / Many teenagers should limit the time they spend on their phones every day because social media is addictive.",
+      "sentence_chi": "雖然她沒有正式的工作經驗，但她的學習能力和熱情使她成為一個有價值的團隊成員。",
+      "answer": "Although/Even though she lacks formal work experience, her learning ability and enthusiasm make her a valuable team member.",
       "key_points": [
-        "because 強調直接原因，適合回答 Why 問題",
-        "social media is addictive",
-        "limit the time they spend on their phones"
+        "lack (缺乏、沒有)",
+        "並列主語 ability and enthusiasm",
+        "make + O + C (使役結構)"
       ],
       "hints": [
-        "提示1：此句涉及複雜句結構：主句中含有 the time (that) they spend on their phones 的關係子句，需與原因副詞子句區分",
-        "提示2：注意 addictive（易成癮的）是形容詞，不可誤用為 addiction（成癮，名詞）"
+        "提示1：句型框架『Although + S + V, S + V』，前後子句內容複雜時仍需清楚標示主述結構",
+        "提示2：注意主詞複數時動詞變化（make 而非 makes），並避免在讓步子句後誤加 but"
       ]
     }
   ]

@@ -1,362 +1,366 @@
 {
   "code": "7-5",
   "chapter": 7,
-  "title": "分詞構句（主動）V-ing...（代替副詞子句）",
+  "title": "P.P. + ..., S + V...（分詞構句，被動）",
   "formulas": [
     {
-      "formula": "V-ing + ..., S + V...",
-      "zh": "現在分詞片語開頭，後接主句；分詞的邏輯主詞與主句主詞相同"
+      "formula": "p.p. + ..., S + V...",
+      "zh": "過去分詞（短語）開頭，後接獨立主句，表示主詞被動作後的狀態或原因"
     },
     {
-      "formula": "S + V..., V-ing + ...",
-      "zh": "主句在前，分詞片語在後，表補充說明或伴隨動作"
+      "formula": "Because/When + S + was p.p., S + V... = p.p. + ..., S + V...",
+      "zh": "過去分詞構句可轉換為被動副詞子句，省略 Being/Having been"
     }
   ],
-  "explanation": "現在分詞構句是將時間、原因、條件等副詞子句簡化而成，用V-ing形式開頭。關鍵原則：分詞的邏輯主詞必須與主句主詞相同。若邏輯主詞不同，則需保留主詞形成獨立分詞構句（Absolute phrase）。此句型避免重複主詞，使句子更簡潔有力。常見功能包括表時間（When/After）、原因（Because）、條件（If）等，是學測常考的進階語法。",
+  "explanation": "過去分詞構句用於替代被動語態的副詞子句，主詞被某動作執行後的狀態或時間點作為背景資訊。結構為：過去分詞（可含受詞或補語）置於句首，後接獨立主句。省略 being 或 having been，使句子更簡潔。使用時須確保過去分詞的邏輯主詞與主句主詞相同。易混淆點：勿與主動分詞混淆；注意時態一致性。",
   "examples": [
     {
       "id": 1,
-      "eng": "Finishing his homework, Tom went out to play with his friends.",
-      "chi": "完成功課後，湯姆出門去和朋友們玩。",
+      "eng": "Frightened by the loud noise, the child started crying immediately.",
+      "chi": "被巨大的噪音嚇到，小孩立刻開始哭泣。",
       "keywords": [
-        "finishing",
-        "時間順序",
-        "分詞構句"
+        "過去分詞",
+        "情緒狀態",
+        "原因"
       ]
     },
     {
       "id": 2,
-      "eng": "Seeing the heavy rain, the children decided to stay indoors.",
-      "chi": "看到大雨，孩子們決定待在室內。",
+      "eng": "Given this opportunity, she decided to study abroad for further education.",
+      "chi": "被賦予這個機會，她決定出國深造。",
       "keywords": [
-        "seeing",
-        "原因",
-        "邏輯主詞相同"
+        "過去分詞",
+        "條件",
+        "決定"
       ]
     },
     {
       "id": 3,
-      "eng": "Having studied hard for months, she passed the exam with flying colors.",
-      "chi": "經過數月的努力學習，她以優異成績通過考試。",
+      "eng": "Surrounded by loyal friends, he felt confident to face any challenge.",
+      "chi": "被忠實的朋友包圍著，他有信心面對任何挑戰。",
       "keywords": [
-        "having studied",
-        "完成式分詞",
-        "背景說明"
+        "過去分詞",
+        "環境狀態",
+        "心理感受"
       ]
     },
     {
       "id": 4,
-      "eng": "Being a language teacher, Mr. Chen understands the difficulties students face.",
-      "chi": "身為語言老師，陳先生理解學生所面臨的困難。",
+      "eng": "Exhausted by the long journey, the tourists rested in the hotel for hours.",
+      "chi": "被長途旅行弄得筋疲力盡，遊客在飯店休息了好幾小時。",
       "keywords": [
-        "being",
-        "身份說明",
-        "伴隨狀況"
+        "過去分詞",
+        "身體狀態",
+        "後續行動"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷邏輯主詞是否與主句主詞相同最重要。若不同應使用獨立分詞構句（保留主詞），如「The sun rising, the birds began to sing」。另注意V-ing可表動作同時進行或先後順序；完成式分詞（having + V-en）強調動作已完成。",
+    "tip": "判斷是否使用過去分詞構句：看前後兩動作是否有「被動關係」。若主詞是被執行某動作，用過去分詞；若主詞主動執行，用現在分詞。避免邏輯主詞不一致產生的懸垂分詞（dangling participle）。",
     "examples": [
       {
-        "test": "❌ Walking down the street, the rain started.",
-        "result": "→ 錯誤：rain不能walk。應改為：Walking down the street, he saw rain start. 或 The rain having started, he went home."
+        "test": "❌ Driving to the office, the rain started.",
+        "result": "→ ✓ Driving to the office, I noticed the rain started.（邏輯主詞不一致）主詞應為動作執行者"
       },
       {
-        "test": "✓ Having finished breakfast, the students left for school.",
-        "result": "→ 正確：完成式分詞表先發生的動作，邏輯主詞students與主句相同"
+        "test": "❌ Forgotten by everyone, Tom still felt happy.",
+        "result": "→ ✓ Forgotten by everyone, he still felt happy.（邏輯一致，正確用法）"
       },
       {
-        "test": "✓ Considering the weather, we decided to cancel the picnic.",
-        "result": "→ 正確：分詞表原因，邏輯主詞we與主句主詞相同"
+        "test": "❌ Warned of the danger, the tourists ignored the warning.",
+        "result": "→ ✓ Warned of the danger, the tourists heeded the warning.（與後句意思搭配）"
       }
     ],
-    "note": "邏輯主詞必須一致；若不一致，改用獨立分詞構句或保留完整子句。"
+    "note": "口訣：「主詞被動有過分，邏輯一致最關鍵，前被後主要相同」"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
         null,
-        " her notes before the exam, Sarah felt more confident.",
+        " by the thunderstorm, the hiker decided to stay in the cabin.",
         ""
       ],
       "blanks": [
-        "Reviewing"
+        "Trapped"
       ],
-      "sentence": "Reviewing her notes before the exam, Sarah felt more confident.",
-      "translation": "在考試前複習她的筆記，莎拉感到更有信心。",
+      "sentence": "Trapped by the thunderstorm, the hiker decided to stay in the cabin.",
+      "translation": "被雷暴困住，登山者決定留在小屋裡。",
       "keywords": [
-        "reviewing",
         "過去分詞",
-        "時間關係"
+        "被動狀態",
+        "原因"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Knowing the deadline was approaching, ",
         null,
-        " to work faster."
+        " that she had won the competition, Maria jumped with joy.",
+        ""
       ],
       "blanks": [
-        "they decided"
+        "Informed"
       ],
-      "sentence": "Knowing the deadline was approaching, they decided to work faster.",
-      "translation": "知道截止日期臨近，他們決定加快工作速度。",
+      "sentence": "Informed that she had won the competition, Maria jumped with joy.",
+      "translation": "被告知她贏得了比賽，瑪麗亞高興地跳了起來。",
       "keywords": [
-        "knowing",
-        "原因",
-        "現在分詞"
+        "過去分詞",
+        "資訊傳遞",
+        "情緒反應"
       ]
     },
     {
       "id": 3,
       "parts": [
         null,
-        " at the beautiful sunset, the tourists took countless photographs.",
+        " with proper training, the new employees performed excellently in their first week.",
         ""
       ],
       "blanks": [
-        "Amazed"
+        "Equipped"
       ],
-      "sentence": "Amazed at the beautiful sunset, the tourists took countless photographs.",
-      "translation": "被美麗的日落所驚嘆，遊客拍了無數張照片。",
+      "sentence": "Equipped with proper training, the new employees performed excellently in their first week.",
+      "translation": "配備適當的培訓，新員工在第一週表現優異。",
       "keywords": [
-        "amazed",
         "過去分詞",
-        "伴隨狀況"
+        "條件具備",
+        "結果"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The project completed successfully, ",
         null,
-        " for the next phase."
+        " from years of hard work, the athlete finally achieved his Olympic dream.",
+        ""
       ],
       "blanks": [
-        "the team prepared"
+        "Rewarded"
       ],
-      "sentence": "The project completed successfully, the team prepared for the next phase.",
-      "translation": "專案順利完成，團隊為下一階段做準備。",
+      "sentence": "Rewarded from years of hard work, the athlete finally achieved his Olympic dream.",
+      "translation": "因多年辛苦工作得到回報，運動員終於實現了他的奧運夢想。",
       "keywords": [
-        "completed",
-        "獨立分詞構句",
-        "絕對片語"
+        "過去分詞",
+        "因果關係",
+        "成就"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "finishing",
-      "zh": "完成"
+      "adj": "frightened",
+      "zh": "驚恐的、被嚇到的"
     },
     {
-      "adj": "seeing",
-      "zh": "看見"
+      "adj": "exhausted",
+      "zh": "筋疲力盡的、被耗盡的"
     },
     {
-      "adj": "having studied",
-      "zh": "已經學習"
+      "adj": "surprised",
+      "zh": "驚訝的、被驚嚇的"
     },
     {
-      "adj": "being",
-      "zh": "是、身為"
+      "adj": "given",
+      "zh": "被給予的、假定"
     },
     {
-      "adj": "knowing",
-      "zh": "知道"
+      "adj": "surrounded",
+      "zh": "被包圍的、周圍環繞"
     },
     {
-      "adj": "reaching",
-      "zh": "到達"
+      "adj": "motivated",
+      "zh": "被激勵的、有動機的"
     },
     {
-      "adj": "realizing",
-      "zh": "意識到"
+      "adj": "inspired",
+      "zh": "被啟發的、受到鼓舞的"
     },
     {
-      "adj": "entering",
-      "zh": "進入"
+      "adj": "determined",
+      "zh": "被決定的、堅定的"
     },
     {
-      "adj": "hearing",
-      "zh": "聽到"
+      "adj": "confused",
+      "zh": "被困惑的、混亂的"
     },
     {
-      "adj": "considering",
-      "zh": "考慮到"
+      "adj": "disappointed",
+      "zh": "被失望的、感到失望的"
     },
     {
-      "adj": "arriving",
-      "zh": "抵達"
+      "adj": "encouraged",
+      "zh": "被鼓勵的、受到鼓舞的"
     },
     {
-      "adj": "discovering",
-      "zh": "發現"
+      "adj": "troubled",
+      "zh": "被困擾的、煩惱的"
     }
   ],
-  "vocab_table_label": "常用分詞構句形式",
+  "vocab_table_label": "常用過去分詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的分詞構句形式，表示時間順序。",
-      "question_eng": "_______ his work, he left the office and went home.",
+      "question_chi": "選擇合適的過去分詞構句，補全句子。",
+      "question_eng": "_______ by the heavy rain, the sports event was postponed to next week.",
       "options": [
         {
           "key": "A",
-          "text": "Finishing"
+          "text": "Affected"
         },
         {
           "key": "B",
-          "text": "Finished"
+          "text": "Affecting"
         },
         {
           "key": "C",
-          "text": "Having finished"
+          "text": "Being affected"
         },
         {
           "key": "D",
-          "text": "To finish"
+          "text": "Having affected"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A (Finishing)。分詞構句用現在分詞表示與主句同時發生的動作。分詞邏輯主詞 (he) 與主句主詞相同，應使用簡單現在分詞。B 項 (Finished) 是過去分詞，不符合主動意義。C 項 (Having finished) 強調先後順序但不必要。D 項 (To finish) 是不定詞，無法作分詞構句。",
+      "explanation": "正確答案為 A。過去分詞構句用於替代被動語態，此處「運動會」被雨影響而延期，應使用被動的過去分詞 Affected。B 項 Affecting 為主動分詞，邏輯不符。C 項 Being affected 過於冗長，省略 being 是過去分詞構句的簡潔特點。D 項 Having affected 為主動語態，使用錯誤。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確的分詞構句，表示原因關係。",
-      "question_eng": "_______ the heavy traffic, Sarah arrived at the meeting late.",
+      "question_chi": "選擇正確的分詞形式，使句子意思通順。",
+      "question_eng": "_______ of the danger ahead, the hikers decided to turn back immediately.",
       "options": [
         {
           "key": "A",
-          "text": "Being caught in"
+          "text": "Warning"
         },
         {
           "key": "B",
-          "text": "Caught in"
+          "text": "Warned"
         },
         {
           "key": "C",
-          "text": "To be caught in"
+          "text": "Being warned"
         },
         {
           "key": "D",
-          "text": "Having been caught in"
+          "text": "To be warned"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A (Being caught in)。分詞構句表原因時，若動詞是被動意義，應使用「being + 過去分詞」形式。Sarah 被困在車陣中（被動），所以用 being caught in。B 項 (Caught in) 省略 being，在標準文法中不正確。C 項 (To be caught in) 是不定詞。D 項 (Having been caught in) 強調完成，但無必要。",
+      "answer": "B",
+      "explanation": "正確答案為 B。登山者被（某人或某物）警告有危險，應使用被動過去分詞 Warned。A 項 Warning 為主動，語意不符。C 項 Being warned 冗餘，過去分詞構句已省略 being。D 項 To be warned 為不定式，不符構句形式。邏輯主詞與主句主詞登山者須一致。",
       "id": 2
     },
     {
-      "question_chi": "選擇正確形式，注意分詞邏輯主詞與主句主詞是否一致。",
-      "question_eng": "_______ the alarm clock, the family woke up immediately.",
+      "question_chi": "判斷哪個選項最適合組成正確的過去分詞構句。",
+      "question_eng": "_______ all the necessary documents, the applicant was able to submit her application without delay.",
       "options": [
         {
           "key": "A",
-          "text": "Hearing the sound of"
+          "text": "Providing"
         },
         {
           "key": "B",
-          "text": "Heard the sound of"
+          "text": "Provided"
         },
         {
           "key": "C",
-          "text": "Having the sound of"
+          "text": "Having provided"
         },
         {
           "key": "D",
-          "text": "The alarm clock ringing"
+          "text": "Being provided"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A (Hearing the sound of)。分詞邏輯主詞 (the family) 與主句主詞相同，用現在分詞表原因。B 項 (Heard) 是過去式動詞，不是分詞構句。C 項 (Having) 用法錯誤。D 項 (The alarm clock ringing) 是獨立分詞構句形式，邏輯主詞不同，但這裡邏輯主詞應該相同。",
+      "answer": "B",
+      "explanation": "正確答案為 B。申請人被提供了所有必要文件，應使用被動過去分詞 Provided，表示「獲得了、被提供了」。A 項 Providing 為主動形式，邏輯錯誤。C 項 Having provided 為主動完成式，申請人不是提供者。D 項 Being provided 冗長，違反過去分詞構句的簡潔原則。句義為「因為獲得了文件，申請人能及時提交」。",
       "id": 3
     },
     {
-      "question_chi": "辨識獨立分詞構句，邏輯主詞與主句主詞不同時的用法。",
-      "question_eng": "_______ the weather becoming colder, the animals began to prepare for winter.",
+      "question_chi": "選擇合適的過去分詞構句，注意邏輯主詞的一致性。",
+      "question_eng": "_______ in a prestigious university and _______ with excellent grades, he received multiple job offers from top companies.",
       "options": [
         {
           "key": "A",
-          "text": "With"
+          "text": "Trained; graduated"
         },
         {
           "key": "B",
-          "text": "Because of"
+          "text": "Training; graduating"
         },
         {
           "key": "C",
-          "text": "Since"
+          "text": "Trained; graduating"
         },
         {
           "key": "D",
-          "text": "During"
+          "text": "Having trained; having graduated"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A (With)。當分詞構句的邏輯主詞 (weather) 與主句主詞 (animals) 不同時，應使用獨立分詞構句，前置 With。完整形式：With the weather becoming colder。B 項 (Because of) 後接名詞，不接分詞。C 項 (Since) 是連接詞，不符形式。D 項 (During) 後接名詞，無法連接分詞構句。",
+      "explanation": "正確答案為 A。此句表示「在名校接受訓練且畢業成績優異」，兩個動作的邏輯主詞都是 he，應使用被動過去分詞 Trained 和 graduated（省略 was）表示被動。B 項主動形式 Training 與 graduating 用法錯誤。C 項混合使用，不一致。D 項 Having trained 與 having graduated 冗長，且 having trained 為主動，邏輯不符。兩分詞應平行對稱結構。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "聽到鈴聲響起，學生們急忙走進教室。",
-      "answer": "Hearing the bell ring, the students hurried into the classroom.",
+      "sentence_chi": "被老師表揚後，那位學生感到非常自豪。",
+      "answer": "Praised by the teacher, the student felt very proud.",
       "key_points": [
-        "Hearing the bell ring（分詞構句開頭）",
-        "邏輯主詞相同（students）",
-        "逗號分隔主句"
+        "Praised by the teacher（過去分詞片語）",
+        "邏輯主詞一致性（student）",
+        "逗號分隔主句",
+        "省略 being"
       ],
       "hints": [
-        "提示1：將『聽到鈴聲響起』簡化為『Hearing the bell ring』，作為時間副詞子句的替代",
-        "提示2：注意『聽』和『走進』的邏輯主詞都是『學生們』，所以可以使用分詞構句"
+        "句型框架：P.P. + ..., S + V...；過去分詞置句首，後接逗號與主句",
+        "常見錯誤：寫成 'Praising by the teacher' 或 'Being praised by the teacher'（過度複雜）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "因為擔心遲到，小王早早離開了家。",
-      "answer": "Worrying about being late, Xiaowang left home early.",
+      "sentence_chi": "由於功課沒有完成，他無法參加聚會。",
+      "answer": "Not finished, his homework prevented him from attending the party.",
       "key_points": [
-        "Worrying about being late（分詞構句表原因）",
-        "避免重複主詞『Xiaowang』",
-        "被動意義『being late』的使用"
+        "Not finished（否定過去分詞片語）",
+        "homework 作邏輯受詞",
+        "prevented...from...（主句結構）",
+        "時態與事件順序"
       ],
       "hints": [
-        "提示1：將『因為擔心遲到』簡化為『Worrying about being late』，用V-ing形式表原因（代替Because子句）",
-        "提示2：『being late』是被動構造，但此處表示『遲到』的狀態，是分詞構句常見的用法"
+        "句型框架：否定形式 Not P.P. 也可用於分詞構句開頭，表示未完成的被動狀態",
+        "提醒：確認過去分詞的邏輯主詞是 homework，與主句主詞一致"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "如果不認真複習，學生就無法在考試中取得好成績。",
-      "answer": "Not reviewing seriously, students cannot achieve good grades in the exam.",
+      "sentence_chi": "當考試監考官被告知有學生作弊時，他們立即停止考試。",
+      "answer": "Informed of the cheating incident, the invigilators immediately stopped the exam.",
       "key_points": [
-        "Not reviewing seriously（分詞構句表條件）",
-        "負面分詞『Not + V-ing』的形式",
-        "邏輯主詞『students』與主句相同"
+        "Informed of...（介詞片語修飾過去分詞）",
+        "invigilators（邏輯主詞）",
+        "immediately（時間副詞修飾主句動詞）",
+        "複雜前置詞搭配"
       ],
       "hints": [
-        "提示1：將『如果不認真複習』簡化為『Not reviewing seriously』，分詞構句可表條件意義（代替If子句）",
-        "提示2：分詞構句表否定時，在V-ing前加『Not』；注意不能用『Not to review』"
+        "句型框架：P.P. + prep. phrase, S + V...；過去分詞可搭配介詞片語提供背景資訊",
+        "注意：'informed of' 是固定搭配，邏輯主詞必須是接收訊息者（invigilators），確保句式簡潔"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "完成了家庭作業後，小李邊看著窗外邊想著週末的計畫。",
-      "answer": "Having finished his homework, Xiaoli sat looking out the window, thinking about his weekend plans.",
+      "sentence_chi": "由於被家人寄予厚望，這位學生承受著巨大的學業壓力，因此決定尋求心理諮詢。",
+      "answer": "Burdened with high expectations from her family, the student felt immense academic pressure and decided to seek psychological counseling.",
       "key_points": [
-        "Having finished his homework（完成態分詞『having + pp』）",
-        "表示先後發生的兩個動作",
-        "邏輯主詞一致（Xiaoli），避免重複"
+        "Burdened with...（過去分詞搭配介詞片語）",
+        "邏輯主詞一致性（student）",
+        "並列結構（and 連接兩個動詞片語）",
+        "複雜背景資訊的濃縮"
       ],
       "hints": [
-        "提示1：『完成家庭作業』發生在『坐著看窗外』之前，所以用『Having + pp』的完成態分詞構句來表示先發生的動作",
-        "提示2：常見錯誤是用『Finishing his homework』而忽略了時間上的先後關係；當分詞動作明顯先於主句動作時，應使用『Having + pp』形式"
+        "句型框架：P.P. + prep. phrase, S + V... and V...；過去分詞片語可用複雜介詞搭配，主句可含並列動詞增加資訊密度",
+        "常見錯誤：寫成 'Being burdened...' 或誤用主動形式 'Burdening...'；須確認分詞邏輯主詞與主句主詞皆為 student"
       ]
     }
   ]

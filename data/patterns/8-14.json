@@ -1,366 +1,468 @@
 {
   "code": "8-14",
   "chapter": 8,
-  "title": "S + V + as + S + V（方式子句）",
+  "title": "Not only... but (also)...",
   "formulas": [
     {
-      "formula": "S + V + as + S + V",
-      "zh": "主詞+動詞+如同+主詞+動詞，表示方式或比較"
+      "formula": "Not only + 助動詞/be動詞 + S₁ + ..., but (also) + S₂ + V₂ ...",
+      "zh": "不只……而且……（主詞不同，not only 置於句首時須倒裝）"
     },
     {
-      "formula": "S + V + just as + S + V",
-      "zh": "主詞+動詞+正如+主詞+動詞，強調並列比較"
+      "formula": "S + V + not only + A + but (also) + B",
+      "zh": "不只A而且B（連接對等的詞或片語，不需倒裝）"
     }
   ],
-  "explanation": "此句型使用 as 引導方式副詞子句，表達「如同……一樣」的比較意義。as 可引導時間或方式子句，常見於敘述兩個平行動作或狀態。結構為：主要子句 + as + 副詞子句。使用時機為說明兩事物具有相似性或同時性。注意 as 不同於 like（介詞），as 後接完整主賓結構；as always（一如往常）為常用慣用語。易混淆點：區分 as（子句）與 like（片語）的語法差異。",
+  "explanation": "「Not only A but also B」用來強調「不只……而且……」，可連接對等的名詞、形容詞、動詞或子句。當 not only 置於句首時，該子句須使用倒裝語序（助動詞或 be 動詞移至主詞前），但 but also 引導的子句維持正常語序。動詞一致性依「就近原則」，動詞須與靠近的主詞 B 一致。also 可省略，but 不可省略。此句型常見於寫作中用以加強語氣與論述力道。",
   "examples": [
     {
       "id": 1,
-      "eng": "As the sun rose, the birds began to sing just as they did every morning.",
-      "chi": "當太陽升起時，鳥兒開始唱歌，正如牠們每天早上所做的一樣。",
+      "eng": "Not only does she speak English fluently, but she also writes beautifully.",
+      "chi": "她不只英文說得流利，而且寫得也很優美。",
       "keywords": [
-        "as引導時間子句",
-        "just as",
-        "平行動作"
+        "Not only does",
+        "but also"
       ]
     },
     {
       "id": 2,
-      "eng": "She works hard as her mother did, striving for excellence in everything.",
-      "chi": "她工作認真，如同她的母親一樣，在每件事上都力求卓越。",
+      "eng": "The movie is not only entertaining but also thought-provoking.",
+      "chi": "這部電影不只有娛樂性，而且發人深省。",
       "keywords": [
-        "as引導比較",
-        "方式副詞子句",
-        "相似性"
+        "not only",
+        "but also"
       ]
     },
     {
       "id": 3,
-      "eng": "As always, John arrived late to the meeting, causing frustration among team members.",
-      "chi": "一如往常，約翰開會遲到，引起團隊成員的不滿。",
+      "eng": "Not only did the typhoon destroy houses, but it also caused serious flooding.",
+      "chi": "那場颱風不只摧毀了房屋，還造成了嚴重的水災。",
       "keywords": [
-        "as always慣用語",
-        "習慣性動作",
-        "時間副詞"
+        "Not only did",
+        "but it also"
       ]
     },
     {
       "id": 4,
-      "eng": "The student solved the problem as his teacher had shown him during the class.",
-      "chi": "那位學生按照老師在課堂上教他的方式解決了這個問題。",
+      "eng": "Not only the students but also the teacher was surprised by the result.",
+      "chi": "不只學生，連老師也對結果感到驚訝。",
       "keywords": [
-        "as引導方式",
-        "過去完成式",
-        "說明方法"
+        "Not only",
+        "but also",
+        "was"
       ]
     }
   ],
-  "adj_table_for": [],
+  "adj_table_for": [
+    {
+      "adj": "entertaining",
+      "zh": "有娛樂性的"
+    },
+    {
+      "adj": "thought-provoking",
+      "zh": "發人深省的"
+    },
+    {
+      "adj": "convenient",
+      "zh": "方便的"
+    },
+    {
+      "adj": "affordable",
+      "zh": "負擔得起的"
+    },
+    {
+      "adj": "beneficial",
+      "zh": "有益的"
+    },
+    {
+      "adj": "challenging",
+      "zh": "具挑戰性的"
+    },
+    {
+      "adj": "rewarding",
+      "zh": "值得的；有回報的"
+    },
+    {
+      "adj": "practical",
+      "zh": "實用的"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善；提升"
+    },
+    {
+      "adj": "promote",
+      "zh": "促進；推廣"
+    },
+    {
+      "adj": "broaden",
+      "zh": "拓展；擴大"
+    },
+    {
+      "adj": "strengthen",
+      "zh": "加強；鞏固"
+    }
+  ],
   "adj_table_of": [],
   "extension": {
-    "tip": "辨別 as（引導子句）與 like（介詞）：as 後必接完整子句（S+V），like 後接名詞或名詞片語。例：as he said（他說的方式）vs. like him（像他這樣的人）。易錯誤使用 like 取代 as 引導子句。",
+    "tip": "判斷是否倒裝的關鍵：看 not only 的位置。若 not only 放在句首引導子句，該子句必須倒裝（助動詞提前）；若 not only 放在句中連接對等詞組（名詞、形容詞等），則不需倒裝。動詞看 B（就近原則）。",
     "examples": [
       {
-        "test": "✓ She sings as her mother does.",
-        "result": "→ 正確。as 引導子句，表示方式比較"
+        "test": "Not only she speaks English but also French. ❌",
+        "result": "→ Not only does she speak English, but she also speaks French. ✅（not only 置於句首須倒裝）"
       },
       {
-        "test": "✗ She sings like her mother does.",
-        "result": "→ 不當混用。應改用 as，因為後接完整子句"
+        "test": "Not only the teachers but also the principal were present. ❌",
+        "result": "→ Not only the teachers but also the principal was present. ✅（動詞須與就近主詞 the principal 一致，用 was）"
       },
       {
-        "test": "✓ As expected, the project succeeded.",
-        "result": "→ 正確。as expected 是常用慣用語，表示如預期"
+        "test": "He not only sings but also dances on stage.",
+        "result": "→ 正確。not only 在句中連接兩個動詞，不需倒裝，語序正常。"
       }
     ],
-    "note": "記憶口訣：as + 完整子句（主動詞）= 方式比較；as always/expected/usual = 時間狀語"
+    "note": "句首 not only 要倒裝，動詞跟著 B 走（就近原則）！"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The team performed well ",
+        "Not only ",
         null,
-        " the coach had trained them throughout the season.",
-        ""
+        " he good at math, but he is also talented in music."
       ],
       "blanks": [
-        "as"
+        "is"
       ],
-      "sentence": "The team performed well as the coach had trained them throughout the season.",
-      "translation": "球隊表現良好，如同教練整個賽季以來對他們的訓練一樣。",
+      "sentence": "Not only is he good at math, but he is also talented in music.",
+      "translation": "他不只擅長數學，而且在音樂方面也很有天分。",
       "keywords": [
-        "as引導方式子句",
-        "比較",
-        "訓練成果"
+        "Not only is",
+        "but also"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "",
+        "Not only ",
         null,
-        ", she forgot her keys at home again.",
-        ""
+        " they clean the park, but they also planted many trees."
       ],
       "blanks": [
-        "As always"
+        "did"
       ],
-      "sentence": "As always, she forgot her keys at home again.",
-      "translation": "一如往常，她又把鑰匙忘在家裡了。",
+      "sentence": "Not only did they clean the park, but they also planted many trees.",
+      "translation": "他們不只清掃了公園，還種了許多樹。",
       "keywords": [
-        "as always慣用語",
-        "習慣性",
-        "重複動作"
+        "Not only did",
+        "but also"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "He solved the math problem ",
+        "This app is not only ",
         null,
-        " the textbook had explained it.",
-        ""
+        " but also easy to use."
       ],
       "blanks": [
-        "just as"
+        "free"
       ],
-      "sentence": "He solved the math problem just as the textbook had explained it.",
-      "translation": "他正如教科書所解釋的那樣解決了數學問題。",
+      "sentence": "This app is not only free but also easy to use.",
+      "translation": "這個應用程式不只免費，而且容易使用。",
       "keywords": [
-        "just as強調",
-        "並列比較",
-        "說明方法"
+        "not only",
+        "but also"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "",
+        "Not only you but also your sister ",
         null,
-        " predicted, the stock market dropped significantly after the announcement.",
-        ""
+        " invited to the party."
       ],
       "blanks": [
-        "As"
+        "is"
       ],
-      "sentence": "As predicted, the stock market dropped significantly after the announcement.",
-      "translation": "如預期所料，公告發布後股市大幅下跌。",
+      "sentence": "Not only you but also your sister is invited to the party.",
+      "translation": "不只你，你的姊姊也被邀請參加派對。",
       "keywords": [
-        "as predicted",
-        "預測",
-        "因果關係"
+        "Not only",
+        "but also",
+        "is"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "Not only ",
+        null,
+        " the book interesting, but also it teaches us valuable lessons."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "Not only is the book interesting, but also it teaches us valuable lessons.",
+      "translation": "這本書不僅有趣，而且還教會我們寶貴的功課。",
+      "keywords": [
+        "be動詞倒裝",
+        "is提前",
+        "not only置句首"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "Not only ",
+        null,
+        " she attend the conference, but she also presented her research."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not only did she attend the conference, but she also presented her research.",
+      "translation": "她不僅參加了會議，而且還發表了她的研究。",
+      "keywords": [
+        "助動詞did倒裝",
+        "過去式",
+        "雙重動作"
       ]
     }
   ],
-  "vocab_table": [
-    {
-      "adj": "just",
-      "zh": "恰好、正好"
-    },
-    {
-      "adj": "always",
-      "zh": "一如往常"
-    },
-    {
-      "adj": "before",
-      "zh": "之前、像以前一樣"
-    },
-    {
-      "adj": "usual",
-      "zh": "像往常一樣"
-    },
-    {
-      "adj": "expected",
-      "zh": "如預期所料"
-    },
-    {
-      "adj": "planned",
-      "zh": "按計畫"
-    },
-    {
-      "adj": "supposed",
-      "zh": "如預期"
-    },
-    {
-      "adj": "intended",
-      "zh": "如預期"
-    },
-    {
-      "adj": "instructed",
-      "zh": "如被指示"
-    },
-    {
-      "adj": "required",
-      "zh": "如所要求"
-    },
-    {
-      "adj": "agreed",
-      "zh": "如約定"
-    },
-    {
-      "adj": "promised",
-      "zh": "如承諾"
-    }
-  ],
-  "vocab_table_label": "常用副詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的方式子句，表達「如同……一樣」的比較意義",
-      "question_eng": "The children played in the park _______ their parents watched from the bench.",
+      "question_chi": "選擇正確的「不只……而且……」句型填空",
+      "question_eng": "Not only _______ she study hard, but she also helps her classmates.",
       "options": [
         {
           "key": "A",
-          "text": "as"
+          "text": "does"
         },
         {
           "key": "B",
-          "text": "like"
+          "text": "is"
         },
         {
           "key": "C",
-          "text": "such as"
+          "text": "has"
         },
         {
           "key": "D",
-          "text": "the same as"
+          "text": "can"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A（as）。此句表達兩個同時進行的動作，需用 as 引導方式副詞子句，後接完整主賓結構「their parents watched」。B 項 like 是介詞，後接名詞片語而非子句。C 項 such as 用於列舉例子。D 項 the same as 是比較結構，不引導子句。",
+      "explanation": "句首使用 not only 需倒裝，助動詞 does 須移至主詞 she 前。B 項 is 與原句動詞 study 不符；C 項 has 為完成式，語義不當；D 項 can 為情態動詞，不符倒裝結構。正確答案是 A。",
       "id": 1
     },
     {
-      "question_chi": "填入適當詞彙，完成方式子句表達「恰如……一樣」",
-      "question_eng": "The students studied hard _______ they had done before the previous exam.",
+      "question_chi": "判斷句型中連接詞的正確用法",
+      "question_eng": "The book is not only informative _______ also inspiring to read.",
       "options": [
         {
           "key": "A",
-          "text": "just as"
+          "text": "yet"
         },
         {
           "key": "B",
-          "text": "just like"
+          "text": "but"
         },
         {
           "key": "C",
-          "text": "as if"
+          "text": "and"
         },
         {
           "key": "D",
-          "text": "as long as"
+          "text": "or"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A（just as）。句子強調學生像之前一樣用功，需用 just as 引導方式子句，表達「恰如……一樣」的比較意義，後接完整子句「they had done」。B 項 just like 為介詞片語，後應接名詞而非動詞。C 項 as if 表假設語氣。D 項 as long as 表條件。",
+      "answer": "B",
+      "explanation": "not only...but (also) 句型中，but 為必要連接詞，不可省略。A 項 yet 改變語義為對比；C 項 and 不符該句型結構；D 項 or 表選擇，語意錯誤。正確答案是 B。",
       "id": 2
     },
     {
-      "question_chi": "識別正確的方式子句結構，區分 as 與 like 的語法差異",
-      "question_eng": "She managed the project _______ her mentor had instructed her, implementing each strategy with precision.",
+      "question_chi": "辨析句首倒裝與非倒裝的差異",
+      "question_eng": "_______ he is talented _______ hardworking, so he achieved great success.",
       "options": [
         {
           "key": "A",
-          "text": "like"
+          "text": "Not only is / but also"
         },
         {
           "key": "B",
-          "text": "as"
+          "text": "Not only / but also is"
         },
         {
           "key": "C",
-          "text": "in the same way like"
+          "text": "Not only is / and also"
         },
         {
           "key": "D",
-          "text": "similar to"
+          "text": "Only not is / but also"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B（as）。句子需表達「按照導師的指示方式去管理」，as 後接完整子句「her mentor had instructed her」。A 項 like 為介詞，後只能接名詞片語。C 項結構冗餘且語法錯誤。D 項 similar to 為介詞片語，無法引導子句。as 與 like 的關鍵差異在於 as 可引導子句。",
+      "answer": "A",
+      "explanation": "句首 not only 後的子句需倒裝（is he），but also 引導的子句維持正常語序（he is hardworking）。B 項倒裝位置錯誤；C 項用 and 取代 but，違反句型規則；D 項詞序完全錯誤。正確答案是 A。",
       "id": 3
     },
     {
-      "question_chi": "複雜句型，同時涉及時間與方式子句，須正確運用 as 引導子句",
-      "question_eng": "The orchestra performed the symphony with passion _______ the conductor led them through each movement, and the audience responded _______ they had on opening night.",
+      "question_chi": "複雜句型中動詞一致性與倒裝的綜合應用",
+      "question_eng": "Not only _______ the students impressed by the teacher's lecture, but the parents _______ satisfied with the school's curriculum.",
       "options": [
         {
           "key": "A",
-          "text": "like / as"
+          "text": "were / was"
         },
         {
           "key": "B",
-          "text": "as / just as"
+          "text": "was / were"
         },
         {
           "key": "C",
-          "text": "just as / like"
+          "text": "are / are"
         },
         {
           "key": "D",
-          "text": "as / like"
+          "text": "were / are"
+        }
+      ],
+      "answer": "D",
+      "explanation": "句首倒裝子句主詞為 the students（複數），be 動詞用 were；but also 子句主詞為 the parents（複數），be 動詞用 are。此句型中動詞應與各自的主詞一致，不遵循就近原則。A 項後半錯誤；B、C 項前半錯誤。正確答案是 D。",
+      "id": 4
+    },
+    {
+      "question_chi": "選擇正確的倒裝結構，完成Not only句型",
+      "question_eng": "Not only _______ he enjoy reading, but also he writes novels.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "he does"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "he is"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Not only置於句首時，主句需倒裝，助動詞does須置於主詞he之前。B項重複主詞，破壞倒裝結構。C項時態與but also部分不符（he writes現在式）。D項be動詞無法表達enjoy的意義。",
+      "id": 5
+    },
+    {
+      "question_chi": "判斷正確的but also部分語序和助動詞搭配",
+      "question_eng": "Not only will the government invest in education, but also _______ support local communities.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will it"
+        },
+        {
+          "key": "B",
+          "text": "it will"
+        },
+        {
+          "key": "C",
+          "text": "it does"
+        },
+        {
+          "key": "D",
+          "text": "does it"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B（as / just as）。第一空需表達音樂家與指揮同時進行的動作，用 as 引導方式子句「the conductor led them」。第二空表達「恰如」開幕夜一樣的觀眾反應，用 just as 引導方式子句「they had on opening night」。其他選項混淆了介詞 like 與子句連接詞 as 的用法區別。",
-      "id": 4
+      "explanation": "but also後保持正常語序（主詞+動詞），不需倒裝。it will搭配will投資形成平行結構。A項錯誤倒裝於but also部分。C項時態與not only的will future不符。D項在but also後不應倒裝。",
+      "id": 6
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "就像老師教我們的一樣，我們應該誠實對待每個人。",
-      "answer": "As our teacher teaches us, we should treat everyone honestly.",
+      "sentence_chi": "這部電影不只很有趣，而且很感人。",
+      "answer": "Not only is this movie entertaining, but it is also touching.",
       "key_points": [
-        "as 引導方式子句",
-        "teach us 完整主賓結構",
-        "should + V 主要子句"
+        "Not only + be動詞 + S 倒裝結構",
+        "entertaining 和 touching（形容詞對等連接）",
+        "but also 後接正常語序"
       ],
       "hints": [
-        "句型框架：主要子句 + as + 副詞子句，as 後須接完整S+V結構",
-        "注意：as 是連接詞，後面必須有主語和動詞，不能用 like 代替"
+        "提示1：not only 置於句首時，be 動詞須提前至主詞之前形成倒裝",
+        "提示2：but also 後的子句不需倒裝，維持『S + be V』的正常語序"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "一如往常，她準時完成了所有的家庭作業。",
-      "answer": "As always, she completed all her homework on time.",
+      "sentence_chi": "這份工作不只薪水高，而且工作環境也很舒適。",
+      "answer": "Not only is the salary high for this job, but the working environment is also comfortable.",
       "key_points": [
-        "as always 慣用語",
-        "completed 過去式",
-        "on time 時間副詞片語"
+        "倒裝結構：Not only + be + S + adj",
+        "高級詞彙：salary / working environment",
+        "but also 維持正常主詞-動詞語序"
       ],
       "hints": [
-        "句型變化：as always 是高中英文常見慣用表達，表示『一如既往』的意義",
-        "注意：as always 通常位於句首，後接主要子句；此時 as 已含有『如同……一樣』的比較意義"
+        "提示1：形容詞對等連接時，not only 後的子句需倒裝（is + S），but also 後的子句保持正常語序",
+        "提示2：注意 also 可省略，但 but 不能省；此處使用 also 可加強語氣"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "正如許多學生所做的那樣，他利用暑假時間準備學測。",
-      "answer": "As many students do, he used the summer vacation to prepare for the college entrance exam.",
+      "sentence_chi": "他不只通過了英文考試，而且還考了全班最高分。",
+      "answer": "Not only did he pass the English exam, but he also scored the highest mark in the class.",
       "key_points": [
-        "as many students do 方式子句",
-        "used...to prepare 主要子句結構",
-        "college entrance exam 學測用語"
+        "過去式倒裝：Not only + did + S + V",
+        "pass / score 的動詞對等連接",
+        "就近原則：動詞與靠近的主詞『he』一致"
       ],
       "hints": [
-        "句型框架：主要子句 + as + 方式子句，此處 as 引導『如同……做的那樣』的比較",
-        "易錯點：avoid 用 like 代替 as；as 後的 do 是助動詞，不能省略"
+        "提示1：not only 置於句首時需倒裝，此句用過去式須將『did』提前至主詞前；but also 後恢復『S + V』的正常語序",
+        "提示2：常見錯誤是忘記倒裝或混淆兩個子句的語序，記住『not only 倒裝，but also 正常』"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "就像社會上許多人忽視環保問題一樣，我們有時也會忘記自己的責任。",
-      "answer": "Just as many people in society overlook environmental issues, we sometimes forget our own responsibilities.",
+      "sentence_chi": "這個提案不只能降低成本，而且能改善員工的工作效率和滿意度。",
+      "answer": "Not only can this proposal reduce costs, but it can also improve employees' work efficiency and job satisfaction.",
       "key_points": [
-        "just as 強化比較意義",
-        "overlook environmental issues 方式子句",
-        "responsibilities 抽象名詞"
+        "情態動詞倒裝：Not only + can + S + V",
+        "reduce / improve 動詞對等連接",
+        "and 連接『work efficiency』和『job satisfaction』（名詞對等連接的複雜結構）"
       ],
       "hints": [
-        "句型延伸：just as 是 as 的強調形式，更明確地表達『恰如』的比較意義，兩個子句結構應平行對稱",
-        "易錯點：just as 後的子句必須是完整S+V結構；注意 overlook（忽視）與 forget（忘記）的語義區別"
+        "提示1：含情態動詞時，not only 後需將情態動詞提前形成倒裝（can + S + V）；but also 後仍為『S + can + V』的正常語序",
+        "提示2：注意複雜句中多個對等元素的連接方式：不同動詞對等（reduce/improve）且 improve 後接兩個名詞對象（用 and 連接），結構完整性是評分重點"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "這部電影不僅很有趣，而且還很感人。",
+      "answer": "Not only is this movie entertaining, but it is also very moving.",
+      "key_points": [
+        "Not only + is + S",
+        "but also + S + V（正常語序）",
+        "形容詞entertaining和moving的並列"
+      ],
+      "hints": [
+        "提示1：Not only置於句首時，must + 助動詞is + 主詞movie，形成倒裝；but also後保持正常語序",
+        "提示2：避免寫成 'Not only this movie is entertaining...'（錯誤的倒裝位置）"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "她不僅學習認真，而且還積極參與課外活動。",
+      "answer": "Not only does she study hard, but she also actively participates in extracurricular activities.",
+      "key_points": [
+        "Not only + does + S + V",
+        "but also + S + V + O（正常語序）",
+        "時態一致性（does與participates）"
+      ],
+      "hints": [
+        "提示1：Not only句首需倒裝，使用助動詞does；but also後面用原形participate改為participates（第三人稱單數）",
+        "提示2：常見錯誤是在but also後也寫成倒裝，應保持'she also participates'的正常語序"
       ]
     }
   ]

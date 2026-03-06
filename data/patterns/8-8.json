@@ -1,362 +1,362 @@
 {
   "code": "8-8",
   "chapter": 8,
-  "title": "時間副詞子句 before / after / until",
+  "title": "as soon as / the moment + S + V（一……就……）",
   "formulas": [
     {
-      "formula": "Before/After/Until + S + V, S + V",
-      "zh": "時間從句置於主句前，用逗號分隔"
+      "formula": "As soon as / The moment / Once + S + V, S + V",
+      "zh": "一……就……；強調兩個動作緊接發生，子句用現在式代未來"
     },
     {
-      "formula": "S + V + before/after/until + S + V",
-      "zh": "時間從句置於主句後，通常不加逗號"
+      "formula": "No sooner + had + S + V + than + S + V（倒裝）",
+      "zh": "倒裝表達「剛……就……」，主句用過去完成式"
     }
   ],
-  "explanation": "before/after/until 引導時間從句，表達動作發生的時間關係。before 指主句動作在從句動作之前完成；after 指主句動作在從句動作之後；until 指主句動作持續到從句動作發生為止。not...until 強調「直到才」的延遲關係。從句可放在主句前（加逗號）或後（通常不加逗號）。時態上，從句通常用簡單式表示，主句根據上下文選用。",
+  "explanation": "此句型用來表達兩個動作的緊接發生關係。時間副詞子句（as soon as / the moment / once）引導前置動作，主句表後續動作。重點是子句縱使指未來事件，仍用現在式，不用未來式。倒裝形式 no sooner...than、hardly...when 意義相同但語氣更強，使用過去完成式。易混淆之處在於忘記用現在式替代未來式，或混淆倒裝與非倒裝的時態搭配。",
   "examples": [
     {
       "id": 1,
-      "eng": "Before you leave, please turn off all the lights in the classroom.",
-      "chi": "在你離開之前，請關掉教室裡的所有燈。",
+      "eng": "As soon as you arrive at the airport, call me immediately.",
+      "chi": "你一到達機場，就立刻打電話給我。",
       "keywords": [
-        "before",
-        "時間順序",
-        "祈使句"
+        "as soon as",
+        "arrive",
+        "現在式代未來"
       ]
     },
     {
       "id": 2,
-      "eng": "After the exam was finished, all students felt relieved and excited.",
-      "chi": "考試結束後，所有學生都感到鬆了一口氣，也很興奮。",
+      "eng": "The moment the teacher enters the classroom, all students stop talking.",
+      "chi": "老師一進教室，所有學生就停止說話。",
       "keywords": [
-        "after",
-        "完成體",
-        "情感反應"
+        "the moment",
+        "enters",
+        "緊接發生"
       ]
     },
     {
       "id": 3,
-      "eng": "You should wait until your father comes home before making any decisions.",
-      "chi": "你應該等到你父親回家後再做任何決定。",
+      "eng": "Once you finish your homework, you can play video games.",
+      "chi": "你一完成功課，就可以玩電動。",
       "keywords": [
-        "until",
-        "等待",
-        "條件"
+        "once",
+        "finish",
+        "條件時間"
       ]
     },
     {
       "id": 4,
-      "eng": "She didn't realize how important the project was until she started working on it.",
-      "chi": "直到她開始做這個專案，她才意識到它有多重要。",
+      "eng": "No sooner had he heard the news than he rushed to the hospital.",
+      "chi": "他剛聽到這個消息就趕往醫院。",
       "keywords": [
-        "not...until",
-        "延遲認知",
-        "轉折"
+        "no sooner...than",
+        "倒裝",
+        "過去完成式"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "區分 until 與 before：until 強調動作持續到某點停止，before 強調時間點前已完成。not...until 中，not 修飾主句動詞，整句強調延遲或相反的預期。確保主句與從句的時態搭配邏輯，避免無關或混亂的時間關係。",
+    "tip": "判斷時態時，記住：時間副詞子句縱使表未來，仍用現在式。倒裝形式 no sooner/hardly/scarcely 必搭過去完成式在主句，than/when 後用簡單過去式。若混淆時態會導致文法錯誤。",
     "examples": [
       {
-        "test": "He studied hard before the exam.",
-        "result": "→ 正確。exam 前有時間點，studied 在 exam 前完成。"
+        "test": "✗ As soon as you will arrive, I will pick you up.",
+        "result": "→ ✓ As soon as you arrive, I will pick you up.（子句用現在式）"
       },
       {
-        "test": "He studied until the exam started. (He studied hard until the exam started.)",
-        "result": "→ 正確。studied 這個動作持續到 exam started 為止。"
+        "test": "✗ No sooner did he leave than his boss called.",
+        "result": "→ ✓ No sooner had he left than his boss called.（主句用過去完成式）"
       },
       {
-        "test": "He didn't study until the exam started.",
-        "result": "→ 正確。不study 這個動作延續到 exam started 這一刻才停止，暗示浪費時間。"
+        "test": "✓ The moment she enters, everyone applauds.",
+        "result": "→ 現在式背景下的標準用法，表習慣性動作"
       }
     ],
-    "note": "before=提前完成，until=持續到那刻，not...until=延遲到那刻才做。"
+    "note": "時間副詞子句永遠現在式，倒裝形式主句用過去完成式——三個關鍵不能混。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "We cannot go outside ",
+        "As soon as the meeting ",
         null,
-        " the rain stops."
+        ", everyone left the room."
       ],
       "blanks": [
-        "until"
+        "ended / ends"
       ],
-      "sentence": "We cannot go outside until the rain stops.",
-      "translation": "直到雨停為止，我們都不能出去。",
+      "sentence": "As soon as the meeting ends, everyone left the room.",
+      "translation": "會議一結束，每個人都離開了房間。",
       "keywords": [
-        "until",
-        "持續狀態",
-        "否定"
+        "as soon as",
+        "ends",
+        "現在式代未來"
       ]
     },
     {
       "id": 2,
       "parts": [
+        "The moment you ",
         null,
-        " you finish your homework, you may watch television.",
-        ""
+        " this form, submit it to the office."
       ],
       "blanks": [
-        "After"
+        "complete / completed"
       ],
-      "sentence": "After you finish your homework, you may watch television.",
-      "translation": "你完成作業後，就可以看電視。",
+      "sentence": "The moment you complete this form, submit it to the office.",
+      "translation": "你一填完這個表格，就提交到辦公室。",
       "keywords": [
-        "after",
-        "時間順序",
-        "條件許可"
+        "the moment",
+        "complete",
+        "現在式"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Students didn't know the test results ",
+        "No sooner had she ",
         null,
-        " the teacher announced them in class."
+        " the news than she called her parents."
       ],
       "blanks": [
-        "until"
+        "heard"
       ],
-      "sentence": "Students didn't know the test results until the teacher announced them in class.",
-      "translation": "直到老師在課堂上宣布成績，學生們才知道測驗結果。",
+      "sentence": "No sooner had she heard the news than she called her parents.",
+      "translation": "她剛聽到消息就打電話給父母。",
       "keywords": [
-        "not...until",
-        "延遲認知",
-        "轉折"
+        "no sooner...than",
+        "had heard",
+        "過去完成式"
       ]
     },
     {
       "id": 4,
       "parts": [
+        "Once the students ",
         null,
-        " we arrived at the station, the train had already left.",
-        ""
+        " the exam, they can go home."
       ],
       "blanks": [
-        "Before"
+        "finish / finished"
       ],
-      "sentence": "Before we arrived at the station, the train had already left.",
-      "translation": "在我們到達車站之前，火車已經離開了。",
+      "sentence": "Once the students finish the exam, they can go home.",
+      "translation": "學生一完成考試，就可以回家。",
       "keywords": [
-        "before",
-        "過去完成式",
-        "先後順序"
+        "once",
+        "finish",
+        "條件時間"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "before",
-      "zh": "在……之前"
+      "adj": "as soon as",
+      "zh": "一……就……（最常見，任何時態背景）"
     },
     {
-      "adj": "after",
-      "zh": "在……之後"
+      "adj": "the moment",
+      "zh": "一……就……（強調時間點，較正式）"
     },
     {
-      "adj": "until/till",
-      "zh": "直到、一直到"
+      "adj": "once",
+      "zh": "一旦；一……就……（帶有條件色彩）"
     },
     {
-      "adj": "not...until",
-      "zh": "直到……才"
+      "adj": "no sooner...than",
+      "zh": "剛……就……（倒裝，過去完成式）"
+    },
+    {
+      "adj": "hardly...when",
+      "zh": "剛……就……（倒裝，過去完成式）"
+    },
+    {
+      "adj": "scarcely...when",
+      "zh": "幾乎沒有……就……（倒裝，書面語）"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
     },
     {
       "adj": "finish",
       "zh": "完成"
     },
     {
-      "adj": "complete",
-      "zh": "完成、補全"
+      "adj": "hear",
+      "zh": "聽到"
     },
     {
-      "adj": "arrive",
-      "zh": "抵達、到達"
+      "adj": "see",
+      "zh": "看到"
+    },
+    {
+      "adj": "learn",
+      "zh": "得知"
     },
     {
       "adj": "return",
       "zh": "返回"
-    },
-    {
-      "adj": "wait",
-      "zh": "等待"
-    },
-    {
-      "adj": "continue",
-      "zh": "繼續"
-    },
-    {
-      "adj": "realize",
-      "zh": "意識到"
-    },
-    {
-      "adj": "understand",
-      "zh": "理解"
     }
   ],
-  "vocab_table_label": "常用時間連接詞",
+  "vocab_table_label": "常用即時連接詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的時間連接詞，完成句子",
-      "question_eng": "_______ you finish your homework, you can play video games.",
+      "question_chi": "選填正確的時態，表示一到達就立即打電話",
+      "question_eng": "As soon as you _______ at the airport, call me immediately.",
       "options": [
         {
           "key": "A",
-          "text": "After"
+          "text": "arrive"
         },
         {
           "key": "B",
-          "text": "Before"
+          "text": "will arrive"
         },
         {
           "key": "C",
-          "text": "Until"
+          "text": "have arrived"
         },
         {
           "key": "D",
-          "text": "Unless"
+          "text": "are arriving"
         }
       ],
       "answer": "A",
-      "explanation": "答案是 A。句意為「完成功課後，你可以玩電動」，表示主句動作（可以玩）在從句動作（完成功課）之後，應用 after。B選項 before 意思相反（功課完成前就能玩，不合理）；C選項 until 表「持續到...為止」（直到完成才能玩，過於嚴格）；D選項 unless 是「除非」，用法與上下文不符。",
+      "explanation": "正確答案是 A（arrive）。時間副詞子句 as soon as 後面應用現在式表示未來事件，不用未來式。B 選項錯誤，子句中不用 will；C 選項現在完成式不符文脈；D 選項進行式不適合表達確定事件。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確的時間連接詞和時態搭配",
-      "question_eng": "The children were playing happily _______ their mother came home from work.",
+      "question_chi": "選填正確形式，表示老師一進教室就停止講話",
+      "question_eng": "The moment the teacher _______ the classroom, all students stop talking.",
       "options": [
         {
           "key": "A",
-          "text": "until"
+          "text": "will enter"
         },
         {
           "key": "B",
-          "text": "before"
+          "text": "enters"
         },
         {
           "key": "C",
-          "text": "after"
+          "text": "has entered"
         },
         {
           "key": "D",
-          "text": "unless"
+          "text": "is entering"
         }
       ],
       "answer": "B",
-      "explanation": "答案是 B。句意為「母親下班回家前，孩子們玩得很開心」，主句動作（玩）在從句動作（回家）之前持續進行，應用 before。A選項 until 表「直到...為止」會變成「玩到媽媽回家為止」，與下文邏輯不符；C選項 after 表時間關係相反；D選項 unless 是條件句，用法不當。",
+      "explanation": "正確答案是 B（enters）。the moment 後的時間副詞子句應用現在簡單式，主句亦用現在式表習慣性動作。A 選項錯誤，子句不用未來式；C 選項現在完成式不符；D 選項進行式語氣不當。",
       "id": 2
     },
     {
-      "question_chi": "理解 not...until 的延遲關係，選擇適當完成",
-      "question_eng": "She did not realize how important the project was _______ she had completed half of it.",
+      "question_chi": "選填正確形式，表示一旦比賽開始就沒有人能改變規則",
+      "question_eng": "Once the game _______, no one can change the rules anymore.",
       "options": [
         {
           "key": "A",
-          "text": "before"
+          "text": "will begin"
         },
         {
           "key": "B",
-          "text": "until"
+          "text": "is beginning"
         },
         {
           "key": "C",
-          "text": "after"
+          "text": "begins"
         },
         {
           "key": "D",
-          "text": "while"
-        }
-      ],
-      "answer": "B",
-      "explanation": "答案是 B。句意為「直到完成一半，她才意識到該項目的重要性」，這是 not...until 的典型用法，表示延遲或對比。A選項 before 會造成時態邏輯混亂；C選項 after 改變句意為「完成後才意識到」，失去 not 的強調效果；D選項 while 表同時進行，不符合延遲關係。",
-      "id": 3
-    },
-    {
-      "question_chi": "複雜句型：判斷時間從句的位置和時態搭配",
-      "question_eng": "_______ the company had reviewed all applications, the HR department _______ the final candidates for the interview next month.",
-      "options": [
-        {
-          "key": "A",
-          "text": "After / would announce"
-        },
-        {
-          "key": "B",
-          "text": "Before / announced"
-        },
-        {
-          "key": "C",
-          "text": "After / announced"
-        },
-        {
-          "key": "D",
-          "text": "Until / would announce"
+          "text": "has begun"
         }
       ],
       "answer": "C",
-      "explanation": "答案是 C。前半句用 after 表示主句動作（公佈）在從句動作（審查完成）之後；從句用過去完成式 had reviewed（動作已完成），主句用簡單過去式 announced（表敘述過去事實）。A選項 would announce 用於未來不當；B選項 before 時間關係錯誤；D選項 until 表「持續到...為止」，邏輯不符。",
+      "explanation": "正確答案是 C（begins）。once 引導時間副詞子句，應用現在簡單式表示未來事件，主句用 can 表達可能性。A 選項錯誤，子句不用未來式；B 選項進行式不適合；D 選項現在完成式時態不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "選填倒裝句正確形式，強調一接到消息就立刻出發",
+      "question_eng": "No sooner _______ the news _______ he immediately set off for home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did he receive; than"
+        },
+        {
+          "key": "B",
+          "text": "had he received; than"
+        },
+        {
+          "key": "C",
+          "text": "he had received; when"
+        },
+        {
+          "key": "D",
+          "text": "he received; than"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（had he received; than）。no sooner...than 倒裝句需用過去完成式 had received + 倒裝語序 had he，主句用過去簡單式。A 選項只用過去式不符倒裝要求；C 選項沒倒裝且用 when 不搭 no sooner；D 選項時態與結構均錯。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "在你完成作業之前，不要看手機。",
-      "answer": "Before you finish your homework, don't check your phone. / Don't check your phone before you finish your homework.",
+      "sentence_chi": "我一到家就開始做功課。",
+      "answer": "As soon as I get home, I start doing my homework. / The moment I get home, I start doing my homework.",
       "key_points": [
-        "Before + S + V 引導時間從句",
-        "祈使句搭配時間副詞子句",
-        "從句置於主句前需加逗號"
+        "As soon as / The moment 引導時間副詞子句",
+        "子句用現在式 get（不用 will get）",
+        "主句用簡單現在式 start"
       ],
       "hints": [
-        "提示1：使用 Before 結構時，從句可放主句前後；從句前加逗號",
-        "提示2：注意「完成」用 finish，不要用 complete；「看手機」用 check your phone 或 look at your phone"
+        "句型框架：As soon as / The moment + S + V（現在式），S + V（現在式）",
+        "常見錯誤：子句誤用 will get home，但時間副詞子句中未來事件仍需用現在式表達"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "他離開教室之後，才發現自己忘了帶書包。",
-      "answer": "After he left the classroom, he realized that he had forgotten his backpack. / He realized that he had forgotten his backpack after he left the classroom.",
+      "sentence_chi": "一旦老師宣布放假，全班同學就歡呼起來。",
+      "answer": "The moment the teacher announces the holiday, the whole class cheers. / Once the teacher announces the holiday, the whole class cheers.",
       "key_points": [
-        "After + S + V 引導時間從句",
-        "主句過去完成式 had forgotten 表先前動作",
-        "從句用簡單過去式 left"
+        "Once 也可引導時間副詞子句，意同 as soon as",
+        "cheers 搭配 the whole class（集合名詞用單數動詞）",
+        "子句與主句均用現在式"
       ],
       "hints": [
-        "提示1：After 從句動作先發生，主句動作後發生；從句置前加逗號",
-        "提示2：注意時態配搭——從句用 left (簡單過去)，主句用 realized (簡單過去) + had forgotten (過去完成式)"
+        "句型框架：Once + S + V（現在式），S + V（現在式）",
+        "注意：集合名詞 the whole class 視為單數，動詞用第三人稱單數"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "我們要等到老師進來才能開始考試。",
-      "answer": "We cannot start the exam until the teacher comes in. / Until the teacher comes in, we cannot start the exam.",
+      "sentence_chi": "她一看到考試成績就立刻打電話給父母告訴他們好消息。",
+      "answer": "As soon as she sees her exam results, she immediately calls her parents to tell them the good news. / The moment she sees her exam results, she immediately calls her parents to tell them the good news.",
       "key_points": [
-        "Until + S + V 引導時間從句",
-        "否定句搭配 until 表延遲關係",
-        "從句置前時加逗號"
+        "sees 現在式表達未來事件",
+        "immediately 副詞修飾主句動詞 calls",
+        "不定詞片語 to tell them 表目的"
       ],
       "hints": [
-        "提示1：until 從句表達「直到…才」的延遲概念，通常搭配否定詞 not/cannot；從句用簡單現在式表未來",
-        "提示2：注意不能說『We can start...until』，must 搭配 until 時也需用否定結構 cannot/must not"
+        "句型框架：As soon as + S + V（現在式），S + adv. + V（現在式）...",
+        "易錯點：不要在時間副詞子句中使用 will see，即使表未來事件也要用現在式"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "直到他承認了錯誤，我們才願意原諒他，然而一切都已經太遲了。",
-      "answer": "Not until he admitted his mistake were we willing to forgive him, but by then everything was already too late. / We were not willing to forgive him until he admitted his mistake, but by then everything was already too late.",
+      "sentence_chi": "他剛一完成報告，主任就召集他進辦公室討論內容。",
+      "answer": "No sooner had he finished the report than the director called him into the office to discuss the content. / Hardly had he finished the report when the director called him into the office to discuss the content.",
       "key_points": [
-        "Not...until 強調延遲與轉折",
-        "倒裝結構『Not until + 從句 + 助動詞 + 主詞』",
-        "複合句結合對比意義（but 連接兩獨立子句）"
+        "No sooner / Hardly 引導倒裝句，語氣比 as soon as 更強",
+        "前子句用過去完成式 had finished",
+        "than / when 後接過去簡單式 called（非倒裝句）"
       ],
       "hints": [
-        "提示1：『Not until』置於句首時引發倒裝，助動詞前移；若 until 在句尾則無倒裝。兩種位置都正確",
-        "提示2：注意『原諒』用 forgive；『承認』用 admit；『太遲』用 too late；時態搭配需一致（都用過去式）；倒裝版本『were we willing』語序"
+        "倒裝句型框架：No sooner / Hardly + had + S + V（過去分詞）+ than / when + S + V（過去式）",
+        "常見錯誤：倒裝時混淆時態，前半段應用 had + 過去分詞，後半段用過去簡單式；且 no sooner...than、hardly...when 搭配不能互換"
       ]
     }
   ]

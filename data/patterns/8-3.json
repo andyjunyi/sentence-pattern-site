@@ -1,56 +1,55 @@
 {
   "code": "8-3",
   "chapter": 8,
-  "title": "讓步副詞子句 although / even though / even if",
+  "title": "although / though / even though + S + V（讓步子句）",
   "formulas": [
     {
-      "formula": "Although/Even though + S + V, S + V.",
-      "zh": "雖然……但是……（陳述事實）"
+      "formula": "Although/Though/Even though + S + V, S + V",
+      "zh": "雖然……但是……；讓步副詞子句表達轉折關係"
     },
     {
-      "formula": "Even if + S + V, S + V.",
-      "zh": "即使……也……（表假設）"
+      "formula": "S + V, although/though + S + V",
+      "zh": "主句在前，讓步子句在後（though 可置句尾）"
     }
   ],
-  "explanation": "此句型用於表達「雖然…但是…」的讓步關係。Although 和 even though 表示陳述已知事實，在句首或句中都可使用；even if 表示假設情景，不關心真偽。三者都不可與 but 同用在同一個句子裡，because but 與讓步意義重複。Though 較口語，可置於句尾表示「不過、然而」。此句型強調前半部事實不影響後半部結論的成立。",
+  "explanation": "讓步副詞子句用來表達兩個相對立的事實。Although、though、even though 都可引導讓步子句，但 even though 語氣最強，強調事實的對比性。關鍵注意：讓步子句與主句不能同時使用 but；though 具有靈活性，可置於句首或句尾；although 通常置於句首。此句型考察轉折邏輯與複句結構掌握。",
   "examples": [
     {
       "id": 1,
-      "eng": "Although she is very busy, she still makes time for her family.",
-      "chi": "雖然她非常忙碌，她仍然抽出時間陪伴家人。",
+      "eng": "Although she studied hard, she failed the exam.",
+      "chi": "雖然她很用功，但她仍然考試不及格。",
       "keywords": [
         "although",
-        "讓步",
-        "時間管理"
+        "轉折",
+        "讓步"
       ]
     },
     {
       "id": 2,
-      "eng": "Even though it was raining heavily, the outdoor concert went on as planned.",
-      "chi": "儘管下著大雨，戶外音樂會仍按計畫進行。",
+      "eng": "Even though the weather was terrible, the event proceeded as planned.",
+      "chi": "儘管天氣很糟糕，這項活動仍按計劃進行。",
       "keywords": [
         "even though",
-        "事實",
-        "堅持"
+        "事實對比",
+        "強語氣"
       ]
     },
     {
       "id": 3,
-      "eng": "Even if you study hard, success is not guaranteed in this competitive field.",
-      "chi": "即使你努力學習，在這個競爭領域中也不能保證成功。",
+      "eng": "Though he was rich, he lived a simple life.",
+      "chi": "雖然他很富有，但他過著簡樸的生活。",
       "keywords": [
-        "even if",
-        "假設",
-        "條件"
+        "though",
+        "句首使用"
       ]
     },
     {
       "id": 4,
-      "eng": "Though expensive, this medicine is effective in treating the disease.",
-      "chi": "儘管昂貴，這種藥物在治療該疾病方面很有效。",
+      "eng": "She succeeded in her dream, though many people doubted her.",
+      "chi": "她實現了夢想，儘管許多人懷疑她。",
       "keywords": [
-        "though",
-        "句尾",
+        "though句尾",
+        "靈活位置",
         "讓步"
       ]
     }
@@ -58,152 +57,151 @@
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "區分 even though 和 even if：even though 陳述真實情況（已發生或確定），even if 表示假設（不管是否真實）。注意不可在讓步子句後用 but，應改用逗號或用 still/yet/however 在主句。句型公式中的兩個 S + V 各為獨立句子，須有主詞和動詞。",
+    "tip": "容易混淆點：although/though/even though 引導子句（後接 S+V），而 despite/in spite of 為介詞，後接名詞或動名詞。不可將讓步子句與 but 同用；若已用 although，不需再用 but。though 置於句尾時語氣較輕鬆。",
     "examples": [
       {
-        "test": "Even though he won the lottery, he is not happy.",
-        "result": "→ 正確。陳述事實（已經贏得彩票），用 even though。"
+        "test": "❌ Although he studied hard, but he failed.",
+        "result": "→ ✅ Although he studied hard, he failed. 或 He studied hard, but he failed.（不可同時使用 although 與 but）"
       },
       {
-        "test": "Even if he won the lottery, he would not be happy.",
-        "result": "→ 正確。表假設（假如贏得），用 even if 搭配虛擬語氣。"
+        "test": "❌ Even though his difficulty, he never gave up.",
+        "result": "→ ✅ Even though he had difficulties, he never gave up. 或 Despite his difficulties, he never gave up.（difficulty 後需接 had；或改用介詞 despite）"
       },
       {
-        "test": "Although she studied hard, but she failed the exam.",
-        "result": "→ 錯誤。不可同時用 although 和 but，應刪除 but 或改為逗號。"
+        "test": "✅ He went to work, though he was sick.",
+        "result": "→ though 置於句尾，語氣輕鬆自然，表達「不過他生病了」"
       }
     ],
-    "note": "even though 看已經發生，even if 看假如發生；兩者都禁止配 but，要改用逗號或轉折詞。"
+    "note": "記憶口訣：「Although/Though 接完整子句，不與 but 為友；Despite/In spite of 接名詞詞組。」"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
+        "He won the award ",
         null,
-        " she was tired, she insisted on finishing the project that day.",
-        ""
+        " many competitors were more experienced."
       ],
       "blanks": [
-        "Although"
+        "even though"
       ],
-      "sentence": "Although she was tired, she insisted on finishing the project that day.",
-      "translation": "雖然她很疲倦，她仍堅持在當天完成這個專案。",
+      "sentence": "He won the award even though many competitors were more experienced.",
+      "translation": "儘管許多競爭對手經驗更豐富，他仍然贏得了獎項。",
       "keywords": [
-        "although",
-        "讓步",
-        "堅持"
+        "even though",
+        "讓步轉折",
+        "強對比"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Even if you have the best equipment,",
         null,
-        " without practice."
+        " it was raining heavily, the children played outside happily."
       ],
       "blanks": [
-        "you cannot succeed"
+        "Although"
       ],
-      "sentence": "Even if you have the best equipment, you cannot succeed without practice.",
-      "translation": "即使你有最好的設備，沒有練習你也無法成功。",
+      "sentence": "Although it was raining heavily, the children played outside happily.",
+      "translation": "雖然下著大雨，孩子們仍然開心地在外面玩耍。",
       "keywords": [
-        "even if",
-        "假設",
-        "條件"
+        "although",
+        "句首位置",
+        "讓步子句"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "The team lost the match,",
+        "She decided to pursue her passion for art, ",
         null,
-        "they played exceptionally well."
+        " her parents opposed the idea."
       ],
       "blanks": [
         "though"
       ],
-      "sentence": "The team lost the match, though they played exceptionally well.",
-      "translation": "隊伍雖然輸掉比賽，但他們表現得格外出色。",
+      "sentence": "She decided to pursue her passion for art, though her parents opposed the idea.",
+      "translation": "她決定追求對藝術的熱情，儘管她的父母反對這個想法。",
       "keywords": [
-        "though",
-        "句尾",
-        "轉折"
+        "though句尾",
+        "靈活使用",
+        "讓步"
       ]
     },
     {
       "id": 4,
       "parts": [
+        "The project was completed successfully ",
         null,
-        " it rained all day, the children enjoyed playing in the garden.",
-        ""
+        " the team faced numerous obstacles."
       ],
       "blanks": [
-        "Even though"
+        "even though"
       ],
-      "sentence": "Even though it rained all day, the children enjoyed playing in the garden.",
-      "translation": "儘管整天下雨，孩子們還是喜歡在花園裡玩耍。",
+      "sentence": "The project was completed successfully even though the team faced numerous obstacles.",
+      "translation": "儘管團隊遇到了許多障礙，該項目仍然順利完成了。",
       "keywords": [
         "even though",
-        "讓步",
-        "事實"
+        "事實對比",
+        "強語氣"
       ]
     }
   ],
   "vocab_table": [
     {
       "adj": "although",
-      "zh": "雖然（表陳述事實的讓步）"
-    },
-    {
-      "adj": "even though",
-      "zh": "即使、儘管（表陳述事實的讓步）"
-    },
-    {
-      "adj": "even if",
-      "zh": "即使、縱然（表假設情景）"
+      "zh": "雖然；儘管"
     },
     {
       "adj": "though",
-      "zh": "雖然（較口語，可置句尾）"
+      "zh": "雖然；不過"
+    },
+    {
+      "adj": "even though",
+      "zh": "即使；儘管（語氣更強）"
     },
     {
       "adj": "despite",
-      "zh": "儘管（介系詞，後接名詞）"
+      "zh": "儘管（介詞，後接名詞）"
     },
     {
       "adj": "in spite of",
-      "zh": "儘管（介系詞片語，後接名詞）"
+      "zh": "儘管（介詞片語）"
     },
     {
-      "adj": "still",
-      "zh": "仍然（常與讓步句型搭配）"
+      "adj": "hard",
+      "zh": "努力地"
     },
     {
-      "adj": "nevertheless",
-      "zh": "然而、不過（表轉折）"
+      "adj": "difficult",
+      "zh": "困難的"
     },
     {
-      "adj": "however",
-      "zh": "然而（表轉折）"
+      "adj": "succeed",
+      "zh": "成功"
     },
     {
-      "adj": "yet",
-      "zh": "仍然、然而（表轉折）"
+      "adj": "fail",
+      "zh": "失敗"
     },
     {
-      "adj": "regardless",
-      "zh": "不管怎樣（不考慮）"
+      "adj": "challenging",
+      "zh": "具有挑戰性的"
     },
     {
-      "adj": "notwithstanding",
-      "zh": "儘管（正式用法）"
+      "adj": "unexpected",
+      "zh": "意外的"
+    },
+    {
+      "adj": "contrary to",
+      "zh": "與……相反"
     }
   ],
   "vocab_table_label": "常用讓步連接詞",
   "mc_exercises": [
     {
       "question_chi": "選擇適當的讓步連接詞完成句子",
-      "question_eng": "_______ she didn't have much experience, she performed very well in the interview.",
+      "question_eng": "_______ he was very tired, he continued working on the project.",
       "options": [
         {
           "key": "A",
@@ -211,152 +209,152 @@
         },
         {
           "key": "B",
-          "text": "Even if"
-        },
-        {
-          "key": "C",
           "text": "Because"
         },
         {
-          "key": "D",
+          "key": "C",
           "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "While"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A (Although)。句子表達「雖然她缺乏經驗，但她在面試中表現很好」，這是陳述已知事實的讓步關係，應使用 although。B (even if) 表假設，不適合；C (because) 和 D (since) 表原因，與句意不符。",
+      "explanation": "正確答案是 Although。句子表達「儘管他很累，他仍然繼續工作」，這是讓步關係。Although 正確表達兩個相對立的事實。B 項 Because 表因果關係不符；C 項 Since 表原因或時間；D 項 While 通常表時間對比，不如 Although 強調讓步。",
       "id": 1
     },
     {
-      "question_chi": "辨別讓步副詞子句中的連接詞選擇",
-      "question_eng": "_______ you study hard, you still need good rest to perform well on the exam.",
+      "question_chi": "判斷句子中讓步子句與主句的搭配是否正確",
+      "question_eng": "Even though the ticket price was expensive, but many people bought them _______.",
       "options": [
         {
           "key": "A",
-          "text": "Even though"
+          "text": "immediately"
         },
         {
           "key": "B",
-          "text": "Although"
+          "text": "anyway"
         },
         {
           "key": "C",
-          "text": "Even if"
+          "text": "instead"
         },
         {
           "key": "D",
-          "text": "However"
+          "text": "however"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B (Although)。句子表達「雖然你努力學習，但仍需要充分休息才能在考試中表現好」，這陳述已知事實。A、B 皆可表陳述事實，但 B 更正式；C (even if) 表假設；D (however) 是副詞，不能引導子句。",
+      "explanation": "正確答案是 anyway（B）。但題目句結構有誤，不能同時使用 even though 與 but。應修改為「Even though the ticket price was expensive, many people bought them anyway.」或「Because the ticket price was expensive, but many people bought them anyway.」A/C/D 雖都是副詞但不符語境。需要 anyway 來補充讓步意味。",
       "id": 2
     },
     {
-      "question_chi": "識別讓步副詞子句與假設情景的區分",
-      "question_eng": "_______ it rains tomorrow, the sports day will not be cancelled. The event will proceed indoors if necessary.",
+      "question_chi": "選擇適當選項，並考量 although 與 even though 語氣的差異",
+      "question_eng": "_______ the heavy rain, the construction work was not delayed at all.",
       "options": [
         {
           "key": "A",
+          "text": "Even though"
+        },
+        {
+          "key": "B",
           "text": "Although"
         },
         {
-          "key": "B",
-          "text": "Even though"
-        },
-        {
           "key": "C",
-          "text": "Even if"
+          "text": "Despite of"
         },
         {
           "key": "D",
-          "text": "Unless"
-        }
-      ],
-      "answer": "C",
-      "explanation": "正確答案是 C (even if)。後句說明運動會仍會進行，表示不關心「下雨」是否真實發生，這是假設情景，應用 even if。A、B 表陳述已知事實；D (unless) 表「除非」，不符讓步意義。",
-      "id": 3
-    },
-    {
-      "question_chi": "複雜讓步句型辨析與句法正確性判斷",
-      "question_eng": "_______ the project faced numerous obstacles and delays, the team's determination never wavered, and they eventually delivered results that exceeded expectations.",
-      "options": [
-        {
-          "key": "A",
-          "text": "Even though"
-        },
-        {
-          "key": "B",
-          "text": "Even if"
-        },
-        {
-          "key": "C",
-          "text": "Although because"
-        },
-        {
-          "key": "D",
-          "text": "Though"
+          "text": "In spite though"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A (Even though)。句子敘述已發生的實際困境，強調這些困難未能動搖團隊決心，需用 even though 表陳述事實的讓步。B (even if) 表假設不適；C (although because) 混用讓步與因果會造成重複，文法錯誤；D (though) 較口語，通常置於句尾，句首較少用。",
+      "explanation": "正確答案是 Even though（A）。句子強調「儘管下大雨這個相當不利的情況，工程仍未延誤」，even though 語氣最強，強調對比性。Although 也可用但語氣較弱。C 項 Despite of 錯誤（應為 Despite）；D 項 In spite though 非正確搭配。句型需要連接詞引導完整子句。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合應用：正確使用讓步子句，辨別複句結構與語法",
+      "question_eng": "Though he had received several job offers from prestigious companies, he decided to _______ for further education instead of starting work immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "apply because of his strong academic background"
+        },
+        {
+          "key": "B",
+          "text": "pursue his master's degree"
+        },
+        {
+          "key": "C",
+          "text": "although his family disagreed with this choice"
+        },
+        {
+          "key": "D",
+          "text": "so that he could gain more experience"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。Though 引導的讓步子句「Though he had received several job offers...」應搭配邏輯清晰的主句動詞及受詞，「pursue his master's degree」完整表達主句意思。A 項不適合作動詞受詞；C 項錯誤（不能加另一個 although 子句）；D 項引入目的但破壞句子原意。題目測試複句結構的完整性與邏輯一致性。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "雖然這部電影很長，但我還是很享受看它。",
-      "answer": "Although/Even though the movie is long, I still enjoyed watching it.",
+      "sentence_chi": "雖然這部電影很長，但我還是很享受。",
+      "answer": "Although the movie is long, I still enjoyed it.",
       "key_points": [
-        "Although/Even though + S + V",
-        "逗號分隔兩個子句",
-        "still 強調讓步對比"
+        "Although + S + V 句首位置",
+        "主句與讓步子句不用 but",
+        "still 強調轉折對比"
       ],
       "hints": [
-        "提示1：句型結構為『Although/Even though + S + V, S + V』，前半部說明已知事實",
-        "提示2：不可使用 but，因為讓步意義與 but 重複"
+        "提示1：Although 置於句首，後接讓步子句（主詞 + 動詞），逗號分隔主句",
+        "提示2：避免寫成 Although the movie is long, but I still enjoyed it.（雙連接詞錯誤）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "儘管天氣很糟糕，我們的班級旅行仍然進行了。",
-      "answer": "Even though the weather was terrible, our class trip still went ahead.",
+      "sentence_chi": "儘管昨晚睡眠不足，他今天的考試成績仍然很好。",
+      "answer": "Though he didn't get enough sleep last night, he still performed well on today's exam.",
       "key_points": [
-        "Even though 表示已知事實",
-        "went ahead（進行、繼續）",
-        "still 強化讓步關係"
+        "though 置於句首的靈活用法",
+        "過去式 didn't get 與 performed 時態一致",
+        "仍然對比的邏輯連接"
       ],
       "hints": [
-        "提示1：Even though 與 although 意義相近，都表示陳述事實，句型位置相同",
-        "提示2：注意時態一致性（過去式 was 搭配 went）"
+        "提示1：Though 與 although 意義相同，但 though 更具靈活性，可放句首或句尾",
+        "提示2：注意讓步子句與主句時態搭配（過去式對應過去式），avoid 'but'"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "即使你考試失敗了，你的父母仍然會為你感到驕傲。",
-      "answer": "Even if you fail the exam, your parents will still be proud of you.",
+      "sentence_chi": "即使她沒有豐富的工作經驗，她仍然成功地獲得了那份實習機會。",
+      "answer": "Even though she didn't have abundant work experience, she still successfully obtained the internship opportunity.",
       "key_points": [
-        "Even if 表示假設情景、非事實",
-        "fail the exam（考試失敗）",
-        "條件句與主句的時態配合"
+        "even though 語氣最強，強調事實對比",
+        "didn't have 與 obtained 過去式呼應",
+        "副詞 successfully 修飾動詞"
       ],
       "hints": [
-        "提示1：Even if 用於假設狀況，不關心是否真實發生，與 although/even though 的差異在於『真偽性』",
-        "提示2：Even if 後常用現在式表示未來假設，主句用 will + V"
+        "提示1：Even though 用於強調兩事實對比最為明顯，適合高考對比性題目",
+        "提示2：避免在讓步子句與主句間使用 but；注意 abundant/rich experience 等高級詞彙選擇"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "雖然她沒有正式的工作經驗，但她的學習能力和熱情使她成為一個有價值的團隊成員。",
-      "answer": "Although/Even though she lacks formal work experience, her learning ability and enthusiasm make her a valuable team member.",
+      "sentence_chi": "雖然社群媒體能讓人保持聯繫，但它也帶來了許多心理健康問題，年輕人仍然花費大量時間在上面。",
+      "answer": "Although social media enables people to stay connected, it also brings about many mental health issues; yet young people still spend considerable time on it.",
       "key_points": [
-        "lack (缺乏、沒有)",
-        "並列主語 ability and enthusiasm",
-        "make + O + C (使役結構)"
+        "複雜讓步結構：讓步子句與兩個對比主句",
+        "分號連接兩個獨立主句",
+        "yet / still 強化轉折邏輯"
       ],
       "hints": [
-        "提示1：句型框架『Although + S + V, S + V』，前後子句內容複雜時仍需清楚標示主述結構",
-        "提示2：注意主詞複數時動詞變化（make 而非 makes），並避免在讓步子句後誤加 but"
+        "提示1：該句涉及多層次對比（利弊並陳再轉折），讓步子句後可接多個主句展現複雜邏輯",
+        "提示2：避免重複使用 but；可用分號分隔多個對等主句，或用 yet/still 加強轉折力度；注意 brings about（帶來）與 spend time on（花時間）等搭配用法"
       ]
     }
   ]

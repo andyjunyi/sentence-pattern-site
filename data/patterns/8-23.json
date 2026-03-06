@@ -1,371 +1,363 @@
 {
   "code": "8-23",
   "chapter": 8,
-  "title": "S + V + rather than + V / N",
+  "title": "Hardly/Scarcely + had + S + p.p. + when + S + V-ed",
   "formulas": [
     {
-      "formula": "S + V + rather than + V（原形）/ N",
-      "zh": "主詞 + 動詞 + rather than + 原形動詞/名詞，表示「而不是……」，強調選擇優先"
+      "formula": "Hardly/Scarcely + had + S + p.p. + when/before + S + V-ed",
+      "zh": "倒裝句型，表達「幾乎還沒……就……」，強調兩個動作幾乎同時發生"
     },
     {
-      "formula": "Rather than + V-ing, S + V",
-      "zh": "Rather than 置句首，後接動名詞，主要子句中動詞為原形，強調轉折選擇"
+      "formula": "Hardly/Scarcely + had + S + p.p. + than + S + V-ed",
+      "zh": "同義用法，用 than 替代 when/before，表達相同意思"
     }
   ],
-  "explanation": "rather than 表達「而不是、寧可……而不……」的概念，用於強調兩個選項間的優先選擇。主要特點：連接相同詞性（動詞連動詞、名詞連名詞），rather than 後接原形動詞或名詞短語；若置句首須用 rather than + V-ing 形式，主要子句動詞保持原形。易混淆點在於不可在 rather than 後用現在分詞或完成式，且應注意與 instead of 的區別——rather than 強調抉擇，instead of 強調替代。",
+  "explanation": "此句型為強調倒裝結構，將 Hardly 或 Scarcely 置句首以表達「剛好……就……」的時間上的緊密關聯。主句使用過去完成時（had + p.p.），強調第一個動作發生於第二個動作之前，但兩者幾乎同時。when/before 後的從句使用簡單過去時，不發生倒裝。此句型常用於敘事文中製造戲劇效果，或在考試中測試學生對時態與倒裝的掌握。易混淆點：不可在 when/before 從句中倒裝；hardly/scarcely 後必須是完成時。",
   "examples": [
     {
       "id": 1,
-      "eng": "I prefer to stay home rather than go to the crowded party.",
-      "chi": "我寧可待在家裡，也不願去那個擁擠的派對。",
+      "eng": "Hardly had she finished her homework when her mother called for dinner.",
+      "chi": "她幾乎還沒做完功課，她媽媽就叫她吃飯。",
       "keywords": [
-        "prefer",
-        "rather than",
-        "動詞對比"
+        "倒裝",
+        "過去完成時",
+        "幾乎同時"
       ]
     },
     {
       "id": 2,
-      "eng": "She chose to study medicine rather than pursue art as her career.",
-      "chi": "她選擇學習醫學，而不是從事藝術作為職業。",
+      "eng": "Scarcely had the meeting begun before the fire alarm went off.",
+      "chi": "會議幾乎才開始，火警警報就響了。",
       "keywords": [
-        "chose",
-        "rather than",
-        "名詞短語"
+        "Scarcely",
+        "before",
+        "緊急狀況"
       ]
     },
     {
       "id": 3,
-      "eng": "Rather than wasting time online, he decided to read books and improve himself.",
-      "chi": "與其浪費時間在網路上，他決定讀書來充實自己。",
+      "eng": "Hardly had we arrived at the airport when the plane was announced delayed.",
+      "chi": "我們幾乎才到機場，飛機就被宣布延誤了。",
       "keywords": [
-        "Rather than",
-        "動名詞",
-        "句首位置"
+        "到達",
+        "延誤",
+        "不幸時機"
       ]
     },
     {
       "id": 4,
-      "eng": "They want quality rather than quantity in their daily purchases.",
-      "chi": "他們在日常購物中追求品質而不是數量。",
+      "eng": "Scarcely had he taken his seat than the lights went out in the cinema.",
+      "chi": "他幾乎才坐下，電影院的燈就滅了。",
       "keywords": [
-        "want",
-        "rather than",
-        "名詞對比"
+        "than",
+        "瞬間發生",
+        "黑暗"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷技巧：rather than 後需使用與前面相同詞性的詞彙。若前為原形動詞，後也須原形動詞（非現在分詞或過去式）。置句首時必須使用 Rather than + V-ing 形式。常見錯誤是在 rather than 後錯用時態或詞性，導致句子結構不當。",
+    "tip": "判斷此句型的關鍵：(1) 句首必為 Hardly/Scarcely；(2) 第二個動詞必為過去完成時態；(3) when/before/than 後為簡單過去時，不倒裝；(4) 若未倒裝或時態錯誤則非此句型。常見錯誤為在 when 從句中也進行倒裝，或使用現在完成時。",
     "examples": [
       {
-        "test": "❌ I prefer to stay home rather than going out.",
-        "result": "→ ✓ I prefer to stay home rather than go out.（rather than 後需原形動詞 go，不能用 going）"
+        "test": "Hardly had she arrived when he came.",
+        "result": "→ 正確。主句倒裝（had arrived），從句正常語序（he came）"
       },
       {
-        "test": "❌ Rather than to waste time, he studies hard.",
-        "result": "→ ✓ Rather than wasting time, he studies hard.（句首須用 V-ing 形式 wasting，不能用 to waste）"
+        "test": "Hardly she had arrived when he came.",
+        "result": "→ 錯誤。缺少倒裝結構，應為 Hardly had she arrived"
       },
       {
-        "test": "✓ She chose quality rather than price in her selection.",
-        "result": "→ 正確用法：連接名詞 quality 和 price，詞性一致"
+        "test": "Scarcely had the game started than he scored.",
+        "result": "→ 正確。用 than 替代 when，保持倒裝和過去完成時"
       }
     ],
-    "note": "記憶口訣：rather than 後詞性要一致，置句首加 V-ing，置中間用原形動詞。"
+    "note": "「Hardly/Scarcely + had」必倒裝；「when/before/than」後從句不倒裝，時態簡單過去——倒裝、完成、簡單過去，三步不能亂。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "I would ",
         null,
-        " watch television rather than ",
-        null,
-        " on my homework."
+        " had the doctor arrived when the patient woke up.",
+        ""
       ],
       "blanks": [
-        "prefer to",
-        "work"
+        "Hardly/Scarcely"
       ],
-      "sentence": "I would prefer to watch television rather than work on my homework.",
-      "translation": "我寧可看電視，也不願做功課。",
+      "sentence": "Hardly had the doctor arrived when the patient woke up.",
+      "translation": "醫生幾乎才到達，病人就醒了。",
       "keywords": [
-        "prefer",
-        "rather than",
-        "原形動詞"
+        "倒裝",
+        "過去完成時",
+        "到達"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Rather than ",
+        "Scarcely had she finished speaking ",
         null,
-        " complaints, she decided to take action and solve the problem."
+        " everyone started applauding."
       ],
       "blanks": [
-        "voicing"
+        "when/before"
       ],
-      "sentence": "Rather than voicing complaints, she decided to take action and solve the problem.",
-      "translation": "與其抱怨，她決定採取行動解決問題。",
+      "sentence": "Scarcely had she finished speaking when everyone started applauding.",
+      "translation": "她幾乎才說完，大家就開始鼓掌。",
       "keywords": [
-        "Rather than",
-        "動名詞",
-        "句首位置"
+        "Scarcely",
+        "完成",
+        "掌聲"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "The company chose to invest in ",
+        "Hardly ",
         null,
-        " rather than ",
-        null,
-        " during the recession."
+        " the room than the power went out."
       ],
       "blanks": [
-        "innovation",
-        "cuts"
+        "had he entered"
       ],
-      "sentence": "The company chose to invest in innovation rather than make cuts during the recession.",
-      "translation": "在衰退期間，該公司選擇投資創新，而不是裁員。",
+      "sentence": "Hardly had he entered the room than the power went out.",
+      "translation": "他幾乎才進房間，電就停了。",
       "keywords": [
-        "chose",
-        "rather than",
-        "名詞對比"
+        "進入",
+        "停電",
+        "than"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Most students ",
         null,
-        " learning practical skills rather than ",
-        null,
-        " only theoretical knowledge."
+        " had we left home before it started raining heavily.",
+        ""
       ],
       "blanks": [
-        "favor",
-        "memorizing"
+        "Scarcely"
       ],
-      "sentence": "Most students favor learning practical skills rather than memorizing only theoretical knowledge.",
-      "translation": "大多數學生偏好學習實用技能，而不是只死記理論知識。",
+      "sentence": "Scarcely had we left home before it started raining heavily.",
+      "translation": "我們幾乎才離家，就開始下大雨了。",
       "keywords": [
-        "favor",
-        "rather than",
-        "動名詞"
+        "離開",
+        "下雨",
+        "倒裝"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "prefer",
-      "zh": "更喜歡、偏好"
+      "adj": "arrive at",
+      "zh": "到達"
     },
     {
-      "adj": "choose",
-      "zh": "選擇"
+      "adj": "finish",
+      "zh": "完成"
     },
     {
-      "adj": "want",
-      "zh": "想要"
+      "adj": "leave",
+      "zh": "離開"
     },
     {
-      "adj": "decide",
-      "zh": "決定"
+      "adj": "hang up",
+      "zh": "掛電話"
     },
     {
-      "adj": "opt",
-      "zh": "選擇"
+      "adj": "sit down",
+      "zh": "坐下"
     },
     {
-      "adj": "select",
-      "zh": "選出"
+      "adj": "turn around",
+      "zh": "轉身"
     },
     {
-      "adj": "prioritize",
-      "zh": "優先考慮"
+      "adj": "open the door",
+      "zh": "開門"
     },
     {
-      "adj": "favor",
-      "zh": "偏好"
+      "adj": "speak out",
+      "zh": "說出來"
     },
     {
-      "adj": "tend",
-      "zh": "傾向"
+      "adj": "enter the room",
+      "zh": "進入房間"
     },
     {
-      "adj": "seek",
-      "zh": "尋求"
+      "adj": "catch sight of",
+      "zh": "看到"
     },
     {
-      "adj": "advocate",
-      "zh": "提倡"
+      "adj": "get into the car",
+      "zh": "上車"
     },
     {
-      "adj": "recommend",
-      "zh": "推薦"
+      "adj": "break the silence",
+      "zh": "打破沉默"
     }
   ],
   "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確形式：選項應使用 rather than 正確結構",
-      "question_eng": "I prefer to watch movies at home rather than _______ to the cinema.",
+      "question_chi": "選擇正確的倒裝結構，表達「剛完成就……」的意思",
+      "question_eng": "Hardly had he finished breakfast _______ the doorbell rang.",
       "options": [
         {
           "key": "A",
-          "text": "going"
+          "text": "when"
         },
         {
           "key": "B",
-          "text": "go"
+          "text": "than"
         },
         {
           "key": "C",
-          "text": "to go"
+          "text": "before he"
         },
         {
           "key": "D",
-          "text": "went"
-        }
-      ],
-      "answer": "B",
-      "explanation": "正確答案是 B (go)。Rather than 後須接原形動詞，與前面的 to watch 保持平行結構。A 項 going 是現在分詞，rather than 後不可用；C 項 to go 重複了不定詞符號；D 項 went 是過去式，不符合文法。",
-      "id": 1
-    },
-    {
-      "question_chi": "判斷句型結構：rather than 連接相同詞性",
-      "question_eng": "She decided to pursue a career in law rather than _______ her family business.",
-      "options": [
-        {
-          "key": "A",
-          "text": "managing"
-        },
-        {
-          "key": "B",
-          "text": "to manage"
-        },
-        {
-          "key": "C",
-          "text": "manage"
-        },
-        {
-          "key": "D",
-          "text": "having managed"
-        }
-      ],
-      "answer": "C",
-      "explanation": "正確答案是 C (manage)。Rather than 連接兩個相同詞性的動詞，第一個是 pursue (原形)，第二個也須是原形 manage。A 項 managing 是現在分詞；B 項 to manage 多了不定詞符號；D 項 having managed 是完成式分詞，都不符合 rather than 的文法要求。",
-      "id": 2
-    },
-    {
-      "question_chi": "辨別 rather than 與 instead of 用法差異",
-      "question_eng": "The company prefers to invest in technology _______ hiring more staff to reduce costs.",
-      "options": [
-        {
-          "key": "A",
-          "text": "rather than"
-        },
-        {
-          "key": "B",
-          "text": "instead of"
-        },
-        {
-          "key": "C",
-          "text": "other than"
-        },
-        {
-          "key": "D",
-          "text": "apart from"
+          "text": "and then"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A (rather than)。Rather than 表示優先選擇，強調前項被選中、後項被拒絕。B 項 instead of 後接名詞或動名詞，但在此句需搭配原形動詞，文意上也不如 rather than 恰當。C 項 other than 是「除了」；D 項 apart from 也是「除了」，都不表示選擇。",
-      "id": 3
+      "explanation": "正確答案是 A（when）。此句型為「Hardly/Scarcely + had + S + p.p. + when + S + V」，表達兩個動作幾乎同時發生。when 後接簡單過去時從句，不倒裝。B 項 than 用於比較級結構；C 項 before he 產生句子結構錯誤；D 項 and then 為連接詞而非時間連接詞。",
+      "id": 1
     },
     {
-      "question_chi": "進階題：rather than 置句首之倒裝用法",
-      "question_eng": "_______ admit his mistake, he chose to defend himself stubbornly despite the evidence.",
+      "question_chi": "完成句子，使用 Scarcely 倒裝結構表達緊密時間關係",
+      "question_eng": "Scarcely had the train left the station _______ a passenger realized he had left his luggage behind.",
       "options": [
         {
           "key": "A",
-          "text": "Rather than to admit"
+          "text": "when"
         },
         {
           "key": "B",
-          "text": "Rather than admitting"
+          "text": "than"
         },
         {
           "key": "C",
-          "text": "Rather than admit"
+          "text": "before"
         },
         {
           "key": "D",
-          "text": "Rather than having admitted"
+          "text": "as soon as"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B (Rather than admitting)。當 rather than 置句首時，須採 Rather than + V-ing 的倒裝形式。A 項加 to 錯誤；C 項應接現在分詞；D 項完成式分詞不符合句型。此結構強調通過動名詞與主要子句動詞的對比，表達強烈的優先順序。",
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。此句為「Scarcely + had + S + p.p. + when + S + V」的標準用法。when 引導時間從句，從句使用簡單過去時。B 項 than 用於「Scarcely...than」結構，但本題前面已有 Scarcely 倒裝；C 項 before 用法不同；D 項 as soon as 雖可表時間但不符此句型。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷哪個選項正確完成倒裝句，注意時態與連接詞搭配",
+      "question_eng": "Hardly had she announced her resignation _______ employees began circulating rumors about her departure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than she had"
+        },
+        {
+          "key": "C",
+          "text": "before they had"
+        },
+        {
+          "key": "D",
+          "text": "when had"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。此句型中，when 後接的從句須使用簡單過去時，不倒裝。B 項錯誤因為 than 後不應接 she had；C 項 before they had 使用過去完成時，違反句型規則；D 項 when had 在 when 從句中產生不必要的倒裝。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確選項完成倒裝句，並注意與「before」的差異用法",
+      "question_eng": "Scarcely had the director finished explaining the new project _______ someone raised an objection that changed the entire direction of the meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "before"
+        },
+        {
+          "key": "D",
+          "text": "when a colleague had"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。標準「Scarcely + had + S + p.p. + when + S + V」句型中，when 連接時間從句。B 項 than 可用於「Scarcely...than」但通常用於比較；C 項 before 也可用但語意上 when 表示「正好就在那時」更符合劇情；D 項在 when 從句中倒裝為誤用。本題需掌握 when 的標準用法。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我寧可在家讀書，也不要去嘈雜的咖啡館。",
-      "answer": "I would rather study at home than go to a noisy café.",
+      "sentence_chi": "我剛坐下，老師就宣布了考試成績。",
+      "answer": "Hardly had I sat down when the teacher announced the exam results.",
       "key_points": [
-        "would rather...than",
-        "study at home",
-        "go to (原形動詞)"
+        "Hardly + had + p.p. 倒裝結構",
+        "when 後用簡單過去時 (announced)",
+        "主句過去完成時 (had sat)"
       ],
       "hints": [
-        "句型框架：S + would rather + V + than + V（原形）",
-        "注意：rather than 後接原形動詞 go，不能用 going"
+        "句型框架：Hardly + had + S + p.p. + when + S + V-ed",
+        "注意：when 從句不倒裝，且用簡單過去時，不能寫成 when the teacher had announced"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "與其花錢買新手機，她寧可存錢去旅遊。",
-      "answer": "Rather than buying a new phone, she prefers to save money for a trip.",
+      "sentence_chi": "電影才開始，觀眾的手機就響了起來。",
+      "answer": "Scarcely had the movie started when the audience's cell phone rang.",
       "key_points": [
-        "Rather than + V-ing 置句首",
-        "buying a new phone",
-        "save money for a trip"
+        "Scarcely 替代 Hardly 表達同樣含義",
+        "had started 為過去完成時",
+        "when 從句用簡單過去時 rang"
       ],
       "hints": [
-        "句型框架：Rather than + V-ing, S + V（主要動詞保持原形或適當時態）",
-        "注意：句首使用 Rather than + buying（-ing形式），主句動詞用 prefers to save"
+        "句型框架：Scarcely + had + S + p.p. + when + S + V-ed",
+        "注意：主句強調『已經開始』，從句表『之後立即發生』，時間關係清晰"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "這間公司更看重員工的創新能力，而不是單純的工作經驗。",
-      "answer": "This company values innovation rather than work experience in its employees.",
+      "sentence_chi": "他們還沒有出發去旅行，暴雨就突然來臨，迫使他們取消計畫。",
+      "answer": "Hardly had they set out for the trip when a sudden downpour came, forcing them to cancel their plans.",
       "key_points": [
-        "values...rather than",
-        "innovation（名詞）",
-        "work experience（名詞短語）"
+        "Hardly + had + p.p. 倒裝表強調",
+        "set out for 的過去完成式 (had set out)",
+        "forcing them 為現在分詞片語，補充說明後續結果"
       ],
       "hints": [
-        "句型框架：S + V + N rather than + N（連接兩個名詞詞組，強調優先選擇）",
-        "注意：rather than 後接名詞 work experience，不能加動詞形式"
+        "句型框架：Hardly + had + S + p.p. + when + S + V-ed + 附加片語",
+        "注意：when 從句可延伸為複雜句型，但倒裝仍只在主句，從句保持正常語序"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "與其被動地接受老師的講解，學生應該主動提問和批判性思考，以便更深入理解課程內容。",
-      "answer": "Rather than passively accepting the teacher's explanation, students should ask questions and think critically to gain a deeper understanding of the course content.",
+      "sentence_chi": "醫生剛檢查完他的傷口，病人就開始抱怨疼痛加劇，這讓醫護人員感到困擾。",
+      "answer": "Scarcely had the doctor examined his wound when the patient began complaining about worsening pain, which disturbed the medical staff.",
       "key_points": [
-        "Rather than + V-ing 句首結構",
-        "passively accepting",
-        "ask questions and think critically（並列動詞原形）"
+        "Scarcely + had + p.p. 倒裝結構表時間緊密連結",
+        "examined 為及物動詞的過去分詞",
+        "which 引導關係子句補充說明整個情況",
+        "begin complaining about 為從句動詞短語"
       ],
       "hints": [
-        "句型框架：Rather than + V-ing (複雜動詞片語), S + should + V + and + V（主句可含並列結構或助動詞）",
-        "注意：rather than 後的 accepting 使用 -ing 形式，但主句動詞 should ask 和 think 保持原形；此句強調對比的教育理念"
+        "句型框架：Scarcely + had + S + p.p. + when + S + V-ed，後可接附加子句擴展訊息",
+        "注意：which 子句修飾整個前文事件，不影響倒裝句型的核心結構；when 從句中 begin complaining 保持簡單過去時"
       ]
     }
   ]

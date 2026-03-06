@@ -12,7 +12,7 @@
       "zh": "主句後接現在分詞片語；表示連續的動作或附加說明"
     }
   ],
-  "explanation": "現在分詞構句是用 V-ing 形式取代副詞子句或對等連接詞，使句子更簡潔。其邏輯主詞必須與主句主詞一致，否則應使用獨立分詞構句（含邏輯主詞）。常用於表同時動作（When/While）、連續動作（and then）或原因（Because）。注意分詞的時態：現在分詞表同時或習慣性，完成式分詞表先行動作。避免邏輯主詞不符導致句義不清。",
+  "explanation": "現在分詞構句是將時間、原因、條件等副詞子句簡化而成，用V-ing形式開頭。關鍵原則：分詞的邏輯主詞必須與主句主詞相同。若邏輯主詞不同，則需保留主詞形成獨立分詞構句（Absolute phrase）。此句型避免重複主詞，使句子更簡潔有力。常見功能包括表時間（When/After）、原因（Because）、條件（If）等，是學測常考的進階語法。",
   "examples": [
     {
       "id": 1,
@@ -146,6 +146,42 @@
         "現在分詞",
         "原因",
         "因果"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        null,
+        " her notes before the exam, Sarah felt more confident.",
+        ""
+      ],
+      "blanks": [
+        "Reviewing"
+      ],
+      "sentence": "Reviewing her notes before the exam, Sarah felt more confident.",
+      "translation": "在考試前複習她的筆記，莎拉感到更有信心。",
+      "keywords": [
+        "reviewing",
+        "過去分詞",
+        "時間關係"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "Knowing the deadline was approaching, ",
+        null,
+        " to work faster."
+      ],
+      "blanks": [
+        "they decided"
+      ],
+      "sentence": "Knowing the deadline was approaching, they decided to work faster.",
+      "translation": "知道截止日期臨近，他們決定加快工作速度。",
+      "keywords": [
+        "knowing",
+        "原因",
+        "現在分詞"
       ]
     }
   ],
@@ -300,6 +336,56 @@
       "answer": "B",
       "explanation": "正確答案是 B「Having read / knowing」。第一空用 Having read（完成式分詞）表示先於主句的動作「她前晚讀過小說」；第二空用 knowing（現在分詞）與主句動詞並時，表示「儘管知道已是午夜」的狀況說明，邏輯主詞均為 Sarah。A 項第一空時態關係錯誤；C、D 項第二空都不符合邏輯關係。",
       "id": 4
+    },
+    {
+      "question_chi": "選擇正確的分詞構句形式，表示時間順序。",
+      "question_eng": "_______ his work, he left the office and went home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Finishing"
+        },
+        {
+          "key": "B",
+          "text": "Finished"
+        },
+        {
+          "key": "C",
+          "text": "Having finished"
+        },
+        {
+          "key": "D",
+          "text": "To finish"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Finishing)。分詞構句用現在分詞表示與主句同時發生的動作。分詞邏輯主詞 (he) 與主句主詞相同，應使用簡單現在分詞。B 項 (Finished) 是過去分詞，不符合主動意義。C 項 (Having finished) 強調先後順序但不必要。D 項 (To finish) 是不定詞，無法作分詞構句。",
+      "id": 5
+    },
+    {
+      "question_chi": "選擇正確的分詞構句，表示原因關係。",
+      "question_eng": "_______ the heavy traffic, Sarah arrived at the meeting late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Being caught in"
+        },
+        {
+          "key": "B",
+          "text": "Caught in"
+        },
+        {
+          "key": "C",
+          "text": "To be caught in"
+        },
+        {
+          "key": "D",
+          "text": "Having been caught in"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Being caught in)。分詞構句表原因時，若動詞是被動意義，應使用「being + 過去分詞」形式。Sarah 被困在車陣中（被動），所以用 being caught in。B 項 (Caught in) 省略 being，在標準文法中不正確。C 項 (To be caught in) 是不定詞。D 項 (Having been caught in) 強調完成，但無必要。",
+      "id": 6
     }
   ],
   "translation_exercises": [
@@ -357,6 +443,34 @@
       "hints": [
         "提示1：主句主詞是『老師』，分詞構句『Explaining...』的邏輯主詞也必須是老師；後面『學生聆聽與記筆記』應作為老師『看到』的內容（賓語從句或分詞結構修飾），而非分詞構句",
         "提示2：避免讓『學生聆聽』直接成為分詞構句，因為邏輯主詞與主句不符，應改為『the students listening and taking』作為老師『看到』的對象，或另起句子"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "聽到鈴聲響起，學生們急忙走進教室。",
+      "answer": "Hearing the bell ring, the students hurried into the classroom.",
+      "key_points": [
+        "Hearing the bell ring（分詞構句開頭）",
+        "邏輯主詞相同（students）",
+        "逗號分隔主句"
+      ],
+      "hints": [
+        "提示1：將『聽到鈴聲響起』簡化為『Hearing the bell ring』，作為時間副詞子句的替代",
+        "提示2：注意『聽』和『走進』的邏輯主詞都是『學生們』，所以可以使用分詞構句"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "因為擔心遲到，小王早早離開了家。",
+      "answer": "Worrying about being late, Xiaowang left home early.",
+      "key_points": [
+        "Worrying about being late（分詞構句表原因）",
+        "避免重複主詞『Xiaowang』",
+        "被動意義『being late』的使用"
+      ],
+      "hints": [
+        "提示1：將『因為擔心遲到』簡化為『Worrying about being late』，用V-ing形式表原因（代替Because子句）",
+        "提示2：『being late』是被動構造，但此處表示『遲到』的狀態，是分詞構句常見的用法"
       ]
     }
   ]

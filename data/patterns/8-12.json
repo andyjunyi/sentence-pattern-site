@@ -1,362 +1,369 @@
 {
   "code": "8-12",
   "chapter": 8,
-  "title": "目的副詞子句 so that / in order that",
+  "title": "both...and... / not...but...",
   "formulas": [
     {
-      "formula": "S + V + so that/in order that + S + can/will/may + V",
-      "zh": "主詞 + 動詞 + 為了讓/以便 + 主詞 + 能夠/將會/可能 + 動詞"
+      "formula": "Both A and B + 複數動詞",
+      "zh": "表示A和B兩者都，謂語動詞使用複數形式"
     },
     {
-      "formula": "S + V + in order to V / so as to V (不定詞改寫)",
-      "zh": "主詞 + 動詞 + 為了/以便 + 不定詞（當主詞相同時使用）"
+      "formula": "Not A but B + 與B一致的動詞",
+      "zh": "表示不是A而是B，謂語動詞與but後的主詞保持一致"
     }
   ],
-  "explanation": "此句型用於表達行動的目的或意圖。so that 和 in order that 後接助動詞（can、will、may），可表達明確的目的結果。當主詞相同時，可改寫為 in order to 或 so as to 搭配不定詞。注意 so that to V 為錯誤用法，so that 後必須接助動詞而非不定詞。此句型強調的是為了達成某個目的而採取行動。",
+  "explanation": "Both...and 用於連接兩個並列成分，表達「兩者都」的含義，謂語動詞必須使用複數形式。Not...but 用於對比兩個事物，強調後者而否定前者，謂語動詞與but後的主詞單複數一致。兩個句型都是平行結構，可連接名詞、代詞、動詞或形容詞。注意不要將 both...and 與 either...or 混淆，前者表肯定，後者表選擇。",
   "examples": [
     {
       "id": 1,
-      "eng": "She studies hard so that she can pass the entrance exam.",
-      "chi": "她努力讀書，好讓她能通過升學考試。",
+      "eng": "Both reading and writing are essential skills for learning English effectively.",
+      "chi": "閱讀和寫作對於有效學習英文都是必要的技能。",
       "keywords": [
-        "so that",
-        "can pass",
-        "目的"
+        "both...and",
+        "複數動詞",
+        "並列結構"
       ]
     },
     {
       "id": 2,
-      "eng": "They saved money in order that their children will have a better education.",
-      "chi": "他們存錢，以便他們的孩子能接受更好的教育。",
+      "eng": "Not only the teacher but also the students were excited about the field trip.",
+      "chi": "不只是老師，學生們也對校外教學感到興奮。",
       "keywords": [
-        "in order that",
-        "will have",
-        "目的"
+        "not...but",
+        "not only...but also",
+        "動詞一致"
       ]
     },
     {
       "id": 3,
-      "eng": "The teacher speaks slowly so as to help students understand the lesson.",
-      "chi": "老師說話很慢，以便幫助學生理解課程。",
+      "eng": "Both economic development and environmental protection deserve equal attention in policy-making.",
+      "chi": "經濟發展和環境保護在政策制定中都應受到同等重視。",
       "keywords": [
-        "so as to",
-        "不定詞",
-        "目的"
+        "both...and",
+        "複數謂語",
+        "對等概念"
       ]
     },
     {
       "id": 4,
-      "eng": "Athletes train every day in order to achieve their goals and win competitions.",
-      "chi": "運動員每天訓練，為了達成目標並贏得比賽。",
+      "eng": "It was not carelessness but ignorance that caused the accident to happen yesterday.",
+      "chi": "造成昨日事故的不是粗心而是無知。",
       "keywords": [
-        "in order to",
-        "achieve",
-        "目的"
+        "not...but",
+        "強調對比",
+        "單數動詞"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷時機：當句子表達「為了達成某個目的」時使用此句型。主詞相同時優先使用 in order to/so as to 簡化句子；主詞不同時必須用 so that/in order that 搭配助動詞。切勿混淆 so...that（如此...以至於）與 so that（為了）的用法。",
+    "tip": "判斷Both...and時，謂語必須複數；判斷Not...but時，謂語與but後主詞一致。注意not only...but also的強調作用，often用於突出後者的重要性。避免混淆both...and（肯定並列）與either...or（選擇性）的用法差異。",
     "examples": [
       {
-        "test": "正確：He left early so that he could catch the train. / He left early in order to catch the train.",
-        "result": "→ 兩句都對，但主詞相同時用不定詞版本更簡潔"
+        "test": "Both the manager and the employees (work/works) hard.",
+        "result": "→ 選work，因both...and後謂語必須複數"
       },
       {
-        "test": "錯誤：He left early so that to catch the train. / He left early for to catch the train.",
-        "result": "→ so that 後不能接不定詞，應改用 in order to；for to 為非文法式用法"
+        "test": "Not the students but the teacher (are/is) responsible for the mistake.",
+        "result": "→ 選is，因動詞與but後的teacher（單數）一致"
       },
       {
-        "test": "對比：It was so difficult that he could not solve it. vs. He explained clearly so that students could understand.",
-        "result": "→ 前者表結果（so...that），後者表目的（so that）"
+        "test": "Both swimming and cycling (provide/provides) excellent exercise.",
+        "result": "→ 選provide，兩個動名詞作主詞，視為複數"
       }
     ],
-    "note": "記住：so that = 為了讓別人；in order to = 為了讓自己（當主詞相同時最常使用）。"
+    "note": "Both用複數，Not...but看but後；平行結構需詞性一致，成分對等。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The government built more hospitals ",
+        "Both patience and ",
         null,
-        " more people can receive medical care."
+        " are required to master a foreign language.",
+        null,
+        ""
       ],
       "blanks": [
-        "so that"
+        "persistence",
+        "are"
       ],
-      "sentence": "The government built more hospitals so that more people can receive medical care.",
-      "translation": "政府建造了更多醫院，好讓更多人可以獲得醫療照護。",
+      "sentence": "Both patience and persistence are required to master a foreign language.",
+      "translation": "耐心和毅力都是掌握外語所必需的。",
       "keywords": [
-        "so that",
-        "目的",
-        "can receive"
+        "both...and",
+        "複數動詞",
+        "並列名詞"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "She practiced her speech many times ",
+        "Not only the children but also their parents ",
         null,
-        " deliver it confidently at the conference."
+        " interested in the documentary film."
       ],
       "blanks": [
-        "in order to"
+        "were"
       ],
-      "sentence": "She practiced her speech many times in order to deliver it confidently at the conference.",
-      "translation": "她多次練習演講，為了在會議上自信地發表。",
+      "sentence": "Not only the children but also their parents were interested in the documentary film.",
+      "translation": "不只是孩子們，他們的父母也對這部紀錄片感興趣。",
       "keywords": [
-        "in order to",
-        "不定詞",
-        "deliver"
+        "not only...but also",
+        "複數主詞",
+        "動詞一致"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Parents work hard ",
+        "It was not laziness ",
         null,
-        " their children will have better opportunities in the future."
+        " determination that helped him succeed in his career.",
+        null
       ],
       "blanks": [
-        "in order that"
+        "but",
+        "is"
       ],
-      "sentence": "Parents work hard in order that their children will have better opportunities in the future.",
-      "translation": "父母努力工作，以便他們的孩子將來能有更好的機會。",
+      "sentence": "It was not laziness but determination that helped him succeed in his career.",
+      "translation": "幫助他事業成功的不是懶惰而是決心。",
       "keywords": [
-        "in order that",
-        "will have",
-        "目的"
+        "not...but",
+        "It was that強調句",
+        "單數動詞"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The company reduced prices ",
+        "Both the government and private companies ",
         null,
-        " to attract more customers and increase sales."
+        " responsible for promoting renewable energy sources.",
+        null
       ],
       "blanks": [
-        "in order"
+        "are",
+        "collectively"
       ],
-      "sentence": "The company reduced prices in order to attract more customers and increase sales.",
-      "translation": "公司降價，為了吸引更多顧客並增加銷售量。",
+      "sentence": "Both the government and private companies are responsible for promoting renewable energy sources.",
+      "translation": "政府和私人公司都應該負責推廣可再生能源。",
       "keywords": [
-        "in order to",
-        "attract",
-        "目的"
+        "both...and",
+        "複數謂語",
+        "責任分擔"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "study hard",
-      "zh": "努力讀書"
+      "adj": "both",
+      "zh": "兩者都；雙方都"
     },
     {
-      "adj": "work overtime",
-      "zh": "加班工作"
+      "adj": "and",
+      "zh": "和；與"
     },
     {
-      "adj": "save money",
-      "zh": "存錢"
+      "adj": "not only...but also",
+      "zh": "不只...而且；不僅...還"
     },
     {
-      "adj": "speak slowly",
-      "zh": "說話緩慢"
+      "adj": "either...or",
+      "zh": "要麼...要麼；或者...或者"
     },
     {
-      "adj": "arrive early",
-      "zh": "提早到達"
+      "adj": "neither...nor",
+      "zh": "既不...也不"
     },
     {
-      "adj": "practice regularly",
-      "zh": "定期練習"
+      "adj": "as well as",
+      "zh": "以及；還有"
     },
     {
-      "adj": "use technology",
-      "zh": "使用科技"
+      "adj": "in addition to",
+      "zh": "除...之外"
     },
     {
-      "adj": "take notes",
-      "zh": "做筆記"
+      "adj": "along with",
+      "zh": "連同；一起"
     },
     {
-      "adj": "exercise daily",
-      "zh": "每日運動"
+      "adj": "instead of",
+      "zh": "而不是；代替"
     },
     {
-      "adj": "communicate clearly",
-      "zh": "清楚溝通"
+      "adj": "rather than",
+      "zh": "而不是；與其...不如"
     },
     {
-      "adj": "prepare well",
-      "zh": "充分準備"
+      "adj": "essential",
+      "zh": "必要的；基本的"
     },
     {
-      "adj": "manage time efficiently",
-      "zh": "有效管理時間"
+      "adj": "parallel",
+      "zh": "平行的；相等的"
     }
   ],
-  "vocab_table_label": "常用動詞片語",
+  "vocab_table_label": "常用連接詞組",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適當的選項完成句子，表達目的",
-      "question_eng": "He wakes up early every morning _______ he can catch the first bus to work.",
+      "question_chi": "選擇最適當的動詞形式完成句子",
+      "question_eng": "Both swimming and running _______ excellent forms of exercise for maintaining good health.",
       "options": [
         {
           "key": "A",
-          "text": "so that"
+          "text": "is"
         },
         {
           "key": "B",
-          "text": "so as to"
+          "text": "are"
         },
         {
           "key": "C",
-          "text": "in order to"
+          "text": "has been"
         },
         {
           "key": "D",
-          "text": "because"
+          "text": "have been"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A。句子主詞「He」為單數，空格後接「he can catch」（含主詞與助動詞），必須用「so that + S + can/will + V」的結構。B 項 so as to 和 C 項 in order to 後接不定詞，且不需要主詞。D 項 because 表原因而非目的，語意不符。",
+      "answer": "B",
+      "explanation": "Both...and 連接兩個並列的主詞時，謂語動詞必須用複數形式。Swimming 和 running 雖然都是單數名詞，但 both...and 結構強調「兩者都」，所以需要複數動詞 are。A 項 is 為單數，文法錯誤。C、D 項時態為現在完成式，與句意不符。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確的目的副詞子句形式，主詞相同",
-      "question_eng": "The company invested heavily in technology _______ improve their production efficiency.",
+      "question_chi": "選擇適當的動詞確保與後位主詞一致",
+      "question_eng": "Not only the director but also the actors _______ satisfied with the final version of the film.",
       "options": [
         {
           "key": "A",
-          "text": "so that they can"
+          "text": "was"
         },
         {
           "key": "B",
-          "text": "in order that they will"
+          "text": "were"
         },
         {
           "key": "C",
-          "text": "so as to"
+          "text": "have been"
         },
         {
           "key": "D",
-          "text": "so that to"
+          "text": "has been"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是 C。因為主詞相同（都是 company/they），可使用不定詞形式 so as to + V。A 項雖文法正確但不夠簡潔。B 項 in order that 後應用 can 而非 will。D 項「so that to V」為常見錯誤，so that 後必須接助動詞，不能直接接不定詞。",
+      "answer": "B",
+      "explanation": "Not only...but also 結構中，謂語動詞的數必須與 but also 後的主詞一致。此處 but also 後為複數名詞 the actors，故需複數動詞 were。A 項 was 為單數，文法錯誤。C、D 項雖然時態可能也適用，但 have been 配複數，has been 配單數，此處應選 were 的過去簡單式。",
       "id": 2
     },
     {
-      "question_chi": "辨別目的子句與結果子句的差異，選擇適切表達",
-      "question_eng": "The government implemented stricter environmental policies _______ reduce air pollution in major cities.",
+      "question_chi": "判斷並列結構中的謂語動詞與形容詞搭配",
+      "question_eng": "Both the novel and its adaptation _______ entertaining and thought-provoking, which explains their widespread popularity among audiences.",
       "options": [
         {
           "key": "A",
-          "text": "so that it can"
+          "text": "is"
         },
         {
           "key": "B",
-          "text": "in order that industries will"
+          "text": "are"
         },
         {
           "key": "C",
-          "text": "in order to"
+          "text": "seems"
         },
         {
           "key": "D",
-          "text": "so that to be able to"
+          "text": "appear to be"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是 C。主詞相同（政府實施政策→為了減少污染），應改寫為 in order to 或 so as to 搭配不定詞，更簡潔有力。A 項 so that 後主詞應與前句一致。B 項改變了主詞，造成邏輯混亂。D 項「so that to be able to」混合了兩種句型，為錯誤用法。",
+      "answer": "B",
+      "explanation": "Both...and 連接兩個名詞短語（the novel 和 its adaptation）作主詞，謂語動詞必須用複數 are。該複數動詞與兩個形容詞 entertaining 和 thought-provoking 並列。A 項 is 為單數，文法錯誤。C 項 seems 為單數，也不符合。D 項雖複數，但 appear to be 結構較冗長且不如 are 簡潔。",
       "id": 3
     },
     {
-      "question_chi": "複雜句型判斷，考慮主詞變更與時態搭配",
-      "question_eng": "They distributed free masks throughout the neighborhood _______ vulnerable populations would have access to protective equipment during the health crisis.",
+      "question_chi": "進階題：複雜句型中的主詞一致與時態選擇",
+      "question_eng": "Not the financial crisis but the company's poor management decisions _______ _______ responsible for the dramatic decline in market share over the past three years.",
       "options": [
         {
           "key": "A",
-          "text": "in order to"
+          "text": "have been"
         },
         {
           "key": "B",
-          "text": "so as to make sure"
+          "text": "has been"
         },
         {
           "key": "C",
-          "text": "in order that"
+          "text": "are"
         },
         {
           "key": "D",
-          "text": "in order that they can provide"
+          "text": "is"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是 C。主詞變更（they → populations），目的子句有自己的主詞時，須用「in order that + S + would/can + V」的完整從句結構；空格後「vulnerable populations would have」符合此需求。A 項 in order to 和 B 項 so as to 皆為不定詞形，主詞必須相同。D 項改變了原句邏輯結構。",
+      "answer": "B",
+      "explanation": "Not...but 結構中，謂語與 but 後的主詞 the company's poor management decisions 一致。雖然 decisions 是複數名詞，但作為集合體指「決策」這一概念時，可視為單數。此句使用現在完成式 has been 表示過去發生至現在的結果。A 項複數不符。C、D 項雖為現在式，但無法表達「過去三年」的持續影響。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我每天早起，以便準時上學。",
-      "answer": "I get up early every day so that I can arrive at school on time. / I get up early every day in order to arrive at school on time.",
+      "sentence_chi": "英文和數學都是大學入學考試的重要科目。",
+      "answer": "Both English and Mathematics are important subjects for university entrance exams.",
       "key_points": [
-        "so that + can",
-        "in order to + V",
-        "arrive at school on time"
+        "Both...and...",
+        "複數動詞 are",
+        "並列名詞 English and Mathematics"
       ],
       "hints": [
-        "提示1：主詞相同時可用 so that + can 或 in order to 改寫",
-        "提示2：注意 so that 後接 can/will/may 搭配動詞，不能直接接不定詞"
+        "提示1：Both A and B 結構中，謂語動詞必須用複數形式",
+        "提示2：不要寫成 'Both English and Mathematics is'，這是常見錯誤"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "學生認真讀書，為了在大學入學考試中取得好成績。",
-      "answer": "Students study hard so that they can get good grades in the university entrance exam. / Students study hard in order that they may achieve good results in the university entrance exam.",
+      "sentence_chi": "不是老師的講解，而是同學的討論幫助了我理解這個概念。",
+      "answer": "Not the teacher's explanation but my classmates' discussion helped me understand this concept.",
       "key_points": [
-        "so that/in order that + S + can/may",
-        "study hard",
-        "get good grades in the entrance exam"
+        "Not...but...",
+        "謂語動詞 helped 與 but 後的主詞單複數一致",
+        "所有格 classmates'"
       ],
       "hints": [
-        "提示1：主詞不同時需用 so that 或 in order that 搭配助動詞（can/may/will）",
-        "提示2：avoid 誤用『so that to get』—so that 後必須有助動詞"
+        "提示1：Not A but B 中，動詞應與 B 的單複數一致；這裡 discussion 是單數，所以用 helped",
+        "提示2：注意 'classmates' discussion' 要用所有格，且動詞要跟著 discussion（單數）"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "老師用了許多例子來解釋這個文法概念，以便學生能夠清楚地理解。",
-      "answer": "The teacher used many examples to explain the grammar concept so that students could understand it clearly. / The teacher used many examples to explain the grammar concept in order that the students might understand clearly.",
+      "sentence_chi": "無論是參加社團還是參與志願服務，學生都能培養領導力和責任感。",
+      "answer": "Both joining clubs and participating in volunteer services help students develop leadership and a sense of responsibility.",
       "key_points": [
-        "so that + could/might",
-        "in order that",
-        "use examples to explain"
+        "Both...and... 連接動名詞",
+        "複數動詞 help",
+        "平行結構的名詞短語"
       ],
       "hints": [
-        "提示1：當表達過去情景或假設時，so that 後可用 could/might 替代 can/may",
-        "提示2：so that 子句表達目的時，助動詞選擇應符合主要子句時態"
+        "提示1：Both A and B 可連接動名詞短語（-ing form），後接複數動詞",
+        "提示2：注意平行結構的對稱性：joining clubs // participating in volunteer services，都用動名詞形式"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "政府制定了新的環保政策，使得企業能夠減少碳排放，從而保護地球環境。",
-      "answer": "The government established new environmental policies so that enterprises could reduce carbon emissions in order to protect the Earth's environment. / The government established new environmental policies in order that companies might be able to decrease their carbon footprint and thus preserve the planetary ecosystem.",
+      "sentence_chi": "這個社會問題不是由於缺乏政策，而是因為執行不力才導致的。",
+      "answer": "Not the lack of policies but the poor implementation of policies has caused this social problem.",
       "key_points": [
-        "so that + could + V",
-        "in order that + might",
-        "reduce carbon emissions / decrease carbon footprint"
+        "Not...but... 強調後項",
+        "謂語動詞 has 與單數主詞 implementation 一致",
+        "抽象名詞的複雜結構"
       ],
       "hints": [
-        "提示1：複雜句中可結合多個目的子句，第一個 so that 後用 could 表達可能性，第二個可用 in order to 或另一個 so that",
-        "提示2：注意主詞一致性—若企業與政府不同，需用 so that/in order that + S + could/might，不能簡化為不定詞"
+        "提示1：Not A but B 句型中，B 是強調的重點；這裡 'the poor implementation' 是單數，所以用 has",
+        "提示2：易錯點是動詞單複數判斷，要看 but 後面的主詞（implementation）而非整句邏輯"
       ]
     }
   ]

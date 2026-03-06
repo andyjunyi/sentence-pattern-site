@@ -1,365 +1,366 @@
 {
   "code": "8-11",
   "chapter": 8,
-  "title": "as soon as / the moment / once + S + V",
+  "title": "S + V + as + S + V（方式子句）",
   "formulas": [
     {
-      "formula": "As soon as / The moment / Once + S + V, S + V",
-      "zh": "一……就……，表示兩個動作緊密相連，前一動作完成立刻引發後一動作"
+      "formula": "S + V + as + S + V",
+      "zh": "主詞+動詞+如同+主詞+動詞，表示方式或比較"
     },
     {
-      "formula": "S + V as soon as / the moment / once + S + V",
-      "zh": "後置型：主要子句在前，時間連接詞子句在後"
+      "formula": "S + V + just as + S + V",
+      "zh": "主詞+動詞+正如+主詞+動詞，強調並列比較"
     }
   ],
-  "explanation": "此句型用於表達兩動作的立即先後關係，強調時間上的緊密銜接。三個連接詞中，as soon as最常用且最直接；the moment帶有瞬間性；once則強調第一次發生的條件含義。關鍵點：時間子句必須用現在式表未來，不能用將來式；主要子句可用任何時態。常見錯誤是使用will在時間子句中，或混淆as soon as與when的細微差別（as soon as更強調立即性）。",
+  "explanation": "此句型使用 as 引導方式副詞子句，表達「如同……一樣」的比較意義。as 可引導時間或方式子句，常見於敘述兩個平行動作或狀態。結構為：主要子句 + as + 副詞子句。使用時機為說明兩事物具有相似性或同時性。注意 as 不同於 like（介詞），as 後接完整主賓結構；as always（一如往常）為常用慣用語。易混淆點：區分 as（子句）與 like（片語）的語法差異。",
   "examples": [
     {
       "id": 1,
-      "eng": "As soon as you arrive at the airport, please call me.",
-      "chi": "你一到達機場，請立刻打電話給我。",
+      "eng": "As the sun rose, the birds began to sing just as they did every morning.",
+      "chi": "當太陽升起時，鳥兒開始唱歌，正如牠們每天早上所做的一樣。",
       "keywords": [
-        "as soon as",
-        "現在式代未來",
-        "立即性"
+        "as引導時間子句",
+        "just as",
+        "平行動作"
       ]
     },
     {
       "id": 2,
-      "eng": "The moment the teacher enters the classroom, students stop talking.",
-      "chi": "老師一進教室，學生們就停止說話。",
+      "eng": "She works hard as her mother did, striving for excellence in everything.",
+      "chi": "她工作認真，如同她的母親一樣，在每件事上都力求卓越。",
       "keywords": [
-        "the moment",
-        "條件反射",
-        "規律性動作"
+        "as引導比較",
+        "方式副詞子句",
+        "相似性"
       ]
     },
     {
       "id": 3,
-      "eng": "Once you finish your homework, you can watch TV for one hour.",
-      "chi": "一旦你完成功課，你就可以看一個小時的電視。",
+      "eng": "As always, John arrived late to the meeting, causing frustration among team members.",
+      "chi": "一如往常，約翰開會遲到，引起團隊成員的不滿。",
       "keywords": [
-        "once",
-        "第一次發生",
-        "條件許可"
+        "as always慣用語",
+        "習慣性動作",
+        "時間副詞"
       ]
     },
     {
       "id": 4,
-      "eng": "She will inform us the moment she receives the test results.",
-      "chi": "她一收到考試成績就會告知我們。",
+      "eng": "The student solved the problem as his teacher had shown him during the class.",
+      "chi": "那位學生按照老師在課堂上教他的方式解決了這個問題。",
       "keywords": [
-        "the moment",
-        "後置型結構",
-        "將來式主句"
+        "as引導方式",
+        "過去完成式",
+        "說明方法"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷關鍵：看是否要表達「一……就……」的立即因果關係。時間子句不可用will，應用現在式。Once強調條件（一旦第一次），而as soon as只強調時間點的接近性。若要表達習慣性反應，用the moment最貼切。",
+    "tip": "辨別 as（引導子句）與 like（介詞）：as 後必接完整子句（S+V），like 後接名詞或名詞片語。例：as he said（他說的方式）vs. like him（像他這樣的人）。易錯誤使用 like 取代 as 引導子句。",
     "examples": [
       {
-        "test": "❌ As soon as you will arrive, I will pick you up.",
-        "result": "→ ✓ As soon as you arrive, I will pick you up.（時間子句用現在式，不用will）"
+        "test": "✓ She sings as her mother does.",
+        "result": "→ 正確。as 引導子句，表示方式比較"
       },
       {
-        "test": "❌ Once you finished your work, you can leave.",
-        "result": "→ ✓ Once you finish your work, you can leave.（時間子句須用現在式，非過去式）"
+        "test": "✗ She sings like her mother does.",
+        "result": "→ 不當混用。應改用 as，因為後接完整子句"
       },
       {
-        "test": "✓ The moment I saw her face, I knew she was upset.",
-        "result": "→ 過去式：表過去完成的立即反應，時態保持一致"
+        "test": "✓ As expected, the project succeeded.",
+        "result": "→ 正確。as expected 是常用慣用語，表示如預期"
       }
     ],
-    "note": "時間子句永遠用現在式（代未來）或過去式（代過去），絕不用將來式；三詞詞根：as soon as=最快速、once=第一次、the moment=瞬間點。"
+    "note": "記憶口訣：as + 完整子句（主動詞）= 方式比較；as always/expected/usual = 時間狀語"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "",
+        "The team performed well ",
         null,
-        " the airport, send me a text message."
+        " the coach had trained them throughout the season.",
+        ""
       ],
       "blanks": [
-        "As soon as you arrive at"
+        "as"
       ],
-      "sentence": "As soon as you arrive at the airport, send me a text message.",
-      "translation": "你一到達機場，就傳簡訊給我。",
+      "sentence": "The team performed well as the coach had trained them throughout the season.",
+      "translation": "球隊表現良好，如同教練整個賽季以來對他們的訓練一樣。",
       "keywords": [
-        "as soon as",
-        "arrive",
-        "現在式代未來"
+        "as引導方式子句",
+        "比較",
+        "訓練成果"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "The moment the concert",
+        "",
         null,
-        ", the audience started cheering."
+        ", she forgot her keys at home again.",
+        ""
       ],
       "blanks": [
-        "began"
+        "As always"
       ],
-      "sentence": "The moment the concert began, the audience started cheering.",
-      "translation": "音樂會一開始，觀眾就歡呼起來。",
+      "sentence": "As always, she forgot her keys at home again.",
+      "translation": "一如往常，她又把鑰匙忘在家裡了。",
       "keywords": [
-        "the moment",
-        "過去式",
-        "立即反應"
+        "as always慣用語",
+        "習慣性",
+        "重複動作"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "",
+        "He solved the math problem ",
         null,
-        " you understand this concept, the exam will be easier for you."
+        " the textbook had explained it.",
+        ""
       ],
       "blanks": [
-        "Once"
+        "just as"
       ],
-      "sentence": "Once you understand this concept, the exam will be easier for you.",
-      "translation": "一旦你理解了這個概念，考試對你來說就會容易得多。",
+      "sentence": "He solved the math problem just as the textbook had explained it.",
+      "translation": "他正如教科書所解釋的那樣解決了數學問題。",
       "keywords": [
-        "once",
-        "條件含義",
-        "第一次掌握"
+        "just as強調",
+        "並列比較",
+        "說明方法"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "I will let you know ",
+        "",
         null,
-        " I receive the confirmation email."
+        " predicted, the stock market dropped significantly after the announcement.",
+        ""
       ],
       "blanks": [
-        "the moment"
+        "As"
       ],
-      "sentence": "I will let you know the moment I receive the confirmation email.",
-      "translation": "我一收到確認郵件，就會通知你。",
+      "sentence": "As predicted, the stock market dropped significantly after the announcement.",
+      "translation": "如預期所料，公告發布後股市大幅下跌。",
       "keywords": [
-        "the moment",
-        "後置型",
-        "將來式主句"
+        "as predicted",
+        "預測",
+        "因果關係"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "arrive",
-      "zh": "到達"
+      "adj": "just",
+      "zh": "恰好、正好"
     },
     {
-      "adj": "receive",
-      "zh": "收到"
+      "adj": "always",
+      "zh": "一如往常"
     },
     {
-      "adj": "finish",
-      "zh": "完成"
+      "adj": "before",
+      "zh": "之前、像以前一樣"
     },
     {
-      "adj": "begin",
-      "zh": "開始"
+      "adj": "usual",
+      "zh": "像往常一樣"
     },
     {
-      "adj": "enter",
-      "zh": "進入"
+      "adj": "expected",
+      "zh": "如預期所料"
     },
     {
-      "adj": "immediately",
-      "zh": "立刻"
+      "adj": "planned",
+      "zh": "按計畫"
     },
     {
-      "adj": "right away",
-      "zh": "馬上"
+      "adj": "supposed",
+      "zh": "如預期"
     },
     {
-      "adj": "without delay",
-      "zh": "沒有延遲地"
+      "adj": "intended",
+      "zh": "如預期"
     },
     {
-      "adj": "instantaneous",
-      "zh": "瞬間的"
+      "adj": "instructed",
+      "zh": "如被指示"
     },
     {
-      "adj": "consecutive",
-      "zh": "連貫的"
+      "adj": "required",
+      "zh": "如所要求"
     },
     {
-      "adj": "simultaneous",
-      "zh": "同時的"
+      "adj": "agreed",
+      "zh": "如約定"
     },
     {
-      "adj": "prompt",
-      "zh": "迅速的"
+      "adj": "promised",
+      "zh": "如承諾"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "常用副詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適合填空的連接詞，表達兩動作的立即先後關係",
-      "question_eng": "_______ you finish your homework, you can go out and play with your friends.",
+      "question_chi": "選擇正確的方式子句，表達「如同……一樣」的比較意義",
+      "question_eng": "The children played in the park _______ their parents watched from the bench.",
       "options": [
         {
           "key": "A",
-          "text": "As soon as"
+          "text": "as"
         },
         {
           "key": "B",
-          "text": "Because"
+          "text": "like"
         },
         {
           "key": "C",
-          "text": "Although"
+          "text": "such as"
         },
         {
           "key": "D",
-          "text": "Unless"
+          "text": "the same as"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案為A「As soon as」，表示「一...就...」，強調兩動作的立即先後關係。選項B「Because」（因為）表因果關係；選項C「Although」（雖然）表讓步；選項D「Unless」（除非）表條件否定。文意需要表達完成功課後就可外出，只有A符合。",
+      "explanation": "正確答案是 A（as）。此句表達兩個同時進行的動作，需用 as 引導方式副詞子句，後接完整主賓結構「their parents watched」。B 項 like 是介詞，後接名詞片語而非子句。C 項 such as 用於列舉例子。D 項 the same as 是比較結構，不引導子句。",
       "id": 1
     },
     {
-      "question_chi": "填入適當的時態，注意時間子句的時態規則",
-      "question_eng": "The moment he _______ the news, he immediately called his parents to share the good news.",
+      "question_chi": "填入適當詞彙，完成方式子句表達「恰如……一樣」",
+      "question_eng": "The students studied hard _______ they had done before the previous exam.",
       "options": [
         {
           "key": "A",
-          "text": "heard"
+          "text": "just as"
         },
         {
           "key": "B",
-          "text": "will hear"
+          "text": "just like"
         },
         {
           "key": "C",
-          "text": "has heard"
+          "text": "as if"
         },
         {
           "key": "D",
-          "text": "would hear"
+          "text": "as long as"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案為A「heard」。雖然主要子句「called」用過去式表達已發生的事件，時間子句中的「The moment」後仍須用過去簡單式對應。選項B「will hear」違反時間子句不用將來式的規則；選項C「has heard」與過去敘事背景不符；選項D「would hear」為條件虛擬語氣，不適用於此。",
+      "explanation": "正確答案是 A（just as）。句子強調學生像之前一樣用功，需用 just as 引導方式子句，表達「恰如……一樣」的比較意義，後接完整子句「they had done」。B 項 just like 為介詞片語，後應接名詞而非動詞。C 項 as if 表假設語氣。D 項 as long as 表條件。",
       "id": 2
     },
     {
-      "question_chi": "選擇正確句子，強調第一次發生的條件含義",
-      "question_eng": "Which sentence is correct? A. Once you will submit the application, it cannot be changed. B. Once you submit the application, it cannot be changed. C. Once you submitted the application, it cannot be changed. D. Once you have submitted the application, it cannot be changed.",
+      "question_chi": "識別正確的方式子句結構，區分 as 與 like 的語法差異",
+      "question_eng": "She managed the project _______ her mentor had instructed her, implementing each strategy with precision.",
       "options": [
         {
           "key": "A",
-          "text": "Once you will submit the application, it cannot be changed."
+          "text": "like"
         },
         {
           "key": "B",
-          "text": "Once you submit the application, it cannot be changed."
+          "text": "as"
         },
         {
           "key": "C",
-          "text": "Once you submitted the application, it cannot be changed."
+          "text": "in the same way like"
         },
         {
           "key": "D",
-          "text": "Once you have submitted the application, it cannot be changed."
+          "text": "similar to"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案為B。「Once」引導的時間子句須用現在簡單式表達未來事件「submit」，主要子句才能用「cannot be changed」表達後續結果。選項A「will submit」違反時間子句時態規則；選項C「submitted」為過去式，與主要子句現在狀態不符；選項D「have submitted」為完成式，改變原意為已完成的事實而非條件敘述。",
+      "explanation": "正確答案是 B（as）。句子需表達「按照導師的指示方式去管理」，as 後接完整子句「her mentor had instructed her」。A 項 like 為介詞，後只能接名詞片語。C 項結構冗餘且語法錯誤。D 項 similar to 為介詞片語，無法引導子句。as 與 like 的關鍵差異在於 as 可引導子句。",
       "id": 3
     },
     {
-      "question_chi": "綜合考查連接詞選擇、時態運用及立即性強調",
-      "question_eng": "_______ the project manager _______ the final report, all team members _______ to celebrate the successful completion of their work.",
+      "question_chi": "複雜句型，同時涉及時間與方式子句，須正確運用 as 引導子句",
+      "question_eng": "The orchestra performed the symphony with passion _______ the conductor led them through each movement, and the audience responded _______ they had on opening night.",
       "options": [
         {
           "key": "A",
-          "text": "As soon as / submits / gather"
+          "text": "like / as"
         },
         {
           "key": "B",
-          "text": "The moment / will submit / will gather"
+          "text": "as / just as"
         },
         {
           "key": "C",
-          "text": "Once / submitting / have gathered"
+          "text": "just as / like"
         },
         {
           "key": "D",
-          "text": "When / has submitted / gathers"
+          "text": "as / like"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案為A「As soon as / submits / gather」。時間子句「As soon as the project manager submits」用現在簡單式表未來，強調立即性；主要子句「all team members gather」用現在簡單式描述隨後發生的動作。選項B「will submit」違反時間子句時態規則；選項C「submitting」為動名詞，不能作時間子句動詞；選項D「has submitted」為完成式，不符合簡潔敘事風格，且「when」的立即性不如「as soon as」。",
+      "answer": "B",
+      "explanation": "正確答案是 B（as / just as）。第一空需表達音樂家與指揮同時進行的動作，用 as 引導方式子句「the conductor led them」。第二空表達「恰如」開幕夜一樣的觀眾反應，用 just as 引導方式子句「they had on opening night」。其他選項混淆了介詞 like 與子句連接詞 as 的用法區別。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "你一到家，媽媽就會問你的功課進度。",
-      "answer": "As soon as you arrive home, your mother will ask about your homework progress. / The moment you arrive home, your mother will ask about your homework progress.",
+      "sentence_chi": "就像老師教我們的一樣，我們應該誠實對待每個人。",
+      "answer": "As our teacher teaches us, we should treat everyone honestly.",
       "key_points": [
-        "as soon as / the moment 引導時間子句",
-        "arrive（現在式表未來）",
-        "will ask（主句用未來式）"
+        "as 引導方式子句",
+        "teach us 完整主賓結構",
+        "should + V 主要子句"
       ],
       "hints": [
-        "提示1：時間子句用現在式 arrive，主句用 will ask 表未來",
-        "提示2：切勿寫成 'As soon as you will arrive'，時間子句不能用 will"
+        "句型框架：主要子句 + as + 副詞子句，as 後須接完整S+V結構",
+        "注意：as 是連接詞，後面必須有主語和動詞，不能用 like 代替"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "一旦他收到大學錄取通知，他就會立刻告訴朋友們。",
-      "answer": "Once he receives his university admission letter, he will immediately tell his friends. / The moment he receives his university admission letter, he will immediately inform his friends.",
+      "sentence_chi": "一如往常，她準時完成了所有的家庭作業。",
+      "answer": "As always, she completed all her homework on time.",
       "key_points": [
-        "once 強調第一次發生的條件",
-        "receives（現在式）",
-        "will tell / will inform（未來式）",
-        "immediately（強調立即性）"
+        "as always 慣用語",
+        "completed 過去式",
+        "on time 時間副詞片語"
       ],
       "hints": [
-        "提示1：once 用於首次發生的事件，時間子句用現在式 receives",
-        "提示2：注意 once 與 as soon as 的區別——once 帶有『一旦』的條件義，as soon as 更強調時間緊密性"
+        "句型變化：as always 是高中英文常見慣用表達，表示『一如既往』的意義",
+        "注意：as always 通常位於句首，後接主要子句；此時 as 已含有『如同……一樣』的比較意義"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "只要考試結束，學生們就會衝出教室去討論答案。",
-      "answer": "As soon as the exam finishes, the students will rush out of the classroom to discuss the answers. / The moment the exam is over, students will rush out of the classroom discussing the answers.",
+      "sentence_chi": "正如許多學生所做的那樣，他利用暑假時間準備學測。",
+      "answer": "As many students do, he used the summer vacation to prepare for the college entrance exam.",
       "key_points": [
-        "as soon as 最適合此情境（強調立即性）",
-        "exam finishes / is over（現在式）",
-        "will rush out（主句未來式）",
-        "to discuss / discussing（目的或伴隨動作）"
+        "as many students do 方式子句",
+        "used...to prepare 主要子句結構",
+        "college entrance exam 學測用語"
       ],
       "hints": [
-        "提示1：時間子句必須用現在式 finishes 或 is over，不能用 will finish",
-        "提示2：『衝出去討論』可用不定詞 to discuss 表目的，或分詞 discussing 表伴隨動作"
+        "句型框架：主要子句 + as + 方式子句，此處 as 引導『如同……做的那樣』的比較",
+        "易錯點：avoid 用 like 代替 as；as 後的 do 是助動詞，不能省略"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "你一聽到手機鈴聲，就應該檢查是否有重要訊息，但許多人往往忽略了這種禮貌。",
-      "answer": "The moment you hear your phone ringing, you should check whether there are any important messages, though many people tend to overlook this courtesy. / Once you hear the notification, you ought to examine if there are urgent messages, but it is often neglected as a matter of etiquette.",
+      "sentence_chi": "就像社會上許多人忽視環保問題一樣，我們有時也會忘記自己的責任。",
+      "answer": "Just as many people in society overlook environmental issues, we sometimes forget our own responsibilities.",
       "key_points": [
-        "the moment 帶瞬間性，強調接收信息的一刻",
-        "hear / ringing（現在式表示時間點）",
-        "should check（情態動詞表建議）",
-        "從句轉折（though / but）連接社會現象評論"
+        "just as 強化比較意義",
+        "overlook environmental issues 方式子句",
+        "responsibilities 抽象名詞"
       ],
       "hints": [
-        "提示1：『一聽到』用 the moment 更具瞬間感，時間子句用 hear（現在式），主句可用 should 表義務或建議",
-        "提示2：此題難在結合日常禮儀評論，須注意時間子句與主句的邏輯關係完整，避免主句用 will 而喪失情態意義"
+        "句型延伸：just as 是 as 的強調形式，更明確地表達『恰如』的比較意義，兩個子句結構應平行對稱",
+        "易錯點：just as 後的子句必須是完整S+V結構；注意 overlook（忽視）與 forget（忘記）的語義區別"
       ]
     }
   ]

@@ -151,6 +151,42 @@
         "the higher",
         "the cooler"
       ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "The more effort you put into your studies,",
+        null,
+        "your grades will be."
+      ],
+      "blanks": [
+        "the better"
+      ],
+      "sentence": "The more effort you put into your studies, the better your grades will be.",
+      "translation": "你投入學習的努力越多，你的成績就會越好。",
+      "keywords": [
+        "the more",
+        "the better",
+        "effort"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        null,
+        "the cities are, the more expensive the cost of living",
+        "."
+      ],
+      "blanks": [
+        "The larger"
+      ],
+      "sentence": "The larger the cities are, the more expensive the cost of living.",
+      "translation": "城市越大，生活成本就越昂貴。",
+      "keywords": [
+        "the larger",
+        "平行比較",
+        "城市規模"
+      ]
     }
   ],
   "vocab_table": [
@@ -304,6 +340,56 @@
       "answer": "A",
       "explanation": "正確答案是 A。此句表反比關係（噪音越高，學生越難專心）。「high」是單音節形容詞，比較級為 higher；「able」是多音節形容詞，反向比較用 less able（較不能）。正確結構為「the higher...the less able」。B 項 more high 錯誤（單音節用 -er）且語序混亂；C 項 less 不完整，應為 less able；D 項 more higher 為雙重比較級，unable 為單詞無法使用。",
       "id": 4
+    },
+    {
+      "question_chi": "選擇合適的比較級句型，完成「越努力越成功」的表達",
+      "question_eng": "_______ you study, _______ grades you will get.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The harder; the better"
+        },
+        {
+          "key": "B",
+          "text": "A harder; a better"
+        },
+        {
+          "key": "C",
+          "text": "The more hard; the more good"
+        },
+        {
+          "key": "D",
+          "text": "More hard; more good"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'the harder...the better' 是標準的「the + 比較級...the + 比較級」句型，表達「越...就越...」的因果關係。B項用 a 修飾比較級錯誤；C項 'more hard' 和 'more good' 是疊用比較級形式，應改為 'harder' 和 'better'；D項完全省略冠詞 the，不符合句型規則。",
+      "id": 5
+    },
+    {
+      "question_chi": "選擇正確的句型結構，強調練習與流暢度的關係",
+      "question_eng": "The more you practice English, _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the more fluent you become"
+        },
+        {
+          "key": "B",
+          "text": "you become more fluent"
+        },
+        {
+          "key": "C",
+          "text": "the more fluent you will become"
+        },
+        {
+          "key": "D",
+          "text": "more and more fluent you become"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第二子句應遵循『the + 比較級 + S + V』結構。B項缺少 'the'，破壞句型對稱性；C項雖然語法可接受，但過度使用助動詞 'will'，在此省略結構中不夠簡潔；D項『more and more』是另一種比較級形式，不符合『the + 比較級』的固定搭配。",
+      "id": 6
     }
   ],
   "translation_exercises": [
@@ -365,6 +451,34 @@
       "hints": [
         "句型框架：The more + N + S + V, the more + N + S + V；兩個子句都使用名詞複數形式 (mistakes / lessons) 且前面加 more",
         "注意：常見錯誤是用 learn... from failure (單數) 而非 failures (複數)；確保兩個 more 都緊接在 the 之後且後面接名詞"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "你讀書越多，你學到的東西就越多。",
+      "answer": "The more you study, the more you learn.",
+      "key_points": [
+        "the + 比較級 (more)",
+        "主詞 + 動詞結構重複",
+        "第二子句省略相同主詞"
+      ],
+      "hints": [
+        "提示1：使用『The + 比較級 + S + V, the + 比較級 + S + V』結構",
+        "提示2：注意冠詞 the 不能用 a 替代，且 more 是 much/many 的比較級"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "你越認真上課，考試成績就越好。",
+      "answer": "The more seriously you attend class, the better your exam grades become.",
+      "key_points": [
+        "the + 比較級副詞 (more seriously)",
+        "the + 比較級形容詞 (better)",
+        "第二子句省略相同部分以避免重複"
+      ],
+      "hints": [
+        "提示1：第一子句用比較級副詞修飾動詞，第二子句用比較級形容詞修飾名詞",
+        "提示2：務必記住 good → better，並注意兩子句之間的因果邏輯關係"
       ]
     }
   ]

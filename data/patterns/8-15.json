@@ -1,369 +1,362 @@
 {
   "code": "8-15",
   "chapter": 8,
-  "title": "both...and... / not...but...",
+  "title": "however / therefore / moreover / furthermore（連接副詞）",
   "formulas": [
     {
-      "formula": "Both A and B + 複數動詞",
-      "zh": "表示A和B兩者都，謂語動詞使用複數形式"
+      "formula": "S + V; however/therefore/moreover, S + V",
+      "zh": "獨立子句；連接副詞，獨立子句（需用分號或句號分隔）"
     },
     {
-      "formula": "Not A but B + 與B一致的動詞",
-      "zh": "表示不是A而是B，謂語動詞與but後的主詞保持一致"
+      "formula": "S + V. However/Therefore/Moreover, S + V",
+      "zh": "獨立子句。連接副詞，獨立子句（可用句號分隔兩句）"
     }
   ],
-  "explanation": "Both...and 用於連接兩個並列成分，表達「兩者都」的含義，謂語動詞必須使用複數形式。Not...but 用於對比兩個事物，強調後者而否定前者，謂語動詞與but後的主詞單複數一致。兩個句型都是平行結構，可連接名詞、代詞、動詞或形容詞。注意不要將 both...and 與 either...or 混淆，前者表肯定，後者表選擇。",
+  "explanation": "連接副詞（如 however、therefore、moreover）用於連接兩個獨立子句，但不能像對等連接詞一樣直接用逗號連接。正確用法：(1)分號+連接副詞+逗號；(2)句號後新起一句+連接副詞+逗號。連接副詞本身無連接功能，只提供邏輯關係。常見錯誤是用逗號直接連接兩句（逗號接合錯誤）。此句型適用於書面語、學術文章及正式寫作。",
   "examples": [
     {
       "id": 1,
-      "eng": "Both reading and writing are essential skills for learning English effectively.",
-      "chi": "閱讀和寫作對於有效學習英文都是必要的技能。",
+      "eng": "The job is challenging; however, the salary is very competitive.",
+      "chi": "這份工作很有挑戰性；然而，薪資非常具競爭力。",
       "keywords": [
-        "both...and",
-        "複數動詞",
-        "並列結構"
+        "分號",
+        "however",
+        "對比關係"
       ]
     },
     {
       "id": 2,
-      "eng": "Not only the teacher but also the students were excited about the field trip.",
-      "chi": "不只是老師，學生們也對校外教學感到興奮。",
+      "eng": "He studied hard for months. Therefore, he passed the exam with flying colors.",
+      "chi": "他準備了好幾個月。因此，他考試成績優異。",
       "keywords": [
-        "not...but",
-        "not only...but also",
-        "動詞一致"
+        "句號",
+        "therefore",
+        "因果關係"
       ]
     },
     {
       "id": 3,
-      "eng": "Both economic development and environmental protection deserve equal attention in policy-making.",
-      "chi": "經濟發展和環境保護在政策制定中都應受到同等重視。",
+      "eng": "The company expanded its market; moreover, it increased employee benefits significantly.",
+      "chi": "公司擴展了市場；而且，它大幅增加了員工福利。",
       "keywords": [
-        "both...and",
-        "複數謂語",
-        "對等概念"
+        "分號",
+        "moreover",
+        "遞進關係"
       ]
     },
     {
       "id": 4,
-      "eng": "It was not carelessness but ignorance that caused the accident to happen yesterday.",
-      "chi": "造成昨日事故的不是粗心而是無知。",
+      "eng": "The weather was terrible. Nevertheless, the team completed the project on time.",
+      "chi": "天氣很糟糕。儘管如此，團隊仍按時完成了專案。",
       "keywords": [
-        "not...but",
-        "強調對比",
-        "單數動詞"
+        "句號",
+        "nevertheless",
+        "讓步關係"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷Both...and時，謂語必須複數；判斷Not...but時，謂語與but後主詞一致。注意not only...but also的強調作用，often用於突出後者的重要性。避免混淆both...and（肯定並列）與either...or（選擇性）的用法差異。",
+    "tip": "判斷關鍵：連接副詞前必須有分號或句號，後面必須跟逗號。若看到逗號直接連接兩個完整句子就是錯誤。連接副詞可移位於句子中間，但分號的位置不變。記住：分號分隔獨立子句，連接副詞提供邏輯關係。",
     "examples": [
       {
-        "test": "Both the manager and the employees (work/works) hard.",
-        "result": "→ 選work，因both...and後謂語必須複數"
+        "test": "❌ The exam was difficult, however, I passed it.",
+        "result": "→ 錯誤：逗號接合。正確應為：The exam was difficult; however, I passed it."
       },
       {
-        "test": "Not the students but the teacher (are/is) responsible for the mistake.",
-        "result": "→ 選is，因動詞與but後的teacher（單數）一致"
+        "test": "✓ The exam was difficult. However, I passed it.",
+        "result": "→ 正確：句號分隔，新句開始加連接副詞。符合本句型標準格式。"
       },
       {
-        "test": "Both swimming and cycling (provide/provides) excellent exercise.",
-        "result": "→ 選provide，兩個動名詞作主詞，視為複數"
+        "test": "✓ The exam was difficult; I passed it, however.",
+        "result": "→ 正確：連接副詞可置於句尾，分號仍為必要標點。但通常置於句首較常見。"
       }
     ],
-    "note": "Both用複數，Not...but看but後；平行結構需詞性一致，成分對等。"
+    "note": "連接副詞前用分號或句號，後用逗號；逗號直接連兩句是大錯。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Both patience and ",
+        "The product quality is excellent",
         null,
-        " are required to master a foreign language.",
-        null,
-        ""
+        "the price is too high for most consumers."
       ],
       "blanks": [
-        "persistence",
-        "are"
+        "; however,"
       ],
-      "sentence": "Both patience and persistence are required to master a foreign language.",
-      "translation": "耐心和毅力都是掌握外語所必需的。",
+      "sentence": "The product quality is excellent; however, the price is too high for most consumers.",
+      "translation": "產品品質很好；然而，價格對大多數消費者來說太高了。",
       "keywords": [
-        "both...and",
-        "複數動詞",
-        "並列名詞"
+        "分號",
+        "however",
+        "價格對比"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Not only the children but also their parents ",
+        "She practiced the piano every day.",
         null,
-        " interested in the documentary film."
+        "she won the national competition."
       ],
       "blanks": [
-        "were"
+        " Therefore,"
       ],
-      "sentence": "Not only the children but also their parents were interested in the documentary film.",
-      "translation": "不只是孩子們，他們的父母也對這部紀錄片感興趣。",
+      "sentence": "She practiced the piano every day. Therefore, she won the national competition.",
+      "translation": "她每天練習鋼琴。因此，她贏得了全國比賽。",
       "keywords": [
-        "not only...but also",
-        "複數主詞",
-        "動詞一致"
+        "句號",
+        "therefore",
+        "因果連接"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "It was not laziness ",
+        "The company hired 50 new employees",
         null,
-        " determination that helped him succeed in his career.",
-        null
+        "it opened three new branches overseas."
       ],
       "blanks": [
-        "but",
-        "is"
+        "; moreover,"
       ],
-      "sentence": "It was not laziness but determination that helped him succeed in his career.",
-      "translation": "幫助他事業成功的不是懶惰而是決心。",
+      "sentence": "The company hired 50 new employees; moreover, it opened three new branches overseas.",
+      "translation": "公司僱用了50名新員工；而且，它在海外開設了三個新分公司。",
       "keywords": [
-        "not...but",
-        "It was that強調句",
-        "單數動詞"
+        "分號",
+        "moreover",
+        "遞進補充"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Both the government and private companies ",
+        "The meeting was scheduled for 10 AM.",
         null,
-        " responsible for promoting renewable energy sources.",
-        null
+        "all participants arrived on time."
       ],
       "blanks": [
-        "are",
-        "collectively"
+        " Nevertheless,"
       ],
-      "sentence": "Both the government and private companies are responsible for promoting renewable energy sources.",
-      "translation": "政府和私人公司都應該負責推廣可再生能源。",
+      "sentence": "The meeting was scheduled for 10 AM. Nevertheless, all participants arrived on time.",
+      "translation": "會議定在上午10點。儘管如此，所有參與者都準時到達。",
       "keywords": [
-        "both...and",
-        "複數謂語",
-        "責任分擔"
+        "句號",
+        "nevertheless",
+        "讓步對比"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "both",
-      "zh": "兩者都；雙方都"
+      "adj": "however",
+      "zh": "然而、但是（表對比）"
     },
     {
-      "adj": "and",
-      "zh": "和；與"
+      "adj": "therefore",
+      "zh": "因此、所以（表因果）"
     },
     {
-      "adj": "not only...but also",
-      "zh": "不只...而且；不僅...還"
+      "adj": "moreover",
+      "zh": "而且、況且（表遞進）"
     },
     {
-      "adj": "either...or",
-      "zh": "要麼...要麼；或者...或者"
+      "adj": "nevertheless",
+      "zh": "儘管如此、然而（表讓步）"
     },
     {
-      "adj": "neither...nor",
-      "zh": "既不...也不"
+      "adj": "furthermore",
+      "zh": "此外、而且（表補充）"
     },
     {
-      "adj": "as well as",
-      "zh": "以及；還有"
+      "adj": "consequently",
+      "zh": "因此、結果（表因果）"
     },
     {
-      "adj": "in addition to",
-      "zh": "除...之外"
+      "adj": "instead",
+      "zh": "反之、相反地（表對比）"
     },
     {
-      "adj": "along with",
-      "zh": "連同；一起"
+      "adj": "otherwise",
+      "zh": "否則、要不然（表條件）"
     },
     {
-      "adj": "instead of",
-      "zh": "而不是；代替"
+      "adj": "meanwhile",
+      "zh": "同時、與此同時（表時間）"
     },
     {
-      "adj": "rather than",
-      "zh": "而不是；與其...不如"
+      "adj": "similarly",
+      "zh": "同樣地、類似地（表比較）"
     },
     {
-      "adj": "essential",
-      "zh": "必要的；基本的"
+      "adj": "independently",
+      "zh": "獨立子句之間的分隔標點"
     },
     {
-      "adj": "parallel",
-      "zh": "平行的；相等的"
+      "adj": "transitional",
+      "zh": "過渡詞的特性"
     }
   ],
-  "vocab_table_label": "常用連接詞組",
+  "vocab_table_label": "常用連接副詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適當的動詞形式完成句子",
-      "question_eng": "Both swimming and running _______ excellent forms of exercise for maintaining good health.",
+      "question_chi": "選擇正確的連接副詞用法，完成句子",
+      "question_eng": "The weather was terrible; _______, the outdoor concert was cancelled.",
       "options": [
         {
           "key": "A",
-          "text": "is"
+          "text": "however"
         },
         {
           "key": "B",
-          "text": "are"
+          "text": "therefore"
         },
         {
           "key": "C",
-          "text": "has been"
+          "text": "moreover"
         },
         {
           "key": "D",
-          "text": "have been"
+          "text": "furthermore"
         }
       ],
       "answer": "B",
-      "explanation": "Both...and 連接兩個並列的主詞時，謂語動詞必須用複數形式。Swimming 和 running 雖然都是單數名詞，但 both...and 結構強調「兩者都」，所以需要複數動詞 are。A 項 is 為單數，文法錯誤。C、D 項時態為現在完成式，與句意不符。",
+      "explanation": "此題測試連接副詞的邏輯關係。前句說天氣很糟，後句說音樂會被取消，兩句有因果關係，因此 therefore（因此）最恰當。however 表對比（不符邏輯），moreover/furthermore 表添加（不符邏輯）。分號+連接副詞+逗號是正確用法。",
       "id": 1
     },
     {
-      "question_chi": "選擇適當的動詞確保與後位主詞一致",
-      "question_eng": "Not only the director but also the actors _______ satisfied with the final version of the film.",
+      "question_chi": "判斷標點符號和連接副詞的正確搭配",
+      "question_eng": "She worked overtime for weeks _______ she was promoted to senior manager.",
       "options": [
         {
           "key": "A",
-          "text": "was"
+          "text": ", therefore"
         },
         {
           "key": "B",
-          "text": "were"
+          "text": "; therefore,"
         },
         {
           "key": "C",
-          "text": "have been"
+          "text": ", however"
         },
         {
           "key": "D",
-          "text": "has been"
+          "text": "; moreover,"
         }
       ],
       "answer": "B",
-      "explanation": "Not only...but also 結構中，謂語動詞的數必須與 but also 後的主詞一致。此處 but also 後為複數名詞 the actors，故需複數動詞 were。A 項 was 為單數，文法錯誤。C、D 項雖然時態可能也適用，但 have been 配複數，has been 配單數，此處應選 were 的過去簡單式。",
+      "explanation": "此題測試連接副詞的正確標點用法。「她加班幾週」與「她被升職」有因果關係，應用 therefore。連接兩個獨立子句時，連接副詞前必須用分號，後必須用逗號（; therefore,）。選項 A 用逗號連接會造成逗號接合錯誤；選項 C/D 的邏輯關係不符。",
       "id": 2
     },
     {
-      "question_chi": "判斷並列結構中的謂語動詞與形容詞搭配",
-      "question_eng": "Both the novel and its adaptation _______ entertaining and thought-provoking, which explains their widespread popularity among audiences.",
+      "question_chi": "在正式寫作中，選擇適當的連接副詞和標點",
+      "question_eng": "The new policy has increased efficiency in the warehouse. _______, employee satisfaction has also improved significantly.",
       "options": [
         {
           "key": "A",
-          "text": "is"
+          "text": "However,"
         },
         {
           "key": "B",
-          "text": "are"
+          "text": "Moreover,"
         },
         {
           "key": "C",
-          "text": "seems"
+          "text": "Therefore,"
         },
         {
           "key": "D",
-          "text": "appear to be"
+          "text": "Nevertheless,"
         }
       ],
       "answer": "B",
-      "explanation": "Both...and 連接兩個名詞短語（the novel 和 its adaptation）作主詞，謂語動詞必須用複數 are。該複數動詞與兩個形容詞 entertaining 和 thought-provoking 並列。A 項 is 為單數，文法錯誤。C 項 seems 為單數，也不符合。D 項雖複數，但 appear to be 結構較冗長且不如 are 簡潔。",
+      "explanation": "此題考查句號後新起一句時的連接副詞用法。前句提效率提升，後句補充員工滿意度也提升，兩者是相加關係。應用 moreover（而且、此外）表示添加資訊。however/nevertheless 表對比（不符），therefore 表因果（此處不適合，因兩句是平行關係非嚴格因果）。句號後新句開始時，連接副詞後接逗號。",
       "id": 3
     },
     {
-      "question_chi": "進階題：複雜句型中的主詞一致與時態選擇",
-      "question_eng": "Not the financial crisis but the company's poor management decisions _______ _______ responsible for the dramatic decline in market share over the past three years.",
+      "question_chi": "複雜語境中辨別連接副詞的邏輯關係和標點正確性",
+      "question_eng": "The research team discovered significant flaws in the original methodology; _______, they decided to completely redesign the experiment from scratch, which inevitably delayed the project timeline by several months.",
       "options": [
         {
           "key": "A",
-          "text": "have been"
+          "text": "however, this finding was valuable"
         },
         {
           "key": "B",
-          "text": "has been"
+          "text": "therefore, conducting new tests"
         },
         {
           "key": "C",
-          "text": "are"
+          "text": "furthermore, the budget constraints"
         },
         {
           "key": "D",
-          "text": "is"
+          "text": "as a result, they had to revise"
         }
       ],
-      "answer": "B",
-      "explanation": "Not...but 結構中，謂語與 but 後的主詞 the company's poor management decisions 一致。雖然 decisions 是複數名詞，但作為集合體指「決策」這一概念時，可視為單數。此句使用現在完成式 has been 表示過去發生至現在的結果。A 項複數不符。C、D 項雖為現在式，但無法表達「過去三年」的持續影響。",
+      "answer": "D",
+      "explanation": "此題考查複合句中連接副詞的邏輯關係、搭配詞性和完整性。前句述發現缺陷，後句述決定重新設計實驗，具因果關係。應選能完整表達因果的連接副詞短語「as a result」。選項 A 引入新主題（違反邏輯），B 動名詞形式不完整，C 引入預算話題（偏離主題）。分號用法正確。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "英文和數學都是大學入學考試的重要科目。",
-      "answer": "Both English and Mathematics are important subjects for university entrance exams.",
+      "sentence_chi": "這部電影很有趣；然而，它太長了。",
+      "answer": "The movie is very interesting; however, it is too long.",
       "key_points": [
-        "Both...and...",
-        "複數動詞 are",
-        "並列名詞 English and Mathematics"
+        "分號 + however + 逗號",
+        "兩個獨立子句結構",
+        "however 提供轉折邏輯"
       ],
       "hints": [
-        "提示1：Both A and B 結構中，謂語動詞必須用複數形式",
-        "提示2：不要寫成 'Both English and Mathematics is'，這是常見錯誤"
+        "提示1：使用『分號 + 連接副詞 + 逗號』來連接兩個完整句子",
+        "提示2：常見錯誤是用逗號直接連接 (The movie is very interesting, however it is too long.)，這是逗號接合錯誤"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "不是老師的講解，而是同學的討論幫助了我理解這個概念。",
-      "answer": "Not the teacher's explanation but my classmates' discussion helped me understand this concept.",
+      "sentence_chi": "他每天都努力讀書。因此，他在考試中取得了高分。",
+      "answer": "He studies hard every day. Therefore, he achieved a high score on the exam.",
       "key_points": [
-        "Not...but...",
-        "謂語動詞 helped 與 but 後的主詞單複數一致",
-        "所有格 classmates'"
+        "句號後新起一句 + therefore + 逗號",
+        "因果關係邏輯",
+        "therefore 需要被逗號隔開"
       ],
       "hints": [
-        "提示1：Not A but B 中，動詞應與 B 的單複數一致；這裡 discussion 是單數，所以用 helped",
-        "提示2：注意 'classmates' discussion' 要用所有格，且動詞要跟著 discussion（單數）"
+        "提示1：當用句號分開時，連接副詞後跟逗號才能銜接下一子句",
+        "提示2：注意 therefore 後必須有逗號，不能寫成 Therefore he achieved... 或 Therefore, he achieved...（後者正確）"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "無論是參加社團還是參與志願服務，學生都能培養領導力和責任感。",
-      "answer": "Both joining clubs and participating in volunteer services help students develop leadership and a sense of responsibility.",
+      "sentence_chi": "這份工作薪水不高；而且，工作時間很長，所以很多人不想做。",
+      "answer": "The job offers low salary; moreover, the working hours are very long, so many people don't want to do it.",
       "key_points": [
-        "Both...and... 連接動名詞",
-        "複數動詞 help",
-        "平行結構的名詞短語"
+        "分號 + moreover + 逗號",
+        "moreover 表補充說明",
+        "複雜句中的連接副詞位置"
       ],
       "hints": [
-        "提示1：Both A and B 可連接動名詞短語（-ing form），後接複數動詞",
-        "提示2：注意平行結構的對稱性：joining clubs // participating in volunteer services，都用動名詞形式"
+        "提示1：moreover 用於補充或強化前一句的觀點，使用『分號 + moreover + 逗號』",
+        "提示2：連接副詞後的子句可以很長，但連接副詞本身不提供連接功能，只提供邏輯關係"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "這個社會問題不是由於缺乏政策，而是因為執行不力才導致的。",
-      "answer": "Not the lack of policies but the poor implementation of policies has caused this social problem.",
+      "sentence_chi": "學生不僅需要掌握課本知識，而且還要培養實踐能力。此外，他們應該學會與人合作。因此，學校應該提供更多實踐機會。",
+      "answer": "Students need not only to master textbook knowledge but also to develop practical skills. Furthermore, they should learn to cooperate with others. Therefore, schools should provide more opportunities for practice.",
       "key_points": [
-        "Not...but... 強調後項",
-        "謂語動詞 has 與單數主詞 implementation 一致",
-        "抽象名詞的複雜結構"
+        "連續使用多個連接副詞 (furthermore + therefore)",
+        "句號後新起一句 + 連接副詞 + 逗號",
+        "段落邏輯遞進與因果關係"
       ],
       "hints": [
-        "提示1：Not A but B 句型中，B 是強調的重點；這裡 'the poor implementation' 是單數，所以用 has",
-        "提示2：易錯點是動詞單複數判斷，要看 but 後面的主詞（implementation）而非整句邏輯"
+        "提示1：多個連接副詞可在同一段落中使用，但每個都須遵循『句號後新起一句 + 連接副詞 + 逗號』或『分號 + 連接副詞 + 逗號』的規則",
+        "提示2：furthermore 表補充，therefore 表因果；不能混用或用逗號直接連接 (...they should learn to cooperate with others, therefore schools should...)"
       ]
     }
   ]

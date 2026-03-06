@@ -1,259 +1,237 @@
 {
   "code": "7-7",
   "chapter": 7,
-  "title": "分詞構句（被動）p.p. / Having been p.p....",
+  "title": "Having + p.p., S + V（完成分詞構句）",
   "formulas": [
     {
-      "formula": "P.P. + ..., S + V...",
-      "zh": "過去分詞開頭的分詞構句，代替被動副詞子句"
+      "formula": "Having + p.p. + ..., S + V...",
+      "zh": "在…之後，主詞…；完成分詞構句表示分詞動作先於主句動作發生"
     },
     {
-      "formula": "Having been + P.P. + ..., S + V...",
-      "zh": "強調先完成的被動動作，再進行主句動作"
+      "formula": "Having been + p.p. + ..., S + V...",
+      "zh": "被動完成分詞構句；表示分詞的被動動作先於主句動作完成"
     }
   ],
-  "explanation": "被動分詞構句省略 being 或 having been，以過去分詞開頭代替被動副詞子句（because/when + S + was/were + p.p.）。單純 P.P. 表示與主句動作同時或之後的被動狀態；Having been + P.P. 強調在主句動作前已完成的被動動作。注意：主詞必須與分詞邏輯主詞相同，避免懸垂修飾詞錯誤。此句型常見於學測閱讀與寫作題。",
+  "explanation": "完成分詞構句用於表達先後順序，分詞的動作在主句動作之前已完成。主要結構為「Having + 過去分詞」開頭，後接完整主句。被動語態時使用「Having been + 過去分詞」。此句型強調時間先後順序，常用於正式寫作和敘述事件。注意分詞的邏輯主詞必須與主句主詞一致，且分詞動作應明確先於主句動作發生。",
   "examples": [
     {
       "id": 1,
-      "eng": "Defeated in the battle, the general surrendered to the enemy.",
-      "chi": "在戰役中被擊敗，那位將軍向敵人投降了。",
+      "eng": "Having finished her homework, Maria went out to play with her friends.",
+      "chi": "完成功課後，瑪麗亞出門和朋友一起玩。",
       "keywords": [
-        "defeated",
-        "過去分詞",
-        "被動狀態"
+        "Having finished",
+        "完成分詞",
+        "先後順序"
       ]
     },
     {
       "id": 2,
-      "eng": "Having been rejected three times, she finally gave up on her dream.",
-      "chi": "被拒絕了三次之後，她最終放棄了夢想。",
+      "eng": "Having been rejected by three universities, he finally decided to work abroad.",
+      "chi": "被三所大學拒絕後，他最終決定到國外工作。",
       "keywords": [
         "Having been rejected",
-        "先完成動作",
-        "因果關係"
+        "被動完成分詞",
+        "經歷事件"
       ]
     },
     {
       "id": 3,
-      "eng": "Shocked by the news, the students couldn't focus on their studies.",
-      "chi": "被這個消息震驚，學生們無法專心讀書。",
+      "eng": "Having studied the report carefully, the manager made an important decision.",
+      "chi": "仔細研究報告後，經理做出了一項重要決定。",
       "keywords": [
-        "Shocked",
-        "情感被動",
-        "結果狀態"
+        "Having studied",
+        "完成分詞",
+        "因果關係"
       ]
     },
     {
       "id": 4,
-      "eng": "Having been trained for years, the athlete won the gold medal easily.",
-      "chi": "經過多年訓練，那位運動員輕鬆贏得金牌。",
+      "eng": "Having waited for two hours, the passengers complained about the flight delay.",
+      "chi": "等待兩小時後，乘客抱怨航班延誤。",
       "keywords": [
-        "Having been trained",
-        "過程完成",
-        "後續成果"
+        "Having waited",
+        "時間經過",
+        "結果反應"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷依據：看句首是否為過去分詞形式（-ed 或不規則 p.p.）。若要表達「在某動作完成後」才進行主句動作，必用 Having been + p.p.；若只表達同時的被動狀態，用 P.P. 即可。留意主詞一致性：分詞的邏輯主詞必須是主句主詞。",
+    "tip": "完成分詞句強調時間先後順序，分詞動作必先於主句動作完成。與現在分詞（doing）不同，完成分詞（having done）明確表達先完成的動作。邏輯主詞必須與主句主詞一致，否則構成懸垂分詞錯誤。",
     "examples": [
       {
-        "test": "Shocked by the accident, he forgot what to do. vs. Having been shocked...",
-        "result": "→ 第一句表同時狀態（恐慌時忘記）；第二句強調先被嚇到，後忘記（時間順序明確）"
+        "test": "Having finished the project, we celebrated our success.",
+        "result": "✓ 正確：「完成項目」先於「慶祝」發生，邏輯主詞一致"
       },
       {
-        "test": "❌ Injured in the accident, the car was damaged. vs. ✓ Injured in the accident, John was hospitalized.",
-        "result": "→ 第一句錯誤（分詞主詞應是 John 非 car）；第二句正確"
+        "test": "Having been warned about the danger, the hikers still proceeded carefully.",
+        "result": "✓ 正確：被動完成分詞，表被警告後才繼續行動"
       },
       {
-        "test": "Having been criticized repeatedly, the plan was abandoned. vs. Criticized repeatedly, the plan was abandoned.",
-        "result": "→ 第一句強調多次批評後才放棄；第二句同時敘述，兩者都可但語氣不同"
+        "test": "Having eaten breakfast, the students went to school.",
+        "result": "✓ 正確：「吃早餐」先於「上學」，時間順序清楚"
       }
     ],
-    "note": "口訣：「分詞主詞要一致，Having been 強調時間序」"
+    "note": "記憶口訣：先「Having + 過去分詞」，後主句動作；完成分詞一定表示「先」發生的動作。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
+        "Having finished her studies, Sarah",
         null,
-        " by the storm, the farmer decided to postpone the harvest."
+        "for a teaching position at the school."
       ],
       "blanks": [
-        "Battered"
+        "applied"
       ],
-      "sentence": "Battered by the storm, the farmer decided to postpone the harvest.",
-      "translation": "被暴風雨摧殘，農民決定延後收割。",
+      "sentence": "Having finished her studies, Sarah applied for a teaching position at the school.",
+      "translation": "完成學業後，莎拉申請了學校的教學職位。",
       "keywords": [
-        "被動分詞",
-        "Battered",
-        "過去分詞開頭"
+        "Having finished",
+        "應聘",
+        "完成分詞"
       ]
     },
     {
       "id": 2,
       "parts": [
+        "Having been",
         null,
-        " for six months, she finally completed her research project."
+        "by multiple job rejections, Tom decided to start his own business."
       ],
       "blanks": [
-        "Having been assigned"
+        "discouraged"
       ],
-      "sentence": "Having been assigned the task for six months, she finally completed her research project.",
-      "translation": "被分配這項任務六個月後，她終於完成了研究專案。",
+      "sentence": "Having been discouraged by multiple job rejections, Tom decided to start his own business.",
+      "translation": "因多次求職被拒而灰心後，湯姆決定創辦自己的事業。",
       "keywords": [
-        "Having been",
-        "先完成",
-        "時間順序"
+        "Having been discouraged",
+        "被動完成分詞",
+        "結果決定"
       ]
     },
     {
       "id": 3,
       "parts": [
         null,
-        " three times, the applicant was determined to try once more."
+        "the contract carefully, the lawyer raised several important concerns."
       ],
       "blanks": [
-        "Rejected"
+        "Having reviewed"
       ],
-      "sentence": "Rejected three times, the applicant was determined to try once more.",
-      "translation": "被拒絕三次，申請人決心再試一次。",
+      "sentence": "Having reviewed the contract carefully, the lawyer raised several important concerns.",
+      "translation": "仔細審查合約後，律師提出了幾項重要疑慮。",
       "keywords": [
-        "Rejected",
-        "被動狀態",
-        "經歷表達"
+        "Having reviewed",
+        "審查完畢",
+        "之後提出"
       ]
     },
     {
       "id": 4,
       "parts": [
+        "Having",
         null,
-        " for academic excellence, the student became more confident in class."
+        "for the exam for weeks, the students felt confident when taking the test."
       ],
       "blanks": [
-        "Having been recognized"
+        "prepared"
       ],
-      "sentence": "Having been recognized for academic excellence, the student became more confident in class.",
-      "translation": "因為在學術上獲得認可，這位學生在課堂上變得更有信心。",
+      "sentence": "Having prepared for the exam for weeks, the students felt confident when taking the test.",
+      "translation": "準備考試數週後，學生們在考試時感到很有信心。",
       "keywords": [
-        "Having been recognized",
-        "先發生事件",
-        "後來變化"
+        "Having prepared",
+        "準備充分",
+        "信心來源"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "defeated",
-      "zh": "被擊敗的"
+      "adj": "finish",
+      "zh": "完成"
     },
     {
-      "adj": "rejected",
-      "zh": "被拒絕的"
+      "adj": "complete",
+      "zh": "完成、做完"
     },
     {
-      "adj": "shocked",
-      "zh": "被震驚的"
+      "adj": "arrive",
+      "zh": "到達"
     },
     {
-      "adj": "trained",
-      "zh": "被訓練的"
+      "adj": "leave",
+      "zh": "離開"
     },
     {
-      "adj": "wounded",
-      "zh": "被傷害的"
+      "adj": "read",
+      "zh": "閱讀"
     },
     {
-      "adj": "published",
-      "zh": "被出版的"
+      "adj": "decide",
+      "zh": "決定"
     },
     {
-      "adj": "discovered",
-      "zh": "被發現的"
+      "adj": "accept",
+      "zh": "接受"
     },
     {
-      "adj": "praised",
-      "zh": "被表揚的"
+      "adj": "graduate",
+      "zh": "畢業"
     },
     {
-      "adj": "invited",
-      "zh": "被邀請的"
+      "adj": "prepare",
+      "zh": "準備"
     },
     {
-      "adj": "exhausted",
-      "zh": "被耗盡的"
+      "adj": "receive",
+      "zh": "收到"
     },
     {
-      "adj": "disappointed",
-      "zh": "被失望的"
+      "adj": "spend",
+      "zh": "花費（時間）"
     },
     {
-      "adj": "assigned",
-      "zh": "被指派的"
+      "adj": "achieve",
+      "zh": "達成、完成"
     }
   ],
-  "vocab_table_label": "常用過去分詞",
+  "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的分詞構句完成句子",
-      "question_eng": "_______ by the noise, the student couldn't concentrate on studying.",
+      "question_chi": "選擇完成分詞構句，表達先完成作業後才出去玩",
+      "question_eng": "_______ her homework, Maria went out to play with her friends.",
       "options": [
         {
           "key": "A",
-          "text": "Disturbing"
+          "text": "Having finished"
         },
         {
           "key": "B",
-          "text": "Disturbed"
+          "text": "Finishing"
         },
         {
           "key": "C",
-          "text": "Being disturbed"
+          "text": "After she finished"
         },
         {
           "key": "D",
-          "text": "To be disturbed"
+          "text": "Having been finished"
         }
       ],
-      "answer": "B",
-      "explanation": "被動分詞構句用過去分詞（Disturbed）表示主詞所受的狀態，相當於「Because the student was disturbed...」。選項A（現在分詞）表主動，與句意不符；C雖正確但冗長不合慣用；D為不定式用法錯誤。",
+      "answer": "A",
+      "explanation": "正確答案是 A。『Having finished』是完成分詞構句，表示分詞動作（完成作業）先於主句動作（出去玩）發生。B 項『Finishing』是進行分詞，無法表達先後順序。C 項『After she finished』是從句，非分詞構句。D 項『Having been finished』被動式不適用，因 Maria 是主動完成作業。",
       "id": 1
     },
     {
-      "question_chi": "判斷被動分詞構句的正確形式",
-      "question_eng": "_______ from the meeting, the employee felt relieved and decided to take the rest of the day off.",
+      "question_chi": "選擇正確的被動完成分詞構句，表達遭拒後的決定",
+      "question_eng": "_______ by three universities, he finally decided to work abroad.",
       "options": [
         {
           "key": "A",
-          "text": "Being dismissed"
-        },
-        {
-          "key": "B",
-          "text": "Dismissed"
-        },
-        {
-          "key": "C",
-          "text": "Having dismissed"
-        },
-        {
-          "key": "D",
-          "text": "Dismiss"
-        }
-      ],
-      "answer": "B",
-      "explanation": "過去分詞（Dismissed）是標準的被動分詞構句形式，省略了「being」。選項A過於冗長；C為主動且邏輯錯誤（員工不能dismiss自己）；D為動詞原形，不符文法。",
-      "id": 2
-    },
-    {
-      "question_chi": "選擇強調先發生動作的被動分詞構句",
-      "question_eng": "_______ multiple times by investors, the startup founder refused to give up on her project.",
-      "options": [
-        {
-          "key": "A",
-          "text": "Rejecting"
+          "text": "Being rejected"
         },
         {
           "key": "B",
@@ -265,94 +243,123 @@
         },
         {
           "key": "D",
-          "text": "Being rejected"
+          "text": "Having rejected"
         }
       ],
       "answer": "C",
-      "explanation": "「Having been rejected」強調在「refuse」之前已經完成的被動動作。選項B只表同時狀態，不合句意的「多次拒絕後」的邏輯關係；A為主動形；D表進行中的被動狀態，時間邏輯不當。",
-      "id": 3
+      "explanation": "正確答案是 C。『Having been rejected』為被動完成分詞構句，強調遭拒的動作已完成且先於『決定出國工作』發生。A 項『Being rejected』是現在進行被動，無完成意涵。B 項『Rejected』為過去分詞形容詞，缺乏完成概念。D 項『Having rejected』是主動式，但邏輯主詞應是被拒者。",
+      "id": 2
     },
     {
-      "question_chi": "複雜語境中選擇正確的被動分詞構句形式",
-      "question_eng": "_______ in poverty for generations, yet _______ the opportunity to receive education, the village finally began to develop economically.",
+      "question_chi": "選擇完成分詞構句，表達先讀完報告才參加會議",
+      "question_eng": "_______ the comprehensive report thoroughly, the executive felt confident during the board meeting.",
       "options": [
         {
           "key": "A",
-          "text": "Having lived; having given"
+          "text": "Having read"
         },
         {
           "key": "B",
-          "text": "Lived; given"
+          "text": "Having been read"
         },
         {
           "key": "C",
-          "text": "Living; being given"
+          "text": "After reading"
         },
         {
           "key": "D",
-          "text": "Having been trapped; given"
+          "text": "Being read"
         }
       ],
-      "answer": "D",
-      "explanation": "第一空用「Having been trapped」強調在發展之前長期陷於貧困的完成被動狀態；第二空用「given」表同時狀態（獲得教育機會）。選項A「having given」邏輯錯誤（村莊不能給予機會）；B時間邏輯不清；C第一空主動形不當。",
+      "answer": "A",
+      "explanation": "正確答案是 A。『Having read』為完成分詞構句，表達行政人員先讀完報告（已完成），才在會議中感到自信。B 項『Having been read』被動意義不合邏輯，報告應由人主動閱讀。C 項『After reading』是前置詞片語而非分詞構句形式。D 項『Being read』進行被動態無法表達完成含義。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇完成分詞構句，強調先失去機會後的深刻悔悟",
+      "question_eng": "_______ the precious opportunity slip through his fingers, John _______ the importance of seizing the moment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Having let / finally realized"
+        },
+        {
+          "key": "B",
+          "text": "Let / had realized"
+        },
+        {
+          "key": "C",
+          "text": "Letting / realized"
+        },
+        {
+          "key": "D",
+          "text": "Having been let / would realize"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Having let』為完成分詞構句，表示『讓機會溜走』的動作先於『意識到重要性』發生。『finally realized』搭配完成分詞構句表達先後時序關係。B 項『Let』缺乏完成意涵。C 項『Letting』進行分詞無法表達先後順序，『realized』與『Letting』無法形成合理時序。D 項被動式不合邏輯，且『would realize』為未來式不符文意。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "被老師表揚後，這名學生感到非常驕傲。",
-      "answer": "Praised by the teacher, the student felt very proud.",
+      "sentence_chi": "完成了家庭作業後，他感到很輕鬆。",
+      "answer": "Having finished his homework, he felt relieved.",
       "key_points": [
-        "Praised (被動分詞)",
-        "省略being",
-        "主詞一致性(student)"
+        "Having finished",
+        "過去分詞 finished",
+        "邏輯主詞一致性（he）",
+        "逗號分隔"
       ],
       "hints": [
-        "提示1：使用單純P.P.形式表示與主句動作同時的被動狀態，省略 being",
-        "提示2：注意 praised 的邏輯主詞必須是 student，避免懸垂修飾詞"
+        "提示1：使用『Having + 過去分詞』開頭，後接逗號和完整主句",
+        "提示2：分詞的邏輯主詞（he）必須與主句主詞相同，不能寫成『Having finished homework, the work felt relieved』"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "因為被學校錄取了，小明決定努力準備高中生活。",
-      "answer": "Admitted to the school, Xiaoming decided to work hard preparing for high school life.",
+      "sentence_chi": "吃完早餐後，學生們趕快上學去了。",
+      "answer": "Having finished breakfast, the students hurried to school.",
       "key_points": [
-        "Admitted (被動分詞)",
-        "理由狀語功能",
-        "prepositional phrase (to the school)"
+        "Having finished breakfast",
+        "過去分詞短語作時間狀語",
+        "邏輯主詞與主詞一致",
+        "句子時間先後順序"
       ],
       "hints": [
-        "提示1：分詞構句可替代 because/when + 被動副詞子句，此處表達被動原因",
-        "提示2：Admitted 的邏輯主詞必須是句子主詞 Xiaoming；避免寫成 'Being admitted'"
+        "提示1：『Having + 過去分詞 + 賓語』可作為整個時間狀語，強調該動作先於主句動作完成",
+        "提示2：要確保『吃早餐』的動作發生者（students）與主句主詞相同，否則會產生懸掛分詞（dangling participle）"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "既然教室已經被打掃乾淨了，班級會議就可以開始了。",
-      "answer": "Having been cleaned thoroughly, the classroom was ready for the class meeting to begin.",
+      "sentence_chi": "由於被老師表揚了，小王在班上變得更加自信。",
+      "answer": "Having been praised by his teacher, Wang became more confident in class.",
       "key_points": [
-        "Having been cleaned (完成被動分詞)",
-        "強調先於主句的被動動作",
-        "thoroughly (程度副詞修飾)"
+        "Having been praised",
+        "被動完成分詞構句",
+        "by + 施事者",
+        "邏輯主詞與主詞一致"
       ],
       "hints": [
-        "提示1：使用 Having been + P.P. 強調分詞動作發生於主句動作之前的被動情況",
-        "提示2：注意時間先後關係：已被打掃(先) → 會議開始(後)；邏輯主詞必須是 classroom"
+        "提示1：被動語態使用『Having been + 過去分詞』，表示分詞動作是被動且先於主句動作完成",
+        "提示2：常見錯誤是寫成『Having praised by teacher』或『Being praised by teacher』，這兩者都不符合『完成』的時間義"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "由於受到社交媒體的廣泛影響，許多青少年開始反思他們的網路使用習慣。",
-      "answer": "Influenced extensively by social media, many teenagers began to reflect on their online usage habits.",
+      "sentence_chi": "經歷了多次失敗和被同學嘲笑後，她決定更努力地證明自己的能力。",
+      "answer": "Having experienced repeated failures and been mocked by classmates, she determined to work harder to prove her ability.",
       "key_points": [
-        "Influenced (被動分詞)",
-        "by + agent (社交媒體為被動施事者)",
-        "邏輯主詞複數一致 (many teenagers)"
+        "Having experienced ... and been mocked",
+        "複合完成分詞構句",
+        "並列結構（and連接兩個過去分詞）",
+        "句子時間邏輯清晰"
       ],
       "hints": [
-        "提示1：分詞構句的被動形式可表達原因關係，此處 Influenced 替代 because they were influenced by...",
-        "提示2：邏輯主詞 teenagers 必須與主句主詞一致；避免誤寫成 'Being influenced' 或造成懸垂修飾詞（如主詞為 'social media' 則邏輯錯誤）"
+        "提示1：完成分詞可與 and 連接多個動作，但所有動作的邏輯主詞仍須與主詞一致，且皆先於主句動作發生",
+        "提示2：避免混淆『Having experienced』和『Having been experienced』；前者為主動（她經歷），後者為被動（她被經歷，此處不適用）。注意『被嘲笑』是被動動作，應使用『been mocked』而非『mocked』"
       ]
     }
   ]

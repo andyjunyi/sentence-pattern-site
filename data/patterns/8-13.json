@@ -1,362 +1,476 @@
 {
   "code": "8-13",
   "chapter": 8,
-  "title": "so that / in order that + S + can/will + V（目的子句）",
+  "title": "both... and... / either... or... / neither... nor...",
   "formulas": [
     {
-      "formula": "S + V + so that/in order that + S + can/will/may + V",
-      "zh": "主詞+動詞+為了讓/以便+主詞+可以/將會+動詞"
+      "formula": "both A and B + 複數動詞",
+      "zh": "A和B兩者都...（動詞用複數）"
     },
     {
-      "formula": "S + V + in order to V / so as to V",
-      "zh": "主詞+動詞+為了+不定詞（簡化形式）"
+      "formula": "either A or B / neither A nor B + 就近一致動詞",
+      "zh": "A或B其中之一/A和B都不...（動詞依靠近的主詞單複數）"
     }
   ],
-  "explanation": "此句型用於表達動作的目的，分為兩種形式：(1)完整子句形式使用「so that/in order that」，後接帶助動詞的完整子句；(2)簡化形式使用「in order to/so as to」直接加不定詞。兩者在意義相同但結構不同。使用時機為需明確表達「為什麼做某事」。易混淆點是助動詞的選擇（can用現在，will用未來）及與結果副詞子句的區分。注意「so that」既可表目的也可表結果，需由上下文判斷。",
+  "explanation": "either...or 和 neither...nor 都遵循「近似一致原則」，即動詞與最接近的主詞保持一致。either...or 表示兩者中選其一；neither...nor 表示兩者都否定。結構為「either/neither + A + or/nor + B」。使用時機在於表達二選一或全盤否定的情況。易混淆點是誤用主語為複數時仍用單數動詞，或忽視最近主詞原則。注意 neither...nor 後的主詞若為複數，則動詞用複數形。",
   "examples": [
     {
       "id": 1,
-      "eng": "She studies hard so that she can pass the exam.",
-      "chi": "她努力讀書為了能夠通過考試。",
+      "eng": "Both studying hard and getting enough sleep are important for students.",
+      "chi": "認真讀書和充足睡眠對學生都很重要。",
       "keywords": [
-        "so that",
-        "can",
-        "目的子句"
+        "both...and",
+        "複數動詞",
+        "並列結構"
       ]
     },
     {
       "id": 2,
-      "eng": "The company raises prices in order that it will increase its profit.",
-      "chi": "公司提高價格以便能夠增加利潤。",
+      "eng": "Either the teacher or the students are responsible for the project's success.",
+      "chi": "老師或學生其中之一要為專案成功負責。",
       "keywords": [
-        "in order that",
-        "will",
-        "目的"
+        "either...or",
+        "就近一致",
+        "單複數判斷"
       ]
     },
     {
       "id": 3,
-      "eng": "I saved money in order to buy a new laptop.",
-      "chi": "我存錢為了買一台新筆電。",
+      "eng": "Neither John nor his friends were present at the meeting yesterday.",
+      "chi": "約翰和他的朋友昨天都沒出席會議。",
       "keywords": [
-        "in order to",
-        "不定詞",
-        "簡化形式"
+        "neither...nor",
+        "否定意義",
+        "複數動詞"
       ]
     },
     {
       "id": 4,
-      "eng": "The teacher speaks slowly so as to help students understand better.",
-      "chi": "老師說話緩慢以便幫助學生更好地理解。",
+      "eng": "Both the novel and the film have received excellent reviews from critics.",
+      "chi": "這部小說和電影都獲得評論家的好評。",
       "keywords": [
-        "so as to",
-        "目的",
-        "助動詞"
+        "both...and",
+        "完成式",
+        "並行敘述"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷是目的還是結果子句的關鍵：目的子句常出現在主動詞之後，且助動詞為can/may（可能性）或will（未來），表示未發生的動作；結果子句則表示實際已發生的結果，多用so...that。記住：目的是「為了要」，結果是「結果是」。",
+    "tip": "判斷動詞單複數時，both...and 永遠用複數；either...or 和 neither...nor 則看靠近動詞的主詞。若主詞為「動名詞/不定詞+名詞」，both...and 仍用複數。常見錯誤是忽視就近一致原則，導致主動詞搭配錯誤。",
     "examples": [
       {
-        "test": "She worked hard so that she could pass the exam.",
-        "result": "→ 目的子句：她為了通過考試而努力工作（目的未實現前的動作）"
+        "test": "Both he and I _____ (am/are) going to the party.",
+        "result": "→ are（both...and 必用複數）"
       },
       {
-        "test": "She worked so hard that she passed the exam easily.",
-        "result": "→ 結果子句：她工作非常努力，結果輕鬆通過考試（結果已發生）"
+        "test": "Either the manager or the employees _____ (has/have) to make a decision.",
+        "result": "→ have（employees 為複數，靠近動詞，故用複數）"
       },
       {
-        "test": "他存錢為了買房子 = He saved money in order to buy a house.",
-        "result": "→ 簡化形式：不定詞「to buy」表目的，更簡潔"
+        "test": "Neither the book nor the movies _____ (was/were) interesting to me.",
+        "result": "→ were（movies 為複數，靠近動詞，故用複數）"
       }
     ],
-    "note": "目的子句＝未發生的目標+助動詞(can/will)；結果子句＝已發生的事實+無助動詞"
+    "note": "「Both 加複數、Either/Neither 靠近數」——記住這個口訣，就能快速判斷動詞變化。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The parents save money ",
+        "Both the principal and the teachers ",
         null,
-        " they can send their children to university."
+        " satisfied with the students' performance."
       ],
       "blanks": [
-        "so that"
+        "are"
       ],
-      "sentence": "The parents save money so that they can send their children to university.",
-      "translation": "父母存錢為了能夠送孩子上大學。",
+      "sentence": "Both the principal and the teachers are satisfied with the students' performance.",
+      "translation": "校長和老師對學生的表現都很滿意。",
       "keywords": [
-        "so that",
-        "can",
-        "目的"
+        "both...and",
+        "複數動詞",
+        "be動詞"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "The government built new roads ",
+        "Either your sister or your brothers ",
         null,
-        " traffic congestion would decrease."
+        " to help clean the house."
       ],
       "blanks": [
-        "in order that"
+        "need"
       ],
-      "sentence": "The government built new roads in order that traffic congestion would decrease.",
-      "translation": "政府建造新道路以便交通擁堵會減少。",
+      "sentence": "Either your sister or your brothers need to help clean the house.",
+      "translation": "要不你妹妹要不你哥哥其中之一需要幫忙打掃房子。",
       "keywords": [
-        "in order that",
-        "would",
-        "目的子句"
+        "either...or",
+        "就近一致",
+        "複數主詞"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "He exercises every day ",
+        "Neither the president nor his advisors ",
         null,
-        " improve his health."
+        " willing to compromise on this issue."
       ],
       "blanks": [
-        "in order to"
+        "are"
       ],
-      "sentence": "He exercises every day in order to improve his health.",
-      "translation": "他每天運動為了改善他的健康。",
+      "sentence": "Neither the president nor his advisors are willing to compromise on this issue.",
+      "translation": "總統和他的顧問都不願意在這個議題上妥協。",
       "keywords": [
-        "in order to",
-        "不定詞",
-        "簡化"
+        "neither...nor",
+        "複數動詞",
+        "否定意義"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The scientist conducted the experiment carefully ",
+        "Both attending lectures and doing homework regularly ",
         null,
-        " obtain accurate results."
+        " essential for academic success."
       ],
       "blanks": [
-        "so as to"
+        "are"
       ],
-      "sentence": "The scientist conducted the experiment carefully so as to obtain accurate results.",
-      "translation": "科學家仔細進行實驗以便獲得精確的結果。",
+      "sentence": "Both attending lectures and doing homework regularly are essential for academic success.",
+      "translation": "定期上課和做功課對學業成功都是必要的。",
       "keywords": [
-        "so as to",
-        "目的",
-        "不定詞"
+        "both...and",
+        "動名詞",
+        "複數動詞"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "Either the manager or the employees ",
+        null,
+        " to attend the meeting tomorrow."
+      ],
+      "blanks": [
+        "are required"
+      ],
+      "sentence": "Either the manager or the employees are required to attend the meeting tomorrow.",
+      "translation": "經理或員工其中一方被要求明天參加會議。",
+      "keywords": [
+        "either...or",
+        "複數主詞",
+        "被動語態"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "Neither my friends nor my brother ",
+        null,
+        " what I should do about this problem."
+      ],
+      "blanks": [
+        "knows"
+      ],
+      "sentence": "Neither my friends nor my brother knows what I should do about this problem.",
+      "translation": "我的朋友和我的哥哥都不知道我應該如何解決這個問題。",
+      "keywords": [
+        "neither...nor",
+        "單數主詞",
+        "近似一致原則"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "study",
-      "zh": "讀書、研究"
+      "adj": "both",
+      "zh": "兩者；兩個都"
     },
     {
-      "adj": "work",
-      "zh": "工作"
+      "adj": "and",
+      "zh": "且；和"
     },
     {
-      "adj": "save",
-      "zh": "存錢、節省"
+      "adj": "either",
+      "zh": "任一個；兩者之一"
     },
     {
-      "adj": "practice",
-      "zh": "練習"
+      "adj": "or",
+      "zh": "或；抑或"
     },
     {
-      "adj": "speak",
-      "zh": "說話"
+      "adj": "neither",
+      "zh": "兩者都不；都沒有"
     },
     {
-      "adj": "improve",
-      "zh": "改善、改進"
+      "adj": "nor",
+      "zh": "也不；亦不"
     },
     {
-      "adj": "prepare",
-      "zh": "準備"
+      "adj": "as well as",
+      "zh": "以及；和…一樣好"
     },
     {
-      "adj": "arrange",
-      "zh": "安排"
+      "adj": "together with",
+      "zh": "連同；與…一起"
     },
     {
-      "adj": "reduce",
-      "zh": "減少、降低"
+      "adj": "in addition to",
+      "zh": "除…之外"
     },
     {
-      "adj": "increase",
-      "zh": "增加"
+      "adj": "responsible",
+      "zh": "負責的；有責任的"
     },
     {
-      "adj": "ensure",
-      "zh": "確保"
+      "adj": "important",
+      "zh": "重要的"
     },
     {
-      "adj": "prevent",
-      "zh": "防止"
+      "adj": "necessary",
+      "zh": "必要的；必須的"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "常用連接詞組",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的目的子句形式，完成句子",
-      "question_eng": "He wakes up early every day _______ he can catch the first bus to work.",
+      "question_chi": "選擇正確的動詞形式使句子文法正確",
+      "question_eng": "Both reading books and watching movies _______ good ways to relax.",
       "options": [
         {
           "key": "A",
-          "text": "so that"
+          "text": "is"
         },
         {
           "key": "B",
-          "text": "so"
+          "text": "are"
         },
         {
           "key": "C",
-          "text": "because"
+          "text": "am"
         },
         {
           "key": "D",
-          "text": "therefore"
+          "text": "be"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是A「so that」。此句表示目的（為了能趕上公車），需用「so that + S + can + V」的完整子句形式。B「so」是連接詞但不能引導目的子句；C「because」表原因而非目的；D「therefore」是副詞無法引導子句。",
+      "answer": "B",
+      "explanation": "both...and 連接的主詞一律採複數動詞。「both reading books and watching movies」為複數概念，故使用 are。選項 A 是單數動詞，不符合 both...and 的規則；C、D 為不適當的動詞形式。",
       "id": 1
     },
     {
-      "question_chi": "判斷目的子句中的助動詞選用是否正確",
-      "question_eng": "The teacher explained the grammar rule slowly in order that all students _______ understand it clearly.",
+      "question_chi": "根據就近一致原則選擇正確的動詞形式",
+      "question_eng": "Either the manager or his assistants _______ going to attend the meeting tomorrow.",
       "options": [
         {
           "key": "A",
-          "text": "will"
+          "text": "is"
         },
         {
           "key": "B",
-          "text": "would"
+          "text": "are"
         },
         {
           "key": "C",
-          "text": "can"
+          "text": "was"
         },
         {
           "key": "D",
-          "text": "could"
+          "text": "were"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是C「can」。「in order that + S + can + V」表示現在或一般性的目的，should use 「can」表可能性。A「will」用於未來確定事件；B「would」和D「could」為過去或假設用法，不適合此正式教學情境。",
+      "answer": "B",
+      "explanation": "either...or 遵循就近一致原則，動詞形式由靠近它的主詞決定。此句中 assistants（複數）緊靠動詞，故用 are。選項 A 錯誤因為 assistants 是複數；C、D 時態錯誤，句子指未來動作。",
       "id": 2
     },
     {
-      "question_chi": "比較完整子句和簡化形式的目的表達",
-      "question_eng": "The company invested in new technology _______ to improve productivity and reduce costs.",
+      "question_chi": "在 neither...nor 結構中應用就近一致原則",
+      "question_eng": "Neither the students nor their teacher _______ aware of the rule change until yesterday.",
       "options": [
         {
           "key": "A",
-          "text": "in order that it can"
+          "text": "were"
         },
         {
           "key": "B",
-          "text": "so that it will"
+          "text": "was"
         },
         {
           "key": "C",
-          "text": "so as"
+          "text": "is"
         },
         {
           "key": "D",
-          "text": "in order"
+          "text": "are"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是C「so as」。句子結構為「投資新技術以便改進生產力」，主詞相同可用簡化形式「so as to + V」。A和B為完整子句形式但不符簡化結構；D「in order」不完整，必須是「in order to」才正確。",
+      "answer": "B",
+      "explanation": "neither...nor 遵循就近一致原則。此句中 teacher（單數）緊靠動詞，故用單數過去式 was。選項 A 錯誤因為 teacher 是單數；C 時態錯誤；D 雖為複數但時態不符合過去敘述。",
       "id": 3
     },
     {
-      "question_chi": "判斷「so that」是表目的還是結果，並選擇正確助動詞",
-      "question_eng": "He studied all night so that he _______ pass the difficult exam the next morning, and he eventually succeeded.",
+      "question_chi": "在複雜句中正確應用對等連接詞組的動詞一致性",
+      "question_eng": "Both his leadership skills and his ability to communicate effectively _______ what make him an excellent manager, and either his colleagues or his supervisor _______ nominated him for promotion.",
       "options": [
         {
           "key": "A",
-          "text": "would"
+          "text": "is; have"
         },
         {
           "key": "B",
-          "text": "will"
+          "text": "are; has"
         },
         {
           "key": "C",
-          "text": "might"
+          "text": "are; have"
         },
         {
           "key": "D",
-          "text": "can"
+          "text": "is; has"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是A「would」。由於後句「he eventually succeeded」表實際結果已發生，此「so that」應理解為結果子句，過去式背景下用「would」表當時的未來。B「will」為現在式；C「might」表可能性；D「can」為現在式，皆不符過去敘事的時態一致性要求。",
+      "answer": "B",
+      "explanation": "第一空：both...and 連接複數主詞，動詞用 are；第二空：either...or，supervisor（單數）靠近動詞，故用 has。選項 C 第二空錯誤（supervisor 單數應用 has）；A、D 第一空錯誤（both...and 須用複數動詞）。",
       "id": 4
+    },
+    {
+      "question_chi": "選擇正確的動詞形式，表示兩者中只有一人負責",
+      "question_eng": "Either you or your brother _______ responsible for cleaning the house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "am"
+        },
+        {
+          "key": "D",
+          "text": "be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "either...or遵循近似一致原則，動詞與最接近的主詞保持一致。此句最接近的主詞為單數your brother，故用is。A項are為複數動詞錯誤；C項am用法不符；D項be為動詞原型不適用。",
+      "id": 5
+    },
+    {
+      "question_chi": "判斷neither...nor結構中的正確動詞時態和形式",
+      "question_eng": "Neither the manager nor the employees _______ satisfied with the new company policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "were"
+        }
+      ],
+      "answer": "B",
+      "explanation": "neither...nor遵循近似一致原則，動詞應與最接近的主詞employees（複數）一致，故用are。A項is為單數形式錯誤；C、D項為過去式，但句子無時態標記應為現在式。",
+      "id": 6
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我每天早起讀英文，以便能在學測中取得好成績。",
-      "answer": "I get up early every day so that I can get a good score on the college entrance exam.",
+      "sentence_chi": "瑪麗和湯姆都喜歡看電影。",
+      "answer": "Both Mary and Tom like watching movies.",
       "key_points": [
-        "so that + S + can + V 的完整結構",
-        "get up early（早起）",
-        "college entrance exam（學測）"
+        "Both...and 連接兩個人名",
+        "複數動詞 like",
+        "動名詞 watching"
       ],
       "hints": [
-        "提示1：目的子句使用『so that + S + can + V』，其中 can 表示現在或一般情況下的能力/可能性",
-        "提示2：注意不要寫成 so I can...（缺少主詞），也不要用 will 代替 can"
+        "提示1：Both...and 後面一律使用複數動詞，regardless of 主詞是否單數",
+        "提示2：常見錯誤是寫成 'Both Mary and Tom likes'，須記住 both...and = 複數"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "老師把重點寫在黑板上，為的是讓所有學生都能理解這個概念。",
-      "answer": "The teacher writes the key points on the blackboard in order that all students can understand this concept.",
+      "sentence_chi": "你可以選擇去看演唱會或參加補習班，但不能兩者都選。",
+      "answer": "You can choose either attending the concert or joining the cram school, but not both.",
       "key_points": [
-        "in order that + S + can + V 的目的子句",
-        "key points（重點）",
-        "understand the concept（理解概念）"
+        "Either...or 連接兩個動名詞短語",
+        "情態動詞 can choose",
+        "邏輯轉折 but not both"
       ],
       "hints": [
-        "提示1：『in order that』與『so that』意義相同，都表達目的，後面接帶助動詞 can 的完整子句",
-        "提示2：注意『in order that』較正式，在學術或書面英文中較常見；『so that』更口語化"
+        "提示1：Either...or 用於表示二選一的情況，兩個連接的成分應為平行結構（都用動名詞或都用名詞）",
+        "提示2：若要表達「不能兩者都選」，可加 'but not both' 來強調互斥性"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "許多高中生參加補習班，為的是將來能進入理想的大學。",
-      "answer": "Many high school students attend cram schools so that they will be able to enter their ideal university in the future.",
+      "sentence_chi": "小王既不喜歡數學也不喜歡物理，所以他打算改選歷史。",
+      "answer": "Neither math nor physics appeals to Xiaowang, so he plans to switch to history.",
       "key_points": [
-        "so that + S + will + V 的未來式目的子句",
-        "attend cram schools（參加補習班）",
-        "will be able to 與 can 的區別（表未來能力）"
+        "Neither...nor 表示雙重否定",
+        "就近一致：physics（單數）+ appeals（單數動詞）",
+        "邏輯連接詞 so"
       ],
       "hints": [
-        "提示1：表達『未來的目的』時使用『so that + S + will + V』，用 will 而非 can 來表示未來的可能性",
-        "提示2：常見錯誤是混淆 can 與 will：can 表一般/現在的能力，will 表未來的動作或狀態；此句著重『進入大學』的未來結果，故用 will"
+        "提示1：Neither...nor 遵循就近一致原則，動詞形式由最靠近的主詞（physics）決定，此處為單數",
+        "提示2：常見錯誤是忽視就近一致，誤寫成 'appeal'；另外 appeal to 意為『吸引』，比 like 更正式"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "政府投入更多資源發展再生能源，以便能夠在2050年前實現碳中和的目標。",
-      "answer": "The government invests more resources in developing renewable energy in order that it can achieve the goal of carbon neutrality before 2050.",
+      "sentence_chi": "不論是老師的建議還是父母的期望，都深深影響了她對大學科系的選擇；相反地，她自己的興趣或朋友的意見都沒有產生太大的影響。",
+      "answer": "Both her teachers' suggestions and her parents' expectations have deeply influenced her choice of university major; conversely, neither her own interests nor her friends' opinions have had much impact.",
       "key_points": [
-        "in order that + S + can + V 的完整句型",
-        "invest in + V-ing（投資於...）",
-        "achieve the goal of carbon neutrality（實現碳中和目標）"
+        "Both...and + 複數動詞 have influenced",
+        "Neither...nor + 就近一致 have had（opinions 複數）",
+        "所有格與名詞短語的平行性"
       ],
       "hints": [
-        "提示1：目的子句與結果子句的區分──此句強調『投資資源的目的是實現碳中和』，屬於『有意圖、計畫的目的』，故用 in order that；若改為『政府投資後，因此能實現碳中和』則為結果，需用 so that with result meaning",
-        "提示2：社會議題類題目需注意時間詞（before 2050）與助動詞的搭配，此處 can achieve 表達未來的可能性"
+        "提示1：Both...and 連接複雜名詞短語時（含所有格），仍須使用複數動詞；Neither...nor 時要確認靠近動詞的主詞數量",
+        "提示2：常見錯誤是名詞短語不平行（如一個用所有格一個不用），或混淆 impact 與 influence 的搭配用法（have influence vs. have impact）"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "明天要麼下雨，要麼下雪。",
+      "answer": "Either rain or snow will occur tomorrow.",
+      "key_points": [
+        "Either...or 結構",
+        "will occur（動詞與最接近主詞 snow 一致）",
+        "表達二選一的可能性"
+      ],
+      "hints": [
+        "提示1：Either A or B 的動詞應與 B 保持一致，此句 B 為 snow（單數）",
+        "提示2：不能寫成『Either rain or snow will occurs』，snow 是單數"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "要不是你媽媽，要不就是你爸爸會來參加學校運動會。",
+      "answer": "Either your mother or your father will attend the school sports day.",
+      "key_points": [
+        "Either...or 結構",
+        "will attend（動詞與 father 一致）",
+        "attend 表示「參加」"
+      ],
+      "hints": [
+        "提示1：Either A or B，動詞應與最接近的主詞 B（your father）保持一致",
+        "提示2：注意 father 是單數，所以用 will attend，不能用 will attends"
       ]
     }
   ]

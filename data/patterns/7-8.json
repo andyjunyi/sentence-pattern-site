@@ -1,365 +1,476 @@
 {
   "code": "7-8",
   "chapter": 7,
-  "title": "Having + p.p., S + V（完成分詞構句）",
+  "title": "with + O + V-ing/p.p. + 主句",
   "formulas": [
     {
-      "formula": "Having + p.p. + ..., S + V...",
-      "zh": "在…之後，主詞…；完成分詞構句表示分詞動作先於主句動作發生"
+      "formula": "with + O + V-ing（O主動執行動作）",
+      "zh": "用with獨立分詞構句表示伴隨的主動動作或狀態"
     },
     {
-      "formula": "Having been + p.p. + ..., S + V...",
-      "zh": "被動完成分詞構句；表示分詞的被動動作先於主句動作完成"
+      "formula": "with + O + p.p.（O被動承受動作）",
+      "zh": "用with獨立分詞構句表示伴隨的被動動作或狀態"
     }
   ],
-  "explanation": "完成分詞構句用於表達先後順序，分詞的動作在主句動作之前已完成。主要結構為「Having + 過去分詞」開頭，後接完整主句。被動語態時使用「Having been + 過去分詞」。此句型強調時間先後順序，常用於正式寫作和敘述事件。注意分詞的邏輯主詞必須與主句主詞一致，且分詞動作應明確先於主句動作發生。",
+  "explanation": "with獨立分詞構句是一種高級副詞修飾法，用來表述主句發生時的伴隨狀態、方式或條件。結構為「with + 受詞 + 分詞」，受詞若主動執行動作用V-ing，若被動承受用過去分詞p.p.。此構句不受主句主語限制，可靈活表達複雜的伴隨關係，常見於文學、新聞與學測閱讀。易混淆點：勿與普通介詞片語混淆；分詞的主動被動要與with後的受詞邏輯相符。",
   "examples": [
     {
       "id": 1,
-      "eng": "Having finished her homework, Maria went out to play with her friends.",
-      "chi": "完成功課後，瑪麗亞出門和朋友一起玩。",
+      "eng": "With her eyes closed, she listened to the beautiful music carefully.",
+      "chi": "閉著眼睛，她仔細聆聽優美的音樂。",
       "keywords": [
-        "Having finished",
-        "完成分詞",
-        "先後順序"
+        "with獨立分詞",
+        "eyes closed",
+        "伴隨狀態"
       ]
     },
     {
       "id": 2,
-      "eng": "Having been rejected by three universities, he finally decided to work abroad.",
-      "chi": "被三所大學拒絕後，他最終決定到國外工作。",
+      "eng": "The old man sat by the window with his hands trembling slightly.",
+      "chi": "老人坐在窗邊，雙手微微顫抖。",
       "keywords": [
-        "Having been rejected",
-        "被動完成分詞",
-        "經歷事件"
+        "with",
+        "hands trembling",
+        "主動分詞"
       ]
     },
     {
       "id": 3,
-      "eng": "Having studied the report carefully, the manager made an important decision.",
-      "chi": "仔細研究報告後，經理做出了一項重要決定。",
+      "eng": "With the project finished ahead of schedule, the team celebrated their success.",
+      "chi": "專案提前完成，團隊慶祝他們的成功。",
       "keywords": [
-        "Having studied",
-        "完成分詞",
-        "因果關係"
+        "with",
+        "project finished",
+        "被動分詞"
       ]
     },
     {
       "id": 4,
-      "eng": "Having waited for two hours, the passengers complained about the flight delay.",
-      "chi": "等待兩小時後，乘客抱怨航班延誤。",
+      "eng": "She left the room with her head held high and her heart full of hope.",
+      "chi": "她昂著頭、懷著希望離開房間。",
       "keywords": [
-        "Having waited",
-        "時間經過",
-        "結果反應"
+        "with",
+        "head held高",
+        "複合結構"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "完成分詞句強調時間先後順序，分詞動作必先於主句動作完成。與現在分詞（doing）不同，完成分詞（having done）明確表達先完成的動作。邏輯主詞必須與主句主詞一致，否則構成懸垂分詞錯誤。",
+    "tip": "判斷分詞類型的關鍵：觀察with後的受詞與分詞的邏輯關係。若受詞「主動做」該動作用V-ing；若受詞「被動承受」該動作用p.p.。例：with the door opening（門自動打開，主動）vs. with the door opened（門被打開，被動）。",
     "examples": [
       {
-        "test": "Having finished the project, we celebrated our success.",
-        "result": "✓ 正確：「完成項目」先於「慶祝」發生，邏輯主詞一致"
+        "test": "With the window open, fresh air flowed into the room.",
+        "result": "→ 正確。window與open為被動關係（窗被打開），用p.p."
       },
       {
-        "test": "Having been warned about the danger, the hikers still proceeded carefully.",
-        "result": "✓ 正確：被動完成分詞，表被警告後才繼續行動"
+        "test": "With students studying hard, the teacher smiled with satisfaction.",
+        "result": "→ 正確。students與studying為主動關係（學生主動唸書），用V-ing"
       },
       {
-        "test": "Having eaten breakfast, the students went to school.",
-        "result": "✓ 正確：「吃早餐」先於「上學」，時間順序清楚"
+        "test": "X With the rain falling, she went out without an umbrella. (邏輯矛盾)",
+        "result": "→ 此句文法正確但邏輯不合。若要表達伴隨的雨勢，應改為considering the rain或in the rain"
       }
     ],
-    "note": "記憶口訣：先「Having + 過去分詞」，後主句動作；完成分詞一定表示「先」發生的動作。"
+    "note": "with獨立分詞三步判斷法：①確認with後的名詞 ②判斷名詞與動詞的邏輯（主動或被動） ③選用對應的分詞形式"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Having finished her studies, Sarah",
+        "The singer performed on stage ",
         null,
-        "for a teaching position at the school."
+        ", creating an unforgettable moment for the audience."
       ],
       "blanks": [
-        "applied"
+        "with her voice rising"
       ],
-      "sentence": "Having finished her studies, Sarah applied for a teaching position at the school.",
-      "translation": "完成學業後，莎拉申請了學校的教學職位。",
+      "sentence": "The singer performed on stage with her voice rising, creating an unforgettable moment for the audience.",
+      "translation": "歌手的聲音在上升的情況下在舞台上表演，為觀眾創造了難忘的時刻。",
       "keywords": [
-        "Having finished",
-        "應聘",
-        "完成分詞"
+        "with獨立分詞",
+        "voice rising",
+        "主動分詞"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Having been",
+        "",
         null,
-        "by multiple job rejections, Tom decided to start his own business."
+        ", the ancient temple remains a sacred place for pilgrims worldwide."
       ],
       "blanks": [
-        "discouraged"
+        "With centuries passed"
       ],
-      "sentence": "Having been discouraged by multiple job rejections, Tom decided to start his own business.",
-      "translation": "因多次求職被拒而灰心後，湯姆決定創辦自己的事業。",
+      "sentence": "With centuries passed, the ancient temple remains a sacred place for pilgrims worldwide.",
+      "translation": "雖然幾個世紀已經過去，這座古老的寺廟仍然是全世界朝聖者的聖地。",
       "keywords": [
-        "Having been discouraged",
-        "被動完成分詞",
-        "結果決定"
+        "with獨立分詞",
+        "centuries passed",
+        "被動分詞"
       ]
     },
     {
       "id": 3,
       "parts": [
+        "The athlete crossed the finish line ",
         null,
-        "the contract carefully, the lawyer raised several important concerns."
+        ", raising his trophy in triumph."
       ],
       "blanks": [
-        "Having reviewed"
+        "with sweat dripping down his face"
       ],
-      "sentence": "Having reviewed the contract carefully, the lawyer raised several important concerns.",
-      "translation": "仔細審查合約後，律師提出了幾項重要疑慮。",
+      "sentence": "The athlete crossed the finish line with sweat dripping down his face, raising his trophy in triumph.",
+      "translation": "運動員汗水滑落臉龐地衝過終點線，勝利地舉起獎杯。",
       "keywords": [
-        "Having reviewed",
-        "審查完畢",
-        "之後提出"
+        "with獨立分詞",
+        "sweat dripping",
+        "主動分詞"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Having",
+        "She sat in the dark room ",
         null,
-        "for the exam for weeks, the students felt confident when taking the test."
+        ", waiting for news from the hospital."
       ],
       "blanks": [
-        "prepared"
+        "with all the lights turned off"
       ],
-      "sentence": "Having prepared for the exam for weeks, the students felt confident when taking the test.",
-      "translation": "準備考試數週後，學生們在考試時感到很有信心。",
+      "sentence": "She sat in the dark room with all the lights turned off, waiting for news from the hospital.",
+      "translation": "她坐在所有燈都關掉的黑暗房間裡，等待醫院的消息。",
       "keywords": [
-        "Having prepared",
-        "準備充分",
-        "信心來源"
+        "with獨立分詞",
+        "lights turned off",
+        "被動分詞"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "With the sunset ",
+        null,
+        " over the mountains, the landscape looked breathtaking."
+      ],
+      "blanks": [
+        "spreading"
+      ],
+      "sentence": "With the sunset spreading over the mountains, the landscape looked breathtaking.",
+      "translation": "隨著夕陽在山上蔓延開來，景色看起來令人歎為觀止。",
+      "keywords": [
+        "with",
+        "spreading",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "With the meeting ",
+        null,
+        ", everyone left the conference room satisfied."
+      ],
+      "blanks": [
+        "concluded"
+      ],
+      "sentence": "With the meeting concluded, everyone left the conference room satisfied.",
+      "translation": "會議結束了，每個人都滿意地離開了會議室。",
+      "keywords": [
+        "with",
+        "concluded",
+        "被動分詞"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "finish",
-      "zh": "完成"
+      "adj": "eyes closed",
+      "zh": "眼睛閉上"
     },
     {
-      "adj": "complete",
-      "zh": "完成、做完"
+      "adj": "hands trembling",
+      "zh": "雙手顫抖"
     },
     {
-      "adj": "arrive",
-      "zh": "到達"
+      "adj": "project finished",
+      "zh": "專案完成"
     },
     {
-      "adj": "leave",
-      "zh": "離開"
+      "adj": "head held high",
+      "zh": "昂著頭"
     },
     {
-      "adj": "read",
-      "zh": "閱讀"
+      "adj": "heart full of",
+      "zh": "心中充滿"
     },
     {
-      "adj": "decide",
-      "zh": "決定"
+      "adj": "voice rising",
+      "zh": "聲音上升"
     },
     {
-      "adj": "accept",
-      "zh": "接受"
+      "adj": "tears falling",
+      "zh": "眼淚落下"
     },
     {
-      "adj": "graduate",
-      "zh": "畢業"
+      "adj": "arms crossed",
+      "zh": "雙臂交叉"
     },
     {
-      "adj": "prepare",
-      "zh": "準備"
+      "adj": "door locked",
+      "zh": "門被鎖上"
     },
     {
-      "adj": "receive",
-      "zh": "收到"
+      "adj": "sun setting",
+      "zh": "太陽下山"
     },
     {
-      "adj": "spend",
-      "zh": "花費（時間）"
+      "adj": "dream shattered",
+      "zh": "夢想破碎"
     },
     {
-      "adj": "achieve",
-      "zh": "達成、完成"
+      "adj": "future uncertain",
+      "zh": "未來不確定"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "常用 with 獨立結構",
   "mc_exercises": [
     {
-      "question_chi": "選擇完成分詞構句，表達先完成作業後才出去玩",
-      "question_eng": "_______ her homework, Maria went out to play with her friends.",
+      "question_chi": "選擇正確的with獨立分詞構句，表達伴隨狀態",
+      "question_eng": "_______ the door open, fresh air flowed into the room.",
       "options": [
         {
           "key": "A",
-          "text": "Having finished"
+          "text": "With the door opening"
         },
         {
           "key": "B",
-          "text": "Finishing"
+          "text": "With the door opened"
         },
         {
           "key": "C",
-          "text": "After she finished"
+          "text": "With the door to open"
         },
         {
           "key": "D",
-          "text": "Having been finished"
+          "text": "With the door being open"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A。『Having finished』是完成分詞構句，表示分詞動作（完成作業）先於主句動作（出去玩）發生。B 項『Finishing』是進行分詞，無法表達先後順序。C 項『After she finished』是從句，非分詞構句。D 項『Having been finished』被動式不適用，因 Maria 是主動完成作業。",
+      "answer": "B",
+      "explanation": "正確答案是B。door與open為被動關係（門被打開），應使用過去分詞p.p.。A選項opening表主動，邏輯不符；C選項to open為不定式，不適用於with獨立分詞構句；D選項being open過於冗長，此情境不需要。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確的被動完成分詞構句，表達遭拒後的決定",
-      "question_eng": "_______ by three universities, he finally decided to work abroad.",
+      "question_chi": "判斷分詞形式：她在唱歌時臉上帶著微笑",
+      "question_eng": "_______, she walked gracefully across the stage.",
       "options": [
         {
           "key": "A",
-          "text": "Being rejected"
+          "text": "With her chin raised high"
         },
         {
           "key": "B",
-          "text": "Rejected"
+          "text": "With her chin raising high"
         },
         {
           "key": "C",
-          "text": "Having been rejected"
+          "text": "With her chin being raised high"
         },
         {
           "key": "D",
-          "text": "Having rejected"
+          "text": "With her chin to raise high"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是 C。『Having been rejected』為被動完成分詞構句，強調遭拒的動作已完成且先於『決定出國工作』發生。A 項『Being rejected』是現在進行被動，無完成意涵。B 項『Rejected』為過去分詞形容詞，缺乏完成概念。D 項『Having rejected』是主動式，但邏輯主詞應是被拒者。",
+      "answer": "A",
+      "explanation": "正確答案是A。chin與raise為被動關係（下巴被抬高），應使用過去分詞raised。B選項raising表主動執行動作，邏輯錯誤；C選項being raised過於冗長；D選項to raise為不定式，不符with獨立分詞構句結構。",
       "id": 2
     },
     {
-      "question_chi": "選擇完成分詞構句，表達先讀完報告才參加會議",
-      "question_eng": "_______ the comprehensive report thoroughly, the executive felt confident during the board meeting.",
+      "question_chi": "判斷主動被動關係：孩子邊唱歌邊走來",
+      "question_eng": "The child came toward us _______, his face beaming with joy.",
       "options": [
         {
           "key": "A",
-          "text": "Having read"
+          "text": "with his hands holding a flower"
         },
         {
           "key": "B",
-          "text": "Having been read"
+          "text": "with a flower holding in his hands"
         },
         {
           "key": "C",
-          "text": "After reading"
+          "text": "with his hands being held a flower"
         },
         {
           "key": "D",
-          "text": "Being read"
+          "text": "with a flower to be held in his hands"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。『Having read』為完成分詞構句，表達行政人員先讀完報告（已完成），才在會議中感到自信。B 項『Having been read』被動意義不合邏輯，報告應由人主動閱讀。C 項『After reading』是前置詞片語而非分詞構句形式。D 項『Being read』進行被動態無法表達完成含義。",
+      "explanation": "正確答案是A。hands與holding為主動關係（手主動拿著），應使用現在分詞holding。B選項holding放在被動語境但不符合with結構；C選項being held造成邏輯混亂；D選項不定式to be held不適用此構句。with的受詞（hands）為主動執行者。",
       "id": 3
     },
     {
-      "question_chi": "選擇完成分詞構句，強調先失去機會後的深刻悔悟",
-      "question_eng": "_______ the precious opportunity slip through his fingers, John _______ the importance of seizing the moment.",
+      "question_chi": "複雜情境：選擇正確分詞形式表達伴隨條件",
+      "question_eng": "_______, the conference proceeded smoothly despite the challenging circumstances.",
       "options": [
         {
           "key": "A",
-          "text": "Having let / finally realized"
+          "text": "With all participants attending actively and taking notes carefully"
         },
         {
           "key": "B",
-          "text": "Let / had realized"
+          "text": "With all participants attended actively and taken notes carefully"
         },
         {
           "key": "C",
-          "text": "Letting / realized"
+          "text": "With all participants having attended actively and having taken notes carefully"
         },
         {
           "key": "D",
-          "text": "Having been let / would realize"
+          "text": "With all participants to attend actively and to take notes carefully"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。『Having let』為完成分詞構句，表示『讓機會溜走』的動作先於『意識到重要性』發生。『finally realized』搭配完成分詞構句表達先後時序關係。B 項『Let』缺乏完成意涵。C 項『Letting』進行分詞無法表達先後順序，『realized』與『Letting』無法形成合理時序。D 項被動式不合邏輯，且『would realize』為未來式不符文意。",
+      "explanation": "正確答案是A。participants與attend、take為主動關係，應使用現在分詞attending和taking形成平行結構。B選項混用了過去分詞，邏輯錯誤；C選項完成式having attended/taken過於複雜，此情境不需；D選項不定式to attend/take不符with獨立分詞構句的語法要求。需保持主動分詞的平行結構。",
       "id": 4
+    },
+    {
+      "question_chi": "選擇正確的分詞形式補完句子",
+      "question_eng": "With the door _______, the cold air rushed into the room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "opening"
+        },
+        {
+          "key": "B",
+          "text": "opened"
+        },
+        {
+          "key": "C",
+          "text": "opens"
+        },
+        {
+          "key": "D",
+          "text": "being open"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B (opened)。door 與 open 構成被動關係（門被打開），應使用過去分詞 p.p.。A 項 opening 表主動，文意不符。C 項 opens 為現在式動詞，不適用於 with 獨立分詞構句。D 項 being open 冗長且不符合此句型用法。",
+      "id": 5
+    },
+    {
+      "question_chi": "判斷分詞與受詞的邏輯關係，選擇正確形式",
+      "question_eng": "With his friends _______ him encouragement, he felt confident enough to take the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "giving"
+        },
+        {
+          "key": "B",
+          "text": "given"
+        },
+        {
+          "key": "C",
+          "text": "to give"
+        },
+        {
+          "key": "D",
+          "text": "gave"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A (giving)。his friends 與 give 構成主動關係（朋友們給予鼓勵），應使用現在分詞 V-ing。B 項 given 為被動，文意相反。C 項 to give 為不定詞，不符合 with 獨立分詞構句結構。D 項 gave 為過去式，不適合此句型。",
+      "id": 6
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "完成了家庭作業後，他感到很輕鬆。",
-      "answer": "Having finished his homework, he felt relieved.",
+      "sentence_chi": "她帶著滿臉的笑容走進教室，開始上課。",
+      "answer": "With a big smile on her face, she walked into the classroom and started the lesson.",
       "key_points": [
-        "Having finished",
-        "過去分詞 finished",
-        "邏輯主詞一致性（he）",
-        "逗號分隔"
+        "with + O + p.p.（a smile on her face）",
+        "on her face 作補語",
+        "walked into + started"
       ],
       "hints": [
-        "提示1：使用『Having + 過去分詞』開頭，後接逗號和完整主句",
-        "提示2：分詞的邏輯主詞（he）必須與主句主詞相同，不能寫成『Having finished homework, the work felt relieved』"
+        "提示1：『滿臉的笑容』是被動狀態(笑容在臉上)，使用p.p. 『on』",
+        "提示2：勿寫成『with her face smiling』，應把focus放在smile這個名詞"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "吃完早餐後，學生們趕快上學去了。",
-      "answer": "Having finished breakfast, the students hurried to school.",
+      "sentence_chi": "窗戶開著，一陣涼風吹進房間，他感到非常舒適。",
+      "answer": "With the window open and a cool breeze blowing in, he felt very comfortable.",
       "key_points": [
-        "Having finished breakfast",
-        "過去分詞短語作時間狀語",
-        "邏輯主詞與主詞一致",
-        "句子時間先後順序"
+        "with + O + p.p.（window open）",
+        "with + O + V-ing（breeze blowing in）",
+        "複合結構用and連接"
       ],
       "hints": [
-        "提示1：『Having + 過去分詞 + 賓語』可作為整個時間狀語，強調該動作先於主句動作完成",
-        "提示2：要確保『吃早餐』的動作發生者（students）與主句主詞相同，否則會產生懸掛分詞（dangling participle）"
+        "提示1：『開著』是open(p.p.)的被動狀態；『吹進』是breeze主動執行(V-ing)",
+        "提示2：兩個with子句可用and合併，避免重複"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "由於被老師表揚了，小王在班上變得更加自信。",
-      "answer": "Having been praised by his teacher, Wang became more confident in class.",
+      "sentence_chi": "隨著考試期間臨近，許多學生感到越來越焦慮，紛紛增加複習時數。",
+      "answer": "With the exam period approaching and stress mounting, many students felt increasingly anxious and increased their revision hours.",
       "key_points": [
-        "Having been praised",
-        "被動完成分詞構句",
-        "by + 施事者",
-        "邏輯主詞與主詞一致"
+        "with + O + V-ing（period approaching / stress mounting）",
+        "複合V-ing結構",
+        "主句含並列動詞（felt...increased）"
       ],
       "hints": [
-        "提示1：被動語態使用『Having been + 過去分詞』，表示分詞動作是被動且先於主句動作完成",
-        "提示2：常見錯誤是寫成『Having praised by teacher』或『Being praised by teacher』，這兩者都不符合『完成』的時間義"
+        "提示1：『臨近』『增加』都是主動動作，exam period和stress都是施事者，用V-ing",
+        "提示2：注意時態一致，with片語用現在分詞表伴隨，主句用過去式"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "經歷了多次失敗和被同學嘲笑後，她決定更努力地證明自己的能力。",
-      "answer": "Having experienced repeated failures and been mocked by classmates, she determined to work harder to prove her ability.",
+      "sentence_chi": "隨著氣候變遷加劇，許多沿海城市面臨淹水風險，政府被迫投入更多預算進行防災工程。",
+      "answer": "With climate change intensifying and coastal cities facing increased flooding risks, the government was forced to allocate more budget for disaster prevention projects.",
       "key_points": [
-        "Having experienced ... and been mocked",
-        "複合完成分詞構句",
-        "並列結構（and連接兩個過去分詞）",
-        "句子時間邏輯清晰"
+        "with + O + V-ing（change intensifying / cities facing）",
+        "p.p.作形容詞修飾名詞（increased risks）",
+        "被動語態主句（was forced to）"
       ],
       "hints": [
-        "提示1：完成分詞可與 and 連接多個動作，但所有動作的邏輯主詞仍須與主詞一致，且皆先於主句動作發生",
-        "提示2：避免混淆『Having experienced』和『Having been experienced』；前者為主動（她經歷），後者為被動（她被經歷，此處不適用）。注意『被嘲笑』是被動動作，應使用『been mocked』而非『mocked』"
+        "提示1：『加劇』『面臨』皆為主動執行，故用V-ing；『增加的風險』中increased是p.p.作修飾詞，勿與分詞混淆",
+        "提示2：with獨立分詞構句不受主句主語限制，主句即使是被動語態亦可搭配"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "小明坐在教室裡，雙手交叉在胸前，認真地聽著老師的講課。",
+      "answer": "With his arms crossed on his chest, Xiaoming sat in the classroom listening attentively to the teacher's lecture.",
+      "key_points": [
+        "with + O + p.p.",
+        "arms crossed（被動關係）",
+        "listening attentively（伴隨狀態）"
+      ],
+      "hints": [
+        "句型框架：with + 受詞（arms）+ 過去分詞（crossed）+ 主句",
+        "注意：crossed 與 arms 是被動關係（arms 被交叉），所以用過去分詞而非 crossing"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "她淚流滿面地走出考場，手裡拿著成績單。",
+      "answer": "With tears streaming down her face and a report card in her hand, she walked out of the exam room.",
+      "key_points": [
+        "with + O + V-ing",
+        "tears streaming（主動關係）",
+        "並列結構（and）"
+      ],
+      "hints": [
+        "句型框架：with + 受詞（tears）+ 現在分詞（streaming）+ 主句",
+        "注意：streaming 與 tears 是主動關係（淚水在流下來），所以用現在分詞"
       ]
     }
   ]

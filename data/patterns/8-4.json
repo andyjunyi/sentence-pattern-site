@@ -1,360 +1,361 @@
 {
   "code": "8-4",
   "chapter": 8,
-  "title": "although / though / even though + S + V（讓步子句）",
+  "title": "while / whereas + S + V（對比子句）",
   "formulas": [
     {
-      "formula": "Although/Though/Even though + S + V, S + V",
-      "zh": "雖然……但是……；讓步副詞子句表達轉折關係"
+      "formula": "While/Whereas + S + V, S + V",
+      "zh": "表達對比或對照關係，強調兩件事的差異或相反狀況"
     },
     {
-      "formula": "S + V, although/though + S + V",
-      "zh": "主句在前，讓步子句在後（though 可置句尾）"
+      "formula": "S + V, while/whereas + S + V",
+      "zh": "主句在前，對比子句在後，同樣表達對比意義"
     }
   ],
-  "explanation": "讓步副詞子句用來表達兩個相對立的事實。Although、though、even though 都可引導讓步子句，但 even though 語氣最強，強調事實的對比性。關鍵注意：讓步子句與主句不能同時使用 but；though 具有靈活性，可置於句首或句尾；although 通常置於句首。此句型考察轉折邏輯與複句結構掌握。",
+  "explanation": "While 和 Whereas 用於對比句型時，強調兩件事之間的差異或相反特性。While 在此用法中表「相比之下」或「反之」，不表時間；Whereas 則明確表示「而」或「反觀」，正式程度較高。結構為：對比連接詞 + 主詞 + 動詞，其後跟著另一個完整子句。使用時機為比較兩個事物、現象或立場。易混淆處：while 表時間同時進行與表對比的區別需靠上下文判斷；Whereas 較正式，多用於論述或正式文章。",
   "examples": [
     {
       "id": 1,
-      "eng": "Although she studied hard, she failed the exam.",
-      "chi": "雖然她很用功，但她仍然考試不及格。",
+      "eng": "While some students enjoy reading novels, others prefer watching movies.",
+      "chi": "有些學生喜歡閱讀小說，而其他學生則偏好看電影。",
       "keywords": [
-        "although",
-        "轉折",
-        "讓步"
+        "While對比",
+        "相反偏好",
+        "兩群體比較"
       ]
     },
     {
       "id": 2,
-      "eng": "Even though the weather was terrible, the event proceeded as planned.",
-      "chi": "儘管天氣很糟糕，這項活動仍按計劃進行。",
+      "eng": "Whereas traditional education focuses on textbooks, modern learning emphasizes practical skills.",
+      "chi": "傳統教育強調教科書，而現代學習則重視實踐技能。",
       "keywords": [
-        "even though",
-        "事實對比",
-        "強語氣"
+        "Whereas對比",
+        "教育方式差異",
+        "正式表述"
       ]
     },
     {
       "id": 3,
-      "eng": "Though he was rich, he lived a simple life.",
-      "chi": "雖然他很富有，但他過著簡樸的生活。",
+      "eng": "While Tokyo is crowded and bustling, Kyoto remains calm and peaceful.",
+      "chi": "東京雖然擁擠熱鬧，但京都卻保持寧靜祥和。",
       "keywords": [
-        "though",
-        "句首使用"
+        "城市對比",
+        "氛圍差異",
+        "形容詞對照"
       ]
     },
     {
       "id": 4,
-      "eng": "She succeeded in her dream, though many people doubted her.",
-      "chi": "她實現了夢想，儘管許多人懷疑她。",
+      "eng": "Whereas the old building was demolished, the new one was built with modern design.",
+      "chi": "舊建築遭到拆除，而新建築則採用現代設計興建。",
       "keywords": [
-        "though句尾",
-        "靈活位置",
-        "讓步"
+        "新舊對比",
+        "建築改變",
+        "過去與現在"
       ]
     }
   ],
-  "adj_table_for": [],
+  "adj_table_for": [
+    {
+      "adj": "similar",
+      "zh": "相似的"
+    },
+    {
+      "adj": "different",
+      "zh": "不同的"
+    },
+    {
+      "adj": "opposite",
+      "zh": "相反的"
+    },
+    {
+      "adj": "busy",
+      "zh": "忙碌的"
+    },
+    {
+      "adj": "calm",
+      "zh": "平靜的"
+    },
+    {
+      "adj": "modern",
+      "zh": "現代的"
+    },
+    {
+      "adj": "traditional",
+      "zh": "傳統的"
+    },
+    {
+      "adj": "crowded",
+      "zh": "擁擠的"
+    },
+    {
+      "adj": "peaceful",
+      "zh": "祥和的"
+    },
+    {
+      "adj": "prefer",
+      "zh": "偏好"
+    },
+    {
+      "adj": "focus on",
+      "zh": "專注於"
+    },
+    {
+      "adj": "emphasize",
+      "zh": "強調"
+    }
+  ],
   "adj_table_of": [],
   "extension": {
-    "tip": "容易混淆點：although/though/even though 引導子句（後接 S+V），而 despite/in spite of 為介詞，後接名詞或動名詞。不可將讓步子句與 but 同用；若已用 although，不需再用 but。though 置於句尾時語氣較輕鬆。",
+    "tip": "判斷 while 是對比還是時間用法：查看動詞時態。若兩個動作同時發生，while 表時間；若強調差異或相反意義，while 表對比。Whereas 幾乎總表對比，不表時間。留意標點：對比連接詞放句首需用逗號分隔兩子句。",
     "examples": [
       {
-        "test": "❌ Although he studied hard, but he failed.",
-        "result": "→ ✅ Although he studied hard, he failed. 或 He studied hard, but he failed.（不可同時使用 although 與 but）"
+        "test": "While he studied hard, he failed the exam.",
+        "result": "→ 表時間同時進行（他在認真讀書的時候考試不及格）"
       },
       {
-        "test": "❌ Even though his difficulty, he never gave up.",
-        "result": "→ ✅ Even though he had difficulties, he never gave up. 或 Despite his difficulties, he never gave up.（difficulty 後需接 had；或改用介詞 despite）"
+        "test": "While he is intelligent, he is not hardworking.",
+        "result": "→ 表對比（他聰明，但不勤奮）- 注意邏輯關係"
       },
       {
-        "test": "✅ He went to work, though he was sick.",
-        "result": "→ though 置於句尾，語氣輕鬆自然，表達「不過他生病了」"
+        "test": "Whereas Tom likes spicy food, Mary prefers mild flavors.",
+        "result": "→ 明確表對比（Tom喜歡辛辣，Mary則偏好溫和口味）"
       }
     ],
-    "note": "記憶口訣：「Although/Though 接完整子句，不與 but 為友；Despite/In spite of 接名詞詞組。」"
+    "note": "While對比靠邏輯判斷，Whereas必為對比；兩個主詞一般不同，動詞形式可異。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "He won the award ",
         null,
-        " many competitors were more experienced."
+        "some workers are satisfied with their salary, others demand higher wages.",
+        ""
       ],
       "blanks": [
-        "even though"
+        "While"
       ],
-      "sentence": "He won the award even though many competitors were more experienced.",
-      "translation": "儘管許多競爭對手經驗更豐富，他仍然贏得了獎項。",
+      "sentence": "While some workers are satisfied with their salary, others demand higher wages.",
+      "translation": "有些工人對薪資滿意，而其他人則要求更高的薪水。",
       "keywords": [
-        "even though",
-        "讓步轉折",
-        "強對比"
+        "While對比",
+        "工作滿意度",
+        "薪資差異"
       ]
     },
     {
       "id": 2,
       "parts": [
+        "The old factory produced goods slowly,",
         null,
-        " it was raining heavily, the children played outside happily."
+        "the new factory operates with advanced technology."
       ],
       "blanks": [
-        "Although"
+        "whereas"
       ],
-      "sentence": "Although it was raining heavily, the children played outside happily.",
-      "translation": "雖然下著大雨，孩子們仍然開心地在外面玩耍。",
+      "sentence": "The old factory produced goods slowly, whereas the new factory operates with advanced technology.",
+      "translation": "舊工廠生產速度緩慢，而新工廠則採用先進技術運營。",
       "keywords": [
-        "although",
-        "句首位置",
-        "讓步子句"
+        "Whereas對比",
+        "工廠效率",
+        "技術進步"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "She decided to pursue her passion for art, ",
         null,
-        " her parents opposed the idea."
+        "young people embrace digital communication, elderly people still value face-to-face conversation."
       ],
       "blanks": [
-        "though"
+        "While"
       ],
-      "sentence": "She decided to pursue her passion for art, though her parents opposed the idea.",
-      "translation": "她決定追求對藝術的熱情，儘管她的父母反對這個想法。",
+      "sentence": "While young people embrace digital communication, elderly people still value face-to-face conversation.",
+      "translation": "年輕人擁抱數位溝通，而老年人仍然重視面對面交談。",
       "keywords": [
-        "though句尾",
-        "靈活使用",
-        "讓步"
+        "年代對比",
+        "溝通方式",
+        "代際差異"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The project was completed successfully ",
+        "The northern region experiences harsh winters,",
         null,
-        " the team faced numerous obstacles."
+        "the southern region enjoys mild and pleasant weather."
       ],
       "blanks": [
-        "even though"
+        "whereas"
       ],
-      "sentence": "The project was completed successfully even though the team faced numerous obstacles.",
-      "translation": "儘管團隊遇到了許多障礙，該項目仍然順利完成了。",
+      "sentence": "The northern region experiences harsh winters, whereas the southern region enjoys mild and pleasant weather.",
+      "translation": "北方地區經歷嚴寒的冬天，而南方地區則享受溫和宜人的天氣。",
       "keywords": [
-        "even though",
-        "事實對比",
-        "強語氣"
+        "地理對比",
+        "氣候差異",
+        "區域比較"
       ]
     }
   ],
-  "vocab_table": [
-    {
-      "adj": "although",
-      "zh": "雖然；儘管"
-    },
-    {
-      "adj": "though",
-      "zh": "雖然；不過"
-    },
-    {
-      "adj": "even though",
-      "zh": "即使；儘管（語氣更強）"
-    },
-    {
-      "adj": "despite",
-      "zh": "儘管（介詞，後接名詞）"
-    },
-    {
-      "adj": "in spite of",
-      "zh": "儘管（介詞片語）"
-    },
-    {
-      "adj": "hard",
-      "zh": "努力地"
-    },
-    {
-      "adj": "difficult",
-      "zh": "困難的"
-    },
-    {
-      "adj": "succeed",
-      "zh": "成功"
-    },
-    {
-      "adj": "fail",
-      "zh": "失敗"
-    },
-    {
-      "adj": "challenging",
-      "zh": "具有挑戰性的"
-    },
-    {
-      "adj": "unexpected",
-      "zh": "意外的"
-    },
-    {
-      "adj": "contrary to",
-      "zh": "與……相反"
-    }
-  ],
-  "vocab_table_label": "常用讓步連接詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇適當的讓步連接詞完成句子",
-      "question_eng": "_______ he was very tired, he continued working on the project.",
+      "question_chi": "選擇適當的對比連接詞，完成句子",
+      "question_eng": "_______ some people are early risers, others prefer to sleep late.",
       "options": [
         {
           "key": "A",
-          "text": "Although"
+          "text": "While"
         },
         {
           "key": "B",
+          "text": "During"
+        },
+        {
+          "key": "C",
           "text": "Because"
         },
         {
-          "key": "C",
-          "text": "Since"
-        },
-        {
           "key": "D",
-          "text": "While"
+          "text": "Unless"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 Although。句子表達「儘管他很累，他仍然繼續工作」，這是讓步關係。Although 正確表達兩個相對立的事實。B 項 Because 表因果關係不符；C 項 Since 表原因或時間；D 項 While 通常表時間對比，不如 Although 強調讓步。",
+      "explanation": "While 在此表「相比之下」，用於對比兩個相反的情況。During 表時間段，不適合。Because 表因果關係，不表對比。Unless 表條件，用法不當。此題考對比連接詞的基本認識。",
       "id": 1
     },
     {
-      "question_chi": "判斷句子中讓步子句與主句的搭配是否正確",
-      "question_eng": "Even though the ticket price was expensive, but many people bought them _______.",
+      "question_chi": "選擇最適當的詞語完成對比子句",
+      "question_eng": "Whereas traditional stores require customers to visit in person, online shopping _______.",
       "options": [
         {
           "key": "A",
-          "text": "immediately"
+          "text": "offers convenience from home"
         },
         {
           "key": "B",
-          "text": "anyway"
+          "text": "while offers convenience from home"
         },
         {
           "key": "C",
-          "text": "instead"
+          "text": "whereas offers convenience from home"
         },
         {
           "key": "D",
-          "text": "however"
-        }
-      ],
-      "answer": "B",
-      "explanation": "正確答案是 anyway（B）。但題目句結構有誤，不能同時使用 even though 與 but。應修改為「Even though the ticket price was expensive, many people bought them anyway.」或「Because the ticket price was expensive, but many people bought them anyway.」A/C/D 雖都是副詞但不符語境。需要 anyway 來補充讓步意味。",
-      "id": 2
-    },
-    {
-      "question_chi": "選擇適當選項，並考量 although 與 even though 語氣的差異",
-      "question_eng": "_______ the heavy rain, the construction work was not delayed at all.",
-      "options": [
-        {
-          "key": "A",
-          "text": "Even though"
-        },
-        {
-          "key": "B",
-          "text": "Although"
-        },
-        {
-          "key": "C",
-          "text": "Despite of"
-        },
-        {
-          "key": "D",
-          "text": "In spite though"
+          "text": "during offers convenience from home"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 Even though（A）。句子強調「儘管下大雨這個相當不利的情況，工程仍未延誤」，even though 語氣最強，強調對比性。Although 也可用但語氣較弱。C 項 Despite of 錯誤（應為 Despite）；D 項 In spite though 非正確搭配。句型需要連接詞引導完整子句。",
-      "id": 3
+      "explanation": "對比句型中，Whereas 引導第一個子句後，第二個子句無需再加連接詞，直接呈現完整主述語即可。選項 B、C 重複使用連接詞，文法錯誤。選項 D 語義不當。",
+      "id": 2
     },
     {
-      "question_chi": "綜合應用：正確使用讓步子句，辨別複句結構與語法",
-      "question_eng": "Though he had received several job offers from prestigious companies, he decided to _______ for further education instead of starting work immediately.",
+      "question_chi": "判斷空格應填入之對比連接詞，注意正式程度",
+      "question_eng": "_______ the younger generation values digital innovation and speed, the older generation treasures proven methods and stability.",
       "options": [
         {
           "key": "A",
-          "text": "apply because of his strong academic background"
+          "text": "While"
         },
         {
           "key": "B",
-          "text": "pursue his master's degree"
+          "text": "Whereas"
         },
         {
           "key": "C",
-          "text": "although his family disagreed with this choice"
+          "text": "Although"
         },
         {
           "key": "D",
-          "text": "so that he could gain more experience"
+          "text": "Because"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B。Though 引導的讓步子句「Though he had received several job offers...」應搭配邏輯清晰的主句動詞及受詞，「pursue his master's degree」完整表達主句意思。A 項不適合作動詞受詞；C 項錯誤（不能加另一個 although 子句）；D 項引入目的但破壞句子原意。題目測試複句結構的完整性與邏輯一致性。",
+      "explanation": "此句具有學術論述風格，比較兩代人的價值觀。Whereas 較正式，適用於論述或對比性的學術寫作。While 也可表對比但較不正式。Although 表讓步非對比。Because 表因果不表對比。Whereas 最符合語境。",
+      "id": 3
+    },
+    {
+      "question_chi": "完成對比子句，需判斷連接詞位置和主述語完整性",
+      "question_eng": "While manufacturing jobs have declined in developed nations, _______ in emerging economies continue to expand rapidly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "they"
+        },
+        {
+          "key": "B",
+          "text": "whereas they"
+        },
+        {
+          "key": "C",
+          "text": "such jobs"
+        },
+        {
+          "key": "D",
+          "text": "while they"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一個子句由 While 引導，第二個子句應獨立成主述結構，無需重複連接詞。「Such jobs」作主詞明確指稱製造業工作，避免代詞模糊。選項 B、D 在句子中段不適合再用連接詞。選項 A 的代詞缺乏明確先行詞。選項 C 語意清晰、邏輯嚴密。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "雖然這部電影很長，但我還是很享受。",
-      "answer": "Although the movie is long, I still enjoyed it.",
+      "sentence_chi": "姊姊喜歡安靜地讀書，反之弟弟喜歡邊聽音樂邊讀書。",
+      "answer": "While my sister prefers to study in silence, my brother likes to study while listening to music.",
       "key_points": [
-        "Although + S + V 句首位置",
-        "主句與讓步子句不用 but",
-        "still 強調轉折對比"
+        "While 表對比，不表時間",
+        "prefers to study in silence（喜歡安靜讀書）",
+        "完整的對比主子句結構"
       ],
       "hints": [
-        "提示1：Although 置於句首，後接讓步子句（主詞 + 動詞），逗號分隔主句",
-        "提示2：避免寫成 Although the movie is long, but I still enjoyed it.（雙連接詞錯誤）"
+        "提示1：While + S + V, S + V 結構，前後兩子句形成鮮明對比",
+        "提示2：注意 While 在此不表「當...時」，而是「相比之下」或「反之」"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "儘管昨晚睡眠不足，他今天的考試成績仍然很好。",
-      "answer": "Though he didn't get enough sleep last night, he still performed well on today's exam.",
+      "sentence_chi": "台北的生活節奏很快，而台東的生活步調相對緩慢。",
+      "answer": "Whereas life in Taipei moves at a fast pace, life in Taitung is relatively slow.",
       "key_points": [
-        "though 置於句首的靈活用法",
-        "過去式 didn't get 與 performed 時態一致",
-        "仍然對比的邏輯連接"
+        "Whereas 用於正式對比",
+        "move at a fast pace（快節奏）",
+        "relatively slow（相對緩慢）"
       ],
       "hints": [
-        "提示1：Though 與 although 意義相同，但 though 更具靈活性，可放句首或句尾",
-        "提示2：注意讓步子句與主句時態搭配（過去式對應過去式），avoid 'but'"
+        "提示1：Whereas 比 While 正式，常用於比較兩地或兩群體的差異，結構為 Whereas + S + V, S + V",
+        "提示2：Whereas 後接完整子句，須包含動詞；避免使用 Whereas + 名詞片語"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "即使她沒有豐富的工作經驗，她仍然成功地獲得了那份實習機會。",
-      "answer": "Even though she didn't have abundant work experience, she still successfully obtained the internship opportunity.",
+      "sentence_chi": "有些學生靠自律完成功課，而另一些學生則需要父母的督促才能專心讀書。",
+      "answer": "While some students complete their homework through self-discipline, others need parental supervision to concentrate on their studies.",
       "key_points": [
-        "even though 語氣最強，強調事實對比",
-        "didn't have 與 obtained 過去式呼應",
-        "副詞 successfully 修飾動詞"
+        "While 連接兩個對比的學生群體",
+        "through self-discipline（透過自律）",
+        "parental supervision（父母督促）",
+        "相反或相對的描述"
       ],
       "hints": [
-        "提示1：Even though 用於強調兩事實對比最為明顯，適合高考對比性題目",
-        "提示2：避免在讓步子句與主句間使用 but；注意 abundant/rich experience 等高級詞彙選擇"
+        "提示1：While + S + V, S + V 結構，兩個子句呈現相反或相對的特性",
+        "提示2：注意 some...others 的配對用法，強化對比效果；While 此時純粹表對比，不涉及時間關係"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "雖然社群媒體能讓人保持聯繫，但它也帶來了許多心理健康問題，年輕人仍然花費大量時間在上面。",
-      "answer": "Although social media enables people to stay connected, it also brings about many mental health issues; yet young people still spend considerable time on it.",
+      "sentence_chi": "傳統教育強調死記硬背和標準答案，然而現代教育卻著重於培養學生的創意思維和問題解決能力。",
+      "answer": "Whereas traditional education emphasizes rote memorization and standardized answers, modern education focuses on cultivating students' creative thinking and problem-solving abilities.",
       "key_points": [
-        "複雜讓步結構：讓步子句與兩個對比主句",
-        "分號連接兩個獨立主句",
-        "yet / still 強化轉折邏輯"
+        "Whereas 用於正式論述的對比",
+        "emphasize rote memorization and standardized answers（強調死記硬背和標準答案）",
+        "focus on cultivating...abilities（著重於培養...能力）",
+        "兩個完整獨立子句的對稱結構"
       ],
       "hints": [
-        "提示1：該句涉及多層次對比（利弊並陳再轉折），讓步子句後可接多個主句展現複雜邏輯",
-        "提示2：避免重複使用 but；可用分號分隔多個對等主句，或用 yet/still 加強轉折力度；注意 brings about（帶來）與 spend time on（花時間）等搭配用法"
+        "提示1：Whereas + S + V, S + V 結構，適用於論述性文章或正式比較；注意兩個子句的詞彙和結構應力求對稱，以增強對比效果",
+        "提示2：避免混淆 While 和 Whereas 的正式程度差異；此題因涉及教育制度的正式比較，應優先選用 Whereas 而非 While"
       ]
     }
   ]

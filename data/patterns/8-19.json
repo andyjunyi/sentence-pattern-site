@@ -1,358 +1,361 @@
 {
   "code": "8-19",
   "chapter": 8,
-  "title": "not only... but (also)...（連接詞組）",
+  "title": "S + V + now that + S + V",
   "formulas": [
     {
-      "formula": "not only A but (also) B",
-      "zh": "不僅A而且B；連接相同詞性的成分，強調B比A更重要"
+      "formula": "Now that + S + V, S + V",
+      "zh": "既然……（現在情況已成立），……；強調現在已成立的原因或背景"
     },
     {
-      "formula": "Not only + 助動詞 + S + V..., but (also) + S + V...",
-      "zh": "置於句首時，主句採倒裝語序，強調句子的強烈對比"
+      "formula": "Now that + S + V, S + will/can/should + V",
+      "zh": "既然……（現在情況已成立），……就能/應該……"
     }
   ],
-  "explanation": "not only...but also用於連接具相同詞性的語法成分（名詞、動詞、形容詞等），強調兩項事物都成立且後者更重要。當置於句首時，主句必須倒裝，即助動詞提前至主詞之前。此句型常見於學測，用於強調複合訊息。注意：but also中的also可省略，but 必須保留；倒裝時需確認主詞與動詞時態一致；不能與單純的and混淆。",
+  "explanation": "Now that 為從屬連詞，引導原因狀語從句，表達「既然現在已成立的事實或情況」。相比 since 和 because，now that 更強調當下已成立的新情況，帶有「既然如此」的立即反應語氣。從句中的動詞通常用過去完成式或現在完成式，表示該情況已發生或已確立。主句則可用各種時態。此句型常見於正式或中等嚴肅的語境。",
   "examples": [
     {
       "id": 1,
-      "eng": "Not only did he finish the project, but he also exceeded all expectations.",
-      "chi": "他不僅完成了這個專案，而且超越了所有人的期望。",
+      "eng": "Now that you have graduated, you can finally pursue your dream job.",
+      "chi": "既然你已經畢業了，你終於可以追求你理想的工作。",
       "keywords": [
-        "倒裝結構",
-        "過去式",
-        "強調"
+        "Now that",
+        "已完成的情況",
+        "結果導向"
       ]
     },
     {
       "id": 2,
-      "eng": "This book is not only educational but also highly entertaining for readers.",
-      "chi": "這本書不僅具教育意義，而且對讀者來說也相當有趣。",
+      "eng": "Now that the project is completed, we should celebrate our team's hard work.",
+      "chi": "既然專案已完成，我們應該慶祝團隊的辛勞。",
       "keywords": [
-        "形容詞連接",
-        "平行結構"
+        "Now that",
+        "現狀確立",
+        "後續行動"
       ]
     },
     {
       "id": 3,
-      "eng": "Not only does she speak English fluently, but she also masters three other languages.",
-      "chi": "她不僅英文說得流利，而且還精通其他三種語言。",
+      "eng": "Now that climate change is a serious global issue, governments must take immediate action.",
+      "chi": "既然氣候變遷已成為嚴重的全球問題，政府必須立即採取行動。",
       "keywords": [
-        "倒裝",
-        "現在式",
-        "能力強調"
+        "Now that",
+        "客觀事實",
+        "必然結論"
       ]
     },
     {
       "id": 4,
-      "eng": "The program benefits not only the students but also the teachers and parents.",
-      "chi": "這個計畫不僅造福學生，而且也造福教師和家長。",
+      "eng": "Now that you understand the rules, you should follow them without hesitation.",
+      "chi": "既然你現在理解了規則，你應該毫不猶豫地遵守它們。",
       "keywords": [
-        "名詞連接",
-        "多方受益"
+        "Now that",
+        "認知達成",
+        "期望行為"
       ]
     }
   ],
-  "adj_table_for": [
-    {
-      "adj": "talented",
-      "zh": "有才華的"
-    },
-    {
-      "adj": "intelligent",
-      "zh": "聰慧的"
-    },
-    {
-      "adj": "hardworking",
-      "zh": "勤奮的"
-    },
-    {
-      "adj": "beneficial",
-      "zh": "有益的"
-    },
-    {
-      "adj": "challenging",
-      "zh": "具挑戰性的"
-    },
-    {
-      "adj": "creative",
-      "zh": "富創意的"
-    },
-    {
-      "adj": "reliable",
-      "zh": "可靠的"
-    },
-    {
-      "adj": "essential",
-      "zh": "必要的"
-    },
-    {
-      "adj": "innovative",
-      "zh": "創新的"
-    },
-    {
-      "adj": "effective",
-      "zh": "有效的"
-    },
-    {
-      "adj": "comprehensive",
-      "zh": "全面的"
-    },
-    {
-      "adj": "remarkable",
-      "zh": "傑出的"
-    }
-  ],
+  "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "句首倒裝時務必確認：(1)助動詞必須前置於主詞；(2)主詞後的動詞應使用原形（do/does/did）；(3)but also後的主詞若與前面不同，需重複或代詞指代。平時應將倒裝結構與原序結構相互轉換練習。",
+    "tip": "Now that 與 since/because 的區別在於強調時間點。Now that 表「既然現狀如此」，暗示新情況已發生；since 則較中立的原因說明；because 則表邏輯因果。判斷時留意從句是否強調「已成立」的新現狀，而非單純的理由。",
     "examples": [
       {
-        "test": "❌ Not only he finished the work, but he also helped others.",
-        "result": "→ ✓ Not only did he finish the work, but he also helped others.（助動詞did必須前置）"
+        "test": "Now that we have the funding, we can start the research project.",
+        "result": "→ 正確。強調資金已到位這個新現狀，由此引出可以開始的結論"
       },
       {
-        "test": "❌ She is not only hardworking and also talented.",
-        "result": "→ ✓ She is not only hardworking but also talented.（必須用but，不用and）"
+        "test": "Now that it is raining, let's stay home instead.",
+        "result": "→ 正確。強調當下已下雨的現狀，引出立即調整的決定"
       },
       {
-        "test": "✓ Not only are the flowers beautiful, but they also bloom year-round.",
-        "result": "→ 現在式倒裝，助動詞are前置，主詞flowers後接動詞原形"
+        "test": "Now that he was tired, he went to bed early.",
+        "result": "→ 不妥。過去式不適合 now that；應改為 Since he was tired 或 Because he was tired"
       }
     ],
-    "note": "置句首倒裝：『助動詞提前，主詞隨後，動詞變原形』；平序連接則『名詞/形容詞/動詞對應，but也必須用』。"
+    "note": "Now that 用於強調現在已成立的新情況，從句優先用現在完成式或現在簡單式。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Not only ",
+        "Now that you ",
         null,
-        " she master Chinese, but she also speaks Japanese fluently."
+        " your degree, you should start looking for a job."
       ],
       "blanks": [
-        "does"
+        "have completed / have received"
       ],
-      "sentence": "Not only does she master Chinese, but she also speaks Japanese fluently.",
-      "translation": "她不僅掌握中文，而且還能流利地說日文。",
+      "sentence": "Now that you have completed your degree, you should start looking for a job.",
+      "translation": "既然你已完成學位，你應該開始找工作。",
       "keywords": [
-        "倒裝",
-        "助動詞does",
-        "語言技能"
+        "Now that",
+        "現在完成式",
+        "後續期望"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "This project is ",
+        "Now that the contract ",
         null,
-        " challenging but also rewarding for the team."
+        ", both parties can proceed with confidence."
       ],
       "blanks": [
-        "not only"
+        "has been signed / is signed"
       ],
-      "sentence": "This project is not only challenging but also rewarding for the team.",
-      "translation": "這個專案不僅對團隊具挑戰性，而且也很有回報。",
+      "sentence": "Now that the contract has been signed, both parties can proceed with confidence.",
+      "translation": "既然合約已簽署，雙方可以有信心地推進。",
       "keywords": [
-        "平序結構",
-        "形容詞連接",
-        "but also"
+        "Now that",
+        "被動語態",
+        "行動開展"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Not only ",
         null,
-        " the concert impressive, but it also raised awareness for charity."
+        " you understand the importance of health, you must adopt better lifestyle habits."
       ],
       "blanks": [
-        "was"
+        "Now that"
       ],
-      "sentence": "Not only was the concert impressive, but it also raised awareness for charity.",
-      "translation": "音樂會不僅令人印象深刻，而且還為慈善事業提升了認知。",
+      "sentence": "Now that you understand the importance of health, you must adopt better lifestyle habits.",
+      "translation": "既然你現在理解健康的重要性，你必須養成更好的生活習慣。",
       "keywords": [
-        "倒裝",
-        "was",
-        "過去式"
+        "Now that",
+        "認知確立",
+        "必然行動"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The new policy benefits not only employees ",
+        "Now that the technology ",
         null,
-        " also the company's reputation."
+        ", companies can reduce production costs significantly."
       ],
       "blanks": [
-        "but"
+        "has been developed / has become available"
       ],
-      "sentence": "The new policy benefits not only employees but also the company's reputation.",
-      "translation": "新政策不僅使員工受益，而且也提升了公司的聲譽。",
+      "sentence": "Now that the technology has been developed, companies can reduce production costs significantly.",
+      "translation": "既然技術已經研發出來，公司可以大幅降低生產成本。",
       "keywords": [
-        "名詞連接",
-        "but也必須用",
-        "平行結構"
+        "Now that",
+        "事實確認",
+        "能力實現"
       ]
     }
   ],
+  "vocab_table": [
+    {
+      "adj": "graduate",
+      "zh": "畢業"
+    },
+    {
+      "adj": "complete",
+      "zh": "完成"
+    },
+    {
+      "adj": "know / understand",
+      "zh": "知道／理解"
+    },
+    {
+      "adj": "have",
+      "zh": "有機會"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生"
+    },
+    {
+      "adj": "become clear",
+      "zh": "變明確"
+    },
+    {
+      "adj": "establish",
+      "zh": "確立"
+    },
+    {
+      "adj": "can / should / must",
+      "zh": "能夠／應該／必須"
+    },
+    {
+      "adj": "no longer",
+      "zh": "不再"
+    },
+    {
+      "adj": "finally",
+      "zh": "終於"
+    },
+    {
+      "adj": "immediately / at once",
+      "zh": "立即"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適合的連接詞組，完成句子",
-      "question_eng": "This restaurant is _______ delicious _______ affordable for families.",
+      "question_chi": "選擇最適合的連詞和動詞時態組合",
+      "question_eng": "_______ you have finished your homework, you can go out to play with your friends.",
       "options": [
         {
           "key": "A",
-          "text": "not only / but also"
+          "text": "Now that"
         },
         {
           "key": "B",
-          "text": "not only / and"
+          "text": "Because of"
         },
         {
           "key": "C",
-          "text": "both / and"
+          "text": "Although"
         },
         {
           "key": "D",
-          "text": "not only / or"
+          "text": "Unless"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是A。not only...but also用於連接相同詞性的成分（此處為形容詞delicious和affordable），強調兩項特點都成立。B錯誤因為but也是必須保留的連接詞；C的both...and雖可連接形容詞，但無法表達「後者更重要」的強調效果；D的or表示選擇關係，語意不符。",
+      "explanation": "正確答案是 A。『Now that』是從屬連詞，引導原因狀語從句，表示「既然現在已完成的事實」，強調當下已成立的情況。B 項『Because of』後需接名詞，不能接完成式句子。C 項『Although』表「雖然」，邏輯不符。D 項『Unless』表「除非」，語義相反。",
       "id": 1
     },
     {
-      "question_chi": "句首倒裝結構，選擇正確的助動詞與語序",
-      "question_eng": "Not only _______ the students understand the concept, _______ the teachers were impressed by their progress.",
+      "question_chi": "選擇正確的句型結構和主句動詞",
+      "question_eng": "Now that the company has received the investment, it _______ expand its business operations next year.",
       "options": [
         {
           "key": "A",
-          "text": "did / but also"
+          "text": "will be able to"
         },
         {
           "key": "B",
-          "text": "do / but"
+          "text": "has been able to"
         },
         {
           "key": "C",
-          "text": "did / and"
+          "text": "would be able to"
         },
         {
           "key": "D",
-          "text": "do / but also"
+          "text": "is being able to"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是A。當not only置於句首時，主句須倒裝，助動詞did應提前至主詞students之前，表過去時態。but also是正確的連接詞組。B的do與過去文脈不符；C的and無法連接兩個獨立子句且不符not only句型；D的do時態錯誤。",
+      "explanation": "正確答案是 A。『Now that』從句用完成式表示已確立的事實，主句應用未來式『will be able to』表示隨之而來的結果。B 項現在完成式不符合「次年擴展」的未來時間。C 項『would』帶有虛擬或推測意味，不適合確定的推論。D 項『is being able to』用法不當。",
       "id": 2
     },
     {
-      "question_chi": "複雜句型與時態搭配，辨別正確的倒裝與連接",
-      "question_eng": "Not only _______ she completed the assignment ahead of schedule, _______ she also provided innovative solutions that impressed the entire team.",
+      "question_chi": "判斷從句時態和連詞搭配的正確性",
+      "question_eng": "_______ the government has implemented the new environmental policy, citizens _______ take more responsibility for protecting nature.",
       "options": [
         {
           "key": "A",
-          "text": "has / but"
+          "text": "Since / should"
         },
         {
           "key": "B",
-          "text": "did / but also"
+          "text": "Now that / should"
         },
         {
           "key": "C",
-          "text": "would / but"
+          "text": "Although / will"
         },
         {
           "key": "D",
-          "text": "does / but also"
+          "text": "Because / might"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是B。句子使用過去式（completed）表過去事件，倒裝時助動詞應為did。連接詞組必須用but also（also可省略為but，但此處保留更完整）。A的has與過去事件不符；C的would表推測，語意不當；D的does時態與前文不一致，且句中已有also不應重複。",
+      "explanation": "正確答案是 B。『Now that』強調「既然政策已推行這個新情況」，搭配『should』表示應有的責任反應，更符合「立即反應新情況」的語氣。A 項『Since』較中立，不如『Now that』強調新情況的即時感。C 項『Although』表讓步，邏輯錯誤。D 項『Because』後不應接完成式。",
       "id": 3
     },
     {
-      "question_chi": "進階題：多層次連接與詞性混合的精確應用",
-      "question_eng": "The documentary _______ reveals hidden truths _______ challenges viewers' preconceptions is not only _______ compelling but also _______ thought-provoking.",
+      "question_chi": "在複雜句式中正確應用 now that 句型",
+      "question_eng": "Now that we have secured funding for the research project, _______ we should focus on recruiting experienced scientists and establishing a proper timeline for each phase of the study.",
       "options": [
         {
           "key": "A",
-          "text": "that / and / extremely / genuinely"
+          "text": "it is crucial that"
         },
         {
           "key": "B",
-          "text": "which / but / deeply / truly"
+          "text": "there is no doubt that"
         },
         {
           "key": "C",
-          "text": "that / and / quite / absolutely"
+          "text": "it remains uncertain whether"
         },
         {
           "key": "D",
-          "text": "which / or / highly / rather"
+          "text": "we cannot ignore the fact that"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是A。第一空用that引導限制性關係子句；第二空用and連接兩個並列動詞短語（reveals和challenges）；第三、四空用副詞（extremely和genuinely）修飾形容詞，搭配not only...but also強調兩個特質。B的but無法連接動詞短語；C的quite無法與incredibly級副詞等效搭配；D的or表選擇，which引導非限制性子句皆不符。",
+      "explanation": "正確答案是 A。『Now that』引導已確立的新情況（獲得資金），主句應表達基於此情況的必要行動。『it is crucial that』（關鍵是）最能表達隨之而來的重要結果。B 項『no doubt』過於肯定且冗餘。C 項『uncertain』與『Now that』的確定性衝突。D 項『cannot ignore』用法生硬，不如 A 項自然流暢。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "這部電影不僅很有趣，而且還很感人。",
-      "answer": "Not only is this movie entertaining, but (also) it is very touching.",
+      "sentence_chi": "既然你已經畢業了，你應該為自己的未來做計畫。",
+      "answer": "Now that you have graduated, you should make a plan for your future.",
       "key_points": [
-        "Not only + 助動詞 is + 主詞 倒裝結構",
-        "形容詞 entertaining 和 touching 的對等連接",
-        "but (also) 後接完整子句"
+        "Now that + 現在完成式（have graduated）",
+        "主句用 should + V",
+        "for your future 表目的"
       ],
       "hints": [
-        "提示1：句首 not only 須倒裝，助動詞 is 提前至主詞 movie 之前",
-        "提示2：also 可省略但 but 不可省；兩個形容詞詞性相同"
+        "提示1：從句用現在完成式表示已完成的事實，主句用 should 表示建議",
+        "提示2：注意不要寫成 Now that you graduated（過去簡單式在此不適當）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "這位老師不僅講課有趣，而且對學生很有耐心。",
-      "answer": "Not only does this teacher teach in an entertaining way, but (also) she is very patient with students.",
+      "sentence_chi": "既然他們已經完成了報告，他們可以專注於下一個項目。",
+      "answer": "Now that they have completed the report, they can focus on the next project.",
       "key_points": [
-        "助動詞 does 與現在簡單式的倒裝搭配",
-        "講課方式和耐心的不同詞性成分（短語 vs 形容詞）",
-        "but (also) 子句時態與主句一致"
+        "Now that + 現在完成式（have completed）",
+        "主句用 can + V 表能力/可能性",
+        "focus on 表集中於"
       ],
       "hints": [
-        "提示1：句首 not only 使用助動詞 does 倒裝，原句型為 'does teach'",
-        "提示2：注意時態一致性；also 可省略；兩個述述內容應具邏輯遞進"
+        "提示1：『既然...已經』強調新情況已成立，從句需用完成式",
+        "提示2：主句的 can 不能改為 could，因為表示現在的可能性，不是假設過去"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "參加這個研習營不僅能學到新知識，而且還能培養領導能力。",
-      "answer": "Not only can students gain new knowledge in this workshop, but (also) they can develop leadership skills.",
+      "sentence_chi": "既然班費已經收齊了，我們就可以開始籌劃班級旅遊，同學們都會很開心。",
+      "answer": "Now that the class fees have been collected, we can start planning the class trip, and all classmates will be very happy.",
       "key_points": [
-        "助動詞 can 的倒裝應用於能力表述",
-        "能學到新知識和培養領導能力的對等動詞短語",
-        "主詞 students/they 代詞一致性"
+        "Now that + 現在完成被動式（have been collected）",
+        "主句用 can + V",
+        "並列句結構（and + 主句延伸）"
       ],
       "hints": [
-        "提示1：句首 not only 後接助動詞 can + 主詞 students，原句型為 'can gain'",
-        "提示2：but (also) 後的主詞代詞應與主句主詞相同；兩個動詞短語須對等"
+        "提示1：被動語態 have been collected 表示費用已被收齊這一既成事實",
+        "提示2：『既然』帶有立即反應感，所以主句用 can/will，不應用 could/would"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "去年的經濟衰退不僅影響了企業，而且還對許多家庭的生活造成了困難。",
-      "answer": "Not only did last year's economic recession affect businesses, but (also) it caused difficulties in the lives of many families.",
+      "sentence_chi": "既然學校已經實施新的課程改革，學生應該適應不同的教學方式，而教師也需要更新他們的教學策略。",
+      "answer": "Now that the school has implemented the new curriculum reform, students should adapt to different teaching methods, and teachers also need to update their teaching strategies.",
       "key_points": [
-        "助動詞 did 與過去簡單式的倒裝結構",
-        "affect businesses 和 caused difficulties 的對等過去式動詞",
-        "複雜主詞 'last year's economic recession' 的倒裝位置"
+        "Now that + 現在完成式（has implemented）",
+        "主句用 should + V 和 need to + V 的並列結構",
+        "adapt to / update 的目標賓語搭配"
       ],
       "hints": [
-        "提示1：句首 not only 搭配助動詞 did 倒裝，原句型為 'did affect'；主詞置於助動詞之後",
-        "提示2：but (also) 接同一時態的過去式；注意複雜主詞的位置；also 可省略但 but 必保留"
+        "提示1：複雜句中，Now that 從句引導整個原因背景，可連接兩個或多個主句結果",
+        "提示2：注意動詞時態一致性：from句已完成（have implemented），主句表現在或將來的應對（should/need）"
       ]
     }
   ]

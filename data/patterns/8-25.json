@@ -1,361 +1,366 @@
 {
   "code": "8-25",
   "chapter": 8,
-  "title": "S + V + now that + S + V",
+  "title": "Only + 副詞/子句 + 助動詞 + S + V（only 倒裝）",
   "formulas": [
     {
-      "formula": "Now that + S + V, S + V",
-      "zh": "既然……（現在情況已成立），……；強調現在已成立的原因或背景"
+      "formula": "Only + 副詞/副詞片語 + 助動詞 + S + V",
+      "zh": "只有在...時/經過...後，主詞才會...（副詞修飾引發倒裝）"
     },
     {
-      "formula": "Now that + S + V, S + will/can/should + V",
-      "zh": "既然……（現在情況已成立），……就能/應該……"
+      "formula": "Only + 子句 + 主句倒裝（Only when/after/by + clause, aux + S + V）",
+      "zh": "只有當...時，主詞才會...（時間或條件子句引發倒裝）"
     }
   ],
-  "explanation": "Now that 為從屬連詞，引導原因狀語從句，表達「既然現在已成立的事實或情況」。相比 since 和 because，now that 更強調當下已成立的新情況，帶有「既然如此」的立即反應語氣。從句中的動詞通常用過去完成式或現在完成式，表示該情況已發生或已確立。主句則可用各種時態。此句型常見於正式或中等嚴肅的語境。",
+  "explanation": "Only 修飾副詞、副詞片語或時間/條件子句時，置於句首會引發主句倒裝。倒裝形式為：助動詞提前至主詞之前。此句型常見搭配包括 only then、only when、only after、only by 等。倒裝強調了 only 所修飾成分的限制性和重要性，表示「只有在該條件/時間點」才會發生該動作。注意不能與其他倒裝句混淆，only 修飾主詞時則無倒裝。",
   "examples": [
     {
       "id": 1,
-      "eng": "Now that you have graduated, you can finally pursue your dream job.",
-      "chi": "既然你已經畢業了，你終於可以追求你理想的工作。",
+      "eng": "Only then did we realize the importance of teamwork and cooperation.",
+      "chi": "只有到那時我們才意識到團隊合作的重要性。",
       "keywords": [
-        "Now that",
-        "已完成的情況",
-        "結果導向"
+        "Only then",
+        "did",
+        "倒裝",
+        "時間副詞"
       ]
     },
     {
       "id": 2,
-      "eng": "Now that the project is completed, we should celebrate our team's hard work.",
-      "chi": "既然專案已完成，我們應該慶祝團隊的辛勞。",
+      "eng": "Only when you practice consistently will you improve your English skills.",
+      "chi": "只有當你持續練習時，你的英文能力才會進步。",
       "keywords": [
-        "Now that",
-        "現狀確立",
-        "後續行動"
+        "Only when",
+        "will you",
+        "時間子句",
+        "倒裝"
       ]
     },
     {
       "id": 3,
-      "eng": "Now that climate change is a serious global issue, governments must take immediate action.",
-      "chi": "既然氣候變遷已成為嚴重的全球問題，政府必須立即採取行動。",
+      "eng": "Only after graduation did he understand what his parents had sacrificed.",
+      "chi": "只有在畢業後，他才明白父母所做的犧牲。",
       "keywords": [
-        "Now that",
-        "客觀事實",
-        "必然結論"
+        "Only after",
+        "did he",
+        "時間片語",
+        "完成式"
       ]
     },
     {
       "id": 4,
-      "eng": "Now that you understand the rules, you should follow them without hesitation.",
-      "chi": "既然你現在理解了規則，你應該毫不猶豫地遵守它們。",
+      "eng": "Only by learning from mistakes can we become wiser and more responsible.",
+      "chi": "只有通過從錯誤中學習，我們才能變得更聰慧和負責任。",
       "keywords": [
-        "Now that",
-        "認知達成",
-        "期望行為"
+        "Only by",
+        "can we",
+        "方式介詞片語",
+        "情態動詞"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "Now that 與 since/because 的區別在於強調時間點。Now that 表「既然現狀如此」，暗示新情況已發生；since 則較中立的原因說明；because 則表邏輯因果。判斷時留意從句是否強調「已成立」的新現狀，而非單純的理由。",
+    "tip": "判斷倒裝：Only 後接副詞/片語/子句置句首時必倒裝，助動詞提前。若 only 修飾主詞或受詞則不倒裝。易錯點是忘記倒裝或倒裝形式錯誤。記得時態和助動詞要與原句相符。",
     "examples": [
       {
-        "test": "Now that we have the funding, we can start the research project.",
-        "result": "→ 正確。強調資金已到位這個新現狀，由此引出可以開始的結論"
+        "test": "Only yesterday did I discover this amazing restaurant.",
+        "result": "→ 正確倒裝。Only + 時間副詞在句首，主句倒裝。"
       },
       {
-        "test": "Now that it is raining, let's stay home instead.",
-        "result": "→ 正確。強調當下已下雨的現狀，引出立即調整的決定"
+        "test": "✗ Only I know the secret. (我是唯一知道秘密的人)",
+        "result": "→ Only 修飾主詞「I」，不引發倒裝。保持正常語序。"
       },
       {
-        "test": "Now that he was tired, he went to bed early.",
-        "result": "→ 不妥。過去式不適合 now that；應改為 Since he was tired 或 Because he was tired"
+        "test": "Only if you study hard will you pass the exam.",
+        "result": "→ 正確倒裝。Only if + 條件子句引發主句倒裝。"
       }
     ],
-    "note": "Now that 用於強調現在已成立的新情況，從句優先用現在完成式或現在簡單式。"
+    "note": "Only + 副詞/片語/子句在句首 → 主句倒裝（助動詞前移）；Only 修飾主詞或受詞 → 無倒裝。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "Now that you ",
+        "Only then ",
         null,
-        " your degree, you should start looking for a job."
+        " I understand what true friendship means."
       ],
       "blanks": [
-        "have completed / have received"
+        "did"
       ],
-      "sentence": "Now that you have completed your degree, you should start looking for a job.",
-      "translation": "既然你已完成學位，你應該開始找工作。",
+      "sentence": "Only then did I understand what true friendship means.",
+      "translation": "只有到那時，我才明白真摯友誼的真正含義。",
       "keywords": [
-        "Now that",
-        "現在完成式",
-        "後續期望"
+        "Only then",
+        "過去式倒裝",
+        "助動詞did"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Now that the contract ",
+        "Only when we work together ",
         null,
-        ", both parties can proceed with confidence."
+        " we achieve great success in this project."
       ],
       "blanks": [
-        "has been signed / is signed"
+        "can"
       ],
-      "sentence": "Now that the contract has been signed, both parties can proceed with confidence.",
-      "translation": "既然合約已簽署，雙方可以有信心地推進。",
+      "sentence": "Only when we work together can we achieve great success in this project.",
+      "translation": "只有當我們一起工作時，我們才能在這個項目中取得巨大成功。",
       "keywords": [
-        "Now that",
-        "被動語態",
-        "行動開展"
+        "Only when",
+        "情態動詞倒裝",
+        "can"
       ]
     },
     {
       "id": 3,
       "parts": [
+        "Only after years of hard work and dedication ",
         null,
-        " you understand the importance of health, you must adopt better lifestyle habits."
+        " she become a professional dancer."
       ],
       "blanks": [
-        "Now that"
+        "did"
       ],
-      "sentence": "Now that you understand the importance of health, you must adopt better lifestyle habits.",
-      "translation": "既然你現在理解健康的重要性，你必須養成更好的生活習慣。",
+      "sentence": "Only after years of hard work and dedication did she become a professional dancer.",
+      "translation": "只有經過多年的努力和奉獻，她才成為一名專業舞者。",
       "keywords": [
-        "Now that",
-        "認知確立",
-        "必然行動"
+        "Only after",
+        "過去式倒裝",
+        "時間片語"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Now that the technology ",
+        "Only by reading widely ",
         null,
-        ", companies can reduce production costs significantly."
+        " we expand our knowledge and broaden our horizons."
       ],
       "blanks": [
-        "has been developed / has become available"
+        "can"
       ],
-      "sentence": "Now that the technology has been developed, companies can reduce production costs significantly.",
-      "translation": "既然技術已經研發出來，公司可以大幅降低生產成本。",
+      "sentence": "Only by reading widely can we expand our knowledge and broaden our horizons.",
+      "translation": "只有通過廣泛閱讀，我們才能擴展知識和開闊視野。",
       "keywords": [
-        "Now that",
-        "事實確認",
-        "能力實現"
+        "Only by",
+        "情態動詞倒裝",
+        "方式介詞片語"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "graduate",
-      "zh": "畢業"
+      "adj": "then",
+      "zh": "那時（時間副詞）"
     },
     {
-      "adj": "complete",
-      "zh": "完成"
+      "adj": "when",
+      "zh": "當...時（時間連接詞）"
     },
     {
-      "adj": "know / understand",
-      "zh": "知道／理解"
+      "adj": "after",
+      "zh": "...之後（時間前置詞）"
     },
     {
-      "adj": "have",
-      "zh": "有機會"
+      "adj": "by",
+      "zh": "通過、藉由（方式前置詞）"
     },
     {
-      "adj": "arrive",
-      "zh": "到達"
+      "adj": "realize",
+      "zh": "意識到、了解"
     },
     {
-      "adj": "happen",
-      "zh": "發生"
+      "adj": "practice",
+      "zh": "練習、實踐"
     },
     {
-      "adj": "become clear",
-      "zh": "變明確"
+      "adj": "improve",
+      "zh": "改進、進步"
     },
     {
-      "adj": "establish",
-      "zh": "確立"
+      "adj": "understand",
+      "zh": "理解、明白"
     },
     {
-      "adj": "can / should / must",
-      "zh": "能夠／應該／必須"
+      "adj": "sacrifice",
+      "zh": "犧牲、奉獻"
     },
     {
-      "adj": "no longer",
-      "zh": "不再"
+      "adj": "learn",
+      "zh": "學習、從中吸取教訓"
     },
     {
-      "adj": "finally",
-      "zh": "終於"
+      "adj": "become",
+      "zh": "變成、成為"
     },
     {
-      "adj": "immediately / at once",
-      "zh": "立即"
+      "adj": "achieve",
+      "zh": "達成、實現"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "常用時間副詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適合的連詞和動詞時態組合",
-      "question_eng": "_______ you have finished your homework, you can go out to play with your friends.",
+      "question_chi": "選擇正確的 only 倒裝句型，表示「只有那時」才明白。",
+      "question_eng": "Only then _______ we understand the real meaning of friendship.",
       "options": [
         {
           "key": "A",
-          "text": "Now that"
+          "text": "do"
         },
         {
           "key": "B",
-          "text": "Because of"
+          "text": "did"
         },
         {
           "key": "C",
-          "text": "Although"
+          "text": "we did"
         },
         {
           "key": "D",
-          "text": "Unless"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是 A。『Now that』是從屬連詞，引導原因狀語從句，表示「既然現在已完成的事實」，強調當下已成立的情況。B 項『Because of』後需接名詞，不能接完成式句子。C 項『Although』表「雖然」，邏輯不符。D 項『Unless』表「除非」，語義相反。",
-      "id": 1
-    },
-    {
-      "question_chi": "選擇正確的句型結構和主句動詞",
-      "question_eng": "Now that the company has received the investment, it _______ expand its business operations next year.",
-      "options": [
-        {
-          "key": "A",
-          "text": "will be able to"
-        },
-        {
-          "key": "B",
-          "text": "has been able to"
-        },
-        {
-          "key": "C",
-          "text": "would be able to"
-        },
-        {
-          "key": "D",
-          "text": "is being able to"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是 A。『Now that』從句用完成式表示已確立的事實，主句應用未來式『will be able to』表示隨之而來的結果。B 項現在完成式不符合「次年擴展」的未來時間。C 項『would』帶有虛擬或推測意味，不適合確定的推論。D 項『is being able to』用法不當。",
-      "id": 2
-    },
-    {
-      "question_chi": "判斷從句時態和連詞搭配的正確性",
-      "question_eng": "_______ the government has implemented the new environmental policy, citizens _______ take more responsibility for protecting nature.",
-      "options": [
-        {
-          "key": "A",
-          "text": "Since / should"
-        },
-        {
-          "key": "B",
-          "text": "Now that / should"
-        },
-        {
-          "key": "C",
-          "text": "Although / will"
-        },
-        {
-          "key": "D",
-          "text": "Because / might"
+          "text": "have"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B。『Now that』強調「既然政策已推行這個新情況」，搭配『should』表示應有的責任反應，更符合「立即反應新情況」的語氣。A 項『Since』較中立，不如『Now that』強調新情況的即時感。C 項『Although』表讓步，邏輯錯誤。D 項『Because』後不應接完成式。",
-      "id": 3
+      "explanation": "正確答案是 B「did」。Only 修飾時間副詞 then 置於句首時，引發倒裝，助動詞 did 需提前至主詞 we 之前。整句為：Only then did we understand...。A 項時態錯誤（現在式不符合過去時間）；C 項重複了主詞造成文法錯誤；D 項 have 時態不符。",
+      "id": 1
     },
     {
-      "question_chi": "在複雜句式中正確應用 now that 句型",
-      "question_eng": "Now that we have secured funding for the research project, _______ we should focus on recruiting experienced scientists and establishing a proper timeline for each phase of the study.",
+      "question_chi": "填入正確的倒裝形式，表示「只有堅持練習」才能進步。",
+      "question_eng": "Only by practicing every day _______ you improve your English proficiency.",
       "options": [
         {
           "key": "A",
-          "text": "it is crucial that"
+          "text": "will"
         },
         {
           "key": "B",
-          "text": "there is no doubt that"
+          "text": "you will"
         },
         {
           "key": "C",
-          "text": "it remains uncertain whether"
+          "text": "can"
         },
         {
           "key": "D",
-          "text": "we cannot ignore the fact that"
+          "text": "you can"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。『Now that』引導已確立的新情況（獲得資金），主句應表達基於此情況的必要行動。『it is crucial that』（關鍵是）最能表達隨之而來的重要結果。B 項『no doubt』過於肯定且冗餘。C 項『uncertain』與『Now that』的確定性衝突。D 項『cannot ignore』用法生硬，不如 A 項自然流暢。",
+      "explanation": "正確答案是 A「will」。Only 修飾介詞片語 by practicing every day 置於句首時引發倒裝。助動詞 will 須提前至主詞 you 之前，形成「Only by...+ will + S + V」。B 項主詞重複；C 項 can 需搭配 improve 但文意不當；D 項同樣造成主詞重複。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的 only 子句倒裝句，表示「只有當你成功」才會了解努力的價值。",
+      "question_eng": "Only when you achieve your goal _______ you truly comprehend the value of hard work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "you will"
+        },
+        {
+          "key": "B",
+          "text": "will you"
+        },
+        {
+          "key": "C",
+          "text": "you can"
+        },
+        {
+          "key": "D",
+          "text": "can you"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「will you」。Only 修飾時間子句 when you achieve your goal 置於句首時，主句須倒裝。正確形式為「Only when + clause, + aux + S + V」，即「Only when you achieve your goal will you comprehend...」。A 項無倒裝；C 和 D 項雖有倒裝但助動詞 can 與文意搭配不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的倒裝句，強調「只有在我們承認錯誤後」才能進步。",
+      "question_eng": "Only after we acknowledge our mistakes _______ we able to move forward and grow as individuals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are we"
+        },
+        {
+          "key": "B",
+          "text": "we are"
+        },
+        {
+          "key": "C",
+          "text": "will we be"
+        },
+        {
+          "key": "D",
+          "text": "we will be"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「are we」。Only 修飾時間子句 after we acknowledge our mistakes 置於句首時引發倒裝。主句 be 動詞需提前至主詞之前，形成「Only after + clause, + be + S + adj」。B 項無倒裝；C 和 D 項多加了 will，造成助動詞重複且句式不符。正確句型應為「Only after clause, are we able to...」。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "既然你已經畢業了，你應該為自己的未來做計畫。",
-      "answer": "Now that you have graduated, you should make a plan for your future.",
+      "sentence_chi": "只有認真讀書，你才能通過這次考試。",
+      "answer": "Only by studying hard can you pass this exam.",
       "key_points": [
-        "Now that + 現在完成式（have graduated）",
-        "主句用 should + V",
-        "for your future 表目的"
+        "Only by + V-ing",
+        "助動詞 can 提前",
+        "主詞 you 在助動詞之後"
       ],
       "hints": [
-        "提示1：從句用現在完成式表示已完成的事實，主句用 should 表示建議",
-        "提示2：注意不要寫成 Now that you graduated（過去簡單式在此不適當）"
+        "框架：Only by + 方式 + 助動詞 + S + V",
+        "注意：by 後接動名詞 (V-ing)，不是原形動詞"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "既然他們已經完成了報告，他們可以專注於下一個項目。",
-      "answer": "Now that they have completed the report, they can focus on the next project.",
+      "sentence_chi": "只有在老師的幫助下，小明才能完成這個困難的專題。",
+      "answer": "Only with the teacher's help can Xiaoming complete this difficult project.",
       "key_points": [
-        "Now that + 現在完成式（have completed）",
-        "主句用 can + V 表能力/可能性",
-        "focus on 表集中於"
+        "Only with + N.P.",
+        "助動詞 can 倒裝至主詞前",
+        "介詞片語修飾條件"
       ],
       "hints": [
-        "提示1：『既然...已經』強調新情況已成立，從句需用完成式",
-        "提示2：主句的 can 不能改為 could，因為表示現在的可能性，不是假設過去"
+        "框架：Only + 介詞片語 + 助動詞 + S + V",
+        "注意：介詞片語後直接接助動詞，無需再加逗號後的連接詞"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "既然班費已經收齊了，我們就可以開始籌劃班級旅遊，同學們都會很開心。",
-      "answer": "Now that the class fees have been collected, we can start planning the class trip, and all classmates will be very happy.",
+      "sentence_chi": "只有當你親眼看到，你才會相信這件事的真實性。",
+      "answer": "Only when you see it with your own eyes will you believe the truthfulness of this matter.",
       "key_points": [
-        "Now that + 現在完成被動式（have been collected）",
-        "主句用 can + V",
-        "並列句結構（and + 主句延伸）"
+        "Only when + 時間子句",
+        "主句倒裝：will + S + V",
+        "時間子句用現在簡單式"
       ],
       "hints": [
-        "提示1：被動語態 have been collected 表示費用已被收齊這一既成事實",
-        "提示2：『既然』帶有立即反應感，所以主句用 can/will，不應用 could/would"
+        "框架：Only when + 子句 + 主句倒裝（助動詞 + S + V）",
+        "注意：when 子句用現在式表未來，主句用 will 表示結果"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "既然學校已經實施新的課程改革，學生應該適應不同的教學方式，而教師也需要更新他們的教學策略。",
-      "answer": "Now that the school has implemented the new curriculum reform, students should adapt to different teaching methods, and teachers also need to update their teaching strategies.",
+      "sentence_chi": "只有在她完成所有的家庭作業之後，她的父母才允許她去參加朋友的派對。",
+      "answer": "Only after she finishes all her homework will her parents allow her to attend her friend's party.",
       "key_points": [
-        "Now that + 現在完成式（has implemented）",
-        "主句用 should + V 和 need to + V 的並列結構",
-        "adapt to / update 的目標賓語搭配"
+        "Only after + 時間子句",
+        "主句完全倒裝：will + S + V",
+        "子句中第三人稱單數動詞變化（finishes）"
       ],
       "hints": [
-        "提示1：複雜句中，Now that 從句引導整個原因背景，可連接兩個或多個主句結果",
-        "提示2：注意動詞時態一致性：from句已完成（have implemented），主句表現在或將來的應對（should/need）"
+        "框架：Only after + 時間子句 + 主句倒裝（助動詞 + S + V）",
+        "注意：子句主詞 she 與主句主詞 her parents 不同，倒裝時主詞為主句的主詞"
       ]
     }
   ]
