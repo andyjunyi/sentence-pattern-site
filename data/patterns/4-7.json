@@ -301,5 +301,63 @@
       "explanation": "第一空：discussed 的受詞是關係代名詞（受格），可省略，用 that。第二空：approved 的主詞是關係代名詞（主格），不可省略，用 which。第三空：raised 的受詞是關係代名詞（受格），可省略，用 which。B、C、D 都有主客顛倒或省略判斷錯誤的問題。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這是我昨天買的那本書。",
+      "answer": "This is the book I bought yesterday.",
+      "key_points": [
+        "the book（先行詞）",
+        "I bought（受格省略的關係子句）",
+        "省略了which/that作受詞"
+      ],
+      "hints": [
+        "句型框架：N + (which/that) + S + V，其中受格關係代名詞被省略",
+        "注意：主詞I和動詞bought都要保留，只省略受詞的which/that"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師指派給我們的那份功課很困難。",
+      "answer": "The homework our teacher assigned us was very difficult.",
+      "key_points": [
+        "The homework（先行詞）",
+        "our teacher assigned us（受格省略的關係子句）",
+        "省略了which/that，但S + V結構完整"
+      ],
+      "hints": [
+        "句型框架：N + (which/that) + S + V O，受格代名詞省略後直接接主詞和動詞",
+        "注意：assigned後面要有間接受詞us，表示『指派給我們』"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "媽媽準備的晚餐比我預期的還要豐盛。",
+      "answer": "The dinner my mother prepared was more abundant than I expected.",
+      "key_points": [
+        "The dinner（先行詞）",
+        "my mother prepared（受格省略的關係子句）",
+        "形容詞比較級搭配句型"
+      ],
+      "hints": [
+        "句型框架：N + S + V O + 比較結構，受格代名詞省略不會影響整句邏輯",
+        "注意：『比預期』用than I expected另起比較子句，不要混入關係子句"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "那些社群媒體上傳播的虛假資訊正在誤導許多年輕人。",
+      "answer": "The false information social media spreads is misleading many young people.",
+      "key_points": [
+        "The false information（先行詞）",
+        "social media spreads（受格省略的關係子句）",
+        "現在進行式misleading表動作進行中"
+      ],
+      "hints": [
+        "句型框架：N + S + V O + is V-ing，省略受格代名詞which/that後主詞social media直接接動詞spreads",
+        "注意：不能寫成『social media which spreads』因為which應作主詞而非受詞，此處是省略了『information which』"
+      ]
+    }
   ]
 }

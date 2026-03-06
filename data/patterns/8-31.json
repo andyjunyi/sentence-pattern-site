@@ -305,5 +305,63 @@
       "explanation": "正確答案是 A「are we」。Only 修飾時間子句 after we acknowledge our mistakes 置於句首時引發倒裝。主句 be 動詞需提前至主詞之前，形成「Only after + clause, + be + S + adj」。B 項無倒裝；C 和 D 項多加了 will，造成助動詞重複且句式不符。正確句型應為「Only after clause, are we able to...」。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "只有認真讀書，你才能通過這次考試。",
+      "answer": "Only by studying hard can you pass this exam.",
+      "key_points": [
+        "Only by + V-ing",
+        "助動詞 can 提前",
+        "主詞 you 在助動詞之後"
+      ],
+      "hints": [
+        "框架：Only by + 方式 + 助動詞 + S + V",
+        "注意：by 後接動名詞 (V-ing)，不是原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "只有在老師的幫助下，小明才能完成這個困難的專題。",
+      "answer": "Only with the teacher's help can Xiaoming complete this difficult project.",
+      "key_points": [
+        "Only with + N.P.",
+        "助動詞 can 倒裝至主詞前",
+        "介詞片語修飾條件"
+      ],
+      "hints": [
+        "框架：Only + 介詞片語 + 助動詞 + S + V",
+        "注意：介詞片語後直接接助動詞，無需再加逗號後的連接詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "只有當你親眼看到，你才會相信這件事的真實性。",
+      "answer": "Only when you see it with your own eyes will you believe the truthfulness of this matter.",
+      "key_points": [
+        "Only when + 時間子句",
+        "主句倒裝：will + S + V",
+        "時間子句用現在簡單式"
+      ],
+      "hints": [
+        "框架：Only when + 子句 + 主句倒裝（助動詞 + S + V）",
+        "注意：when 子句用現在式表未來，主句用 will 表示結果"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "只有在她完成所有的家庭作業之後，她的父母才允許她去參加朋友的派對。",
+      "answer": "Only after she finishes all her homework will her parents allow her to attend her friend's party.",
+      "key_points": [
+        "Only after + 時間子句",
+        "主句完全倒裝：will + S + V",
+        "子句中第三人稱單數動詞變化（finishes）"
+      ],
+      "hints": [
+        "框架：Only after + 時間子句 + 主句倒裝（助動詞 + S + V）",
+        "注意：子句主詞 she 與主句主詞 her parents 不同，倒裝時主詞為主句的主詞"
+      ]
+    }
   ]
 }

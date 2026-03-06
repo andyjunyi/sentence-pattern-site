@@ -301,5 +301,63 @@
       "explanation": "正確答案是A「would」。由於後句「he eventually succeeded」表實際結果已發生，此「so that」應理解為結果子句，過去式背景下用「would」表當時的未來。B「will」為現在式；C「might」表可能性；D「can」為現在式，皆不符過去敘事的時態一致性要求。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我每天早起讀英文，以便能在學測中取得好成績。",
+      "answer": "I get up early every day so that I can get a good score on the college entrance exam.",
+      "key_points": [
+        "so that + S + can + V 的完整結構",
+        "get up early（早起）",
+        "college entrance exam（學測）"
+      ],
+      "hints": [
+        "提示1：目的子句使用『so that + S + can + V』，其中 can 表示現在或一般情況下的能力/可能性",
+        "提示2：注意不要寫成 so I can...（缺少主詞），也不要用 will 代替 can"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師把重點寫在黑板上，為的是讓所有學生都能理解這個概念。",
+      "answer": "The teacher writes the key points on the blackboard in order that all students can understand this concept.",
+      "key_points": [
+        "in order that + S + can + V 的目的子句",
+        "key points（重點）",
+        "understand the concept（理解概念）"
+      ],
+      "hints": [
+        "提示1：『in order that』與『so that』意義相同，都表達目的，後面接帶助動詞 can 的完整子句",
+        "提示2：注意『in order that』較正式，在學術或書面英文中較常見；『so that』更口語化"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "許多高中生參加補習班，為的是將來能進入理想的大學。",
+      "answer": "Many high school students attend cram schools so that they will be able to enter their ideal university in the future.",
+      "key_points": [
+        "so that + S + will + V 的未來式目的子句",
+        "attend cram schools（參加補習班）",
+        "will be able to 與 can 的區別（表未來能力）"
+      ],
+      "hints": [
+        "提示1：表達『未來的目的』時使用『so that + S + will + V』，用 will 而非 can 來表示未來的可能性",
+        "提示2：常見錯誤是混淆 can 與 will：can 表一般/現在的能力，will 表未來的動作或狀態；此句著重『進入大學』的未來結果，故用 will"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "政府投入更多資源發展再生能源，以便能夠在2050年前實現碳中和的目標。",
+      "answer": "The government invests more resources in developing renewable energy in order that it can achieve the goal of carbon neutrality before 2050.",
+      "key_points": [
+        "in order that + S + can + V 的完整句型",
+        "invest in + V-ing（投資於...）",
+        "achieve the goal of carbon neutrality（實現碳中和目標）"
+      ],
+      "hints": [
+        "提示1：目的子句與結果子句的區分──此句強調『投資資源的目的是實現碳中和』，屬於『有意圖、計畫的目的』，故用 in order that；若改為『政府投資後，因此能實現碳中和』則為結果，需用 so that with result meaning",
+        "提示2：社會議題類題目需注意時間詞（before 2050）與助動詞的搭配，此處 can achieve 表達未來的可能性"
+      ]
+    }
   ]
 }

@@ -313,5 +313,63 @@
       "explanation": "正確答案是 A 和 C 都語法正確，但選項中 A 正確示範了時間副詞子句置於句首時須加逗號。B 選項缺少逗號，違反規則。C 選項也正確但時間子句置於句末，可無逗號。D 項使用分號不當。A 展現標準句首時間子句的正確標點用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "當我進入教室時，同學們都在討論數學考試。",
+      "answer": "When I entered the classroom, my classmates were discussing the math exam.",
+      "key_points": [
+        "When + S + V（過去簡單式）",
+        "主句用過去進行式 were discussing",
+        "時間點的明確轉換"
+      ],
+      "hints": [
+        "提示1：When表特定時間點，子句用過去簡單式，主句描述該時刻的動作狀態",
+        "提示2：主句應使用過去進行式來表示『正在進行』的動作，而非簡單過去式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "當她在念書的時候，弟弟一直在玩電動遊戲。",
+      "answer": "While she was studying, her younger brother was playing video games.",
+      "key_points": [
+        "While + S + V（過去進行式）",
+        "兩個進行式同時搭配",
+        "對比兩個同時進行的動作"
+      ],
+      "hints": [
+        "提示1：While強調兩個動作同時進行，兩個子句都應使用進行式",
+        "提示2：注意『while + was/were + V-ing』和『was/were + V-ing』的搭配，避免混用簡單過去式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "隨著他對這份工作越來越了解，他變得更有信心。",
+      "answer": "As he became more familiar with the job, he grew more confident.",
+      "key_points": [
+        "As表漸進變化或同步發生",
+        "become familiar with的用法",
+        "比較級 more...more...的結構"
+      ],
+      "hints": [
+        "提示1：As可表示『隨著』或『當...時』，強調動作的漸進性或因果關係",
+        "提示2：避免誤用while或when，因為此處強調的是漸進的過程變化，而非單一時間點或同時進行"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管他努力準備了一個月，但當考試開始時，他還是感到非常緊張。",
+      "answer": "While he had prepared for a month, he felt very nervous when the exam started.",
+      "key_points": [
+        "While表轉折意義『雖然、儘管』",
+        "When表特定時間點『當...時'",
+        "過去完成式 had prepared的使用"
+      ],
+      "hints": [
+        "提示1：此題while用作轉折連詞（非時間連詞），需由上下文判斷；when才是時間副詞子句",
+        "提示2：過去完成式had prepared表示『已經準備完成』，動作發生在主句動作之前；避免混淆while和when的語意與用法"
+      ]
+    }
   ]
 }

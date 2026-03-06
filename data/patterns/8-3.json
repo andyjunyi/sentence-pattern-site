@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A (Even though)。句子敘述已發生的實際困境，強調這些困難未能動搖團隊決心，需用 even though 表陳述事實的讓步。B (even if) 表假設不適；C (although because) 混用讓步與因果會造成重複，文法錯誤；D (though) 較口語，通常置於句尾，句首較少用。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "雖然這部電影很長，但我還是很享受看它。",
+      "answer": "Although/Even though the movie is long, I still enjoyed watching it.",
+      "key_points": [
+        "Although/Even though + S + V",
+        "逗號分隔兩個子句",
+        "still 強調讓步對比"
+      ],
+      "hints": [
+        "提示1：句型結構為『Although/Even though + S + V, S + V』，前半部說明已知事實",
+        "提示2：不可使用 but，因為讓步意義與 but 重複"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "儘管天氣很糟糕，我們的班級旅行仍然進行了。",
+      "answer": "Even though the weather was terrible, our class trip still went ahead.",
+      "key_points": [
+        "Even though 表示已知事實",
+        "went ahead（進行、繼續）",
+        "still 強化讓步關係"
+      ],
+      "hints": [
+        "提示1：Even though 與 although 意義相近，都表示陳述事實，句型位置相同",
+        "提示2：注意時態一致性（過去式 was 搭配 went）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "即使你考試失敗了，你的父母仍然會為你感到驕傲。",
+      "answer": "Even if you fail the exam, your parents will still be proud of you.",
+      "key_points": [
+        "Even if 表示假設情景、非事實",
+        "fail the exam（考試失敗）",
+        "條件句與主句的時態配合"
+      ],
+      "hints": [
+        "提示1：Even if 用於假設狀況，不關心是否真實發生，與 although/even though 的差異在於『真偽性』",
+        "提示2：Even if 後常用現在式表示未來假設，主句用 will + V"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "雖然她沒有正式的工作經驗，但她的學習能力和熱情使她成為一個有價值的團隊成員。",
+      "answer": "Although/Even though she lacks formal work experience, her learning ability and enthusiasm make her a valuable team member.",
+      "key_points": [
+        "lack (缺乏、沒有)",
+        "並列主語 ability and enthusiasm",
+        "make + O + C (使役結構)"
+      ],
+      "hints": [
+        "提示1：句型框架『Although + S + V, S + V』，前後子句內容複雜時仍需清楚標示主述結構",
+        "提示2：注意主詞複數時動詞變化（make 而非 makes），並避免在讓步子句後誤加 but"
+      ]
+    }
   ]
 }

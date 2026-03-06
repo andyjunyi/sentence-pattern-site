@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A（were made）。make 在被動語態中需使用「be made + to V」結構，to work overtime 為不定詞。B（were let）被動形式少見且不自然。C（had made）為主動過去完成式，不符被動語態。D（were having）與 to work overtime 搭配邏輯不通。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師讓我們在課堂上做小組報告。",
+      "answer": "The teacher let us give a group presentation in class.",
+      "key_points": [
+        "let + O + 原形動詞",
+        "us 作受詞",
+        "give 原形不加 to"
+      ],
+      "hints": [
+        "提示1：let 表示『允許』，結構為 let + 人 + 原形動詞",
+        "提示2：常見錯誤是寫成 let us to give 或 let us giving，記住 let 後面必接原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "父母要求我完成功課後才能玩手機。",
+      "answer": "My parents have me finish my homework before I can play with my phone.",
+      "key_points": [
+        "have + O + 原形動詞",
+        "finish 原形動詞",
+        "have 表示『要求或安排』"
+      ],
+      "hints": [
+        "提示1：have 表示『要求、安排或吩咐某人做某事』，結構為 have + 人 + 原形動詞",
+        "提示2：不要寫成 have me to finish 或 have me finished，have 後必接原形動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "那個嚴厲的教練迫使運動員每天訓練五小時。",
+      "answer": "The strict coach makes the athletes train for five hours every day.",
+      "key_points": [
+        "make + O + 原形動詞",
+        "make 表『強制、迫使』",
+        "train 原形動詞，不加 -ing"
+      ],
+      "hints": [
+        "提示1：make 表示『強制或迫使』，結構為 make + 人 + 原形動詞，通常帶有強制意味",
+        "提示2：常見錯誤是寫成 makes the athletes training，記住動詞必須是原形，不能加 -ing 或 to"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學生被迫參加了學校的新舊生交流活動，儘管他們一開始很不願意。",
+      "answer": "The students were made to attend the freshman-senior exchange event at school, although they were reluctant at first.",
+      "key_points": [
+        "be made to V（被動語態）",
+        "made to attend",
+        "make 的被動形式需加 to"
+      ],
+      "hints": [
+        "提示1：make 的被動語態特殊，需要加 to，結構為『be made + to V』，這是唯一加 to 的使役動詞被動",
+        "提示2：常見錯誤是寫成『were made attend』或『were made attending』，make 的被動後必須加 to + 原形動詞"
+      ]
+    }
   ]
 }

@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B（had he received; than）。no sooner...than 倒裝句需用過去完成式 had received + 倒裝語序 had he，主句用過去簡單式。A 選項只用過去式不符倒裝要求；C 選項沒倒裝且用 when 不搭 no sooner；D 選項時態與結構均錯。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我一到家就開始做功課。",
+      "answer": "As soon as I get home, I start doing my homework. / The moment I get home, I start doing my homework.",
+      "key_points": [
+        "As soon as / The moment 引導時間副詞子句",
+        "子句用現在式 get（不用 will get）",
+        "主句用簡單現在式 start"
+      ],
+      "hints": [
+        "句型框架：As soon as / The moment + S + V（現在式），S + V（現在式）",
+        "常見錯誤：子句誤用 will get home，但時間副詞子句中未來事件仍需用現在式表達"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "一旦老師宣布放假，全班同學就歡呼起來。",
+      "answer": "The moment the teacher announces the holiday, the whole class cheers. / Once the teacher announces the holiday, the whole class cheers.",
+      "key_points": [
+        "Once 也可引導時間副詞子句，意同 as soon as",
+        "cheers 搭配 the whole class（集合名詞用單數動詞）",
+        "子句與主句均用現在式"
+      ],
+      "hints": [
+        "句型框架：Once + S + V（現在式），S + V（現在式）",
+        "注意：集合名詞 the whole class 視為單數，動詞用第三人稱單數"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她一看到考試成績就立刻打電話給父母告訴他們好消息。",
+      "answer": "As soon as she sees her exam results, she immediately calls her parents to tell them the good news. / The moment she sees her exam results, she immediately calls her parents to tell them the good news.",
+      "key_points": [
+        "sees 現在式表達未來事件",
+        "immediately 副詞修飾主句動詞 calls",
+        "不定詞片語 to tell them 表目的"
+      ],
+      "hints": [
+        "句型框架：As soon as + S + V（現在式），S + adv. + V（現在式）...",
+        "易錯點：不要在時間副詞子句中使用 will see，即使表未來事件也要用現在式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "他剛一完成報告，主任就召集他進辦公室討論內容。",
+      "answer": "No sooner had he finished the report than the director called him into the office to discuss the content. / Hardly had he finished the report when the director called him into the office to discuss the content.",
+      "key_points": [
+        "No sooner / Hardly 引導倒裝句，語氣比 as soon as 更強",
+        "前子句用過去完成式 had finished",
+        "than / when 後接過去簡單式 called（非倒裝句）"
+      ],
+      "hints": [
+        "倒裝句型框架：No sooner / Hardly + had + S + V（過去分詞）+ than / when + S + V（過去式）",
+        "常見錯誤：倒裝時混淆時態，前半段應用 had + 過去分詞，後半段用過去簡單式；且 no sooner...than、hardly...when 搭配不能互換"
+      ]
+    }
   ]
 }

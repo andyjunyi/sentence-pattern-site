@@ -301,5 +301,63 @@
       "explanation": "正確答案是A「made to」。make改為被動式時必須加to變成be made to V，表「被迫做某事」。B的let被動式不加to，應為「was let」（罕見）；C的had to為情態動詞短語，非被動使役結構；D缺少to，被動式make後必須接to才完整。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師讓學生們在課堂上練習英文對話。",
+      "answer": "The teacher let the students practice English conversation in class.",
+      "key_points": [
+        "let + O + V原形",
+        "practice（不加s）",
+        "in class（時間地點）"
+      ],
+      "hints": [
+        "提示1：let表示『允許』，後接原形動詞，不需加to",
+        "提示2：常見錯誤是讓動詞加-s或加-ing，記住原形即可"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "父母親強迫他每晚做兩小時的功課。",
+      "answer": "His parents made him do two hours of homework every night.",
+      "key_points": [
+        "made + O + V原形",
+        "do homework（做功課）",
+        "every night（時間副詞）"
+      ],
+      "hints": [
+        "提示1：make表示『強迫』，後接原形動詞，注意時態變化（made是過去式）",
+        "提示2：不要寫成『make him to do』，make後絕對不加to（被動式除外）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "經理讓員工在週末加班，導致他們感到疲憊。",
+      "answer": "The manager had the employees work overtime on weekends, which made them feel exhausted.",
+      "key_points": [
+        "have + O + V原形",
+        "work overtime（加班）",
+        "which引導的結果子句"
+      ],
+      "hints": [
+        "提示1：have表示『委託或吩咐』，正式用法，後接原形動詞；make可用於表示『導致』結果",
+        "提示2：『加班』用work overtime，不是『do overtime』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "那位學生被老師強迫寫了一份兩千字的反思報告，因為他在考試中作弊。",
+      "answer": "The student was made to write a two-thousand-word reflection report by his teacher because he cheated on the exam.",
+      "key_points": [
+        "be made to V（被動式加to）",
+        "write a reflection report",
+        "because引導的原因子句"
+      ],
+      "hints": [
+        "提示1：make的被動式必須改為『be made + to V』，這是唯一需要加to的被動式用法",
+        "提示2：注意『作弊』用cheat on the exam，『反思報告』用reflection report；被動式時要加to是本題核心考點"
+      ]
+    }
   ]
 }

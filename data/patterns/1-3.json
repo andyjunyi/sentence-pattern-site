@@ -304,5 +304,65 @@
       "explanation": "正確答案是 B (will take)。主要句 announced 後面的 that 子句應使用未來式 will take，因為是宣布未來計畫。A 項 took 與語境不符；C 項 takes 現在式不符合「未來計畫」；D 項現在完成式表達已完成之事，與「6 個月完成」的未來意圖矛盾。虛主詞 It 的時態須配合實際動作發生的時間。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "完成這份數學功課需要兩個小時。",
+      "answer": "It takes two hours to complete this math homework.",
+      "key_points": [
+        "It takes + 時間",
+        "complete（完成）",
+        "to V 不定詞"
+      ],
+      "hints": [
+        "提示1：虛主詞 It 代替真正主詞 to complete this math homework",
+        "提示2：時間直接放在 takes 後面，不需加 for sb."
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這個專案花了我們三週的時間才完成。",
+      "answer": "It took us three weeks to finish this project.",
+      "key_points": [
+        "It took + 時間 + for sb.（us）",
+        "finish（完成）",
+        "過去式 took"
+      ],
+      "hints": [
+        "提示1：過去事件用 took；for us 表明是誰花費時間",
+        "提示2：不能改寫成 We spent three weeks to finish，spend 後需接 on/in + V-ing"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "要準備大學入學考試，學生需要花費很多錢來補習。",
+      "answer": "It takes a lot of money for students to prepare for the university entrance exam by taking cram courses.",
+      "key_points": [
+        "It takes + 金錢（a lot of money）",
+        "for students（指明對象）",
+        "prepare for（為...做準備）",
+        "cram courses（補習課程）"
+      ],
+      "hints": [
+        "提示1：金錢同樣適用此句型，結構與時間完全相同",
+        "提示2：for students 必須放在動詞與不定詞之間，不可放在句末"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "要掌握一門外語，一個學習者通常需要數年的努力和大量的金錢投入。",
+      "answer": "It takes years of effort and a considerable amount of money for a language learner to master a foreign language.",
+      "key_points": [
+        "It takes + 複合時間/金錢表達",
+        "master（掌握）",
+        "for a language learner（具體身份指示）",
+        "並列結構（years...and...money）"
+      ],
+      "hints": [
+        "提示1：takes 後可接多個時間或金錢單位的複合結構，用 and 連接",
+        "提示2：確保 to V 的邏輯主詞與 for sb. 一致，避免歧義或不合理搭配"
+      ]
+    }
   ]
 }

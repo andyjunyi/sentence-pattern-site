@@ -303,5 +303,63 @@
       "explanation": "正確答案是 C。「in that」用於正式書面語說明具體理由，強調「理由在於……」。A「where」表地點；B「whereby」雖為正式用語但強調方式、手段，後接分詞或動詞不定式；D「in which」為關係副詞，通常指地點。本題測試「in that」在學術文章中的專用地位。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個應用程式很受歡迎，因為它很容易使用。",
+      "answer": "This application is popular in that it is easy to use.",
+      "key_points": [
+        "in that 引導原因從句",
+        "主句：This application is popular",
+        "從句：it is easy to use"
+      ],
+      "hints": [
+        "提示1：結構為『主句 + in that + 完整從句』，in that 後需接完整的 S + V",
+        "提示2：不可省略從句中的主詞 it，也不可用 because 替代以符合「正式書面語」的要求"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這個考試很困難，在於它涵蓋了許多課本外的知識。",
+      "answer": "This exam is difficult in that it covers a lot of knowledge beyond the textbook.",
+      "key_points": [
+        "in that 強調「在於……方面」的正式用法",
+        "主句：This exam is difficult",
+        "從句：it covers a lot of knowledge beyond the textbook"
+      ],
+      "hints": [
+        "提示1：in that 比 because 更正式、更精確，適合學術語境；後接完整從句需含主詞和動詞",
+        "提示2：常見錯誤是將 in that 寫成 in which 或省略從句主詞，應注意 in that 引導原因而非關係"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "網路購物有其優勢，優勢在於消費者可以在家中輕鬆比較不同商品的價格。",
+      "answer": "Online shopping has its advantages in that consumers can easily compare prices of different products at home.",
+      "key_points": [
+        "in that 說明前句抽象概念的具體內容",
+        "主句使用 has its advantages（有其優勢）",
+        "從句：consumers can easily compare prices of different products at home"
+      ],
+      "hints": [
+        "提示1：當主句表達抽象概念（如優勢、特點）時，in that 從句提供具體說明；結構為『S + V + O + in that + S + V + O』",
+        "提示2：注意從句須為完整句型，動詞 can compare 不可簡化；avoid 用 which 或 where 替代 in that"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "社群媒體對年輕世代的影響是複雜的，複雜之處在於它既能促進溝通，也可能導致心理健康問題。",
+      "answer": "The impact of social media on young people is complex in that it can both promote communication and potentially cause mental health problems.",
+      "key_points": [
+        "in that 引導並列從句結構（both...and...）",
+        "主句：The impact of social media on young people is complex",
+        "從句中包含並列複句：it can both promote...and cause..."
+      ],
+      "hints": [
+        "提示1：in that 後的從句可包含複雜結構（如並列句或多個子句），仍需保持完整 S + V 形式；此題展示『S + V + C + in that + S + V + O + and + V + O』的複雜用法",
+        "提示2：常見錯誤包括：(1)在 both 前誤加 in that；(2)省略第二個動詞 cause；(3)誤用 because 而失去正式書面語的效果"
+      ]
+    }
   ]
 }

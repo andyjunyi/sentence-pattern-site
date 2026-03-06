@@ -81,8 +81,7 @@
       "parts": [
         "I prefer ",
         null,
-        " to watching television in my free time.",
-        " "
+        " to watching television in my free time."
       ],
       "blanks": [
         "reading"
@@ -100,12 +99,10 @@
       "parts": [
         "She forgot ",
         null,
-        " her keys at home yesterday.",
-        " "
+        " her keys at home yesterday."
       ],
       "blanks": [
-        "to bring",
-        "to take"
+        "to bring"
       ],
       "sentence": "She forgot to bring her keys at home yesterday.",
       "translation": "她昨天忘記帶鑰匙在家。",
@@ -120,12 +117,10 @@
       "parts": [
         "The children continued ",
         null,
-        " their homework even though it was late.",
-        " "
+        " their homework even though it was late."
       ],
       "blanks": [
-        "doing",
-        "to do"
+        "doing"
       ],
       "sentence": "The children continued doing their homework even though it was late.",
       "translation": "儘管很晚了，孩子們仍繼續做功課。",
@@ -140,12 +135,10 @@
       "parts": [
         "He tried ",
         null,
-        " the engine, but it wouldn't start.",
-        " "
+        " the engine, but it wouldn't start."
       ],
       "blanks": [
-        "to start",
-        "starting"
+        "to start"
       ],
       "sentence": "He tried to start the engine, but it wouldn't start.",
       "translation": "他試圖啟動引擎，但它就是不動。",
@@ -307,6 +300,65 @@
       "answer": "B",
       "explanation": "try + V-ing 表「試著做某事」(嘗試的過程)，符合「她多次嘗試開鎖」的語境。B 正確。A(try to V)強調「努力去做」目標導向；C、D 時態與語境不符。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡在週末看電影。",
+      "answer": "I like watching movies on weekends. / I like to watch movies on weekends.",
+      "key_points": [
+        "like + V-ing / like + to V",
+        "兩種形式意思相同",
+        "週末時間介系詞 on weekends"
+      ],
+      "hints": [
+        "句型框架：S + like + (to V / V-ing) + O",
+        "注意：like 後接動名詞或不定詞均可，意思相同"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她記得曾經參加過那場音樂會。",
+      "answer": "She remembers attending that concert. / She remembers having attended that concert.",
+      "key_points": [
+        "remember + V-ing 表『記得曾經做過』",
+        "過去經驗的回憶",
+        "concert 音樂會"
+      ],
+      "hints": [
+        "句型框架：S + remember + V-ing（表過去已發生的事）",
+        "易錯點：remember + V-ing 強調『曾經發生過』的回憶，不是『要去做』的計畫"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "考試前，他停止玩遊戲，開始複習功課。",
+      "answer": "Before the exam, he stopped playing video games and started reviewing his lessons. / Before the exam, he stopped playing video games and started to review his lessons.",
+      "key_points": [
+        "stop + V-ing 表『停止做某事』",
+        "start / begin + to V / V-ing 皆可",
+        "複習功課 review lessons"
+      ],
+      "hints": [
+        "句型框架：S + stop + V-ing（終止某動作）；S + start/begin + (to V / V-ing)（開始新動作）",
+        "易錯點：stop 後務必用 V-ing，不能用 to V；start/begin 兩種形式都接受"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "老師要求學生記得要繳交作業，但有些學生忘記提交了。他們試著補交，卻停下來思考是否還有時間。",
+      "answer": "The teacher asked students to remember to submit their homework, but some students forgot submitting it. They tried to resubmit, but stopped to think about whether there was enough time.",
+      "key_points": [
+        "remember to V 表『記得要去做』的未來動作",
+        "forget + V-ing 表『忘記曾經做過』",
+        "stop to V 表『停下來去做』新動作",
+        "try to V / try + V-ing 兩者意思略異"
+      ],
+      "hints": [
+        "句型框架：remember to V（未來）vs. forget + V-ing（過去）；stop to V（為了做某事而停止）vs. stop + V-ing（停止做某動作）",
+        "易錯點：remember/forget 後的形式決定時態概念；stop to V 後的動作是『目的』，stop V-ing 後的動作是『被終止的動作』"
+      ]
     }
   ]
 }

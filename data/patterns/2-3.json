@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A。would rather 後接 that 子句時，該子句須用過去式假設語氣 studied，表示對他人行為的期望或假設。B 項 study 是現在式，違反假設語氣規則；C 項缺少 that 和動詞形式混亂；D 項 would prefer 才需 to，且 have studied 時態錯誤。A 項結構完整正確。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我寧願在家讀書也不要去參加派對。",
+      "answer": "I would rather study at home than go to a party.",
+      "key_points": [
+        "would rather + V (原形)",
+        "than + V (原形)",
+        "study at home vs. go to a party"
+      ],
+      "hints": [
+        "提示1：句型框架為『would rather + 原形動詞 + than + 原形動詞』",
+        "提示2：than 後的動詞必須是原形，不可加 to 或改時態"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師寧可學生認真聽講，也不願意他們在課堂上睡覺。",
+      "answer": "The teacher would rather that students listen attentively than that they sleep in class.",
+      "key_points": [
+        "would rather + that + S + V (過去式假設語氣)",
+        "兩個 that 子句的並列結構",
+        "listen attentively / sleep in class"
+      ],
+      "hints": [
+        "提示1：當涉及他人行為時，可使用『would rather that + 主詞 + 動詞』的結構",
+        "提示2：該結構中動詞仍用原形（不是過去式），此為高中假設語氣簡化用法"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "與其花時間在社群媒體上滑手機，我寧願把時間用來運動和與朋友相聚。",
+      "answer": "I would rather spend time exercising and hanging out with friends than scrolling through social media.",
+      "key_points": [
+        "would rather + 複合原形動詞結構",
+        "than + scrolling through social media",
+        "spend time on 活動"
+      ],
+      "hints": [
+        "提示1：『would rather + V1 + than + V2』中，兩個動詞可各自搭配受詞或介詞片語，保持結構平行",
+        "提示2：注意 scrolling 和 spend 都要維持原形或動名詞形式以保持平行結構的一致性"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "如果政府不改變環保政策，我寧願看到年輕一代站出來抗爭，也不願看到他們被迫接受污染的未來。",
+      "answer": "I would rather that the younger generation stand up and protest than that they be forced to accept a polluted future if the government doesn't change its environmental policies.",
+      "key_points": [
+        "would rather + that + S + V (假設語氣)",
+        "複雜句型結構搭配條件子句",
+        "stand up and protest vs. be forced to accept"
+      ],
+      "hints": [
+        "提示1：當表達對他人行為的強烈偏好時，使用『would rather that + 主詞 + 動詞』結構，此時動詞用原形表示假設語氣",
+        "提示2：易錯點在於搞混『虛擬語氣原形』和『過去式假設』——高中階段此處用原形；另外 than that 之後的動詞同樣用原形，不可用 were forced"
+      ]
+    }
   ]
 }

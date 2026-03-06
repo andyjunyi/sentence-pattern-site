@@ -297,5 +297,63 @@
       "explanation": "正確答案是A。第一空用that引導限制性關係子句；第二空用and連接兩個並列動詞短語（reveals和challenges）；第三、四空用副詞（extremely和genuinely）修飾形容詞，搭配not only...but also強調兩個特質。B的but無法連接動詞短語；C的quite無法與incredibly級副詞等效搭配；D的or表選擇，which引導非限制性子句皆不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影不僅很有趣，而且還很感人。",
+      "answer": "Not only is this movie entertaining, but (also) it is very touching.",
+      "key_points": [
+        "Not only + 助動詞 is + 主詞 倒裝結構",
+        "形容詞 entertaining 和 touching 的對等連接",
+        "but (also) 後接完整子句"
+      ],
+      "hints": [
+        "提示1：句首 not only 須倒裝，助動詞 is 提前至主詞 movie 之前",
+        "提示2：also 可省略但 but 不可省；兩個形容詞詞性相同"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這位老師不僅講課有趣，而且對學生很有耐心。",
+      "answer": "Not only does this teacher teach in an entertaining way, but (also) she is very patient with students.",
+      "key_points": [
+        "助動詞 does 與現在簡單式的倒裝搭配",
+        "講課方式和耐心的不同詞性成分（短語 vs 形容詞）",
+        "but (also) 子句時態與主句一致"
+      ],
+      "hints": [
+        "提示1：句首 not only 使用助動詞 does 倒裝，原句型為 'does teach'",
+        "提示2：注意時態一致性；also 可省略；兩個述述內容應具邏輯遞進"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "參加這個研習營不僅能學到新知識，而且還能培養領導能力。",
+      "answer": "Not only can students gain new knowledge in this workshop, but (also) they can develop leadership skills.",
+      "key_points": [
+        "助動詞 can 的倒裝應用於能力表述",
+        "能學到新知識和培養領導能力的對等動詞短語",
+        "主詞 students/they 代詞一致性"
+      ],
+      "hints": [
+        "提示1：句首 not only 後接助動詞 can + 主詞 students，原句型為 'can gain'",
+        "提示2：but (also) 後的主詞代詞應與主句主詞相同；兩個動詞短語須對等"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "去年的經濟衰退不僅影響了企業，而且還對許多家庭的生活造成了困難。",
+      "answer": "Not only did last year's economic recession affect businesses, but (also) it caused difficulties in the lives of many families.",
+      "key_points": [
+        "助動詞 did 與過去簡單式的倒裝結構",
+        "affect businesses 和 caused difficulties 的對等過去式動詞",
+        "複雜主詞 'last year's economic recession' 的倒裝位置"
+      ],
+      "hints": [
+        "提示1：句首 not only 搭配助動詞 did 倒裝，原句型為 'did affect'；主詞置於助動詞之後",
+        "提示2：but (also) 接同一時態的過去式；注意複雜主詞的位置；also 可省略但 but 必保留"
+      ]
+    }
   ]
 }

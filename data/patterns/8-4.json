@@ -299,5 +299,63 @@
       "explanation": "正確答案是 B。Though 引導的讓步子句「Though he had received several job offers...」應搭配邏輯清晰的主句動詞及受詞，「pursue his master's degree」完整表達主句意思。A 項不適合作動詞受詞；C 項錯誤（不能加另一個 although 子句）；D 項引入目的但破壞句子原意。題目測試複句結構的完整性與邏輯一致性。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "雖然這部電影很長，但我還是很享受。",
+      "answer": "Although the movie is long, I still enjoyed it.",
+      "key_points": [
+        "Although + S + V 句首位置",
+        "主句與讓步子句不用 but",
+        "still 強調轉折對比"
+      ],
+      "hints": [
+        "提示1：Although 置於句首，後接讓步子句（主詞 + 動詞），逗號分隔主句",
+        "提示2：避免寫成 Although the movie is long, but I still enjoyed it.（雙連接詞錯誤）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "儘管昨晚睡眠不足，他今天的考試成績仍然很好。",
+      "answer": "Though he didn't get enough sleep last night, he still performed well on today's exam.",
+      "key_points": [
+        "though 置於句首的靈活用法",
+        "過去式 didn't get 與 performed 時態一致",
+        "仍然對比的邏輯連接"
+      ],
+      "hints": [
+        "提示1：Though 與 although 意義相同，但 though 更具靈活性，可放句首或句尾",
+        "提示2：注意讓步子句與主句時態搭配（過去式對應過去式），avoid 'but'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "即使她沒有豐富的工作經驗，她仍然成功地獲得了那份實習機會。",
+      "answer": "Even though she didn't have abundant work experience, she still successfully obtained the internship opportunity.",
+      "key_points": [
+        "even though 語氣最強，強調事實對比",
+        "didn't have 與 obtained 過去式呼應",
+        "副詞 successfully 修飾動詞"
+      ],
+      "hints": [
+        "提示1：Even though 用於強調兩事實對比最為明顯，適合高考對比性題目",
+        "提示2：避免在讓步子句與主句間使用 but；注意 abundant/rich experience 等高級詞彙選擇"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "雖然社群媒體能讓人保持聯繫，但它也帶來了許多心理健康問題，年輕人仍然花費大量時間在上面。",
+      "answer": "Although social media enables people to stay connected, it also brings about many mental health issues; yet young people still spend considerable time on it.",
+      "key_points": [
+        "複雜讓步結構：讓步子句與兩個對比主句",
+        "分號連接兩個獨立主句",
+        "yet / still 強化轉折邏輯"
+      ],
+      "hints": [
+        "提示1：該句涉及多層次對比（利弊並陳再轉折），讓步子句後可接多個主句展現複雜邏輯",
+        "提示2：避免重複使用 but；可用分號分隔多個對等主句，或用 yet/still 加強轉折力度；注意 brings about（帶來）與 spend time on（花時間）等搭配用法"
+      ]
+    }
   ]
 }

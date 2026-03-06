@@ -308,5 +308,63 @@
       "explanation": "Not...but 結構中，謂語與 but 後的主詞 the company's poor management decisions 一致。雖然 decisions 是複數名詞，但作為集合體指「決策」這一概念時，可視為單數。此句使用現在完成式 has been 表示過去發生至現在的結果。A 項複數不符。C、D 項雖為現在式，但無法表達「過去三年」的持續影響。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "英文和數學都是大學入學考試的重要科目。",
+      "answer": "Both English and Mathematics are important subjects for university entrance exams.",
+      "key_points": [
+        "Both...and...",
+        "複數動詞 are",
+        "並列名詞 English and Mathematics"
+      ],
+      "hints": [
+        "提示1：Both A and B 結構中，謂語動詞必須用複數形式",
+        "提示2：不要寫成 'Both English and Mathematics is'，這是常見錯誤"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "不是老師的講解，而是同學的討論幫助了我理解這個概念。",
+      "answer": "Not the teacher's explanation but my classmates' discussion helped me understand this concept.",
+      "key_points": [
+        "Not...but...",
+        "謂語動詞 helped 與 but 後的主詞單複數一致",
+        "所有格 classmates'"
+      ],
+      "hints": [
+        "提示1：Not A but B 中，動詞應與 B 的單複數一致；這裡 discussion 是單數，所以用 helped",
+        "提示2：注意 'classmates' discussion' 要用所有格，且動詞要跟著 discussion（單數）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論是參加社團還是參與志願服務，學生都能培養領導力和責任感。",
+      "answer": "Both joining clubs and participating in volunteer services help students develop leadership and a sense of responsibility.",
+      "key_points": [
+        "Both...and... 連接動名詞",
+        "複數動詞 help",
+        "平行結構的名詞短語"
+      ],
+      "hints": [
+        "提示1：Both A and B 可連接動名詞短語（-ing form），後接複數動詞",
+        "提示2：注意平行結構的對稱性：joining clubs // participating in volunteer services，都用動名詞形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這個社會問題不是由於缺乏政策，而是因為執行不力才導致的。",
+      "answer": "Not the lack of policies but the poor implementation of policies has caused this social problem.",
+      "key_points": [
+        "Not...but... 強調後項",
+        "謂語動詞 has 與單數主詞 implementation 一致",
+        "抽象名詞的複雜結構"
+      ],
+      "hints": [
+        "提示1：Not A but B 句型中，B 是強調的重點；這裡 'the poor implementation' 是單數，所以用 has",
+        "提示2：易錯點是動詞單複數判斷，要看 but 後面的主詞（implementation）而非整句邏輯"
+      ]
+    }
   ]
 }

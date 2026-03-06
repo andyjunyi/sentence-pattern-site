@@ -305,5 +305,63 @@
       "explanation": "正確答案是 B (While)。當 While 子句包含主詞+be 動詞時，可省略 being，形成分詞構句。完整形式為「While being interviewed」，省略後為「While interviewed」。A 選項雖完整但冗長；C 若用 When 在此文脈較不自然；D 選項 As being 在此使用不當，As 後若省略應為 As interviewed。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "當老師進教室時，學生們停止了說話。",
+      "answer": "When the teacher entered the classroom, the students stopped talking.",
+      "key_points": [
+        "When + 過去簡單式",
+        "主子句 + 過去簡單式",
+        "時間點單一（entered）"
+      ],
+      "hints": [
+        "提示1：When表示單一時間點，主子句和時間子句都用過去簡單式",
+        "提示2：注意『停止說話』用 stop talking（動名詞），不要用 stopped to talk"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "當我在做功課的時候，我的弟弟在看電視。",
+      "answer": "While I was doing my homework, my brother was watching TV.",
+      "key_points": [
+        "While + 過去進行式",
+        "兩動作同時進行",
+        "過去進行式（was doing / was watching）"
+      ],
+      "hints": [
+        "提示1：While強調兩動作同時進行，通常搭配過去進行式表達『正在…時』",
+        "提示2：兩個子句都要用進行式表達動作的進行狀態，不能只有一個用進行式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "隨著年齡增長，他變得越來越成熟。（或：當他長大時，他變得越來越成熟。）",
+      "answer": "As he grew older, he became more and more mature. / As he was growing up, he became more and more mature.",
+      "key_points": [
+        "As表示『隨著/正當』",
+        "過去簡單式或進行式",
+        "表示逐漸變化的過程"
+      ],
+      "hints": [
+        "提示1：As可表示同時進行或強調逐漸變化，此題著重時間推移中的變化過程",
+        "提示2：『越來越…』用 more and more + 形容詞，或形容詞比較級 + and + 比較級（如 older and older）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "當被記者採訪時，這位明星保持冷靜，儘管他感到很緊張。",
+      "answer": "While being interviewed by reporters, the celebrity remained calm, although he felt very nervous. / While interviewed by reporters, the celebrity remained calm, although he felt very nervous.",
+      "key_points": [
+        "分詞構句（While being interviewed → While interviewed）",
+        "被動語態",
+        "While子句中be動詞可省略"
+      ],
+      "hints": [
+        "提示1：While子句主詞與主句主詞相同時，可用『While + 過去分詞』簡化，省略being，表被動意義",
+        "提示2：『被…採訪』用 be interviewed by，分詞構句後變成 interviewed by reporters；注意主要子句用 remained（保持）搭配形容詞"
+      ]
+    }
   ]
 }

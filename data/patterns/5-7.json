@@ -301,5 +301,63 @@
       "explanation": "正確答案是 C (had been; were; been)。第一空需過去完成被動 'had been completed'，表示調查在「高管被控」之前已完成。'by the time' 常跟過去完成式。第二空用簡單過去被動 'were charged'，與 'had been' 形成時序對比。A 項第一空 'was' 時態層次不足。B 項句構不完整，缺過去分詞。D 項 'was being' 和 'had been been' 皆不符語法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "昨天我的手機在公車上被偷了。",
+      "answer": "My phone was stolen on the bus yesterday.",
+      "key_points": [
+        "was stolen（過去被動）",
+        "時間副詞 yesterday",
+        "主詞單數搭配 was"
+      ],
+      "hints": [
+        "提示1：主詞 my phone 為單數，故使用 was + p.p.",
+        "提示2：注意不要寫成 My phone stole（主動）或 was stole（分詞錯誤）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這份報告是由我的同學在昨晚完成的。",
+      "answer": "This report was completed by my classmate last night.",
+      "key_points": [
+        "was completed（過去被動）",
+        "by + agent（明確動作執行者）",
+        "時間副詞 last night"
+      ],
+      "hints": [
+        "提示1：強調『誰完成』時需加 by + agent；框架為 S + was + p.p. + by + agent",
+        "提示2：不要漏掉 by，也要確認 completed 為完成時的過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "在升學考試期間，許多學生的成績被認為是衡量成功的唯一標準。",
+      "answer": "During the entrance exam period, many students' grades were considered the only standard of success.",
+      "key_points": [
+        "were considered（複數主詞搭配 were）",
+        "過去分詞 considered",
+        "時間狀語 During the entrance exam period"
+      ],
+      "hints": [
+        "提示1：主詞 grades 為複數，故使用 were + p.p.；此句未明確提及執行者，省略 by agent",
+        "提示2：注意 consider 的過去分詞是 considered（規則動詞）；avoid 主動語態 Students' grades considered...（文法錯誤）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "雖然這個計劃最初是由校長提出的，但它在實施前被全校師生廣泛討論並進行了多次修改。",
+      "answer": "Although this plan was initially proposed by the principal, it was widely discussed by the whole school community and was modified several times before implementation.",
+      "key_points": [
+        "was proposed / was discussed / was modified（三個過去被動結構）",
+        "by + agent 的使用（第一、二句）",
+        "時間狀語 before implementation / initially"
+      ],
+      "hints": [
+        "提示1：複合句中多個被動語態串聯；主詞 plan 為單數，全用 was + p.p.",
+        "提示2：留意並列結構的一致性（was proposed... was discussed... was modified）；注意 modified 為規則動詞的過去分詞；『廣泛討論』可用 widely discussed 強調"
+      ]
+    }
   ]
 }

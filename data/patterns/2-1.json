@@ -312,5 +312,63 @@
       "explanation": "此句含兩個條件子句：if 子句用 is（現在式表未來）；unless 子句用 are（現在式表可能性）；最後用 might 表示可能延遲。B項第一個為未來式錯誤；C項第三個為未來式不符邏輯；D項第一個為未來式錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "如果你明天不來學校，我會告訴老師。",
+      "answer": "If you don't come to school tomorrow, I will tell the teacher. / Unless you come to school tomorrow, I will tell the teacher.",
+      "key_points": [
+        "unless 與 if...not 的互換",
+        "現在式 don't come 表未來",
+        "will tell 表確定結果"
+      ],
+      "hints": [
+        "提示1：unless 子句後接現在式動詞，主句用 will + V；或用 if 搭配否定形式 if...not",
+        "提示2：常見錯誤是在 if/unless 子句中誤用 will，應使用現在式表未來"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "除非你加倍努力，否則你可能無法通過這次考試。",
+      "answer": "Unless you work twice as hard, you may not pass this exam. / If you don't work twice as hard, you may not pass this exam.",
+      "key_points": [
+        "unless 子句用現在式 work",
+        "may not 表可能性與否定",
+        "twice as hard 的表達"
+      ],
+      "hints": [
+        "提示1：may/might 用於表示可能性較弱的結果，比 will 更委婉；unless 後接肯定形式，if 後接否定形式",
+        "提示2：注意 may not 與 will not 的語氣差異；may 表示不確定，will 表示確定"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果氣候繼續變暖，海平面就會上升，沿海城市的居民將面臨風險。",
+      "answer": "If the climate continues to warm, sea levels will rise, and coastal residents will face risks. / If the climate keeps warming, the sea level will rise, and residents in coastal cities can face potential risks.",
+      "key_points": [
+        "複合條件句：單一 if 子句搭配多個結果",
+        "現在式 continues/keeps 表未來持續狀態",
+        "連接詞 and 連接多個結果"
+      ],
+      "hints": [
+        "提示1：一個 if 子句可搭配多個 will/can 主句，用 and 連接各結果，表現因果的連鎖反應",
+        "提示2：表示客觀事實或科學現象時優先用 will；若強調能力或可能性可用 can；避免在 if 子句重複使用主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "除非我們現在採取行動減少碳排放，否則未來世代將承受氣候變遷的嚴重後果，而我們也將無法實現永續發展的目標。",
+      "answer": "Unless we take action now to reduce carbon emissions, future generations will suffer severe consequences of climate change, and we will not be able to achieve our goals of sustainable development. / If we don't take action now to reduce carbon emissions, future generations will suffer severe consequences of climate change, and we cannot achieve our sustainable development goals.",
+      "key_points": [
+        "unless 引導環境問題的真實條件",
+        "現在式 take 與 do 表未來急迫行動",
+        "連接詞 and 連接相關的多個結果或影響"
+      ],
+      "hints": [
+        "提示1：社會議題條件句中，unless 子句常搭配現在式表達當下必須採取的行動，多個結果用 and 連接以展現問題的嚴重性",
+        "提示2：常見錯誤是在 unless 子句中用 don't 來強調否定（應直接用肯定動詞），或在主句混用 will 與 can/cannot 而不夠一致；此類題型著重語氣的層遞感"
+      ]
+    }
   ]
 }

@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B（which）。逗號後接 which 引導非限定子句，指涉整個前句研究成果。A 項 that 不能引導非限定子句；C 項重複先行詞且用法不當；D 項用複數 findings 改變句意結構。which 前的逗號是關鍵，表示指涉整句而非特定名詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我昨天考試不及格，這讓我感到非常沮喪。",
+      "answer": "I failed the exam yesterday, which made me feel very disappointed.",
+      "key_points": [
+        "逗號 + which",
+        "which 後接動詞 made",
+        "指涉整個前句「考試不及格」的結果"
+      ],
+      "hints": [
+        "句型框架：S + V..., which + V（表示結果）",
+        "常見錯誤：不能用 that 替換 which，也不能省略逗號"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "學校決定延後暑假開始的日期，這讓所有學生都感到驚訝。",
+      "answer": "The school decided to postpone the start of summer vacation, which surprised all the students.",
+      "key_points": [
+        "逗號 + which",
+        "which 後接動詞 surprised",
+        "修飾整個決定行為及其影響"
+      ],
+      "hints": [
+        "句型框架：S + V + O..., which + V + ...（整句作為 which 的先行詞）",
+        "注意：which 必須與主句用逗號分開，表達非限定關係"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他在校園裡拾到失物並主動歸還失主，這個舉動受到老師和同學的讚賞。",
+      "answer": "He picked up a lost item on campus and returned it to the owner, which earned him praise from both teachers and classmates.",
+      "key_points": [
+        "逗號 + which",
+        "which 後接動詞 earned",
+        "指涉整個前句敘述的善行所帶來的後果"
+      ],
+      "hints": [
+        "句型框架：S + V + O..., which + V + O（which 指涉前面複雜的情節）",
+        "易混淆：which 修飾的是整個「拾物歸還」的行為，不是單一名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "由於課業壓力，學生們經常熬夜讀書而忽視睡眠的重要性，這導致了越來越多健康問題的出現。",
+      "answer": "Due to academic pressure, students often stay up late studying and neglect the importance of sleep, which has led to the emergence of more and more health problems.",
+      "key_points": [
+        "逗號 + which",
+        "which 後接完成式動詞 has led",
+        "指涉前句中學生的整體行為模式及其連鎖效應"
+      ],
+      "hints": [
+        "句型框架：複雜主句..., which + V（現在完成式表現狀持續影響）",
+        "進階應用：which 可指涉包含多個動詞或複雜因果關係的整個前句內容"
+      ]
+    }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "code": "8-29",
   "chapter": 8,
-  "title": "Hardly/Scarcely + had + S + p.p. + when + S + V",
+  "title": "Hardly/Scarcely + had + S + p.p. + when + S + V-ed",
   "formulas": [
     {
-      "formula": "Hardly/Scarcely + had + S + p.p. + when/before + S + V",
+      "formula": "Hardly/Scarcely + had + S + p.p. + when/before + S + V-ed",
       "zh": "倒裝句型，表達「幾乎還沒……就……」，強調兩個動作幾乎同時發生"
     },
     {
-      "formula": "Hardly/Scarcely + had + S + p.p. + than + S + V",
+      "formula": "Hardly/Scarcely + had + S + p.p. + than + S + V-ed",
       "zh": "同義用法，用 than 替代 when/before，表達相同意思"
     }
   ],
@@ -300,6 +300,65 @@
       "answer": "A",
       "explanation": "正確答案是 A（when）。標準「Scarcely + had + S + p.p. + when + S + V」句型中，when 連接時間從句。B 項 than 可用於「Scarcely...than」但通常用於比較；C 項 before 也可用但語意上 when 表示「正好就在那時」更符合劇情；D 項在 when 從句中倒裝為誤用。本題需掌握 when 的標準用法。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我剛坐下，老師就宣布了考試成績。",
+      "answer": "Hardly had I sat down when the teacher announced the exam results.",
+      "key_points": [
+        "Hardly + had + p.p. 倒裝結構",
+        "when 後用簡單過去時 (announced)",
+        "主句過去完成時 (had sat)"
+      ],
+      "hints": [
+        "句型框架：Hardly + had + S + p.p. + when + S + V-ed",
+        "注意：when 從句不倒裝，且用簡單過去時，不能寫成 when the teacher had announced"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "電影才開始，觀眾的手機就響了起來。",
+      "answer": "Scarcely had the movie started when the audience's cell phone rang.",
+      "key_points": [
+        "Scarcely 替代 Hardly 表達同樣含義",
+        "had started 為過去完成時",
+        "when 從句用簡單過去時 rang"
+      ],
+      "hints": [
+        "句型框架：Scarcely + had + S + p.p. + when + S + V-ed",
+        "注意：主句強調『已經開始』，從句表『之後立即發生』，時間關係清晰"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他們還沒有出發去旅行，暴雨就突然來臨，迫使他們取消計畫。",
+      "answer": "Hardly had they set out for the trip when a sudden downpour came, forcing them to cancel their plans.",
+      "key_points": [
+        "Hardly + had + p.p. 倒裝表強調",
+        "set out for 的過去完成式 (had set out)",
+        "forcing them 為現在分詞片語，補充說明後續結果"
+      ],
+      "hints": [
+        "句型框架：Hardly + had + S + p.p. + when + S + V-ed + 附加片語",
+        "注意：when 從句可延伸為複雜句型，但倒裝仍只在主句，從句保持正常語序"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "醫生剛檢查完他的傷口，病人就開始抱怨疼痛加劇，這讓醫護人員感到困擾。",
+      "answer": "Scarcely had the doctor examined his wound when the patient began complaining about worsening pain, which disturbed the medical staff.",
+      "key_points": [
+        "Scarcely + had + p.p. 倒裝結構表時間緊密連結",
+        "examined 為及物動詞的過去分詞",
+        "which 引導關係子句補充說明整個情況",
+        "begin complaining about 為從句動詞短語"
+      ],
+      "hints": [
+        "句型框架：Scarcely + had + S + p.p. + when + S + V-ed，後可接附加子句擴展訊息",
+        "注意：which 子句修飾整個前文事件，不影響倒裝句型的核心結構；when 從句中 begin complaining 保持簡單過去時"
+      ]
     }
   ]
 }

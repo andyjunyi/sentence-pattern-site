@@ -302,5 +302,63 @@
       "explanation": "第一空：主詞 merger 為承受者，時間為 next quarter，用 will be completed（未來被動）。第二空：義務性通知用情態動詞被動 should be informed（應當被告知）。第三空：時間副詞 once 引導時間條件，用現在式 will be finalized 表示未來確定事項。A 項第三空誤用現在式；C 項主時態錯誤；D 項情態搭配與時態不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "明天的數學考試將在下午舉行。",
+      "answer": "The math exam will be held tomorrow afternoon.",
+      "key_points": [
+        "will be held",
+        "被動語態結構",
+        "時間副詞 tomorrow afternoon"
+      ],
+      "hints": [
+        "提示1：使用 will be + 過去分詞(held)來表達未來被動",
+        "提示2：不要寫成主動 will hold，因為主詞 exam 是被考的，不是主動考的"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這份報告應該在星期五之前完成。",
+      "answer": "This report should be completed before Friday.",
+      "key_points": [
+        "should be completed",
+        "情態動詞 should",
+        "before Friday 時間介系詞片語"
+      ],
+      "hints": [
+        "提示1：情態動詞(should) + be + 過去分詞(completed)構成被動",
+        "提示2：常見錯誤是寫成 should complete，忽略了主詞 report 是被完成的對象"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果我們現在不採取行動，這個環境問題將無法被解決。",
+      "answer": "If we don't take action now, this environmental problem will not be solved.",
+      "key_points": [
+        "will not be solved",
+        "條件句搭配未來被動",
+        "負面未來被動表達"
+      ],
+      "hints": [
+        "提示1：在條件句中，主句用未來式被動 will be + 過去分詞(solved)來表達未來的後果",
+        "提示2：注意主詞 problem 是動作的承受者；不要寫成 will not solve，那樣就變成主動了"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "下個月舉辦的這場音樂會據說將由多位知名藝人表演，且預計有五千人參加。",
+      "answer": "The concert to be held next month is said to be performed by several famous artists, and is expected to be attended by five thousand people.",
+      "key_points": [
+        "to be held / will be performed / be attended",
+        "multiple future passive structures",
+        "is said to be / is expected to be"
+      ],
+      "hints": [
+        "提示1：本句包含多個未來被動結構：to be held(修飾concert的分詞結構)、be performed(情態動詞be後接過去分詞)、be attended(is expected後的被動不定詞)，需一一檢查",
+        "提示2：常見錯誤是混淆 to be held 與 will be held 的用法：to be held用於修飾名詞或作為被動不定詞，while will be held用於主要子句的未來被動；另外 performed 和 attended 的主詞分別是藝人和人數，務必確認主被動對應"
+      ]
+    }
   ]
 }

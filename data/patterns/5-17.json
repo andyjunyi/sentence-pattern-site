@@ -312,5 +312,63 @@
       "explanation": "正確答案是 B（made / complete）。『make + O + 原形動詞』表管理者強制員工做事，強調強迫與權威。『have + O + p.p.』表安排他人被動完成，較為溫和。A 項『had』搭配過去分詞較不強調強制。C 項『got』後接現在分詞不當。D 項『caused』用法不當。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我媽媽讓裁縫師修改了我的制服。",
+      "answer": "My mother had a tailor alter her uniform.",
+      "key_points": [
+        "have + 受詞(a tailor) + p.p.(altered)",
+        "受詞與過去分詞的被動關係",
+        "表示主動安排他人做某事"
+      ],
+      "hints": [
+        "句型框架：S + have + O(人) + p.p.，表示『主詞安排讓受詞被...』",
+        "注意：不能用『make a tailor to alter』，因為make後接原形動詞為主動；have則表被動關係"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他昨天在髮廊燙了頭髮。",
+      "answer": "He had his hair permed at the salon yesterday.",
+      "key_points": [
+        "have + 所有格代詞 + 名詞 + p.p.(permed)",
+        "表示『主詞主動去服務地點做某事』",
+        "受詞為物品(hair)而非人物"
+      ],
+      "hints": [
+        "此句型可用於『主詞主動請他人服務自己的身體或物品』的情境",
+        "注意：『his hair』為受詞，『permed』為過去分詞，二者為被動關係（頭髮被燙）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於意外，她不得不讓人重新檢查她的報告，結果發現了許多錯誤。",
+      "answer": "Due to the accident, she had to have her report rechecked, which revealed many errors.",
+      "key_points": [
+        "have + O + p.p.(rechecked)表示被動遭遇或被迫安排",
+        "『had to have』的結合表示『被迫讓...被...』",
+        "受詞與過去分詞為被動關係"
+      ],
+      "hints": [
+        "此句型的第二含義：表示『遭遇某事』或『被迫讓他人做某事』，帶有無奈感",
+        "注意區別：『She checked her report』(主動檢查) vs『She had her report checked』(被動讓他人檢查)"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "考試那天，他的手機在教室外被盜了，所以他被迫讓警察調查這起盜竊案。",
+      "answer": "On the exam day, he had his phone stolen outside the classroom, so he had to have the theft investigated by the police.",
+      "key_points": [
+        "have + O + p.p.表示『遭遇...被...』的被動含義",
+        "『have one's phone stolen』為常見慣用表達",
+        "與『get + O + p.p.』可互換，但have更正式"
+      ],
+      "hints": [
+        "此題考查『have + O + p.p.』的第二含義：表示主詞被動遭遇某事，帶有不幸或意外的語氣",
+        "注意：『have one's phone stolen』中，phone是受詞，stolen是p.p.；『have the theft investigated』中，theft是受詞，investigated是p.p."
+      ]
+    }
   ]
 }

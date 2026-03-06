@@ -299,5 +299,63 @@
       "explanation": "正確答案是 A。第一空為『It is + adj. + that + S + V』主詞子句，that 必用；第二空為『argue that...』受詞子句，該用 that；第三空為『is debatable that...』的省略形式，亦應用 that。B 項第二、三空錯誤；C 項『what』為關係代名詞，文法不符；D 項『whether』表選擇性，第二空應為 that 敘述性，第三空亦應為 that。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生準時交作業是很重要的。",
+      "answer": "It is important that students submit their assignments on time.",
+      "key_points": [
+        "It is + adj. + that",
+        "虛主詞 It，真主詞是 that 子句",
+        "submit homework on time"
+      ],
+      "hints": [
+        "提示1：使用『It is + 形容詞 + that + S + V』的句型結構",
+        "提示2：虛主詞 It 後面要直接接形容詞（important），不能接名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師很清楚學生們已經掌握了這個文法概念。",
+      "answer": "It is clear to the teacher that students have grasped the grammar concept.",
+      "key_points": [
+        "It is + adj. + to + sb. + that",
+        "現在完成式 have grasped",
+        "虛主詞後移結構"
+      ],
+      "hints": [
+        "提示1：『It is + 形容詞 + to sb. + that + S + V』可用來表達對某人而言很明顯/清楚的事",
+        "提示2：注意主詞子句內的時態搭配，『已經掌握』用現在完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "令人遺憾的是，許多高中生沒有意識到社群媒體對他們心理健康的負面影響。",
+      "answer": "It is regrettable that many high school students are not aware of the negative impact of social media on their mental health.",
+      "key_points": [
+        "It is + p.p./adj. + that",
+        "negative impact on mental health",
+        "are not aware of 的表達"
+      ],
+      "hints": [
+        "提示1：『regrettable（令人遺憾的）』為形容詞，置於『It is』之後；也可用『It is a pity that』替代",
+        "提示2：『意識到』用『be aware of』表達；『負面影響』為『negative impact on』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "大多數人不會否認氣候變遷已經對全球環境造成了嚴重威脅這一事實。",
+      "answer": "It is undeniable that climate change has posed a serious threat to the global environment.",
+      "key_points": [
+        "It is + p.p. + that",
+        "undeniable（不可否認的）",
+        "pose a threat to + 名詞"
+      ],
+      "hints": [
+        "提示1：『不會否認...事實』可轉換為『不可否認...』，使用『It is undeniable that』；p.p. 包括 undeniable、feared、hoped 等",
+        "提示2：『造成威脅』用『pose a threat to』；『已經造成』用現在完成式『has posed』，注意時態一致"
+      ]
+    }
   ]
 }

@@ -307,5 +307,64 @@
       "explanation": "正確答案是 A（is being developed）。『simultaneously』表同時進行，『multiple teams』為執行者，句意應為『專案正在由多個團隊同時開發』，需用現在進行被動語態表示目前進行中的動作。B 項表普遍事實；C 項為主動式，主詞無法執行『被開發』；D 項為完成式，與『同時進行』的時間邏輯不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這份功課是由老師指派的。",
+      "answer": "This homework is assigned by the teacher.",
+      "key_points": [
+        "is assigned",
+        "被動語態結構 (be + p.p.)",
+        "by the teacher (行為者)"
+      ],
+      "hints": [
+        "句型框架：S + is + p.p. + by + agent，主詞 'homework' 是動作承受者",
+        "注意：assign 的過去分詞是 assigned，不是 assign"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "手機在課堂上不被允許使用。",
+      "answer": "Mobile phones are not allowed to be used in class.",
+      "key_points": [
+        "are not allowed",
+        "被動語態的否定形式 (be + not + p.p.)",
+        "in class (時間/地點狀語)"
+      ],
+      "hints": [
+        "句型框架：S + are + not + p.p.，主詞複數 'phones' 要配合 'are'",
+        "注意：allow 可用 'are allowed' 或 'are not permitted'，兩者都正確"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "新聞報導說校園欺凌問題正被政府重視。",
+      "answer": "The news reports that school bullying is being taken seriously by the government.",
+      "key_points": [
+        "is being taken seriously",
+        "現在進行式被動 (be + being + p.p.)",
+        "take seriously (視為重要)"
+      ],
+      "hints": [
+        "句型框架：S + is + being + p.p.，表達現在進行中的被動動作",
+        "注意：'take seriously' 是固定搭配，意為『認真對待』；過去分詞是 taken"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "據說許多學生的夢想被他們的家人所支持，但也有些學生的選擇不被理解。",
+      "answer": "It is said that many students' dreams are supported by their families, but some students' choices are not understood.",
+      "key_points": [
+        "are supported",
+        "are not understood",
+        "被動語態的肯定與否定對比",
+        "所有格 (students')"
+      ],
+      "hints": [
+        "句型框架：主句 'It is said that...' 後接兩個被動子句，用 and/but 連接；注意時態一致 (都用 are + p.p.)",
+        "常見錯誤：遺漏 by agent 時仍需使用被動語態；英文中 'by their families' 可省略，改為 'are supported' 也可接受"
+      ]
+    }
   ]
 }

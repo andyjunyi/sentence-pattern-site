@@ -319,5 +319,63 @@
       "explanation": "正確答案是A「of; for」。第一句「foolish of anyone」描述人的行為特性（愚蠢是人的品質），用「of」。第二句「unrealistic for us」描述期待這件事的客觀不現實性（條件特徵），用「for」。此題考查考生對兩個介詞細微差別的理解能力，難度較高。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "對學生來說，每天早起上學是困難的。",
+      "answer": "It is difficult for students to get up early and go to school every day.",
+      "key_points": [
+        "It is + difficult",
+        "for students",
+        "to get up early"
+      ],
+      "hints": [
+        "使用 for 表示事情對某人的難易度，著重於『事情本身』的性質",
+        "注意：形容詞 difficult 修飾的是不定詞 to get up，而非 students"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你很勇敢，敢在全班面前發表意見。",
+      "answer": "It is brave of you to express your opinion in front of the whole class.",
+      "key_points": [
+        "It is + brave + of you",
+        "to express your opinion",
+        "of 用於描述人的特質"
+      ],
+      "hints": [
+        "使用 of 表示某人做了某事所展現出的品格或特質，著重於『人的特質』",
+        "注意：形容詞 brave 直接描述 of 後面的『you』的個人特質，而非事情本身"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "對我們高三學生來說，在繁忙的課業中保持身體健康是非常重要的。",
+      "answer": "It is very important for us senior high school students to maintain our physical health amid heavy schoolwork.",
+      "key_points": [
+        "It is + very important + for us",
+        "senior high school students",
+        "to maintain our physical health"
+      ],
+      "hints": [
+        "使用 for 強調『保持健康』這件事對學生的重要性，焦點在『事情』而非『人』",
+        "注意：不能改用 of，因為 important 修飾的是動作（maintain），而非人的品格"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "小王很自私，竟然在小組專題中只顧自己的分數，不幫助其他組員。",
+      "answer": "It is selfish of Xiaowang to only care about his own grade in the group project and not help other team members.",
+      "key_points": [
+        "It is + selfish + of Xiaowang",
+        "to only care about his own grade",
+        "selfish 描述人的道德特質"
+      ],
+      "hints": [
+        "使用 of 因為 selfish 直接評價 Xiaowang 這個『人』的品格缺陷，著重於『人的特質』",
+        "注意：此處不能用 for，因為句子重點是『小王的自私行為』而非『事情的難易度』；不定詞可以包含多個動作（to care and not help）"
+      ]
+    }
   ]
 }

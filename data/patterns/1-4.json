@@ -291,5 +291,63 @@
       "explanation": "正確答案是 B。『It appears (that)』為虛主詞句型，用現在式搭配完成式子句表達基於現象的推測。A 選項『is seeming』錯誤，seem/appear 不用進行式。C 選項『seems as though it』多加了虛主詞 it，造成重複。D 選項『has been appearing』錯誤，appear 不用現在完成進行式表達推測含義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "看起來明天會下雨。",
+      "answer": "It seems (that) it will rain tomorrow. / It appears (that) it will rain tomorrow.",
+      "key_points": [
+        "It seems/appears 開頭",
+        "that 可省略",
+        "未來式 will rain"
+      ],
+      "hints": [
+        "提示1：用 It seems/appears + that + 完整子句結構，主詞是 it（天氣），動詞用未來式",
+        "提示2：常見錯誤是漏掉虛主詞 It，直接寫 'Seems it will rain'"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "看起來他對這個計畫不太感興趣。",
+      "answer": "It seems (that) he is not very interested in this project. / It appears (that) he doesn't seem very interested in this project.",
+      "key_points": [
+        "It seems/appears 虛主詞結構",
+        "主詞 he，動詞 is/be",
+        "表達「不感興趣」的方式"
+      ],
+      "hints": [
+        "提示1：虛主詞 It 後接 seems/appears，然後是具有真實主詞 he 的子句",
+        "提示2：注意否定形式可用 is not interested 或 doesn't seem interested，但勿混用 seems 與 doesn't seem"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "看起來她好像在隱瞞什麼事情。",
+      "answer": "It appears as if she is hiding something. / It seems as though she is concealing something.",
+      "key_points": [
+        "as if / as though 強調假設語氣",
+        "hiding / concealing（隱瞞）",
+        "現在進行式表示正在進行"
+      ],
+      "hints": [
+        "提示1：用 It appears/seems as if/as though 結構來表達「彷彿、好像」的推測，語氣更具假設性",
+        "提示2：as if 與 as though 互換但後面不能再用 that，且常搭配現在進行式 is hiding 來強調動作進行中"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "看起來這個決定不僅影響了許多學生，而且還引發了家長們的廣泛討論。",
+      "answer": "It appears (that) this decision has not only affected many students but also sparked widespread discussion among parents. / It seems as if this decision has impacted numerous students and triggered considerable debate from parents.",
+      "key_points": [
+        "複雜子句結構：not only...but also",
+        "現在完成式 has affected / has sparked",
+        "多層資訊整合表達"
+      ],
+      "hints": [
+        "提示1：虛主詞 It appears/seems 後接包含並列連詞或複雜時態的完整子句，保持句型框架完整",
+        "提示2：注意 has affected（現在完成式）表示過去發生到現在的影響，常見錯誤是時態混亂或漏掉並列結構中的動詞"
+      ]
+    }
   ]
 }

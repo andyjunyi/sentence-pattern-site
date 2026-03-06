@@ -309,5 +309,63 @@
       "explanation": "正確答案是A。devoted 為形容詞，後接介系詞 to（固定搭配），to 為介系詞需接動名詞 exploring，表達持久的態度與習慣。B 項誤用不定詞；C 項缺少介系詞 to；D 項完成式不符句意，且不正確的句型組合。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我已經習慣早上六點起床。",
+      "answer": "I am accustomed to getting up at 6 a.m.",
+      "key_points": [
+        "be accustomed to",
+        "V-ing 動名詞（getting up）",
+        "時間副詞片語（at 6 a.m.）"
+      ],
+      "hints": [
+        "句型框架：S + be + accustomed + to + V-ing",
+        "常見錯誤：to 後接動名詞而非不定詞（× to get up）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我們的班級致力於參與環保活動。",
+      "answer": "Our class is committed to participating in environmental protection activities.",
+      "key_points": [
+        "be committed to",
+        "V-ing 動名詞（participating）",
+        "in + N 介系詞片語"
+      ],
+      "hints": [
+        "句型框架：S + be + committed + to + V-ing；to 為介系詞非不定詞",
+        "注意：participate in 搭配介系詞 in，參與應使用動名詞 participating"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "運動員們習慣於每天訓練至少三小時以維持最佳體能狀態。",
+      "answer": "The athletes are accustomed to training at least three hours daily to maintain optimal physical condition.",
+      "key_points": [
+        "be accustomed to",
+        "V-ing 動名詞（training）",
+        "複雜修飾成分（時間副詞、目的不定詞）"
+      ],
+      "hints": [
+        "句型框架：S + be + accustomed + to + V-ing；整句中 V-ing 後可接其他修飾成分",
+        "易混淆：句末的 to maintain 是目的不定詞而非介系詞 to，與前面介系詞 to 區分"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管許多人反對這項政策，環保倡議者們仍然專注於推動永續發展和改變公眾認知。",
+      "answer": "Although many people are opposed to the policy, environmental advocates remain dedicated to promoting sustainable development and changing public awareness.",
+      "key_points": [
+        "be opposed to / be dedicated to",
+        "多個 V-ing 並列（promoting...and changing...）",
+        "複雜句結構搭配讓步子句"
+      ],
+      "hints": [
+        "句型框架：S + be + opposed/dedicated + to + V-ing；多個動名詞可用 and 連接",
+        "進階用法：V-ing 後可直接接受詞或修飾語，無須重複 to（× to promoting...and to changing）"
+      ]
+    }
   ]
 }

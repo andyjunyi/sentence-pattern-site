@@ -301,5 +301,63 @@
       "explanation": "Not until 倒裝句中，被動語態也須倒裝：助動詞 were 移至主詞前。正確形式：Not until...+ were + S + V(p.p.)。選項 B 正確；A 未倒裝；C 改變了句意（permit 主動，不符）；D 助動詞與過去分詞同時出現，文法錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "直到老師進教室，學生們才停止聊天。",
+      "answer": "Not until the teacher came into the classroom did the students stop chatting.",
+      "key_points": [
+        "Not until + 時間子句置於句首",
+        "did + S + V 主句倒裝",
+        "時間子句內部不倒裝（came into）"
+      ],
+      "hints": [
+        "句型框架：Not until + 時間子句 + did + S + V",
+        "常見錯誤：將 until 子句也倒裝，如 'Not until did the teacher come...'"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "直到他讀完這本書，才明白其中的深層含義。",
+      "answer": "Not until he finished reading the book did he understand its deeper meaning.",
+      "key_points": [
+        "Not until + 時間子句",
+        "did he understand 倒裝結構",
+        "finish reading 不定式的使用"
+      ],
+      "hints": [
+        "注意：Not until 後的子句用正常語序（finished），主句才倒裝（did understand）",
+        "避免誤用 'Not until he did finish...'，子句內不需倒裝"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "直到她收到大學錄取通知書，才意識到自己過去三年的努力是值得的。",
+      "answer": "Not until she received the university admission letter did she realize that her efforts over the past three years had been worthwhile.",
+      "key_points": [
+        "Not until + 時間子句 + did + S + realize",
+        "that 引導的名詞子句",
+        "過去完成式 had been 表達更早發生的動作"
+      ],
+      "hints": [
+        "句型框架保持穩定：Not until + 時間(正常序) + did + 主句(倒裝)；名詞子句內容獨立，不受倒裝影響",
+        "注意時態邏輯：received 是過去簡單式，had been 表示比 received 更早發生"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "直到政府制定新的環保政策，許多工廠才開始認真減少碳排放。",
+      "answer": "Not until the government implemented new environmental policies did many factories begin to take carbon emission reduction seriously.",
+      "key_points": [
+        "Not until + 複雜時間子句",
+        "begin to V 與 take...seriously 的詞彙選擇",
+        "did + 複數主詞 + 動詞複數一致"
+      ],
+      "hints": [
+        "句型框架：Not until 子句(正常序) + did + 複數主詞 + 動詞 + 受詞/補語；確保主詞複數時動詞亦保持複數形",
+        "易混淆：不要寫成 'Not until the government did implement...' 或 'Not until...did the government factories begin...'，主詞必須清晰"
+      ]
+    }
   ]
 }

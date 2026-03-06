@@ -300,5 +300,67 @@
       "explanation": "正確答案是 A。『Having let』為完成分詞構句，表示『讓機會溜走』的動作先於『意識到重要性』發生。『finally realized』搭配完成分詞構句表達先後時序關係。B 項『Let』缺乏完成意涵。C 項『Letting』進行分詞無法表達先後順序，『realized』與『Letting』無法形成合理時序。D 項被動式不合邏輯，且『would realize』為未來式不符文意。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "完成了家庭作業後，他感到很輕鬆。",
+      "answer": "Having finished his homework, he felt relieved.",
+      "key_points": [
+        "Having finished",
+        "過去分詞 finished",
+        "邏輯主詞一致性（he）",
+        "逗號分隔"
+      ],
+      "hints": [
+        "提示1：使用『Having + 過去分詞』開頭，後接逗號和完整主句",
+        "提示2：分詞的邏輯主詞（he）必須與主句主詞相同，不能寫成『Having finished homework, the work felt relieved』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "吃完早餐後，學生們趕快上學去了。",
+      "answer": "Having finished breakfast, the students hurried to school.",
+      "key_points": [
+        "Having finished breakfast",
+        "過去分詞短語作時間狀語",
+        "邏輯主詞與主詞一致",
+        "句子時間先後順序"
+      ],
+      "hints": [
+        "提示1：『Having + 過去分詞 + 賓語』可作為整個時間狀語，強調該動作先於主句動作完成",
+        "提示2：要確保『吃早餐』的動作發生者（students）與主句主詞相同，否則會產生懸掛分詞（dangling participle）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於被老師表揚了，小王在班上變得更加自信。",
+      "answer": "Having been praised by his teacher, Wang became more confident in class.",
+      "key_points": [
+        "Having been praised",
+        "被動完成分詞構句",
+        "by + 施事者",
+        "邏輯主詞與主詞一致"
+      ],
+      "hints": [
+        "提示1：被動語態使用『Having been + 過去分詞』，表示分詞動作是被動且先於主句動作完成",
+        "提示2：常見錯誤是寫成『Having praised by teacher』或『Being praised by teacher』，這兩者都不符合『完成』的時間義"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "經歷了多次失敗和被同學嘲笑後，她決定更努力地證明自己的能力。",
+      "answer": "Having experienced repeated failures and been mocked by classmates, she determined to work harder to prove her ability.",
+      "key_points": [
+        "Having experienced ... and been mocked",
+        "複合完成分詞構句",
+        "並列結構（and連接兩個過去分詞）",
+        "句子時間邏輯清晰"
+      ],
+      "hints": [
+        "提示1：完成分詞可與 and 連接多個動作，但所有動作的邏輯主詞仍須與主詞一致，且皆先於主句動作發生",
+        "提示2：避免混淆『Having experienced』和『Having been experienced』；前者為主動（她經歷），後者為被動（她被經歷，此處不適用）。注意『被嘲笑』是被動動作，應使用『been mocked』而非『mocked』"
+      ]
+    }
   ]
 }

@@ -320,5 +320,63 @@
       "explanation": "間接問句需直述語序『S+V』。B項『if the team will submit』正確：whether/if均可，但needs助動詞will表未來。A項倒裝『will the team』錯誤，C項用現在式不符邏輯（應用未來式），D項倒裝且時態混亂。在正式文體中whether比if更佳，但B項if搭配直述語序已可接受。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我想知道這次考試什麼時候舉行。",
+      "answer": "I want to know when the exam will be held.",
+      "key_points": [
+        "want to know + 間接問句",
+        "when作疑問詞",
+        "S + V直述語序（exam will be held）"
+      ],
+      "hints": [
+        "句型框架：S + V + wh- + S + V，wh-詞後用直述語序",
+        "常見錯誤：誤寫為『when will the exam be held』（倒裝語序）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師要求我們告訴他為什麼我們遲到了。",
+      "answer": "The teacher asked us to tell him why we were late.",
+      "key_points": [
+        "ask + to tell + 間接問句",
+        "why作疑問詞",
+        "S + V直述語序（we were late）"
+      ],
+      "hints": [
+        "句型框架：ask/tell + 人 + to + V + wh- + S + V",
+        "注意：wh-詞後接『we were late』（直述語序），不是『were we late』"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我很好奇他為什麼選擇放棄這個出國留學的機會。",
+      "answer": "I'm curious about why he decided to give up the opportunity to study abroad.",
+      "key_points": [
+        "be curious about + wh- 引導名詞片語",
+        "why + S + V直述語序",
+        "動詞decided引導不定式短語"
+      ],
+      "hints": [
+        "句型框架可為『be + adj. + wh- + S + V』或『wonder + wh- + S + V』",
+        "注意：『why he decided to give up』中S+V需直述語序，不倒裝"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "她想弄清楚為什麼她的同學們認為這個新政策對學生們來說是不公平的。",
+      "answer": "She wants to figure out why her classmates think that the new policy is unfair to students.",
+      "key_points": [
+        "want to figure out + 間接問句",
+        "why引導複雜間接問句",
+        "嵌套結構：why + S + V（think） + that + S + V（is）"
+      ],
+      "hints": [
+        "句型框架：S + V + wh- + S + V + that + S + V，整體保持直述語序",
+        "常見錯誤：在『think』後錯誤倒裝『is the policy unfair』，應保留『the policy is unfair』的直述語序"
+      ]
+    }
   ]
 }

@@ -299,5 +299,63 @@
       "explanation": "正確答案是A「whatever」。空格後接「opinions you may have」（名詞片語），whatever可直接作連接詞且兼作「opinions」的賓語，用法最緊湊。B項「no matter what」句法較冗長但亦可。C項「however」表方式，不符。D項「no matter however」為文法錯誤，-ever詞與no matter不可並用。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "無論天氣如何，我們都會按時到達學校。",
+      "answer": "No matter how the weather is, we will arrive at school on time. / However the weather is, we will arrive at school on time.",
+      "key_points": [
+        "No matter how / However",
+        "weather is",
+        "will arrive on time"
+      ],
+      "hints": [
+        "提示1：此題用『how』表示天氣狀況，句型為『No matter how + S + V』或『However + S + V』",
+        "提示2：『however』直接作連接詞，後接完整子句，不需加『that』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "無論是誰犯了錯誤，都必須為自己的行為負責。",
+      "answer": "No matter who makes the mistake, they must take responsibility for their actions. / Whoever makes the mistake must take responsibility for their actions.",
+      "key_points": [
+        "No matter who / Whoever",
+        "makes the mistake",
+        "take responsibility for"
+      ],
+      "hints": [
+        "提示1：『who』引導讓步副詞子句，表示『任何人』的概念，可用『no matter who』或『whoever』",
+        "提示2：『whoever』可直接作主語，使句子更緊湊，注意『whoever makes the mistake』本身即為主語"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論你去哪裡深造，家人的支持都不會改變。",
+      "answer": "No matter where you go to further your studies, your family's support will never change. / Wherever you go to further your studies, your family's support will never change.",
+      "key_points": [
+        "No matter where / Wherever",
+        "go to further one's studies",
+        "support will never change"
+      ],
+      "hints": [
+        "提示1：『where』表地點，句型為『No matter where + S + V』或『Wherever + S + V』，強調地點的多樣性不影響結果",
+        "提示2：主句用『will never change』強化『無條件性』，注意『further one's studies』是『深造、進修』的固定搭配"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論別人說什麼，只要你堅信自己的夢想，就不應該放棄追求。",
+      "answer": "No matter what others say, as long as you believe in your own dreams, you should never give up pursuing them. / Whatever others say, as long as you believe in your own dreams, you should never give up pursuing them.",
+      "key_points": [
+        "No matter what / Whatever",
+        "others say",
+        "believe in one's dreams + should never give up"
+      ],
+      "hints": [
+        "提示1：『what』引導讓步副詞子句表示『任何事情』，可用『no matter what』或『whatever』；主句含條件『as long as』加強文意層次",
+        "提示2：注意『give up pursuing / give up + V-ing』的用法，以及『believe in one's dreams』（相信某人的夢想）與『believe in oneself』的區別"
+      ]
+    }
   ]
 }

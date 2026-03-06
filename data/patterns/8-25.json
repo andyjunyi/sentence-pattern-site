@@ -300,5 +300,63 @@
       "explanation": "正確答案是 A。『Now that』引導已確立的新情況（獲得資金），主句應表達基於此情況的必要行動。『it is crucial that』（關鍵是）最能表達隨之而來的重要結果。B 項『no doubt』過於肯定且冗餘。C 項『uncertain』與『Now that』的確定性衝突。D 項『cannot ignore』用法生硬，不如 A 項自然流暢。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "既然你已經畢業了，你應該為自己的未來做計畫。",
+      "answer": "Now that you have graduated, you should make a plan for your future.",
+      "key_points": [
+        "Now that + 現在完成式（have graduated）",
+        "主句用 should + V",
+        "for your future 表目的"
+      ],
+      "hints": [
+        "提示1：從句用現在完成式表示已完成的事實，主句用 should 表示建議",
+        "提示2：注意不要寫成 Now that you graduated（過去簡單式在此不適當）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "既然他們已經完成了報告，他們可以專注於下一個項目。",
+      "answer": "Now that they have completed the report, they can focus on the next project.",
+      "key_points": [
+        "Now that + 現在完成式（have completed）",
+        "主句用 can + V 表能力/可能性",
+        "focus on 表集中於"
+      ],
+      "hints": [
+        "提示1：『既然...已經』強調新情況已成立，從句需用完成式",
+        "提示2：主句的 can 不能改為 could，因為表示現在的可能性，不是假設過去"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "既然班費已經收齊了，我們就可以開始籌劃班級旅遊，同學們都會很開心。",
+      "answer": "Now that the class fees have been collected, we can start planning the class trip, and all classmates will be very happy.",
+      "key_points": [
+        "Now that + 現在完成被動式（have been collected）",
+        "主句用 can + V",
+        "並列句結構（and + 主句延伸）"
+      ],
+      "hints": [
+        "提示1：被動語態 have been collected 表示費用已被收齊這一既成事實",
+        "提示2：『既然』帶有立即反應感，所以主句用 can/will，不應用 could/would"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "既然學校已經實施新的課程改革，學生應該適應不同的教學方式，而教師也需要更新他們的教學策略。",
+      "answer": "Now that the school has implemented the new curriculum reform, students should adapt to different teaching methods, and teachers also need to update their teaching strategies.",
+      "key_points": [
+        "Now that + 現在完成式（has implemented）",
+        "主句用 should + V 和 need to + V 的並列結構",
+        "adapt to / update 的目標賓語搭配"
+      ],
+      "hints": [
+        "提示1：複雜句中，Now that 從句引導整個原因背景，可連接兩個或多個主句結果",
+        "提示2：注意動詞時態一致性：from句已完成（have implemented），主句表現在或將來的應對（should/need）"
+      ]
+    }
   ]
 }

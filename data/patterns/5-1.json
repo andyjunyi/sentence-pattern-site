@@ -306,5 +306,63 @@
       "explanation": "動詞 considered 後的賓語補語位置需要形容詞。A「manageable」是形容詞，正確表達「認為考試容易控制」。B「manageably」是副詞，無法作賓語補語。C「being manageable」冗贅，此位置不需進行式。D「to be manageable」改變語義為被動，且結構不當。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這道數學題看起來很困難。",
+      "answer": "This math problem looks very difficult.",
+      "key_points": [
+        "look（看起來）為連綴動詞",
+        "difficult為形容詞補語",
+        "S + linking V + adjective結構"
+      ],
+      "hints": [
+        "提示1：連綴動詞look後接形容詞，表示『看起來的狀態』",
+        "提示2：不能寫成『looks difficultly』，補語位置絕不用副詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "經過長期練習後，他變成了一位優秀的運動員。",
+      "answer": "After long-term practice, he became an excellent athlete.",
+      "key_points": [
+        "become（變成）為連綴動詞",
+        "an excellent athlete為名詞片語補語",
+        "S + linking V + noun phrase結構"
+      ],
+      "hints": [
+        "提示1：連綴動詞become後接名詞或名詞片語，表示『身分或角色的改變』",
+        "提示2：補語『an excellent athlete』需用冠詞和形容詞修飾名詞，不能省略"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這份工作聽起來很有挑戰性，但報酬也不錯。",
+      "answer": "This job sounds quite challenging, but the salary is also good.",
+      "key_points": [
+        "sound（聽起來）為連綴動詞",
+        "quite challenging為形容詞短語補語",
+        "S + linking V + adjective結構與對比連接詞but"
+      ],
+      "hints": [
+        "提示1：連綴動詞sound後接形容詞或形容詞短語，表示『聽起來的性質』；可用quite加強語氣",
+        "提示2：不能寫成『sounds challengingly』，副詞詞尾-ly出現在補語位置是常見錯誤"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "當她收到大學錄取通知時，她既興奮又緊張，因為這意味著一段新人生的開始。",
+      "answer": "When she received her university admission letter, she felt both excited and nervous, because it meant the beginning of a new chapter in her life.",
+      "key_points": [
+        "feel（感到）為連綴動詞",
+        "both excited and nervous為並列形容詞補語",
+        "S + linking V + adjective structure與原因狀語從句的搭配"
+      ],
+      "hints": [
+        "提示1：連綴動詞feel後接形容詞或形容詞短語表示『情緒狀態』；both...and...用於並列兩個形容詞補語",
+        "提示2：不能寫成『felt excitedly and nervously』，感覺動詞後的補語必須是形容詞，即使原文有副詞意涵也要轉換"
+      ]
+    }
   ]
 }

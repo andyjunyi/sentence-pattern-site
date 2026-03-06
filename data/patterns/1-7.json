@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A（telling / trying）。兩個空格都應填入動名詞。第一空「It is no good + telling」；第二空「There is no use + V-ing」（「in trying」的簡化形式）。B、C、D 項都混入不定詞，違反「It is no use/good + 動名詞」的結構，且「There is no use in V-ing」也須用動名詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "跟他爭辯是沒用的，他已經決定了。",
+      "answer": "It is no use arguing with him; he has already made up his mind.",
+      "key_points": [
+        "It is no use + V-ing",
+        "arguing (動名詞，非argue)",
+        "分號連接獨立子句"
+      ],
+      "hints": [
+        "提示1：虛主語 It + be + no use + 動名詞，動名詞是真正主語",
+        "提示2：常見錯誤是用 to argue（不定詞）或 argue（原形動詞），記住一定要用動名詞形式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "後悔沒有好處，我們應該向前看。",
+      "answer": "It is no good regretting what happened; we should look forward.",
+      "key_points": [
+        "It is no good + V-ing",
+        "regretting (動名詞)",
+        "no good 強調消極結果或後悔無益"
+      ],
+      "hints": [
+        "提示1：no good 和 no use 都適用此句型，但 no good 更強調情感或結果的負面性",
+        "提示2：注意 regretting 後面可接受詞 what happened，但不需要加介詞 about"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "既然他們不願意合作，試圖說服他們也是徒勞的。",
+      "answer": "Since they are unwilling to cooperate, it is no use trying to persuade them.",
+      "key_points": [
+        "It is no use + V-ing (trying)",
+        "trying to persuade (動名詞短語搭配不定詞)",
+        "no use 強調行動無效用"
+      ],
+      "hints": [
+        "提示1：動名詞可搭配不定詞，如 trying to persuade；整個短語 'trying to persuade them' 作為真正主語",
+        "提示2：易誤用 persuade 為動名詞 persuading，但此處 trying to persuade 是標準搭配，trying 是主要動名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "一旦決定發佈，再想著刪除貼文就沒好處了，因為網路上的東西永遠不會完全消失。",
+      "answer": "Once you post it, it is no good thinking about deleting the post, because nothing on the internet ever disappears completely.",
+      "key_points": [
+        "It is no good + V-ing (thinking about V-ing)",
+        "thinking about deleting (動名詞短語)",
+        "no good 表達無法改變既定事實的後悔或遺憾"
+      ],
+      "hints": [
+        "提示1：動名詞可搭配介詞，如 thinking about V-ing；整句強調事後悔恨無益",
+        "提示2：區分 it is no good thinking about deleting（沒好處去想著刪除）與 there is no good in V-ing（兩種形式都正確，但本題用 It 開頭符合句型要求）"
+      ]
+    }
   ]
 }

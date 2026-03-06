@@ -299,5 +299,63 @@
       "explanation": "正確答案是 B (Whoever)。句意表示「無論誰上門聲稱是技術人員，你都應該先向公司驗證其身份」。空格後接「comes to your door」（人作主詞），需用表人物的讓步副詞 Whoever。A 項 Whenever 表時間，C 項 Whatever 表事物，D 項 Wherever 表地點，都與句意不符。此題考驗對不同 -ever 複合詞的辨別能力。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "無論天氣如何，我們都會去參加校運會。",
+      "answer": "No matter how the weather is, we will attend the school sports day. / However the weather is, we will attend the school sports day.",
+      "key_points": [
+        "no matter how / however",
+        "天氣相關詞彙：weather",
+        "will + 動詞原形（主句未來式）"
+      ],
+      "hints": [
+        "提示1：使用『no matter how + S + V』或『however + S + V』結構，後接主句說明無條件的行動",
+        "提示2：注意 how 後面需接形容詞或動詞，不要誤用『what』；主句動詞要用未來式 will"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "無論你選擇哪一所大學，只要你努力，就能成功。",
+      "answer": "No matter which university you choose, as long as you work hard, you will succeed. / Whichever university you choose, as long as you work hard, you will succeed.",
+      "key_points": [
+        "no matter which / whichever",
+        "選擇相關詞彙：choose, university",
+        "條件搭配：as long as + 條件子句"
+      ],
+      "hints": [
+        "提示1：『no matter which + S + V』或『whichever + S + V』用於在多個選項中表達無條件性；主句前可加入 as long as 強化條件",
+        "提示2：注意 whichever 可直接作為關係詞，而 no matter which 則為分開結構；兩句式均正確，但結構略不同"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論誰批評我的想法，我都會堅持我的信念，因為我相信這是正確的。",
+      "answer": "No matter who criticizes my ideas, I will stick to my beliefs because I believe they are right. / Whoever criticizes my ideas, I will stick to my beliefs because I believe they are right.",
+      "key_points": [
+        "no matter who / whoever",
+        "堅持相關詞彙：stick to, beliefs, convictions",
+        "因果關係：because 子句補充理由"
+      ],
+      "hints": [
+        "提示1：『no matter who + S + V』或『whoever + S + V』表示在任何人的質疑下都不改初衷；後接主句呈現堅定立場",
+        "提示2：避免混淆 who 和 what；若對象是事物用 what，人物用 who；主句應表達堅定語氣（will + 動詞）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論在什麼情況下，我們都應該保持誠實和正直，因為這是道德品質的基礎，沒有它，我們無法贏得他人的信任。",
+      "answer": "No matter what circumstances arise, we should always maintain honesty and integrity because they form the foundation of moral character, and without them, we cannot gain others' trust. / Whatever circumstances arise, we should always maintain honesty and integrity because they form the foundation of moral character, and without them, we cannot gain others' trust.",
+      "key_points": [
+        "no matter what / whatever",
+        "抽象概念詞彙：circumstances, honesty, integrity, moral character, foundation",
+        "複合主句：because + 理由子句、and + 因果轉折"
+      ],
+      "hints": [
+        "提示1：『no matter what + S + V』或『whatever + S + V』可用於表達普遍真理或道德原則；後接情態動詞 should 強化義務或建議",
+        "提示2：注意複雜句結構中，讓步子句置於首位時需用逗號隔開；主句內若有多個因果或轉折需用 because 和 and 銜接邏輯；避免誤用 no matter + 其他疑問詞"
+      ]
+    }
   ]
 }

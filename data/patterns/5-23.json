@@ -301,5 +301,65 @@
       "explanation": "第一空 used to 表「退休前曾經當過老師」（過去習慣，已停止）。第二空 is accustomed to（= is used to）表「現在習慣於處理困難學生的各個層面」。第三空 has gotten used to 表「已經逐漸適應工作壓力」。B 項順序錯誤。C、D 項時態搭配不當。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我已經習慣每天早上六點起床。",
+      "answer": "I am used to getting up at 6 o'clock every morning.",
+      "key_points": [
+        "am used to",
+        "getting up（動名詞）",
+        "every morning"
+      ],
+      "hints": [
+        "句型框架：S + am/is/are used to + V-ing，表示已經習慣的現在狀態",
+        "注意：to 是介系詞，後面接動名詞 getting，不是 get（動詞原形）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我弟弟正在適應在新學校的生活。",
+      "answer": "My younger brother is getting used to living in a new school.",
+      "key_points": [
+        "getting used to",
+        "living（動名詞）",
+        "in a new school"
+      ],
+      "hints": [
+        "句型框架：S + am/is/are getting used to + V-ing，強調逐漸適應的過程",
+        "注意：get used to 表示正在習慣化，be used to 已完全習慣；兩者都接 V-ing"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "臺灣人習慣於在炎熱的天氣裡使用冷氣，但這樣會浪費能源。",
+      "answer": "Taiwanese people are used to using air conditioning in hot weather, but this wastes energy.",
+      "key_points": [
+        "are used to",
+        "using（動名詞）",
+        "in hot weather",
+        "but 連接對比"
+      ],
+      "hints": [
+        "句型框架：S + are used to + V-ing，主詞是複數 people；to 後面接動名詞 using",
+        "注意：不要寫成 used to use（過去習慣），也不要寫成 use 或 to use（都是錯誤）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "經過一個月的練習後，學生們已經習慣於用英文在課堂上回答問題，而不再感到害羞。",
+      "answer": "After one month of practice, the students are used to answering questions in English in class and no longer feel shy.",
+      "key_points": [
+        "are used to",
+        "answering（動名詞）",
+        "in English / in class",
+        "複合句結構"
+      ],
+      "hints": [
+        "句型框架：S + are used to + V-ing；注意 to 後接動名詞 answering，而非不定詞 to answer",
+        "易錯點：不要混淆『used to + V』（過去習慣性動作，已停止）與『be used to + V-ing』（現在的習慣狀態）；此句強調現在已經習慣，用 are used to"
+      ]
+    }
   ]
 }

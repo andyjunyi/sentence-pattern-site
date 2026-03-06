@@ -297,5 +297,63 @@
       "explanation": "正確答案是 B。such + a/an + 形容詞 + 單數可數名詞 lecture，冠詞必須在形容詞後。A 項詞序錯誤（冠詞應在形容詞後）；C 項混淆 so...that 與 such...that（so + adj. + a + N 的詞序特殊但此處應用 such）；D 項缺少冠詞，單數可數名詞必需。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "那是一場如此激烈的比賽，以至於所有觀眾都站起來歡呼。",
+      "answer": "It was such an intense match that all the audience stood up and cheered.",
+      "key_points": [
+        "such + a/an + adj. + N",
+        "intense match（單數可數名詞需加冠詞a）",
+        "結果子句：all the audience stood up and cheered"
+      ],
+      "hints": [
+        "框架：such + a/an + 形容詞 + 單數名詞 + that + 結果子句",
+        "常見錯誤：不加冠詞a/an 或將match誤寫為複數matches"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師給了我們這麼多功課，導致我們整個週末都在做作業。",
+      "answer": "The teacher gave us such a lot of homework that we spent the whole weekend doing assignments.",
+      "key_points": [
+        "such + a lot of + N（不可數名詞homework）",
+        "a lot of 作為量詞與such搭配",
+        "結果子句：we spent the whole weekend doing assignments"
+      ],
+      "hints": [
+        "框架：such + a lot of / lots of + 不可數名詞 + that + 結果子句；或 such + much + 不可數名詞 + that",
+        "注意：homework是不可數名詞，不加冠詞在a lot of之後"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他說了這麼令人沮喪的話，以至於她決定再也不相信他。",
+      "answer": "He said such discouraging words that she decided never to trust him again.",
+      "key_points": [
+        "such + adj. + 複數名詞 words（複數名詞不加冠詞）",
+        "discouraging words（修飾複數名詞的形容詞）",
+        "決心性結果：she decided never to trust him again"
+      ],
+      "hints": [
+        "框架：such + 形容詞 + 複數名詞 + that + 結果子句；複數或不可數名詞前不加a/an",
+        "常見錯誤：誤加a/an在複數名詞前，或使用so discouraging instead of such discouraging words"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "她展現出如此出色的領導能力，以至於全班同學都願意跟隨她參加這項社團活動。",
+      "answer": "She demonstrated such outstanding leadership that all her classmates were willing to follow her and participate in the club activity.",
+      "key_points": [
+        "such + 形容詞 + 不可數名詞 leadership（不可數名詞無冠詞）",
+        "outstanding leadership（抽象名詞搭配形容詞修飾）",
+        "複雜結果子句：all her classmates were willing to follow her and participate in..."
+      ],
+      "hints": [
+        "框架：such + 形容詞 + 不可數名詞 + that + 結果子句；leadership為不可數名詞，不需冠詞",
+        "區別：leadership是抽象不可數名詞，不同於ability（可數或不可數）；結果子句可使用複雜句結構(willing to + V)"
+      ]
+    }
   ]
 }

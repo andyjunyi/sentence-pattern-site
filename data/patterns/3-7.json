@@ -299,5 +299,63 @@
       "explanation": "正確答案是 B。well-organized 和 comprehensive 為形容詞複合修飾，應使用「so + adj. + that」結構。A（such...that）用於名詞片語；C（so...as to）為不同句型結構；D（such a）後應接單數可數名詞，但 presentation 前已有冠詞 the，此結構不適用。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影很有趣，以至於我們都笑了。",
+      "answer": "The movie was so funny that we all laughed.",
+      "key_points": [
+        "so + funny (形容詞)",
+        "that + 引導結果子句",
+        "簡單過去式 laughed"
+      ],
+      "hints": [
+        "句型框架：so + 形容詞 + that + S + V (結果)",
+        "注意：funny 是形容詞修飾程度，不能用 such；結果子句用簡單過去式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他講話這麼快，以至於我無法跟上他的意思。",
+      "answer": "He spoke so quickly that I couldn't follow what he said.",
+      "key_points": [
+        "so + quickly (副詞)",
+        "that + 否定結果子句（couldn't）",
+        "quickly 修飾動詞 spoke"
+      ],
+      "hints": [
+        "句型框架：so + 副詞 + that + S + V (結果)；副詞修飾動詞程度",
+        "注意：結果子句常帶否定意涵，使用 couldn't；不能用 such quickly"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "昨天的考試如此困難，以至於班上大多數同學都沒及格。",
+      "answer": "Yesterday's exam was so difficult that most students in the class didn't pass.",
+      "key_points": [
+        "so + difficult (形容詞修飾程度)",
+        "that + 否定結果子句",
+        "主詞為 exam（單數），謂語為 was"
+      ],
+      "hints": [
+        "句型框架：so + 形容詞 + that + S + V (結果)；強調程度之深導致後果",
+        "注意：difficult 是形容詞，不能改用 such；結果子句的主詞是 most students（複數），謂語應為 didn't pass"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "她在演講中表現得如此出色，以至於評委決定給她頒發特別獎。",
+      "answer": "She performed so excellently in the speech that the judges decided to award her a special prize.",
+      "key_points": [
+        "so + excellently (副詞修飾動詞 performed)",
+        "that + 複雜結果子句（含不定詞 to award）",
+        "judges 為複數主詞"
+      ],
+      "hints": [
+        "句型框架：so + 副詞 + that + S + V (結果)；結果子句可包含不定詞結構",
+        "注意：excellently 是副詞修飾動詞程度；to award 為不定詞，表示判斷後的行動；avoid 混淆 such + 名詞片語"
+      ]
+    }
   ]
 }

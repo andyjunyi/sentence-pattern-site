@@ -297,5 +297,65 @@
       "explanation": "正確答案是B。同位語that子句解釋抽象名詞assumption，that本身不代替先行詞而是引導說明子句。A項which會代替先行詞成為關係代名詞，若選擇則assumption成為主詞且需邏輯調整，不符合原意。C項whom和D項whose皆為關係代名詞，用於代替先行詞，不符合同位語用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師宣布了一個消息，即下週要進行期末考。",
+      "answer": "The teacher announced the news that the final exam would be held next week.",
+      "key_points": [
+        "announced the news",
+        "that引導同位語子句",
+        "would be held（被動語態）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，其中news是抽象名詞，that後接說明子句",
+        "注意：that子句中要用過去式would be held來搭配announced的時態"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我有一個信念，就是努力永遠不會白費。",
+      "answer": "I hold the belief that hard work will never be in vain.",
+      "key_points": [
+        "hold the belief",
+        "that引導同位語子句",
+        "will never be in vain（不會白費）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，belief是抽象名詞，that子句說明信念的具體內容",
+        "注意：that前不用逗號，that子句用現在簡單式或未來式表述普遍真理"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "研究表明了一個事實，即過度使用手機會影響青少年的睡眠品質。",
+      "answer": "The research revealed the fact that excessive use of mobile phones impairs teenagers' sleep quality.",
+      "key_points": [
+        "revealed the fact",
+        "that引導同位語子句",
+        "excessive use of...（過度使用）",
+        "impairs sleep quality（影響睡眠品質）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，fact是抽象名詞，that子句提供具體說明",
+        "注意：不要誤用限定關係子句which；that子句中的主語是excessive use（動名詞短語），謂語用第三人稱單數impairs"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "越來越多人認同這樣的觀點，即個人發展不應該完全由社會期待決定，而應該基於自己的興趣和價值觀。",
+      "answer": "More and more people accept the view that personal development should not be entirely determined by social expectations, but rather be based on one's own interests and values.",
+      "key_points": [
+        "accept the view",
+        "that引導同位語子句",
+        "should not be determined by...（不應由...決定）",
+        "be based on（基於）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，view是抽象名詞，that子句用should + be動詞表述建議性觀點",
+        "注意：that子句內可包含對比連詞but，但不改變同位語子句的性質；該子句提供的是對view內容的詳細說明，而非限制修飾"
+      ]
+    }
   ]
 }

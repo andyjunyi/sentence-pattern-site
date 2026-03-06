@@ -305,5 +305,66 @@
       "explanation": "正確答案是B。句子描述過去某時刻的進行狀況，『when』子句用簡單過去式『detected』，主句應用過去進行被動『were being accessed』。A選項『had been being accessed』為過去完成進行被動，語法過於複雜且此處不必要。C選項時態錯誤（現在完成）。D選項為現在進行，與過去時景不符。進行被動通常不與完成式結合。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "現在正在進行數學考試。",
+      "answer": "A math exam is being conducted now.",
+      "key_points": [
+        "is being + p.p.",
+        "conduct (進行/舉辦)",
+        "現在進行式被動"
+      ],
+      "hints": [
+        "提示1：使用『is being + 過去分詞』表示現在正在進行的被動動作",
+        "提示2：避免寫成『is conducting』(主動)，須轉換為被動語態"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "當老師進教室時，教室正在被打掃。",
+      "answer": "When the teacher entered the classroom, the classroom was being cleaned.",
+      "key_points": [
+        "was being + p.p.",
+        "clean (打掃)",
+        "過去進行式被動",
+        "時態一致性"
+      ],
+      "hints": [
+        "提示1：主句用『過去進行式被動 was being + p.p.』與『entered』(過去式)搭配，表示過去某時點正在進行的動作",
+        "提示2：注意『was being cleaned』中『was』與單數主詞『classroom』搭配，不可寫成『were being cleaned』"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這份報告正在被幾個學生仔細檢查，以確保沒有錯誤。",
+      "answer": "This report is being carefully checked by several students to ensure there are no errors.",
+      "key_points": [
+        "is being + p.p.",
+        "check (檢查)",
+        "by + agent (施事者)",
+        "副詞修飾"
+      ],
+      "hints": [
+        "提示1：使用『is being + 過去分詞』表現現在進行的被動動作，『by several students』標示動作的執行者",
+        "提示2：副詞『carefully』應置於『being』與過去分詞『checked』之間，常見錯誤是將副詞放在句尾而非靠近動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "在那場激烈的辯論會中，政府的新政策正在受到許多市民的激烈批評和質疑。",
+      "answer": "During that heated debate, the government's new policy was being severely criticized and questioned by many citizens.",
+      "key_points": [
+        "was being + p.p.",
+        "criticize & question (批評與質疑)",
+        "並列被動結構",
+        "過去進行式被動"
+      ],
+      "hints": [
+        "提示1：使用『was being + 過去分詞』表示過去某一時期內正在進行的被動動作，『and questioned』與『criticized』形成並列結構",
+        "提示2：避免只用『was criticized』(簡單過去式被動)，務必加上『being』以強調當時正在進行的過程性；注意『by many citizens』說明動作執行者"
+      ]
+    }
   ]
 }

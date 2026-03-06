@@ -301,5 +301,65 @@
       "explanation": "正確答案是B。problems主動存在，用existing；這些問題要求管理層注意，requiring為分詞片語作主詞補語；management team被動地被委派（dedicated to），故用過去分詞dedicated。A項existed為過去式無法作分詞；C項required邏輯錯誤（問題不「被要求」）；D項existed同樣不符分詞用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "教室裡有幾個學生在做功課。",
+      "answer": "There are some students doing homework in the classroom.",
+      "key_points": [
+        "There are",
+        "students doing homework",
+        "V-ing 表主動"
+      ],
+      "hints": [
+        "提示1：使用 There + be + N + V-ing 結構，V-ing 表示學生主動執行做功課的動作",
+        "提示2：注意 doing homework 中文意為『做功課』，不要誤用被動式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "圖書館裡有許多被借出的書籍需要整理。",
+      "answer": "There are many books borrowed from the library that need to be organized.",
+      "key_points": [
+        "There are many books",
+        "borrowed (p.p.)",
+        "p.p. 表被動"
+      ],
+      "hints": [
+        "提示1：使用 There + be + N + p.p. 結構，p.p. 表示書籍被借出的狀態",
+        "提示2：『被借出』是被動意義，故使用過去分詞 borrowed，不用 borrowing"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "學校走廊上有一些被打翻的垃圾桶和正在打掃的工人。",
+      "answer": "There are some overturned trash cans and workers cleaning in the school hallway.",
+      "key_points": [
+        "There are + 複數名詞",
+        "overturned (p.p.)",
+        "cleaning (V-ing)",
+        "兼具主動和被動分詞"
+      ],
+      "hints": [
+        "提示1：句子中有兩個名詞，分別使用 p.p.（overturned）和 V-ing（cleaning）來表示各自的狀態",
+        "提示2：判斷時要看名詞與分詞的邏輯關係：垃圾桶被打翻（被動），工人在打掃（主動）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "考試期間，辦公室裡有焦慮的學生在查詢成績，還有被張貼在牆上的各科排名單。",
+      "answer": "There are anxious students checking their exam results and class rankings posted on the wall in the office during the exam period.",
+      "key_points": [
+        "There are + N + V-ing / + N + p.p.",
+        "checking (V-ing)",
+        "posted (p.p.)",
+        "多個分詞的並列使用"
+      ],
+      "hints": [
+        "提示1：句型可承載多個分詞修飾不同的名詞，維持邏輯主被動關係：students checking（學生查詢），rankings posted（排名被張貼）",
+        "提示2：常見錯誤是混淆主被動，如誤用『rankings checking』；需根據名詞能否主動執行該動作來判斷"
+      ]
+    }
   ]
 }

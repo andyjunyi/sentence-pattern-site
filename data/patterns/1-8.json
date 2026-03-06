@@ -300,5 +300,63 @@
       "explanation": "正確答案為D。「Not until... that」為倒裝句型，主句需進行主動詞倒裝：助動詞前置，主詞後移。完整句為「Not until the rescue team arrived was it that all the survivors could finally leave.」D項「was it」正確體現倒裝結構。A項「did they realize」改變了原句意思；B項和C項未進行倒裝，違反Not until開頭的倒裝句規則。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "直到老師進教室，學生們才停止聊天。",
+      "answer": "It is not until the teacher entered the classroom that the students stopped chatting.",
+      "key_points": [
+        "It is not until + 時間點",
+        "that 後接肯定動詞 stopped",
+        "時態一致：entered 與 stopped 皆用過去式"
+      ],
+      "hints": [
+        "句型框架：It is not until [時間/事件] that [S + V肯定形式]",
+        "注意：that 子句絕不可寫成 did not stop，必須用肯定形 stopped"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "直到收到大學錄取通知，她才真正放心。",
+      "answer": "It is not until she received the university admission letter that she truly felt relieved.",
+      "key_points": [
+        "receive 改寫為過去式 received",
+        "that 後用肯定動詞 felt",
+        "副詞 truly 修飾動詞，可置於動詞前"
+      ],
+      "hints": [
+        "句型框架：It is not until [S + V過去式] that [S + V肯定過去式]；注意此處時間點本身也是過去事件",
+        "易錯：不可寫成 'did not feel relieved'，而應使用肯定的 felt relieved"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "直到父母解釋了那個決定的原因，青少年才理解他們的苦心。",
+      "answer": "It is not until the parents explained the reason for that decision that the teenager understood their good intentions.",
+      "key_points": [
+        "explain 的過去式 explained",
+        "複雜名詞片語 the reason for that decision",
+        "understand 改為過去式 understood，表達理解的完成"
+      ],
+      "hints": [
+        "句型框架：It is not until [S + V時態] that [S + V相同時態的肯定形式]；兩個時間點都發生在過去",
+        "易錯：that 子句不可寫成 'did not understand'；另注意 'good intentions' 的搭配用法"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "直到她在課堂上當眾發表意見失敗後，她才意識到自己需要克服公眾演講的恐懼。",
+      "answer": "It is not until she failed to voice her opinion in front of the class that she realized she needed to overcome her fear of public speaking.",
+      "key_points": [
+        "複雜時間點：failed to voice... 用完成式概念表達",
+        "that 子句用過去式 realized，後接 needed to 的不定詞結構",
+        "fear of public speaking 為固定搭配"
+      ],
+      "hints": [
+        "句型框架：It is not until [複雜事件/時間點] that [S + V過去式 + 不定詞短語]；時間點本身可含多層信息",
+        "易錯：that 子句必須是肯定形式 'realized she needed'，不可寫成 'did not realize'；另注意 'failed to + V' 與 'needed to + V' 的不定詞用法"
+      ]
+    }
   ]
 }

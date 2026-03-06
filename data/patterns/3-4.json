@@ -301,5 +301,63 @@
       "explanation": "正確答案是B。keep（保持）後接形容詞補語，需用形容詞secret而非副詞形式。as secret as possible適合表達「盡可能保密」的程度要求。A用副詞形式錯誤；C用副詞修飾keep為誤；D雖文法可接受，但confidentially（機密地）作副詞較不自然，secret作形容詞補語更道地。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我想盡可能快地完成這份功課。",
+      "answer": "I want to finish this homework as quickly as possible.",
+      "key_points": [
+        "as quickly as possible",
+        "finish",
+        "homework"
+      ],
+      "hints": [
+        "句型：as + 副詞 + as possible，副詞修飾動詞 finish",
+        "常見錯誤：不要寫成 as quick as possible（quick 是形容詞，須用 quickly）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她盡可能仔細地檢查了測驗卷，以確保沒有錯誤。",
+      "answer": "She checked the test paper as carefully as possible to make sure there were no mistakes.",
+      "key_points": [
+        "as carefully as possible",
+        "check the test paper",
+        "to make sure"
+      ],
+      "hints": [
+        "句型：as + 副詞 + as possible 修飾動詞 checked，表達檢查的程度",
+        "注意：carefully 是副詞，不能用 careful；to make sure 引出目的"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "為了在聯誼中給人好印象，他想打扮得盡可能體面得體。",
+      "answer": "To make a good impression at the social gathering, he wanted to dress as smartly as possible.",
+      "key_points": [
+        "as smartly as possible",
+        "make a good impression",
+        "dress"
+      ],
+      "hints": [
+        "句型：as + 副詞 + as possible 修飾動詞 dress；dress smartly 為搭配組合",
+        "易錯點：不要用 as smart as possible（smart 作形容詞時須改為副詞 smartly）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "老師建議學生盡可能用簡潔的方式說明複雜的科學概念，這樣才能幫助同學理解。",
+      "answer": "The teacher advised students to explain the complex scientific concepts as concisely as possible so that it could help classmates understand.",
+      "key_points": [
+        "as concisely as possible",
+        "advise + object + to-infinitive",
+        "so that 引出結果"
+      ],
+      "hints": [
+        "句型：as + 副詞 + as possible 作 to-infinitive 的修飾語；concisely 強調說明方式的簡潔程度",
+        "易錯點：advise 後需搭 object + to-infinitive 結構，不要寫成 advise that；so that 引出目的/結果"
+      ]
+    }
   ]
 }

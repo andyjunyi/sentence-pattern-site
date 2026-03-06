@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A (With)。當分詞構句的邏輯主詞 (weather) 與主句主詞 (animals) 不同時，應使用獨立分詞構句，前置 With。完整形式：With the weather becoming colder。B 項 (Because of) 後接名詞，不接分詞。C 項 (Since) 是連接詞，不符形式。D 項 (During) 後接名詞，無法連接分詞構句。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "聽到鈴聲響起，學生們急忙走進教室。",
+      "answer": "Hearing the bell ring, the students hurried into the classroom.",
+      "key_points": [
+        "Hearing the bell ring（分詞構句開頭）",
+        "邏輯主詞相同（students）",
+        "逗號分隔主句"
+      ],
+      "hints": [
+        "提示1：將『聽到鈴聲響起』簡化為『Hearing the bell ring』，作為時間副詞子句的替代",
+        "提示2：注意『聽』和『走進』的邏輯主詞都是『學生們』，所以可以使用分詞構句"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "因為擔心遲到，小王早早離開了家。",
+      "answer": "Worrying about being late, Xiaowang left home early.",
+      "key_points": [
+        "Worrying about being late（分詞構句表原因）",
+        "避免重複主詞『Xiaowang』",
+        "被動意義『being late』的使用"
+      ],
+      "hints": [
+        "提示1：將『因為擔心遲到』簡化為『Worrying about being late』，用V-ing形式表原因（代替Because子句）",
+        "提示2：『being late』是被動構造，但此處表示『遲到』的狀態，是分詞構句常見的用法"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果不認真複習，學生就無法在考試中取得好成績。",
+      "answer": "Not reviewing seriously, students cannot achieve good grades in the exam.",
+      "key_points": [
+        "Not reviewing seriously（分詞構句表條件）",
+        "負面分詞『Not + V-ing』的形式",
+        "邏輯主詞『students』與主句相同"
+      ],
+      "hints": [
+        "提示1：將『如果不認真複習』簡化為『Not reviewing seriously』，分詞構句可表條件意義（代替If子句）",
+        "提示2：分詞構句表否定時，在V-ing前加『Not』；注意不能用『Not to review』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "完成了家庭作業後，小李邊看著窗外邊想著週末的計畫。",
+      "answer": "Having finished his homework, Xiaoli sat looking out the window, thinking about his weekend plans.",
+      "key_points": [
+        "Having finished his homework（完成態分詞『having + pp』）",
+        "表示先後發生的兩個動作",
+        "邏輯主詞一致（Xiaoli），避免重複"
+      ],
+      "hints": [
+        "提示1：『完成家庭作業』發生在『坐著看窗外』之前，所以用『Having + pp』的完成態分詞構句來表示先發生的動作",
+        "提示2：常見錯誤是用『Finishing his homework』而忽略了時間上的先後關係；當分詞動作明顯先於主句動作時，應使用『Having + pp』形式"
+      ]
+    }
   ]
 }

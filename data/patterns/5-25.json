@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B。句(1)「You _______ study hard, or you'll fail」帶有警告（否則會不及格），需用 had better，語氣強烈。句(2)「Citizens _______ follow traffic rules for everyone's safety」表社會責任與義務，用 ought to 較適合。A 項反向；C、D 項皆為同一用法，無法區分兩者語氣差異，不符學測考點。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "你最好立刻完成你的家庭作業。",
+      "answer": "You had better finish your homework immediately.",
+      "key_points": [
+        "had better 表示強烈建議",
+        "原形動詞 finish",
+        "無人稱變化"
+      ],
+      "hints": [
+        "句型：S + had better + V（原形），語氣帶有警告意味",
+        "常見錯誤：不要加 to（❌ had better to finish），不要用過去式（❌ had finished）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "學生們應該尊重他們的老師。",
+      "answer": "Students ought to respect their teachers.",
+      "key_points": [
+        "ought to 表示道德義務",
+        "原形動詞 respect",
+        "主詞複數時助動詞無變化"
+      ],
+      "hints": [
+        "句型：S + ought to + V（原形），語氣溫和，強調應然責任",
+        "注意：ought to 的否定形式是 ought not to（❌ oughtn't to 在正式英文中較少用）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他最好不要在考試時作弊，否則會被處分。",
+      "answer": "He had better not cheat on the exam, or he will be punished.",
+      "key_points": [
+        "had better not 構成否定",
+        "原形動詞 cheat",
+        "後接 or 子句說明負面後果"
+      ],
+      "hints": [
+        "句型：S + had better not + V（原形），否定形式直接加 not，不需要 do not",
+        "had better 常與後果相連，強調「如果不這樣做會很糟糕」的警告語氣"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "年輕人應該為他們的未來著想，並且不應該浪費時間在無意義的事情上。",
+      "answer": "Young people ought to think about their future, and they ought not to waste time on meaningless things.",
+      "key_points": [
+        "ought to 與 ought not to 並用",
+        "原形動詞 think、waste",
+        "複句結構連接兩個義務陳述"
+      ],
+      "hints": [
+        "句型：可在並列句中重複使用 S + ought to + V，強調多項責任與期望",
+        "注意：ought not to 的否定較正式，也可用 ought to + not + V，但前者更常見；避免混淆 had better 與 ought to 的語氣差異（前者強烈警告，後者溫和義務）"
+      ]
+    }
   ]
 }

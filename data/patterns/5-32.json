@@ -81,9 +81,7 @@
       "parts": [
         "She ",
         null,
-        " arrived on time; the flight was delayed by three hours.",
-        "cannot have",
-        null
+        " arrived on time; the flight was delayed by three hours."
       ],
       "blanks": [
         "cannot have"
@@ -101,9 +99,7 @@
       "parts": [
         "The child ",
         null,
-        " climbed that tall tree; he was only five years old.",
-        "could not have",
-        null
+        " climbed that tall tree; he was only five years old."
       ],
       "blanks": [
         "could not have"
@@ -121,9 +117,7 @@
       "parts": [
         "They ",
         null,
-        " known the answer before the teacher announced it.",
-        "cannot have",
-        null
+        " known the answer before the teacher announced it."
       ],
       "blanks": [
         "cannot have"
@@ -141,9 +135,7 @@
       "parts": [
         "It ",
         null,
-        " been her; I saw her in a different city at that exact moment.",
-        "could not have",
-        null
+        " been her; I saw her in a different city at that exact moment."
       ],
       "blanks": [
         "could not have"
@@ -308,6 +300,64 @@
       "answer": "C",
       "explanation": "正確答案是 C「could not have received」。網路中斷數小時是客觀事實，推斷他絕對不可能及時收到訊息。A 項「might have received」表可能性。B 項「must have received」表肯定推測，與事實矛盾。D 項「should have received」表應該而非推測的不可能性。此題測試 could not have（cannot have 的過去式表達）的正確用法。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "他昨天沒來學校，他絕對不可能生病了，因為我今天看到他在籃球場。",
+      "answer": "He didn't come to school yesterday. He cannot have been sick because I saw him at the basketball court today.",
+      "key_points": [
+        "cannot have + been (過去分詞)",
+        "時態銜接：過去動作 + 現在證據",
+        "表達「絕對不可能」的推測"
+      ],
+      "hints": [
+        "提示1：結構為 S + cannot + have + p.p.，此題 p.p. 為 been（表狀態）",
+        "提示2：易誤用 couldn't be sick（無法生病）或 must not have been（不一定），應強調推測的絕對否定"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這份考卷滿分是100分，小王考了95分，他絕對不可能作弊。",
+      "answer": "The test was out of 100 points. Xiaowang scored 95, so he cannot have cheated.",
+      "key_points": [
+        "cannot have + cheated (過去分詞)",
+        "根據現實條件（高分）推斷過去不可能的行為",
+        "因果邏輯：結果反推過去事實"
+      ],
+      "hints": [
+        "提示1：作弊 cheat，過去分詞為 cheated；結構：S + cannot + have + cheated",
+        "提示2：注意勿混淆 couldn't cheat（沒能力作弊）與 cannot have cheated（推測不可能作弊），前者涉及能力，後者涉及推測"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這家餐廳的廚師是我的朋友，廚藝非常好，這道菜絕對不可能是他做的。",
+      "answer": "The chef at this restaurant is my friend, and he is very skilled. This dish cannot have been cooked by him—it tastes terrible.",
+      "key_points": [
+        "cannot have + been cooked (被動完成式)",
+        "複雜結構：by + 人物代詞",
+        "推測與對比：優秀廚師 vs. 糟糕菜餚"
+      ],
+      "hints": [
+        "提示1：被動結構 cannot + have + been + p.p.，此題為 been cooked；整個短語推測過去完成的被動動作",
+        "提示2：易誤用主動 cannot have cooked 或現在式 cannot be cooked，應注意過去被動完成式的完整構成"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "根據警方調查，嫌疑人在案發時在醫院接受手術，他絕對不可能是偷走那筆珠寶的人。",
+      "answer": "According to the police investigation, the suspect was undergoing surgery at the hospital at the time of the crime. He cannot have stolen the jewelry.",
+      "key_points": [
+        "cannot have + stolen (過去分詞)",
+        "時間對應：過去時間點的相互排斥",
+        "法律推理：時間不符 → 推測不可能的犯罪行為"
+      ],
+      "hints": [
+        "提示1：盜竊 steal，過去分詞 stolen；完整結構：S + cannot + have + stolen + O",
+        "提示2：易誤用 must not have stolen（倫理判斷）或 couldn't have stolen（能力限制），應強調根據時間證據進行的邏輯推測，cannot have 是「絕對不可能」而非「禁止」或「無能力」"
+      ]
     }
   ]
 }

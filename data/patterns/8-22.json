@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A。主要主詞由 'not only...but also' 連接，結構上複數主詞應配複數動詞 'are'。'in addition to' 可正確引入補充資訊 'their personal interests'。B 項動詞誤用單數。C 項 'is' 與複數主詞不符。D 項 'as well as having' 結構冗長不合所需。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "除了學習數學，我還學習英文。",
+      "answer": "I study English as well as mathematics.",
+      "key_points": [
+        "as well as 連接兩個並列的名詞",
+        "主詞 I 與動詞 study 須一致",
+        "as well as 後接名詞形式"
+      ],
+      "hints": [
+        "句型框架：S + V + as well as + N（主詞 + 動詞 + as well as + 名詞）",
+        "注意：as well as 後不改變主要動詞的時態，動詞仍與主詞 I 一致（study 而非 studies）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "除了參加社團活動，Tom 還參加了學校運動會。",
+      "answer": "Tom participated in the school sports meet as well as joining club activities.",
+      "key_points": [
+        "as well as 後可接動名詞 joining",
+        "主要動詞 participated 與主詞 Tom 一致",
+        "時態保持過去式"
+      ],
+      "hints": [
+        "句型框架：S + V (過去式) + as well as + V-ing（主詞 + 過去動詞 + as well as + 動名詞）",
+        "注意：as well as 後的動名詞 joining 不影響主要動詞時態，主要動詞時態仍由主詞決定"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "除了完成功課，學生們還需要準備期末考試。",
+      "answer": "Students need to prepare for the final exam in addition to completing their homework.",
+      "key_points": [
+        "in addition to 較正式，後接動名詞 completing",
+        "主詞 Students 與動詞 need 保持一致",
+        "不定詞 to prepare 與 in addition to completing 並列"
+      ],
+      "hints": [
+        "句型框架：S + V + in addition to + V-ing（主詞 + 動詞 + in addition to + 動名詞）",
+        "注意：in addition to 後必須接動名詞或名詞，不能接不定詞；主要動詞 need 與複數主詞 Students 一致"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "除了發展自己的興趣愛好，應屆畢業生還需要思考未來的職涯規劃。",
+      "answer": "High school graduates need to think about their future career planning in addition to developing their personal interests and hobbies.",
+      "key_points": [
+        "in addition to 後接複合動名詞片語 developing their personal interests and hobbies",
+        "主詞 graduates 與動詞 need 保持一致",
+        "不定詞 to think about 與 in addition to 動名詞結構並列"
+      ],
+      "hints": [
+        "句型框架：S + V + in addition to + V-ing...（主詞 + 動詞 + in addition to + 複雜動名詞片語）",
+        "注意：in addition to 後的動名詞片語可包含受詞和修飾詞；主要動詞 need 與主詞 graduates 保持現在式一致，不因後接的複雜結構而改變"
+      ]
+    }
   ]
 }

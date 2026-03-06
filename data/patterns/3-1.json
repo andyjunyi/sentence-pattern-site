@@ -300,5 +300,63 @@
       "explanation": "正確答案是 A (as...as)。副詞 swiftly 用於肯定的同等比較，需用 as swiftly as 結構，表「跑得和教練示範時一樣快」。B 選項混用 so 與 than。C 選項為比較級。D 選項混用 as 與 than，違反句型規則。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個數學考試和上次一樣難。",
+      "answer": "This math exam is as difficult as the last one.",
+      "key_points": [
+        "as...as 結構",
+        "difficult（形容詞）",
+        "比較對象相同（exam vs. one）"
+      ],
+      "hints": [
+        "提示1：使用 as + adj. + as + 比較對象的基本結構",
+        "提示2：注意比較對象詞性要相等，此處用 one 代替 exam 避免重複"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你的英文發音不如我的清楚。",
+      "answer": "Your English pronunciation is not as clear as mine.",
+      "key_points": [
+        "not as...as 否定結構",
+        "clear（形容詞）",
+        "mine（代詞作比較對象）"
+      ],
+      "hints": [
+        "提示1：否定比較用 not as + adj. + as 表『不如』的意思",
+        "提示2：比較對象可用代詞 mine 取代 my pronunciation，但務必詞性對等"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這部電影三倍長於那部，卻不如那部有趣。",
+      "answer": "This movie is three times as long as that one, but it is not as interesting as that one.",
+      "key_points": [
+        "倍數詞 three times as",
+        "複合句結構（but 連接兩個比較）",
+        "as...as 與 not as...as 混用"
+      ],
+      "hints": [
+        "提示1：倍數表達放在第一個 as 前（three times as + adj. + as），第二個比較用否定形式",
+        "提示2：複合比較中兩個比較對象都須明確，避免指代不清或詞性不符"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管手機螢幕和電視螢幕一樣亮，但看電視對眼睛的傷害不如一整天看手機嚴重。",
+      "answer": "Although the smartphone screen is as bright as the TV screen, watching TV is not as harmful to the eyes as using a phone all day.",
+      "key_points": [
+        "concession clause（讓步句）",
+        "as...as 正面比較與 not as...as 否定比較並存",
+        "句式複雜度：動名詞與名詞片語作比較對象"
+      ],
+      "hints": [
+        "提示1：多層比較需注意各自比較對象的平行性；第一組比較 screen...screen，第二組比較 watching...using",
+        "提示2：易犯錯為混淆抽象行為（watching/using）與具體物體（screen）的詞性，務必確保同類事物相比"
+      ]
+    }
   ]
 }

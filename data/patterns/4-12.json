@@ -305,5 +305,63 @@
       "explanation": "第一空補充人物名詞 Professor Chen 用 who；第二空補充整個前句（演講活動）用 which。兩處均為非限定子句（由逗號分隔）。選項 B「that」不可用於非限定子句；C 順序相反；D 第二空錯用「that」。此題考驗對非限定子句結構的整體理解。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我的英文老師很親切，她總是耐心地幫助我們。",
+      "answer": "My English teacher, who is very kind, always helps us patiently.",
+      "key_points": [
+        "who代替人物名詞teacher",
+        "逗號分隔非限定子句",
+        "補充說明人物特質"
+      ],
+      "hints": [
+        "句型框架：名詞, who + V...",
+        "注意：不能用that；非限定子句提供額外資訊，去掉後主句仍完整"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我最近買了一部新手機，它的螢幕非常清晰。",
+      "answer": "I recently bought a new smartphone, which has a very clear screen.",
+      "key_points": [
+        "which代替事物名詞smartphone",
+        "非限定子句用逗號隔開",
+        "補充手機的特性"
+      ],
+      "hints": [
+        "句型框架：名詞, which + V...",
+        "常見錯誤：誤用that或省略逗號；which在此指smartphone，非整句"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我的同學李明獲得了數學競賽冠軍，這使他對未來充滿信心。",
+      "answer": "My classmate Li Ming won first place in the math competition, which filled him with confidence about the future.",
+      "key_points": [
+        "which代替整個前句（事件）",
+        "非限定子句說明整句結果",
+        "逗號的必要性"
+      ],
+      "hints": [
+        "句型框架：主句, which + V...（which代整句，非單一名詞）",
+        "注意：which指代整個事件時，逗號更不可省；此用法常見於因果關係表達"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "昨天我參加了校慶活動，活動中我認識了許多新朋友，這次經歷讓我學到了團隊合作的重要性。",
+      "answer": "I attended the school anniversary celebration yesterday, which allowed me to make many new friends and learn the importance of teamwork.",
+      "key_points": [
+        "which代替整個前句活動",
+        "非限定子句補充事件的影響或意義",
+        "複合資訊整合於補充子句"
+      ],
+      "hints": [
+        "句型框架：主句, which + V...（which指整個事件或狀況）",
+        "難點：避免過度使用and連接；確保which子句內容為補充說明而非核心資訊；逗號前後語意銜接自然流暢"
+      ]
+    }
   ]
 }

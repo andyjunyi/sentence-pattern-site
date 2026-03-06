@@ -130,9 +130,6 @@
       "parts": [
         "The students are ",
         null,
-        " to understand the advanced grammar.",
-        "The students are ",
-        null,
         " to understand the advanced grammar."
       ],
       "blanks": [
@@ -148,9 +145,6 @@
     {
       "id": 2,
       "parts": [
-        "This material is ",
-        null,
-        " for carpenters to build a house.",
         "This material is ",
         null,
         " for carpenters to build a house."
@@ -170,9 +164,6 @@
       "parts": [
         "Jane is not ",
         null,
-        " to take care of her younger brother.",
-        "Jane is not ",
-        null,
         " to take care of her younger brother."
       ],
       "blanks": [
@@ -188,9 +179,6 @@
     {
       "id": 4,
       "parts": [
-        "The new equipment is ",
-        null,
-        " for the team to win the championship.",
         "The new equipment is ",
         null,
         " for the team to win the championship."
@@ -306,6 +294,64 @@
       "answer": "A",
       "explanation": "正確答案是 A。符合句型 S + be + adj. + enough + to V，intelligent 是形容詞，enough 作副詞修飾它。B 項語序錯；C 項 intelligence 是名詞不符句型；D 項 intelligently 是副詞，雙重副詞修飾不當。此句表達能力充分足以獨立完成任務。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個箱子足夠輕，我可以自己搬。",
+      "answer": "This box is light enough for me to carry.",
+      "key_points": [
+        "light enough",
+        "for me to",
+        "carry"
+      ],
+      "hints": [
+        "句型框架：S + be + adj. + enough + for + N + to V",
+        "注意：enough 要放在形容詞 light 之後，不是 enough light"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他已經成熟到足以做出自己的決定。",
+      "answer": "He is mature enough to make his own decisions.",
+      "key_points": [
+        "mature enough",
+        "to make",
+        "own decisions"
+      ],
+      "hints": [
+        "句型框架：S + be + adj. + enough + to V（此題無 for 子句）",
+        "注意：mature 放在 enough 前，不要寫成 enough mature"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這支筆不夠銳利，無法讓他在考試中寫清楚。",
+      "answer": "The pen is not sharp enough for him to write clearly in the exam.",
+      "key_points": [
+        "not sharp enough",
+        "for him to write",
+        "clearly"
+      ],
+      "hints": [
+        "句型框架：S + be + adj. + enough + for + N + to V（可加否定）",
+        "注意：副詞 clearly 修飾動詞 write，位置在 to V 之後；enough 在形容詞後"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這個計畫足夠靈活，可以為不同的學生調整，而不會失去其核心目標。",
+      "answer": "This program is flexible enough for different students to adapt without losing its core objectives.",
+      "key_points": [
+        "flexible enough",
+        "for different students to adapt",
+        "without losing"
+      ],
+      "hints": [
+        "句型框架：S + be + adj. + enough + for + N + to V，後接原因或附加訊息",
+        "注意：enough 修飾形容詞 flexible；without 片語或其他修飾可接在不定式後，豐富句意但不改變核心句型"
+      ]
     }
   ]
 }

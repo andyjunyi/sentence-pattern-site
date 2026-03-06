@@ -313,5 +313,67 @@
       "explanation": "正確答案是 A「allow / to take」。allow 為符合此句型的「複雜及物動詞」，後接 O + to V 結構。B 項 let 不用 to（let + O + V 裸不定詞），不符合此句型。C 項結構混亂，allow 前不應有 to。D 項 let 不需 to，且句型結構錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師要求學生在下週五前完成報告。",
+      "answer": "The teacher asked the students to finish the report by next Friday.",
+      "key_points": [
+        "ask + O + to V",
+        "O = the students（受詞）",
+        "to finish（不定詞作受詞補語）",
+        "by next Friday（時間副詞片語）"
+      ],
+      "hints": [
+        "句型框架：The teacher asked + O(the students) + to V(finish the report)；ask後需接完整的受詞加不定詞",
+        "注意：不能寫『asked that the students finish』或『asked to finish』，因為需要明確的受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "父母期望孩子上大學後能找到好工作。",
+      "answer": "Parents expect their children to find good jobs after going to university.",
+      "key_points": [
+        "expect + O + to V",
+        "O = their children（受詞代詞）",
+        "to find（不定詞作受詞補語）",
+        "after going to university（時間狀語）"
+      ],
+      "hints": [
+        "句型框架：Parents expect + O(their children) + to V(find good jobs)；expect表達『期望/預期』的含義",
+        "注意：『their children』是不定詞『find』的動作執行者，千萬不能用『that』子句代替"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "校長勸說同學們積極參與社團活動以培養領導能力。",
+      "answer": "The principal persuaded the students to actively participate in club activities to develop leadership skills.",
+      "key_points": [
+        "persuade + O + to V",
+        "O = the students（受詞）",
+        "to actively participate（不定詞作受詞補語，含副詞修飾）",
+        "to develop（表目的的不定詞片語）"
+      ],
+      "hints": [
+        "句型框架：The principal persuaded + O(the students) + to V(participate in club activities)；persuade表達『說服』的含義",
+        "注意：『actively』修飾『participate』，整個『to actively participate』才是受詞補語；要避免寫成『persuaded that students participate』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "公司強迫員工簽署保密協議，以保護商業機密，但員工對此表示反對。",
+      "answer": "The company forced its employees to sign the confidentiality agreement to protect trade secrets, but the employees objected to this.",
+      "key_points": [
+        "force + O + to V",
+        "O = its employees（受詞代詞）",
+        "to sign the confidentiality agreement（不定詞作受詞補語，帶受詞）",
+        "object to + N/V-ing（對比結構，表反對態度）"
+      ],
+      "hints": [
+        "句型框架：The company forced + O(its employees) + to V(sign the confidentiality agreement)；force表達『強制』的含義，帶有負面色彩",
+        "注意：『sign』後可直接接受詞『the agreement』；後半句『but employees objected to this』用『object to』轉折，展現複雜的語意層次"
+      ]
+    }
   ]
 }

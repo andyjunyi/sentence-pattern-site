@@ -296,5 +296,63 @@
       "explanation": "原句因 because 與 so 同時出現而錯誤，因兩者語意重複。正確做法是刪除 so，只保留 because 子句加主句。選項 B、D 仍保留 so，犯相同錯誤。選項 C 句型結構混亂。因此只有 A 正確。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "因為明天有英文考試，所以我今晚必須認真讀書。",
+      "answer": "Because there is an English exam tomorrow, I have to study hard tonight. / I have to study hard tonight because there is an English exam tomorrow.",
+      "key_points": [
+        "because 表直接原因",
+        "There is an English exam tomorrow",
+        "have to study hard"
+      ],
+      "hints": [
+        "提示1：because 子句可置於句首（後接逗號）或句尾，主句結構保持不變",
+        "提示2：不要使用『Because... so...』的雙重連接詞，因為語意重複"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "既然你已經完成作業，就可以去和朋友玩了。",
+      "answer": "Since you have already finished your homework, you can go play with your friends. / You can go play with your friends since you have already finished your homework.",
+      "key_points": [
+        "since 表已知或顯而易知的原因",
+        "have already finished",
+        "can go play with"
+      ],
+      "hints": [
+        "提示1：since 語氣弱於 because，常用於雙方都認可的事實；子句可前可後",
+        "提示2：注意完成式 have finished 的使用，強調動作已完成"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於天氣很冷，學生們在體育課時都穿著厚重的外套。",
+      "answer": "As the weather is very cold, the students wear thick coats during PE class. / The students wear thick coats during PE class as the weather is very cold.",
+      "key_points": [
+        "as 表附帶理由或伴隨原因，語氣最弱",
+        "the weather is very cold",
+        "wear thick coats during PE class"
+      ],
+      "hints": [
+        "提示1：as 通常用於表達伴隨狀況或自然而然的原因，不強調因果關係本身",
+        "提示2：as 子句前置時需加逗號，後置時可加可不加，但前置更常見"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "因為社群媒體容易成癮，許多青少年應該限制他們每天使用手機的時間。",
+      "answer": "Because social media is addictive, many teenagers should limit the time they spend on their phones every day. / Many teenagers should limit the time they spend on their phones every day because social media is addictive.",
+      "key_points": [
+        "because 強調直接原因，適合回答 Why 問題",
+        "social media is addictive",
+        "limit the time they spend on their phones"
+      ],
+      "hints": [
+        "提示1：此句涉及複雜句結構：主句中含有 the time (that) they spend on their phones 的關係子句，需與原因副詞子句區分",
+        "提示2：注意 addictive（易成癮的）是形容詞，不可誤用為 addiction（成癮，名詞）"
+      ]
+    }
   ]
 }

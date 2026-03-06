@@ -303,5 +303,65 @@
       "explanation": "正確答案是 B (it)。此句型為「S + V + it + adj. + that 子句」，consider 後的虛受詞 it 代替真正受詞（that 子句），it 位於形容詞 possible 之前。選項 A 的 what 為關係代詞，C 的 which 亦然，D 的 that 只能引導名詞子句但不作虛受詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我覺得每天早起很困難。",
+      "answer": "I find it difficult to get up early every day.",
+      "key_points": [
+        "find + it + adj.",
+        "difficult",
+        "to get up early"
+      ],
+      "hints": [
+        "句型框架：S + find + it + adj. + to V，it是虛受詞，真正受詞是to get up early",
+        "常見錯誤：不能寫成'I find to get up early difficult'，形容詞必須放在it之後"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他認為在圖書館裡專心讀書很容易。",
+      "answer": "He thinks it easy to concentrate on studying in the library.",
+      "key_points": [
+        "think + it + adj.",
+        "easy",
+        "concentrate on studying",
+        "in the library（地點狀語）"
+      ],
+      "hints": [
+        "句型框架：S + think + it + adj. + to V，it代替不定詞短語to concentrate on studying",
+        "注意：地點或時間狀語可加在不定詞之後，不影響虛受詞結構"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "良好的時間管理使得學生能夠平衡課業和興趣變得可能。",
+      "answer": "Good time management makes it possible for students to balance schoolwork and hobbies.",
+      "key_points": [
+        "make + it + possible",
+        "for + 名詞/代詞",
+        "to balance ... and ..."
+      ],
+      "hints": [
+        "句型框架：S + make + it + adj. + for sb./sth. + to V，當受詞是人時需加for介詞短語",
+        "常見錯誤：不能漏掉for students，直接寫'makes it possible students to balance'是文法錯誤"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們發現遵守承諾是維持友誼的必要條件這一事實。",
+      "answer": "We find it a necessary condition for maintaining friendship that keeping promises is important.",
+      "key_points": [
+        "find + it + N + that 子句",
+        "a necessary condition",
+        "that引導真正受詞",
+        "keeping promises（動名詞）"
+      ],
+      "hints": [
+        "句型變化：此題使用N（名詞）而非adj.，公式為S + V + it + N + that子句，it仍為虛受詞",
+        "注意：that子句才是真正邏輯受詞；'a necessary condition'是補語，置於it之後"
+      ]
+    }
   ]
 }

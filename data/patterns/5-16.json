@@ -310,5 +310,63 @@
       "explanation": "第一空have + O + p.p.表被動（屋頂被修），用repaired；第二空get + O + p.p.亦表被動（保險公司讓它被修），用fixed。have較正式，get較口語。A項repairing/to fix混用不當；B項fixing為主動與語意不符；D項repair/fix為原形動詞不符文法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我需要修理我的手機。",
+      "answer": "I need to have my phone repaired. / I need to get my phone repaired.",
+      "key_points": [
+        "need to have/get",
+        "my phone (受詞)",
+        "repaired (過去分詞，表被動)"
+      ],
+      "hints": [
+        "句型框架：need + to have/get + O + p.p.，表示『需要讓某人做某事』",
+        "注意：repaired是過去分詞，表手機被修理（被動），不是repairing"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "父母親讓孩子每天練習英文。",
+      "answer": "Parents have their children practice English every day. / Parents get their children to practice English every day.",
+      "key_points": [
+        "have/get + O + V-ing (practice) 或 have/get + O + to V",
+        "their children (受詞)",
+        "practice (現在分詞或不定式，表主動)"
+      ],
+      "hints": [
+        "句型框架：have/get + O + V-ing 表受詞『主動進行』某動作；have + O + V原形也可",
+        "注意區分：此題children是主動practice，所以用V-ing或to V，不是過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師要求學生完成作業，否則會有後果。",
+      "answer": "The teacher has her students complete their assignments, or there will be consequences. / The teacher wants to have the assignments completed by her students.",
+      "key_points": [
+        "have + O + V原形 (complete) 或 want to have + O + p.p.",
+        "her students / the assignments (受詞位置差異)",
+        "complete/completed (主動或被動的選擇)"
+      ],
+      "hints": [
+        "句型框架：have + O + V原形表『使役』（受詞主動）；want + to have + O + p.p.表『使役被動』",
+        "注意：『完成作業』可視為students的主動行為(have students complete)，或作業被完成(have assignments completed)，意思略有不同"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "由於颶風，市政府讓所有學校停課一週，並讓商店關閉。",
+      "answer": "Due to the hurricane, the city government had all schools closed for a week and had all shops shut down. / The city government got all the stores to close and had the schools remain closed.",
+      "key_points": [
+        "had + O + p.p. (closed, shut down)",
+        "all schools / all shops (受詞)",
+        "過去式 had 搭配 p.p. 表被動結果"
+      ],
+      "hints": [
+        "句型框架：have + O + p.p. 表『使役被動』，主詞讓受詞被動遭受某事；過去情境用had",
+        "注意：『停課』『關閉』都是受詞被動遭受的結果，所以用過去分詞(closed, shut down)，不是現在分詞"
+      ]
+    }
   ]
 }

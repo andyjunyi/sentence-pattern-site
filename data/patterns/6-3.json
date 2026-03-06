@@ -303,5 +303,64 @@
       "explanation": "正確答案是A「to do / exercising」。第一空用it虛主詞結構「It is essential to do」，不定詞作真正主詞；第二空「exercising consistently」為獨立的動名詞片語作主詞，表習慣性動作。B選項前後顛倒；C選項to doing文法錯誤；D選項do與exercised詞性搭配不當。此題考查虛主詞與動名詞主詞的靈活運用。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "每天早起對我們的健康很重要。",
+      "answer": "Getting up early every day is important for our health. / It is important for our health to get up early every day.",
+      "key_points": [
+        "Getting up early / to get up early",
+        "is important",
+        "for our health"
+      ],
+      "hints": [
+        "提示1：動名詞作主詞用 V-ing is...; 不定詞作主詞用 It is... to V 結構",
+        "提示2：兩種形式均正確，但動名詞作主詞更強調習慣性動作，虛主詞it則使句子更簡潔"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "準時繳交功課是每個學生的責任。",
+      "answer": "Submitting homework on time is every student's responsibility. / It is every student's responsibility to submit homework on time.",
+      "key_points": [
+        "Submitting / to submit",
+        "on time",
+        "is...responsibility"
+      ],
+      "hints": [
+        "提示1：選用動名詞表習慣性要求，或用虛主詞it突顯個別責任",
+        "提示2：注意 responsibility 後需用 of / to，此處應為 to submit；或直接用 is...responsibility 後接同位語"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "在網路上與陌生人分享個人資訊是危險且不明智的做法。",
+      "answer": "Sharing personal information with strangers online is dangerous and unwise. / It is dangerous and unwise to share personal information with strangers online.",
+      "key_points": [
+        "Sharing / to share",
+        "with strangers online",
+        "dangerous and unwise"
+      ],
+      "hints": [
+        "提示1：動名詞強調此類行為普遍性風險；虛主詞it則凸顯具體情境下的不智",
+        "提示2：避免用 It is dangerous to sharing... 的混雜形式；兩個形容詞並列時需用 and 連接"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學習如何有效管理時間和壓力對高中生來說至關重要，這將直接影響他們的學業成績和心理健康。",
+      "answer": "Learning how to manage time and stress effectively is crucial for high school students, which will directly affect their academic performance and mental health. / It is crucial for high school students to learn how to manage time and stress effectively, which will directly affect their academic performance and mental health.",
+      "key_points": [
+        "Learning / to learn how to...",
+        "manage time and stress effectively",
+        "crucial for...",
+        "which will directly affect"
+      ],
+      "hints": [
+        "提示1：動名詞作主詞突顯學習本身的重要性與習慣價值；虛主詞it則強調對學生群體的特定要求；後句用關係代名詞which補充說明影響",
+        "提示2：注意 how to 後接原形動詞；avoid 改為 manage；兩個受影響對象用 and 並列時應避免過度複雜，可考慮用分號或 dash 改善可讀性"
+      ]
+    }
   ]
 }

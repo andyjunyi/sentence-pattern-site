@@ -127,8 +127,7 @@
         null,
         " the new artifact ",
         null,
-        " all the visiting researchers with great enthusiasm.",
-        null
+        " all the visiting researchers with great enthusiasm."
       ],
       "blanks": [
         "showed",
@@ -149,8 +148,7 @@
         null,
         " this important letter ",
         null,
-        " the finance department by tomorrow morning.",
-        null
+        " the finance department by tomorrow morning."
       ],
       "blanks": [
         "send",
@@ -316,6 +314,64 @@
       "answer": "A",
       "explanation": "正確答案是A。cook 搭配雙賓語時應用 for，句子正確。B 項 taught 應為『taught the players to 或 taught the game to the players』，介詞用法錯誤；C 項 showed 應用 to，『on the research』詞序不當；D 項『to the concert for the show』重複冗余，介詞搭配不當。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師教我們英文文法。",
+      "answer": "The teacher taught us English grammar. / The teacher taught English grammar to us.",
+      "key_points": [
+        "teach + IO + DO 雙賓語結構",
+        "IO（us）為人，DO（English grammar）為物",
+        "改寫形式：teach + DO + to + IO"
+      ],
+      "hints": [
+        "提示1：句型框架為 S + teach + IO + DO，其中 teach 後可直接跟間接受詞再跟直接受詞",
+        "提示2：teach 改寫時用 to 不用 for，常見錯誤為用 for"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我媽媽為我做了一份營養午餐。",
+      "answer": "My mother made me a nutritious lunch. / My mother made a nutritious lunch for me.",
+      "key_points": [
+        "make + IO + DO 雙賓語結構",
+        "IO（me）為人，DO（a nutritious lunch）為物",
+        "make 改寫用 for 不用 to"
+      ],
+      "hints": [
+        "提示1：make/buy/cook 等「製作類」授與動詞改寫時用 for，與 give/send/teach 不同",
+        "提示2：注意不定冠詞 a 在 nutritious 前，因為 nutritious 以輔音開頭"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "同學們給老師買了一束花來感謝他的教導。",
+      "answer": "The students bought the teacher a bunch of flowers to thank him for his teaching. / The students bought a bunch of flowers for the teacher to thank him for his teaching.",
+      "key_points": [
+        "buy + IO + DO 雙賓語結構",
+        "IO（the teacher）為人，DO（a bunch of flowers）為物",
+        "buy 改寫時用 for，並注意不定式片語來表達目的"
+      ],
+      "hints": [
+        "提示1：本題結合雙賓語句型與不定式片語 to thank，句型為 S + buy + IO + DO + 不定式",
+        "提示2：buy 屬製作/購買類動詞，改寫時一定要用 for；易錯為誤用 to"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "為了準備聯誼活動，班長發給每位同學一份詳細的任務清單，並向大家展示了活動的宣傳海報。",
+      "answer": "To prepare for the social event, the class president sent each student a detailed task list and showed them the event's promotional poster. / To prepare for the social event, the class president sent a detailed task list to each student and showed the event's promotional poster to them.",
+      "key_points": [
+        "send + IO + DO 雙賓語結構",
+        "show + IO + DO 雙賓語結構",
+        "send 和 show 改寫時都用 to，並注意複數代詞 them 的使用"
+      ],
+      "hints": [
+        "提示1：本題包含兩個授與動詞 send 和 show，兩者改寫都用 to；結構為『S + V1 + IO + DO and V2 + IO + DO』",
+        "提示2：易錯點為混淆 send/show 的改寫介詞，誤用 for；另注意 each student（單數）後用 them 代替時應改為 him/her 或保持用複數形式"
+      ]
     }
   ]
 }

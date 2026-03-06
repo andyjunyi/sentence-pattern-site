@@ -301,5 +301,63 @@
       "explanation": "正確答案是 C。主詞變更（they → populations），目的子句有自己的主詞時，須用「in order that + S + would/can + V」的完整從句結構；空格後「vulnerable populations would have」符合此需求。A 項 in order to 和 B 項 so as to 皆為不定詞形，主詞必須相同。D 項改變了原句邏輯結構。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我每天早起，以便準時上學。",
+      "answer": "I get up early every day so that I can arrive at school on time. / I get up early every day in order to arrive at school on time.",
+      "key_points": [
+        "so that + can",
+        "in order to + V",
+        "arrive at school on time"
+      ],
+      "hints": [
+        "提示1：主詞相同時可用 so that + can 或 in order to 改寫",
+        "提示2：注意 so that 後接 can/will/may 搭配動詞，不能直接接不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "學生認真讀書，為了在大學入學考試中取得好成績。",
+      "answer": "Students study hard so that they can get good grades in the university entrance exam. / Students study hard in order that they may achieve good results in the university entrance exam.",
+      "key_points": [
+        "so that/in order that + S + can/may",
+        "study hard",
+        "get good grades in the entrance exam"
+      ],
+      "hints": [
+        "提示1：主詞不同時需用 so that 或 in order that 搭配助動詞（can/may/will）",
+        "提示2：avoid 誤用『so that to get』—so that 後必須有助動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師用了許多例子來解釋這個文法概念，以便學生能夠清楚地理解。",
+      "answer": "The teacher used many examples to explain the grammar concept so that students could understand it clearly. / The teacher used many examples to explain the grammar concept in order that the students might understand clearly.",
+      "key_points": [
+        "so that + could/might",
+        "in order that",
+        "use examples to explain"
+      ],
+      "hints": [
+        "提示1：當表達過去情景或假設時，so that 後可用 could/might 替代 can/may",
+        "提示2：so that 子句表達目的時，助動詞選擇應符合主要子句時態"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "政府制定了新的環保政策，使得企業能夠減少碳排放，從而保護地球環境。",
+      "answer": "The government established new environmental policies so that enterprises could reduce carbon emissions in order to protect the Earth's environment. / The government established new environmental policies in order that companies might be able to decrease their carbon footprint and thus preserve the planetary ecosystem.",
+      "key_points": [
+        "so that + could + V",
+        "in order that + might",
+        "reduce carbon emissions / decrease carbon footprint"
+      ],
+      "hints": [
+        "提示1：複雜句中可結合多個目的子句，第一個 so that 後用 could 表達可能性，第二個可用 in order to 或另一個 so that",
+        "提示2：注意主詞一致性—若企業與政府不同，需用 so that/in order that + S + could/might，不能簡化為不定詞"
+      ]
+    }
   ]
 }

@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A。第一空用過去簡單式 objected to accepting it（board 為單數，反對接受它），to 為介系詞。第二空用被動形式 were opposed to implementing（union leaders 為複數，反對實施改變），to 為介系詞。B 的 accept 應為 accepting；C 缺少 to 介系詞；D 時態與介系詞用法皆錯。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我的父母反對我熬夜讀書。",
+      "answer": "My parents object to my staying up late to study. / My parents are opposed to my staying up late to study.",
+      "key_points": [
+        "object to / be opposed to 後接 V-ing",
+        "my staying up late（所有格 + V-ing）",
+        "to study 為不定詞表示目的"
+      ],
+      "hints": [
+        "句型框架：S + object to + V-ing，注意 to 是介系詞不是不定詞符號",
+        "常見錯誤：誤寫成 object to stay 或 opposed to stay（錯誤地用原形動詞）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師反對學生在課堂上使用手機。",
+      "answer": "The teacher objects to students using mobile phones in class. / The teacher is opposed to students using mobile phones in class.",
+      "key_points": [
+        "object to / be opposed to 後接 V-ing",
+        "students using（主詞 + V-ing 構成動名詞片語）",
+        "in class 時間地點副詞片語"
+      ],
+      "hints": [
+        "句型框架：S + object to + V-ing，V-ing 前的名詞可用所有格或主詞形式",
+        "注意：students using 中 students 為動名詞的邏輯主詞，用主詞形式而非所有格也可接受"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "環保人士反對在這片森林裡建造新的住宅開發區。",
+      "answer": "Environmental activists are opposed to building a new residential development in this forest. / Environmental activists object to building a new residential development in this forest.",
+      "key_points": [
+        "be opposed to + V-ing 形容詞片語結構",
+        "building a new residential development（複雜動名詞片語帶受詞）",
+        "in this forest 地點介系詞片語修飾"
+      ],
+      "hints": [
+        "句型框架：S + be opposed to + V-ing，be opposed to 為形容詞片語，V-ing 後可接複雜受詞結構",
+        "注意：building 後接 a new residential development（受詞），整體構成複雜的動名詞片語"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管許多公民反對提高學費，政府仍然決定實施這項政策。",
+      "answer": "Although many citizens object to raising tuition fees, the government still decided to implement this policy. / Despite many citizens being opposed to raising tuition fees, the government still decided to implement this policy.",
+      "key_points": [
+        "object to / be opposed to 在讓步子句中的應用",
+        "raising tuition fees（V-ing 片語帶受詞）",
+        "対比句型結構（讓步 + 主要子句）"
+      ],
+      "hints": [
+        "句型框架可置於讓步子句：Although S + object to + V-ing, main clause；或 Despite S + being opposed to + V-ing",
+        "注意：be opposed to 在讓步子句時需加 being 以形成完整片語；object to 則直接接 V-ing"
+      ]
+    }
   ]
 }

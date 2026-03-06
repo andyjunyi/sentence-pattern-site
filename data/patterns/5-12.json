@@ -307,5 +307,63 @@
       "explanation": "正確答案是B「got caught」。此句描述突然被抓住的偶發事件，get被動「get caught」強調事件的突發性和暗示主詞自身有責任（因偷竊被抓），更符合情境。A「was being caught」為過去進行被動，表達持續過程不當；C「was caught」雖文法正確但較客觀、正式；D「had caught」為主動態，邏輯錯誤。get被動在此更能表達那瞬間被發現的戲劇感。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "昨天我在學校迷路了。",
+      "answer": "I got lost at school yesterday.",
+      "key_points": [
+        "got lost（迷路）",
+        "S + get + p.p. 結構",
+        "過去式時態"
+      ],
+      "hints": [
+        "提示1：get lost 是 get 被動的常見搭配，表示發生了迷路這個狀況",
+        "提示2：注意不要寫成 I was lost（我處於迷路的狀態），get lost 強調動作過程"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他因為遲到被老師批評了。",
+      "answer": "He got criticized by the teacher for being late.",
+      "key_points": [
+        "got criticized（被批評）",
+        "by + agent（by the teacher）",
+        "介詞搭配 for being late"
+      ],
+      "hints": [
+        "提示1：get 被動可以帶 by + agent 說明執行者，句型為 S + get + p.p. + by + agent",
+        "提示2：注意 criticize 的過去分詞是 criticized（兩個 i），不要漏掉第二個 i"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果你不認真讀書，你會被學校開除的。",
+      "answer": "If you don't study hard, you will get fired by the school.",
+      "key_points": [
+        "will get fired（將被開除）",
+        "條件句搭配（If...will...）",
+        "get 被動的未來式"
+      ],
+      "hints": [
+        "提示1：條件句中主要子句用未來式 will + get + p.p.，從句用現在簡單式",
+        "提示2：get fired 是慣用搭配，表示被解僱或開除，比 be fired 更口語化、有警告意味"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "小王在派對上被抓到作弊，他感到很尷尬，因為所有朋友都看到了。",
+      "answer": "Xiaowang got caught cheating at the party, and he felt embarrassed because all his friends saw it.",
+      "key_points": [
+        "got caught cheating（被抓到作弊）",
+        "get caught + Ving（接動名詞表示被抓到做某事）",
+        "因果關係表達"
+      ],
+      "hints": [
+        "提示1：get caught 後可接動名詞（cheating），表示『被抓到正在做某事』，這是 get 被動的特殊用法",
+        "提示2：注意 caught 是 catch 的過去分詞；『因為』用 because 引導原因子句，不要與 so 混淆"
+      ]
+    }
   ]
 }

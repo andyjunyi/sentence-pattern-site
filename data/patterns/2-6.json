@@ -304,5 +304,63 @@
       "explanation": "主句 spent（過去式）表過去行為，as though 子句應使用過去完成式 had possessed，表示與過去事實相反的假設（他沒有擁有數百萬）。選項 A 簡單過去式無相對時間感；選項 C 含 would 不符虛擬語氣結構；選項 D 進行式不適合表完成事實。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "他說話的方式好像他從未上過學一樣。",
+      "answer": "He spoke as if he had never been to school.",
+      "key_points": [
+        "as if + 過去完成式",
+        "had never been",
+        "與過去事實相反的假設"
+      ],
+      "hints": [
+        "提示1：使用 as if/as though 引導假設子句，主句過去式配過去完成式",
+        "提示2：注意 had been 不能寫成 was 或 been，因為表示與過去事實相反"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她表現得好像她是班上最聰明的學生一樣。",
+      "answer": "She acted as though she were the smartest student in the class.",
+      "key_points": [
+        "as though + 過去式 were",
+        "與現在事實相反",
+        "虛擬語氣中的 were"
+      ],
+      "hints": [
+        "提示1：與現在事實相反時用過去式，主語為第三人稱單數仍用 were（虛擬語氣）",
+        "提示2：不可寫成 'as though she was'，虛擬語氣中 is 變為 were 而非 was"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師看起來好像他整夜沒有睡覺一樣，眼睛又紅又腫。",
+      "answer": "The teacher looked as if he had not slept the whole night, with his eyes red and swollen.",
+      "key_points": [
+        "as if + 過去完成式 had not slept",
+        "與過去事實相反",
+        "現在完成式轉換為過去完成式"
+      ],
+      "hints": [
+        "提示1：主句 looked（過去式）搭配過去完成式 had not slept，表示昨晚沒睡這個過去的事實與現在的樣子相反",
+        "提示2：易錯成 'as if he did not sleep' 或 'as if he hasn't slept'，但應該用過去完成式表示過去已完成的動作"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "那位學生回答問題的方式好像他早就預先知道答案會被問到一樣，絲毫沒有猶豫。",
+      "answer": "The student answered the question as if he had known the answer would be asked beforehand, without any hesitation.",
+      "key_points": [
+        "as if + 過去完成式 had known",
+        "主句過去式 answered",
+        "與過去事實完全相反的推測"
+      ],
+      "hints": [
+        "提示1：主句過去式 answered 後接 as if + 過去完成式 had known，強調他早就預先知道這個與事實相反的假設",
+        "提示2：不可混用時態如 'as if he knows' 或 'as if he knew and would answer'；過去完成式必須置於 as if 之後表達對過去事實的反事實假設"
+      ]
+    }
   ]
 }

@@ -305,5 +305,67 @@
       "explanation": "正確答案是 A。此句表反比關係（噪音越高，學生越難專心）。「high」是單音節形容詞，比較級為 higher；「able」是多音節形容詞，反向比較用 less able（較不能）。正確結構為「the higher...the less able」。B 項 more high 錯誤（單音節用 -er）且語序混亂；C 項 less 不完整，應為 less able；D 項 more higher 為雙重比較級，unable 為單詞無法使用。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "你讀書越認真，成績就越好。",
+      "answer": "The harder you study, the better your grades will be.",
+      "key_points": [
+        "The harder",
+        "the better",
+        "倒裝語序（study 主語後置）"
+      ],
+      "hints": [
+        "句型框架：The + 比較級 (harder) + S + V, the + 比較級 (better) + S + V",
+        "注意：harder 和 better 都是單音節形容詞加 -er，must 緊接在 the 之後"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你越早開始準備學測，壓力就越少。",
+      "answer": "The earlier you start preparing for the college entrance exam, the less pressure you will have.",
+      "key_points": [
+        "The earlier",
+        "the less pressure",
+        "多音節詞用 more/less 結構",
+        "時態一致（will have）"
+      ],
+      "hints": [
+        "句型框架：The + 比較級 + S + V, the + 比較級 + S + V；pressure 是名詞，前面用 less 修飾",
+        "注意：early 加 -r 變 earlier（單音節），而 less pressure 是特殊用法，表達「越少壓力」"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "人們越關注環保問題，就越有可能找到解決方案。",
+      "answer": "The more attention people pay to environmental issues, the more likely they are to find solutions.",
+      "key_points": [
+        "The more attention",
+        "the more likely",
+        "pay attention to",
+        "be likely to do"
+      ],
+      "hints": [
+        "句型框架：The more + N + S + V, the more + adj. + S + V；attention 是名詞，前面用 more 修飾",
+        "注意：be likely to do 表示「更有可能做某事」，第二個子句用形容詞 likely 而非副詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "你在學習中犯的錯誤越多，你就越能從失敗中學到教訓。",
+      "answer": "The more mistakes you make in your studies, the more lessons you learn from failures.",
+      "key_points": [
+        "The more mistakes",
+        "the more lessons",
+        "make mistakes",
+        "learn from",
+        "名詞前用 more 修飾"
+      ],
+      "hints": [
+        "句型框架：The more + N + S + V, the more + N + S + V；兩個子句都使用名詞複數形式 (mistakes / lessons) 且前面加 more",
+        "注意：常見錯誤是用 learn... from failure (單數) 而非 failures (複數)；確保兩個 more 都緊接在 the 之後且後面接名詞"
+      ]
+    }
   ]
 }

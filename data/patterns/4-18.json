@@ -300,5 +300,63 @@
       "explanation": "兩個並列的賓語子句都作為 discussed 的受詞，表達「是否……」的不確定性。雖然 if 在受詞位置也可用，但在正式文體與並列結構中，為保持平行結構的一致性與正式性，兩者都應使用 whether。A 項混用導致平行不一；B 項順序顛倒；D 項 if 雖文法可接但不如 whether 正式和一致性強。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不確定明天是否會下雨。",
+      "answer": "I'm not sure whether/if it will rain tomorrow.",
+      "key_points": [
+        "whether/if 引導名詞子句",
+        "作受詞位置",
+        "will rain（未來式）"
+      ],
+      "hints": [
+        "句型結構：S + V + whether/if + S + V",
+        "此處作受詞，whether 和 if 都可接受，但作主詞位置必須用 whether"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師想知道學生是否完成了功課。",
+      "answer": "The teacher wants to know whether/if the students have finished their homework.",
+      "key_points": [
+        "whether/if 引導名詞子句作受詞",
+        "have finished（現在完成式）",
+        "want to know 的賓語"
+      ],
+      "hints": [
+        "句型結構：S + V + whether/if + S + V，此時 V 為及物動詞 know",
+        "注意時態配合：homework 完成時間是過去，故使用現在完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她是否參加畢業典禮對全班同學都很重要。",
+      "answer": "Whether she attends the graduation ceremony is important to all classmates.",
+      "key_points": [
+        "whether 作主詞位置（必用 whether 不能用 if）",
+        "is important（主詞補語）",
+        "attends（一般現在式）"
+      ],
+      "hints": [
+        "句型結構：whether + S + V + ...是主詞，後接謂語 is important；作主詞時絕對不能用 if",
+        "常見錯誤：誤用 if 作主詞，或忘記主詞動詞單複數一致"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論你是否同意我的想法，我都會堅持這個決定。",
+      "answer": "Whether you agree with my idea or not, I will stick to this decision.",
+      "key_points": [
+        "whether...or not 結構強調雙重可能性",
+        "作介詞片語前置修飾主句",
+        "stick to（堅持）"
+      ],
+      "hints": [
+        "句型結構：whether + S + V + or not 可置於句首或句中，強調無論哪種情況都成立",
+        "注意：此時 whether or not 作介詞片語修飾整個主句，不同於作受詞的用法；or not 與 whether 搭配時可放在 V 後，也可放在句尾"
+      ]
+    }
   ]
 }

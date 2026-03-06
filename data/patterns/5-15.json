@@ -313,5 +313,67 @@
       "explanation": "正確答案是 B。第一空「說服員工接受」用 get to accept（強調說服努力）；第二空「家庭情況導致拒絕」用 caused（客觀因果關係）。A 中第一個 get accept 缺少 to。C 中 cause to accept 不符合勸導語境。D 中 made 後不能加 to。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師說服學生參加英文辯論比賽。",
+      "answer": "The teacher got the students to participate in the English debate competition.",
+      "key_points": [
+        "got + O + to V",
+        "參加 = participate in",
+        "比賽 = competition"
+      ],
+      "hints": [
+        "句型框架：S + get + O + to V，表示透過說服使他人做事",
+        "注意：to participate 前的 to 不可省略，get 後直接接受詞再接 to V"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "媽媽勸我哥哥放棄玩電動遊戲，專心讀書。",
+      "answer": "Mom got my brother to give up playing video games and focus on studying.",
+      "key_points": [
+        "got my brother to",
+        "give up = 放棄",
+        "focus on = 專心於",
+        "不定詞的並列結構"
+      ],
+      "hints": [
+        "句型框架：S + get + O + to V，O 是 my brother，to V 是 to give up and focus on；兩個不定詞可用 and 連接",
+        "常見錯誤：不能寫成 get my brother give up（缺少 to）或 get my brother to playing（第二個動詞應為 focus on）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "大雨導致許多學生無法準時抵達學校。",
+      "answer": "The heavy rain caused many students to arrive at school late.",
+      "key_points": [
+        "caused + O + to V",
+        "cause 表客觀因果關係",
+        "arrive at = 抵達",
+        "late = 遲到/晚"
+      ],
+      "hints": [
+        "句型框架：S + cause + O + to V，cause 較正式，強調客觀的因果關係；O 是 many students，to V 是 to arrive at school late",
+        "注意：late 是副詞修飾 arrive，不能寫成 cause students to be late（雖文法正確但改變了結構）；重點是掌握 caused + O + to V 的基本形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "社群媒體上的虛假新聞導致許多人相信不實的資訊。",
+      "answer": "Fake news on social media caused many people to believe false information.",
+      "key_points": [
+        "caused + O + to V",
+        "fake news = 虛假新聞",
+        "believe = 相信",
+        "false information = 不實資訊",
+        "cause 表示因果關係"
+      ],
+      "hints": [
+        "句型框架：S + cause + O + to V；S 是 fake news（複合名詞），O 是 many people，to V 是 to believe false information；cause 強調客觀影響",
+        "常見錯誤：不能寫成 caused people believe（缺少 to）或 caused people to believing（to 後須接原形動詞，不能加 -ing）；注意複合名詞 fake news 作主詞時動詞用單數"
+      ]
+    }
   ]
 }

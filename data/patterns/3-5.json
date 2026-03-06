@@ -297,5 +297,66 @@
       "explanation": "正確答案是 B (too / to)。標準的 too...for sb. to V 句型應為「too complicated for the beginners to answer」。A 的 so...that 結構冗余；C 混淆 too 和 so；D 的 very 無法表達否定含義。此題考 for sb. 後直接接 to V 的省略用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個數學題目太難了，我無法解決。",
+      "answer": "This math problem is too difficult for me to solve.",
+      "key_points": [
+        "too difficult",
+        "for me",
+        "to solve"
+      ],
+      "hints": [
+        "句型框架：too + adj. + for sb. + to V，其中 for me 指明受影響者",
+        "注意：solve 是原形動詞，不可用被動語態 'to be solved'"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這家飯店的價格太高了，我們負擔不起。",
+      "answer": "The hotel is too expensive for us to afford.",
+      "key_points": [
+        "too expensive",
+        "for us",
+        "to afford",
+        "can't/cannot 隱含在句意中"
+      ],
+      "hints": [
+        "句型框架中 too + adj. 後的否定意涵已內含，無需再加 cannot",
+        "常見錯誤：誤寫成 'too expensive that we cannot afford' 混淆了兩種句型"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她說話的速度太快了，初學者無法跟上。",
+      "answer": "She speaks too quickly for beginners to follow.",
+      "key_points": [
+        "too quickly（副詞修飾動詞）",
+        "for beginners",
+        "to follow",
+        "adv. + to V 結構"
+      ],
+      "hints": [
+        "注意 too 後可接副詞修飾動詞，此時 too quick 改為 too quickly；for beginners 明確指出無法跟上的人群",
+        "易錯：不可寫成 'too quick to follow'（形容詞須改為副詞來修飾動詞 speaks）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這部電影的情節太複雜，以至於年幼的孩子無法理解其真正意義。",
+      "answer": "The plot of this film is too complicated for young children to understand its true meaning.",
+      "key_points": [
+        "too complicated",
+        "for young children",
+        "to understand",
+        "具體的受詞短語 'its true meaning'"
+      ],
+      "hints": [
+        "句型框架：too + adj. + for + 具體受眾 + to V + 完整受詞；for young children 精確指出難度限制的對象",
+        "易混淆點：勿用 'so complicated that children cannot' 替代本句型；to understand 後可接具體受詞以增加完整性，符合學測高難度要求"
+      ]
+    }
   ]
 }

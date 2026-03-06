@@ -303,5 +303,63 @@
       "explanation": "正確答案是B。此句「believe + O + adj. + and + adj.」為受詞補語結構，兩個形容詞（innovative、successful）並列修飾受詞「the new film」。A項「believe to be」為較正式用法，但此處補語為兩個並列形容詞，直接使用believe更自然簡潔；C項「believing」為分詞，無法正確表達此結構；D項改為被動態，改變了句子意思。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我認為這份工作很有挑戰性。",
+      "answer": "I find this job challenging. / I consider this job challenging. / I think this job (to be) challenging.",
+      "key_points": [
+        "find/consider/think + O + adj.",
+        "challenging作受詞補語",
+        "描述受詞特性而非動作"
+      ],
+      "hints": [
+        "提示1：句型為『主詞 + find/consider/think + 受詞 + 形容詞補語』",
+        "提示2：不要加狀語副詞(如very)在動詞後，形容詞直接補充受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師認為他是一位有天賦的學生。",
+      "answer": "The teacher considers him a talented student. / The teacher thinks him (to be) a talented student.",
+      "key_points": [
+        "consider/think + O + N(名詞補語)",
+        "a talented student為受詞補語",
+        "名詞補語說明受詞身分"
+      ],
+      "hints": [
+        "提示1：補語可用名詞片語，需搭配冠詞與形容詞修飾",
+        "提示2：『considers him a talented student』中，a talented student是補語而非受詞，千萬別誤作直接受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我發現這個問題比預期的更複雜。",
+      "answer": "I find this problem more complicated than expected. / I find this problem (to be) more complicated than expected.",
+      "key_points": [
+        "find + O + adj.(比較級)",
+        "more complicated作受詞補語",
+        "to be可加可不加，加則更正式"
+      ],
+      "hints": [
+        "提示1：補語可為單純形容詞或比較級形容詞片語『more + adj. + than...』",
+        "提示2：『to be』為可選項，加上使句式更正式，但不加也正確；注意不是『find it more complicated』(虛受詞結構)"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "許多人認為利用社群媒體很容易成為浪費時間的事。",
+      "answer": "Many people find it easy to waste time on social media. / Many people think it easy to waste time on social media. / Many people consider it easy to waste time on social media.",
+      "key_points": [
+        "it為虛受詞結構",
+        "easy修飾動作(to waste time)而非受詞",
+        "it + adj. + to V的重點用法"
+      ],
+      "hints": [
+        "提示1：虛受詞it結構『S + find/think/consider + it + adj. + to V』，it代指後面的不定詞動作",
+        "提示2：勿混淆『find O adj.』(O為真實受詞)與『find it adj. to V』(it為虛受詞)；easy修飾的是『waste time』這個行為，不是某個人或物"
+      ]
+    }
   ]
 }

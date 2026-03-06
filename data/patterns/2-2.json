@@ -314,5 +314,63 @@
       "explanation": "B 正確。條件子句用現在式 is fine（代表未來），主句用 will go。A 錯誤因子句用了 will be（應為 is）。C 的 Unless 改變句意為「除非晴朗才去」，邏輯錯誤。D 的 won't 為否定，與句意不符。As long as 和 Provided that 都表「只要」，但 A 的時態錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "只要你準時完成功課，媽媽就會讓你玩電動。",
+      "answer": "As long as you finish your homework on time, your mother will let you play video games.",
+      "key_points": [
+        "as long as 表示條件",
+        "finish homework on time",
+        "will let you play"
+      ],
+      "hints": [
+        "提示1：As long as + S + V (現在式), S + will + V (未來式)的結構",
+        "提示2：注意 finish 用現在式，will let 用未來式，不能倒反"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "除非你參加補習班，否則你的數學成績不會進步。",
+      "answer": "Unless you attend a cram school, your math grades will not improve.",
+      "key_points": [
+        "unless = if not",
+        "attend a cram school",
+        "will not improve"
+      ],
+      "hints": [
+        "提示1：Unless 引導的條件子句用現在式，表示『除非…否則…』的邏輯",
+        "提示2：Unless 等同 if not，記住 unless 後面直接加肯定句，不需加 not"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "只要你每天運動三十分鐘，你就能保持身體健康並改善睡眠品質。",
+      "answer": "As long as you exercise for thirty minutes every day, you will maintain good health and improve your sleep quality.",
+      "key_points": [
+        "as long as 表持續條件",
+        "exercise for thirty minutes",
+        "will maintain and improve"
+      ],
+      "hints": [
+        "提示1：As long as 強調『只要一直保持』某條件，條件子句用現在式表未來習慣",
+        "提示2：主句中的兩個動作用 and 連接，都要保持未來式 will + V 的形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "除非政府立即採取行動解決空氣污染，否則公眾健康和環境品質將持續惡化。",
+      "answer": "Unless the government takes immediate action to address air pollution, public health and environmental quality will continue to deteriorate.",
+      "key_points": [
+        "unless 引導複雜條件",
+        "take action to address",
+        "will continue to deteriorate"
+      ],
+      "hints": [
+        "提示1：Unless 子句中可包含複雜名詞片語（the government）和不定詞（to address），但時態仍用現在式",
+        "提示2：主句用 will continue to + V 表示持續的負面結果，unless 後面須用肯定式敘述"
+      ]
+    }
   ]
 }

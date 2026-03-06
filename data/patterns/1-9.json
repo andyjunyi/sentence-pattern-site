@@ -299,5 +299,63 @@
       "explanation": "What 引導的名詞子句為單數主詞，需用現在式單數 is。補語為複雜名詞片語 not just economic growth, but sustainable development...（並列結構但整體視為單數概念）。A 選項 are 為複數；C 選項 being 為進行式；D 選項 have been 為現在完成複數式，均不符此結構要求。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我最擔心的是考不及格。",
+      "answer": "What I worry about most is failing the exam.",
+      "key_points": [
+        "What 引導名詞子句作主詞",
+        "is 後接名詞/動名詞作補語",
+        "worry about 的用法"
+      ],
+      "hints": [
+        "句型框架：What + S + V + is + 名詞（或動名詞）",
+        "注意：fail the exam 要改為動名詞 failing the exam 當補語"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "令老師最感到失望的是學生們沒有好好準備。",
+      "answer": "What disappointed the teacher most was that the students didn't prepare well.",
+      "key_points": [
+        "What 子句後接 was（過去式）",
+        "補語為 that 引導的名詞子句",
+        "disappoint 的用法"
+      ],
+      "hints": [
+        "句型框架：What + S + V + was + that 子句，表達過去事件或狀態",
+        "注意：that 可省略，但保留時更清楚；補語子句內需有主詞和動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這次科學展覽令人印象深刻的地方就是學生們展現了創新的設計思維。",
+      "answer": "What impressed people about this science exhibition was that the students demonstrated innovative design thinking.",
+      "key_points": [
+        "What 子句中含介詞片語 about",
+        "was 後接較複雜的 that 名詞子句",
+        "impress 的被動意義表達"
+      ],
+      "hints": [
+        "句型框架：What + S + V (+ prep. phrase) + was + that 子句",
+        "注意：『令人印象深刻』可用 impress people / be impressive，這裡用 What impressed people about... 強調 that 後的內容"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們在這次校際辯論賽中獲得成功的關鍵就是全隊成員的密切合作與充分準備。",
+      "answer": "What made our team successful in this inter-school debate competition was the close cooperation and thorough preparation of all team members.",
+      "key_points": [
+        "What 子句中含複雜修飾成分 in...",
+        "補語為複合名詞片語 the... and...",
+        "make + O + C 結構轉換為被動意義"
+      ],
+      "hints": [
+        "句型框架：What + S + V (+ complex modifier) + was + 複合名詞片語，補語可包含 and 連接的多個名詞",
+        "注意：『成功的關鍵』不直譯為 key，應用 What made... successful / What contributed to... 等結構；補語中的兩個名詞片語要平行對稱"
+      ]
+    }
   ]
 }

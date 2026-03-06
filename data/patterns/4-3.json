@@ -301,5 +301,67 @@
       "explanation": "第一空為限定子句修飾 students（人），用 who 或 that；第二空為非限定子句（已有逗號），修飾前面整個子句（物），用 which 不用 that，故用 who 和 which。A 選項第二空用 that 錯誤（非限定不用 that）；B、D 選項第一空用 that/which 修飾人不適；D 選項兩空皆錯。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我有一位老師，他總是很耐心地解答我們的問題。",
+      "answer": "I have a teacher who always patiently answers our questions.",
+      "key_points": [
+        "a teacher (先行詞)",
+        "who (修飾人用 who)",
+        "patiently answers (動詞片語)",
+        "限定子句提供必要資訊區分老師"
+      ],
+      "hints": [
+        "句型框架：N(人) + who + V...，who 在子句中作主詞",
+        "注意：修飾人用 who 或 that，此處用 who 最恰當；不能用 which"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "學校最近舉辦了一場運動會，吸引了許多學生參加。",
+      "answer": "The school recently held a sports day that attracted many students to participate.",
+      "key_points": [
+        "a sports day (先行distintà詞，可用 that)",
+        "that attracted (關係代名詞 that 作主詞)",
+        "many students",
+        "限定子句說明運動會的特徵"
+      ],
+      "hints": [
+        "句型框架：N(物) + that + V...，that 在此作主詞；修飾物可用 which 或 that",
+        "提醒：用 that 而非 which 可使句子更簡潔；attracted 是過去式，因子句修飾單數名詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我最喜歡的電影是那部探討社會議題的電影。",
+      "answer": "My favorite movie is the one that explores social issues.",
+      "key_points": [
+        "the one (先行詞為 the one，習慣用 that)",
+        "that explores (that 作主詞)",
+        "social issues (受詞)",
+        "習慣用法：the only + n. 用 that"
+      ],
+      "hints": [
+        "句型框架：N(物) + that + V...，先行詞為『the only』或『最高級』等限制詞時習慣用 that 不用 which",
+        "提醒：favorite 為最高級語境（我最喜歡），此時用 that 為習慣用法；也可說『the film that』但『the one that』更簡潔"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "班級裡有幾位同學，他們在準備大學入試，他們的努力值得尊敬。",
+      "answer": "There are several classmates in our class who are preparing for the university entrance exam, and their effort is admirable. / Several classmates (that) we have are preparing for the university entrance exam, whose effort is admirable.",
+      "key_points": [
+        "several classmates (先行詞)",
+        "who are preparing (who 作主詞，進行式表示進行中)",
+        "university entrance exam (高中生主要情境)",
+        "限定子句區分該批同學"
+      ],
+      "hints": [
+        "句型框架：N(人) + who + V...，who 作主詞時不可省略；若關係代名詞作受詞可省略",
+        "提醒：進行式 are preparing 適合表現『正在準備』的狀態；避免與定語混淆，形容詞子句須有完整動詞；複雜句可用 whose 或逗點分句進行"
+      ]
+    }
   ]
 }

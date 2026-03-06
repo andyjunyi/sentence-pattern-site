@@ -312,5 +312,63 @@
       "explanation": "notice 後接現在分詞 looking 表示狀態特徵；had her leave 是 have 使役動詞用法，接原形動詞 leave 表示完整動作。B 項 to look 不符 notice 的用法；C 項 look 與 leaving 搭配不當；D 項 looked 和 to leave 都違反感官動詞結構。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我看到小王在教室裡睡覺。",
+      "answer": "I saw Wang sleeping in the classroom.",
+      "key_points": [
+        "saw + O (Wang) + V-ing (sleeping)",
+        "現在分詞表示動作正在進行",
+        "in the classroom 為地點補充"
+      ],
+      "hints": [
+        "提示1：感官動詞 saw 後接受詞 Wang，再加現在分詞 sleeping",
+        "提示2：因為是看到他正在睡覺的過程中，用 V-ing 而非原形 sleep"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師聽到學生們在走廊上大聲說話。",
+      "answer": "The teacher heard the students talking loudly in the hallway.",
+      "key_points": [
+        "heard + O (the students) + V-ing (talking)",
+        "現在分詞 talking 表示持續的動作",
+        "loudly 修飾動詞，in the hallway 為地點"
+      ],
+      "hints": [
+        "提示1：感官動詞 heard 後接受詞 the students，再加現在分詞 talking",
+        "提示2：注意 talk 變成現在分詞是 talking（雙寫 t），不是 talkking"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我們看到那個男孩把書掉在地上。",
+      "answer": "We saw the boy drop his book on the ground.",
+      "key_points": [
+        "saw + O (the boy) + V (drop)",
+        "原形動詞 drop 表示一個完整的、已完成的動作",
+        "把...掉在... 用 drop...on the ground 表達"
+      ],
+      "hints": [
+        "提示1：感官動詞 saw 後接受詞 the boy，再加原形動詞 drop（不是 dropping）",
+        "提示2：用原形動詞是因為看到了『掉下去』這個完整的動作結果，不是強調動作正在進行中"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "人們注意到那棟舊建築物正在被破壞。",
+      "answer": "People noticed the old building being demolished.",
+      "key_points": [
+        "noticed + O (the building) + being + V-ed (demolished)",
+        "被動現在分詞 being demolished 表示受詞正在受動",
+        "形容詞 old 修飾受詞 building"
+      ],
+      "hints": [
+        "提示1：感官動詞 noticed 後接受詞 the old building，再加被動現在分詞 being demolished",
+        "提示2：『被破壞』是被動，用 being + 過去分詞；如果要用原形動詞被動需改為『O + be + seen/noticed + to be V-ed』結構"
+      ]
+    }
   ]
 }

@@ -299,5 +299,63 @@
       "explanation": "正確答案是 B。第一空應用 whatever (無論什麼證據)，指事物；第二空應用 whichever (任何一位專家)，表示從多位專家中選擇。A 項兩空皆指人不符；C 項首空意義不當；D 項尾空用 whoever 指人，但應指「哪一類專家」需用 whichever。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "無論誰想參加這個俱樂部，都必須通過面試。",
+      "answer": "Whoever wants to join this club must pass the interview.",
+      "key_points": [
+        "Whoever 作主詞",
+        "wants to join",
+        "must + 動詞原形"
+      ],
+      "hints": [
+        "提示1：Whoever 兼具先行詞與關係代名詞，引導名詞子句作主詞，不需額外先行詞",
+        "提示2：Whoever 後接一般現在式時，主句動詞應與 Whoever 保持主動一致性（第三人稱單數）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "無論你選擇哪一個方案，我都會支持你的決定。",
+      "answer": "Whichever plan you choose, I will support your decision.",
+      "key_points": [
+        "Whichever plan 作受詞",
+        "讓步子句置於句首",
+        "主句與從句用逗號分隔"
+      ],
+      "hints": [
+        "提示1：Whichever 可作受詞置於從句前，整個從句作讓步狀語，表『無論選哪一個』",
+        "提示2：讓步用法中，Whichever 引導的子句通常置於句首，主句用 will + 動詞表示必然結果"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論發生什麼事，我們都不應該放棄我們的夢想。",
+      "answer": "Whatever happens, we should never give up our dreams.",
+      "key_points": [
+        "Whatever 作主詞",
+        "happens 為不及物動詞",
+        "should not/never 表示勸告或禁止"
+      ],
+      "hints": [
+        "提示1：Whatever 相當於 anything that，引導讓步子句，表『無論發生什麼』；What happens 只能指特定事件，無讓步意義",
+        "提示2：Whatever 從句若作讓步狀語，句首加逗號；若作名詞子句作受詞，無逗號"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論她提出什麼建議，主管都會認真考慮，因為她總是著眼於公司的最佳利益。",
+      "answer": "Whatever suggestions she proposes will be seriously considered by the manager, because she always thinks about the company's best interests.",
+      "key_points": [
+        "Whatever + 名詞 (suggestions) 作受詞",
+        "will be considered 被動語態",
+        "because 引導原因狀語從句"
+      ],
+      "hints": [
+        "提示1：Whatever 可與名詞直接搭配 (whatever + N)，整體作名詞子句；句型為『Whatever + N + S + V, S + V』",
+        "提示2：注意被動語態 will be considered 的完整性，以及 because 子句須用完整主詞與動詞"
+      ]
+    }
   ]
 }

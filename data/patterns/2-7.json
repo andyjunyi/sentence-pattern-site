@@ -305,5 +305,63 @@
       "explanation": "正確答案是 B (It is about time; implemented)。'It is about time that + S + V-ed' 用虛擬語氣過去式，強調迫切性與應做但未做的含義。A 項缺少 that 且時態錯誤；C 項是不定詞形式，無法強調迫切性；D 項虛擬語氣後接 implement（現在式）文法錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我們應該開始準備期末考了。",
+      "answer": "It is time (that) we started preparing for the final exam. / It is time to start preparing for the final exam.",
+      "key_points": [
+        "It is time (that) + S + V-ed",
+        "start preparing for",
+        "final exam"
+      ],
+      "hints": [
+        "提示1：此句型表達『應該做某事的時刻已到』，可用虛擬過去式 V-ed 或不定詞 to V",
+        "提示2：虛擬語氣中 started 是過去式（非 have started），表示『應當做但尚未做』的含義"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "現在該是你們停止玩手機、專心念書的時候了。",
+      "answer": "It is (high) time (that) you stopped playing with your phones and focused on studying. / It is time for you to stop playing with your phones and focus on studying.",
+      "key_points": [
+        "It is (high) time + V-ed",
+        "stopped playing with",
+        "focused on studying"
+      ],
+      "hints": [
+        "提示1：加入 high 強調『非常迫切』的語氣，虛擬過去式 stopped 和 focused 配合使用",
+        "提示2：注意複合動作的搭配，用 and 連接兩個並列的過去式動詞；不定詞形式用 to stop...and focus..."
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "社會應該重視心理健康議題，而不是一直忽視它。",
+      "answer": "It is (high/about) time (that) society took mental health issues seriously instead of continually ignoring them. / It is time for society to take mental health issues seriously rather than continually ignore them.",
+      "key_points": [
+        "It is (high/about) time + S + V-ed",
+        "took...seriously",
+        "instead of / rather than"
+      ],
+      "hints": [
+        "提示1：虛擬語氣中 took 是過去式，表達『應該做但還沒充分做』；對比子句用 instead of/rather than 表達反面",
+        "提示2：continually ignoring/ignore 的選擇取決於前半句時態——虛擬過去式後用 V-ing，不定詞後用原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "是該政府採取行動應對氣候變遷的時候了，否則未來世代將為此付出代價。",
+      "answer": "It is high time (that) the government took action to address climate change, or future generations will pay the price for it. / It is time for the government to take action in addressing climate change before future generations have to pay the price.",
+      "key_points": [
+        "It is high time (that) + S + V-ed",
+        "took action to address",
+        "pay the price for"
+      ],
+      "hints": [
+        "提示1：在複雜句中，主句用 It is high time + V-ed（虛擬），從句可用現在式或未來式表達真實條件",
+        "提示2：虛擬語氣搭配條件句時，後半句保持真實時態（will pay）；不定詞形式用 before/in order to 表達目的或結果"
+      ]
+    }
   ]
 }

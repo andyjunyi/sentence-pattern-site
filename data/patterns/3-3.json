@@ -314,5 +314,63 @@
       "explanation": "正確答案是 B (doing; working)。prefer + N/V-ing + to + N/V-ing 結構要求兩個比較對象形式相同，都應用動名詞。doing remote work 對應 working in the office。A 項 do 為原形動詞，破壞並行結構；C 項過度使用不定式，不符 prefer...to... 用法；D 項 come 與 working 形式不並行，且邏輯不當。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我更喜歡在家讀書而不是在圖書館讀書。",
+      "answer": "I prefer studying at home to studying in the library.",
+      "key_points": [
+        "prefer + V-ing",
+        "to 作介系詞",
+        "兩個動名詞結構平行"
+      ],
+      "hints": [
+        "提示1：prefer 後接第一個動名詞，to 作介系詞，再接第二個動名詞",
+        "提示2：常見錯誤是在 to 後使用原形動詞或不定式（studying to study library 是錯的）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "大多數學生寧願看電影也不願看教科書。",
+      "answer": "Most students prefer watching movies to reading textbooks.",
+      "key_points": [
+        "prefer + watching/reading",
+        "to 介系詞後接動名詞",
+        "邏輯清楚的對比"
+      ],
+      "hints": [
+        "提示1：prefer 結構中兩個動作都必須用動名詞形式（V-ing），to 是介系詞不是不定式標記",
+        "提示2：避免寫成 prefer watching movies to read textbooks（混用動名詞和原形動詞）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "與其參加派對，他更傾向於一個人待在房間裡玩電玩。",
+      "answer": "He prefers staying in his room playing video games to attending parties.",
+      "key_points": [
+        "prefer + 複雜動名詞片語",
+        "to 介系詞的應用",
+        "現在分詞修飾名詞"
+      ],
+      "hints": [
+        "提示1：prefer 後可接包含修飾詞的動名詞片語（staying in his room playing...），to 仍作介系詞連接兩個動作",
+        "提示2：注意『玩電玩』要用 playing video games 而非 play video games，確保兩邊都是動名詞形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "相較於為了升學而讀書，他更喜歡為了興趣和個人成長而學習新技能。",
+      "answer": "He prefers learning new skills for personal growth to studying for the sake of academic advancement.",
+      "key_points": [
+        "prefer + 目的狀語的動名詞",
+        "介系詞 to 的區分",
+        "複雜句式中的平行結構"
+      ],
+      "hints": [
+        "提示1：prefer 結構中，兩個動名詞片語可包含介系詞片語（for personal growth / for academic advancement）來說明目的或理由",
+        "提示2：高中進階難點——確認 to 是介系詞（在這裡連接兩個動名詞短語）而非不定式的 to，且兩邊結構必須平行對等"
+      ]
+    }
   ]
 }

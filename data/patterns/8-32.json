@@ -301,5 +301,63 @@
       "explanation": "No sooner...than結構中，No sooner後須用過去完成式had + pp，than後用過去簡單式。正確形式：No sooner had he entered the office than he was assigned a task。選項A用did不符時態要求；C/D用when不符此固定搭配，No sooner必須搭配than而非when。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我很少遲到上學。",
+      "answer": "Seldom do I arrive at school late.",
+      "key_points": [
+        "Seldom 置於句首",
+        "助動詞 do 倒裝提前",
+        "主詞 I 後接動詞原型 arrive"
+      ],
+      "hints": [
+        "句型框架：Seldom + do/does + S + V 原型",
+        "注意：不能寫成 'Seldom I arrive'（缺少倒裝助動詞）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他幾乎從未缺席過班級會議。",
+      "answer": "Hardly has he ever missed a class meeting.",
+      "key_points": [
+        "Hardly 置於句首表否定",
+        "助動詞 has 倒裝提前",
+        "過去分詞 missed 搭配完成式"
+      ],
+      "hints": [
+        "句型框架：Hardly + has/have + S + 過去分詞",
+        "注意：與簡單過去式 'did miss' 區別，此處用完成式強調'從未發生過'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她很少不完成功課就上床睡覺。",
+      "answer": "Rarely does she go to bed without finishing her homework.",
+      "key_points": [
+        "Rarely 否定副詞倒裝句首",
+        "助動詞 does 倒裝",
+        "without + V-ing 片語修飾"
+      ],
+      "hints": [
+        "句型框架：Rarely + does + S + V 原型 + 補語",
+        "注意：without + 動名詞是常見搭配，不影響倒裝結構"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們才剛走出教室，大雨就傾盆而下。",
+      "answer": "No sooner had we left the classroom than it poured with rain.",
+      "key_points": [
+        "No sooner...than 特殊倒裝句型",
+        "第一個分句用過去完成式 had + 過去分詞",
+        "第二個分句用簡單過去式表先後順序"
+      ],
+      "hints": [
+        "句型框架：No sooner + had + S + 過去分詞 + than + S + 簡單過去式",
+        "注意：'剛一...就...' 的時序關係，前分句必須用 had（過去完成式），後分句用 did（簡單過去式）"
+      ]
+    }
   ]
 }

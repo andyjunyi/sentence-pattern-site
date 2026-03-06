@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A。被動語態的過去應該做需用 'should have been + p.p.'。B 項現在式不符合過去時間點。C 項 'being' 用法錯誤，應是 'been'。D 項重複 'had been'，語法結構錯誤。此題結合被動語態與完成式增加難度。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "你不應該昨天沒有準時完成功課。",
+      "answer": "You should have finished your homework on time yesterday.",
+      "key_points": [
+        "should have + finished（過去分詞）",
+        "on time（準時）",
+        "yesterday（時間標誌）"
+      ],
+      "hints": [
+        "提示1：使用 should have + p.p. 結構，表達對過去未完成行為的責備",
+        "提示2：注意不可寫成 'should finish' 或 'should have finish'，p.p. 必須用過去分詞形式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她本來應該告訴父母她的考試成績，但她沒有。",
+      "answer": "She should have told her parents about her exam results, but she didn't.",
+      "key_points": [
+        "should have + told（告訴）",
+        "about（關於）",
+        "but she didn't（對比結構）"
+      ],
+      "hints": [
+        "提示1：框架為 S + should have + p.p.，後面可接 but 子句強調對比",
+        "提示2：'tell' 的過去分詞是 'told'，不是 'tell' 或 'telling'；避免寫成 'should told' 或 'should have tell'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他們不應該在考試前一天才開始準備，而應該提前幾週就開始。",
+      "answer": "They should have started preparing several weeks before the exam instead of the day before.",
+      "key_points": [
+        "should have + started",
+        "several weeks before（提前幾週）",
+        "instead of（而不是）"
+      ],
+      "hints": [
+        "提示1：使用 should have + p.p. 表達對過去準備不足的遺憾與批評",
+        "提示2：注意時間副詞片語的位置（通常在句尾）；'start' 的過去分詞是 'started'，不可混淆時態"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "如果她之前更認真聽課，就不會在期末考時感到困惑；她本來應該在課堂上專心聽講。",
+      "answer": "She should have paid closer attention in class; otherwise, she wouldn't have felt confused during the final exam.",
+      "key_points": [
+        "should have + paid（付出）",
+        "pay attention（專心聽講）",
+        "closer attention（更認真的專注）"
+      ],
+      "hints": [
+        "提示1：使用 should have + p.p. 責備過去未履行的責任，可搭配 'otherwise' 說明後果",
+        "提示2：'pay' 的過去分詞是 'paid'；整句須保持過去時態一致，避免混入現在式；'pay attention' 是固定搭配"
+      ]
+    }
   ]
 }

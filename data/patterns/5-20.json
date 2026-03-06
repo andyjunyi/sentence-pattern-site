@@ -308,5 +308,63 @@
       "explanation": "第一個help為及物動詞「幫助~準備」，後接受詞加V原形或to+V，此處用「prepare」。第二個「couldn't help」為特殊用法「忍不住~」，必須跟V-ing，故為「feeling」。A正確結合兩個不同的help用法。B和C未正確區分兩種help的用法。D第二個help用法錯誤，應為動名詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "媽媽幫我複習英文功課。",
+      "answer": "My mother helps me (to) review English homework.",
+      "key_points": [
+        "help + O + (to) V 結構",
+        "to 可省略",
+        "review（複習）"
+      ],
+      "hints": [
+        "提示1：help 為及物動詞，後接受詞 me，再接原形或 to 不定詞",
+        "提示2：常見錯誤是寫成『helps me reviewing』，動詞應用原形或 to 不定詞，不用 V-ing"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師幫助學生們理解這個複雜的文法概念。",
+      "answer": "The teacher helps the students (to) understand this complicated grammar concept.",
+      "key_points": [
+        "help + O + (to) V 結構",
+        "complicated grammar concept（複雜的文法概念）",
+        "to 省略後仍正確"
+      ],
+      "hints": [
+        "提示1：『幫助某人做某事』的標準句型是 help sb. (to) do sth.，to 在此位置可加可不加",
+        "提示2：注意『理解』用 understand，不要用 comprehend；『概念』用 concept 較為恰當"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我無法抗拒想要檢查手機裡的新訊息。",
+      "answer": "I cannot help (but) checking my phone for new messages.",
+      "key_points": [
+        "cannot help + V-ing 特殊句型",
+        "check one's phone（檢查手機）",
+        "新訊息 new messages"
+      ],
+      "hints": [
+        "提示1：『無法抗拒、忍不住』要用『cannot help + V-ing』，此時 help 後必須接動名詞，意思與普通用法完全不同",
+        "提示2：常見錯誤是寫『cannot help to check』或『cannot help check』，這兩種都不對；正確形式是『cannot help + V-ing』或『cannot help but + V』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "看到班上同學失敗的表現，我忍不住感到難過，所以主動幫他複習準備重考。",
+      "answer": "Seeing my classmate's failed performance, I could not help but feel sad, so I actively helped him (to) prepare for the makeup exam.",
+      "key_points": [
+        "cannot help but + V 表達無法抗拒的情感",
+        "help + O + (to) V 表達主動幫助",
+        "failed performance 與 makeup exam 的詞彙"
+      ],
+      "hints": [
+        "提示1：前半句用『cannot help but + V』表達忍不住的悲傷；後半句用『help + O + (to) V』表達主動幫助，兩種 help 用法需區分清楚",
+        "提示2：『重考』用 makeup exam；『準備』用 prepare for；注意第一個 help 後接動名詞/動詞原形（情感反應），第二個 help 後接受詞+動詞原形（實際幫助動作）"
+      ]
+    }
   ]
 }

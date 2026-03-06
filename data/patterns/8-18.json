@@ -301,5 +301,63 @@
       "explanation": "both子句敘述未來效果，應使用will future體現並行時態。Not only + will(倒裝)...but also + will(正常語序)形成完整平行結構。A項時態不一致。B項但also後不應用does。C項does無法表達未來含義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影不僅很有趣，而且還很感人。",
+      "answer": "Not only is this movie entertaining, but it is also very moving.",
+      "key_points": [
+        "Not only + is + S",
+        "but also + S + V（正常語序）",
+        "形容詞entertaining和moving的並列"
+      ],
+      "hints": [
+        "提示1：Not only置於句首時，must + 助動詞is + 主詞movie，形成倒裝；but also後保持正常語序",
+        "提示2：避免寫成 'Not only this movie is entertaining...'（錯誤的倒裝位置）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她不僅學習認真，而且還積極參與課外活動。",
+      "answer": "Not only does she study hard, but she also actively participates in extracurricular activities.",
+      "key_points": [
+        "Not only + does + S + V",
+        "but also + S + V + O（正常語序）",
+        "時態一致性（does與participates）"
+      ],
+      "hints": [
+        "提示1：Not only句首需倒裝，使用助動詞does；but also後面用原形participate改為participates（第三人稱單數）",
+        "提示2：常見錯誤是在but also後也寫成倒裝，應保持'she also participates'的正常語序"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這個社群媒體平台不僅方便了人們的溝通，而且也改變了資訊的傳播方式。",
+      "answer": "Not only has this social media platform made communication more convenient, but it has also changed the way information is spread.",
+      "key_points": [
+        "Not only + has + S + V（完成式倒裝）",
+        "but also + S + has + V（完成式正常語序）",
+        "made與changed的對稱結構"
+      ],
+      "hints": [
+        "提示1：使用完成式時，倒裝為'Not only has + S + V(p.p.)'；but also後面用'S + has + V(p.p.)'保持平行結構",
+        "提示2：易混淆點是但不能只用'Not only made...but also changed'，必須包含完整的助動詞和主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "遠距教學不僅讓學生能在家自主學習，而且還促進了教師探索創新教學方法，但它也帶來了學生專注力下降的問題。",
+      "answer": "Not only has distance learning enabled students to study independently at home, but it has also encouraged teachers to explore innovative teaching methods, though it has brought about the problem of decreased student concentration.",
+      "key_points": [
+        "Not only + has + S + V（完成式倒裝含受詞子句）",
+        "but also + S + has + V + O（完成式正常語序）",
+        "複雜句結構中的平行性與邏輯連接"
+      ],
+      "hints": [
+        "提示1：複雜句型中，Not only部分仍需倒裝，but also保持正常語序；第三個子句用though轉折而非but（避免三個but並列）",
+        "提示2：注意enabled to do、encouraged to explore的不定式結構要完整；主詞it的一致性確保所有完成式助動詞都用has"
+      ]
+    }
   ]
 }

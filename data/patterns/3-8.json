@@ -299,5 +299,67 @@
       "explanation": "正確答案是 A。複數名詞 houses 前用 such 加形容詞，無需加冠詞。B 項省略形容詞，不符原意；C 項 so...that 句型時應為「so expensive that houses」，詞序不對；D 項 an 用於單數名詞，但此處是複數形 houses，用法錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這是一場如此激烈的比賽，以至於所有觀眾都站起來歡呼。",
+      "answer": "It was such an intense match that all the audience stood up and cheered.",
+      "key_points": [
+        "such an + 形容詞 + 可數單數名詞",
+        "that 引導結果子句",
+        "intense（激烈的）",
+        "audience（觀眾）"
+      ],
+      "hints": [
+        "框架：such + a/an + adj. + N + that + S + V；match 是可數單數，需加 a/an",
+        "常見錯誤：不要寫成 so intense a match 或省略 a/an"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她用了這麼聰明的策略，使得她成功解決了這個難題。",
+      "answer": "She employed such a clever strategy that she successfully solved the difficult problem.",
+      "key_points": [
+        "such a + 形容詞 + 可數單數名詞",
+        "that 子句表達結果",
+        "clever strategy（聰明的策略）",
+        "solve the problem（解決問題）"
+      ],
+      "hints": [
+        "注意 strategy 是可數單數，前面必須加 a；employ 或 use 都可表示『使用』",
+        "避免錯誤：不要寫成 such clever strategy（漏掉冠詞 a）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他說了這麼傷人的話語，導致他的朋友好幾個星期都不願與他說話。",
+      "answer": "He said such hurtful words that his friend refused to talk to him for several weeks.",
+      "key_points": [
+        "such + adj. + 複數名詞（不加冠詞）",
+        "hurtful words（傷人的話語）",
+        "that 引導結果子句",
+        "refuse to do something（拒絕做某事）"
+      ],
+      "hints": [
+        "框架：such + adj. + (複數/不可數) N + that；words 是複數，直接接在形容詞後面，不加 a/an",
+        "常見錯誤：不要寫成 such a hurtful word 或 so hurtful words"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這個城市面臨著如此嚴重的空氣污染問題，以至於政府必須採取極端措施來保護公眾健康。",
+      "answer": "The city faced such severe air pollution that the government had to take extreme measures to protect public health.",
+      "key_points": [
+        "such + adj. + 不可數名詞（複合名詞 air pollution）",
+        "that 引導結果子句",
+        "severe air pollution（嚴重的空氣污染）",
+        "take measures（採取措施）"
+      ],
+      "hints": [
+        "框架：such + adj. + (複數/不可數) N + that；air pollution 是不可數名詞，直接接在形容詞後，不加冠詞",
+        "注意時態：faced 和 had to 保持過去式的邏輯一致性；避免寫成 so severe pollution"
+      ]
+    }
   ]
 }

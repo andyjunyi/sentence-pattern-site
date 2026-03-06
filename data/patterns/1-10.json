@@ -304,5 +304,63 @@
       "explanation": "正確答案是 A「It is / that」。強調複雜名詞片語主詞時，用 It is 搭配 that，後接動詞。去掉 It is...that 後應還原為「The combination of talent, hard work, and perseverance enables...」。B 項 who 只用於強調人；C 項 which 不用於強調句；D 項結構重複錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "是你的努力讓你考上這所大學的。",
+      "answer": "It is your hard work that helped you get into this university.",
+      "key_points": [
+        "It is + 強調部分(your hard work)",
+        "that + 剩餘句子",
+        "時態一致(helped)"
+      ],
+      "hints": [
+        "句型框架：It is + 強調部分 + that + 主詞 + 動詞 + 受詞",
+        "注意：強調「物」(your hard work)用 that，不用 who"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "昨天我在圖書館遇到的就是我的高中同學。",
+      "answer": "It was my high school classmate whom I met in the library yesterday.",
+      "key_points": [
+        "It was + 強調部分(my high school classmate)",
+        "whom I met in the library yesterday",
+        "時態用 was(過去事件)"
+      ],
+      "hints": [
+        "句型框架：It is/was + 強調部分(人) + that/who + 剩餘句子；強調的人作受詞時可用 whom",
+        "注意：去掉『It was...whom』後應能還原為『I met my high school classmate in the library yesterday』"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "正是因為他們的支持，我才有勇氣參加這次演講比賽。",
+      "answer": "It is their support that gave me the courage to participate in this speech competition.",
+      "key_points": [
+        "It is + 強調部分(their support)",
+        "that + 給予勇氣的動詞(gave)",
+        "表達『因為...才...』的因果關係"
+      ],
+      "hints": [
+        "句型框架：It is + 強調部分(事物) + that + 剩餘完整句子；強調原因用 that",
+        "提示：英文不能直譯『因為...才...』，而是強調支持這個事物本身對結果的影響"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "直到高中最後一年，我才真正體會到時間管理的重要性。",
+      "answer": "It was not until the last year of high school that I truly realized the importance of time management.",
+      "key_points": [
+        "It was not until + 時間點",
+        "that + 主句",
+        "強調時間副詞(the last year of high school)"
+      ],
+      "hints": [
+        "句型框架：It was not until + 時間 + that + 主詞 + 動詞；此為『not...until』的強調句用法",
+        "注意：『not until』強調句固定搭配，表示『直到...才...』，去掉強調部分後應還原為『I did not realize...until the last year of high school』"
+      ]
+    }
   ]
 }

@@ -305,5 +305,63 @@
       "explanation": "deny後接動名詞being作受詞，此處being在犯罪現場表進行中的狀態。B項不定詞to be不符deny的搭配；C項原形be無法表達被動或進行意義；D項was為過去式動詞，無法作deny的受詞。只有being能正確表達「被指控在現場」的含義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我很享受和朋友一起打籃球。",
+      "answer": "I enjoy playing basketball with my friends.",
+      "key_points": [
+        "enjoy + V-ing",
+        "playing（動名詞）",
+        "with my friends（介系詞片語）"
+      ],
+      "hints": [
+        "提示1：使用 enjoy 後須接動名詞 V-ing 形式作受詞",
+        "提示2：避免寫成『enjoy to play』，這是常見錯誤"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她建議我們多練習英文會話以提高口說能力。",
+      "answer": "She suggested practicing English conversation to improve our speaking skills.",
+      "key_points": [
+        "suggest + V-ing",
+        "practicing（動名詞作受詞）",
+        "to improve（不定詞表目的）"
+      ],
+      "hints": [
+        "提示1：suggest 後接動名詞，不能用『suggest to do』；可在後面用不定詞表示目的",
+        "提示2：注意 suggested 後面直接跟 V-ing，中間不加代詞 we"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他們否認曾經洩露任何機密資訊給競爭對手。",
+      "answer": "They denied leaking any confidential information to their competitors.",
+      "key_points": [
+        "deny + V-ing",
+        "leaking（動名詞）",
+        "any confidential information（受詞）"
+      ],
+      "hints": [
+        "提示1：deny 後接動名詞作受詞，表示否認某個動作或事實",
+        "提示2：常見錯誤是寫『deny to leak』或『deny leak』；must用 V-ing 形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管面臨許多困難，她仍然堅持追求自己的夢想，並避免被他人的批評所影響。",
+      "answer": "Despite facing many difficulties, she keeps pursuing her dreams and avoids being affected by others' criticism.",
+      "key_points": [
+        "keep + V-ing（持續做）",
+        "avoids being affected（動名詞的被動形式）",
+        "despite + V-ing（介系詞片語）"
+      ],
+      "hints": [
+        "提示1：keep 和 avoid 都後接 V-ing；when subject changes, use object pronoun + V-ing (being affected)",
+        "提示2：注意『avoid being affected』是動名詞的被動形式，不是『avoid to be affected』"
+      ]
+    }
   ]
 }

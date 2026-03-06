@@ -301,5 +301,64 @@
       "explanation": "先行詞 \"the conference room\" 是地點名詞，使用關係副詞 \"where\" 最自然簡潔。\"when\" 用於時間先行詞錯誤，\"at which\" 與 \"in which\" 文法上可接受（改寫形式），但 \"where\" 是最標準簡潔的表達。雖然 \"in which\" 也對，但題目選擇中 \"where\" 是最佳答案。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "圖書館是我最喜歡讀書的地方。",
+      "answer": "The library is the place where I like to read books most.",
+      "key_points": [
+        "the place where",
+        "like to read",
+        "先行詞為地點"
+      ],
+      "hints": [
+        "句型框架：the place + where + S + V，where 修飾表示地點的名詞",
+        "常見錯誤：勿用 which 代替 where；避免用 'the place which I like to read'"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "聯考是學生最緊張的時刻，在那個時候每個人都會全力準備。",
+      "answer": "The college entrance exam is the time when students feel most nervous, and during that moment everyone prepares with full effort.",
+      "key_points": [
+        "the time when",
+        "feel nervous",
+        "時間先行詞用 when"
+      ],
+      "hints": [
+        "句型框架：the time + when + S + V，when 修飾表示時間的名詞",
+        "易混淆點：時間用 when 而非 which；不可寫成 'the time which students feel nervous'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我不能理解他遲到的原因，那是他不尊重別人的表現。",
+      "answer": "I cannot understand the reason why he was late, which was a sign of his disrespect for others.",
+      "key_points": [
+        "the reason why",
+        "was late",
+        "原因先行詞用 why"
+      ],
+      "hints": [
+        "句型框架：the reason + why + S + V，why 修飾表示原因的名詞",
+        "注意：可改寫為 'the reason for which he was late'；避免寫成 'the reason that/which he was late'"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "高中最充實的三年正是我打下基礎的時期，在那段時光裡我學會了如何獨立思考和解決問題。",
+      "answer": "The three years of high school, which were the most fulfilling period when I laid a strong foundation, was the time during which I learned how to think independently and solve problems.",
+      "key_points": [
+        "the time when/during which",
+        "laid a strong foundation",
+        "獨立思考 think independently",
+        "時間關係副詞與介系詞+which的轉換"
+      ],
+      "hints": [
+        "句型框架：可用 'the time when S + V' 或 'the time during which S + V'，兩者意義相同",
+        "進階技巧：掌握 where = in/at + which、when = in/during + which、why = for which 的互換關係，增加表達多樣性"
+      ]
+    }
   ]
 }

@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B (whether)。主句 \"will still receive bonuses\" 表無條件的承諾，業績是否達成都不影響結果，故為讓步句須用 whether...or not。if 條件句意味獲利才能發獎金，邏輯相反；unless 表否定條件；only if 加強條件必要性，均不合員工無條件獲獎的語義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "無論天氣是否晴朗，我們都會去郊遊。",
+      "answer": "Whether the weather is sunny or not, we will go on an outing.",
+      "key_points": [
+        "whether...or not 引導讓步副詞子句",
+        "主句用 will go 表示確定的結果",
+        "逗號分隔讓步子句與主句"
+      ],
+      "hints": [
+        "提示1：句型結構為『Whether + S + V + or not, 主句』，表示『無論...是否...』結果不變",
+        "提示2：注意讓步子句通常置於句首，後面加逗號；不能用 if 代替 whether"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他不知道是否應該告訴老師關於這個作弊事件。",
+      "answer": "He doesn't know whether he should tell the teacher about the cheating incident or not.",
+      "key_points": [
+        "whether...or not 引導名詞子句，作 know 的受詞",
+        "名詞子句用 should tell 表示不確定性",
+        "表達『是否應該』的選擇意義"
+      ],
+      "hints": [
+        "提示1：句型結構為『S + V + whether + S + V + or not』，whether 子句作名詞用",
+        "提示2：此用法表示說話者對兩種可能性都不確定，不是讓步關係；or not 可置於句尾"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論你是否喜歡這份工作，你都必須認真對待它。",
+      "answer": "Whether you like this job or not, you must take it seriously.",
+      "key_points": [
+        "whether...or not 引導讓步副詞子句",
+        "主句用 must take 表示義務性結論",
+        "讓步關係：喜歡與否不影響認真態度的必要性"
+      ],
+      "hints": [
+        "提示1：讓步用法的關鍵是『主句結論與子句條件無必然因果關係』——喜歡不喜歡都要認真",
+        "提示2：常見錯誤是混淆條件句『If you like...you should...』和讓步句的邏輯差異"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "醫生不能確定患者是否會因為這種治療而完全康復，但她仍然建議他進行治療。",
+      "answer": "The doctor is not certain whether the patient will fully recover from this treatment or not, but she still recommends he undergo the treatment.",
+      "key_points": [
+        "whether...or not 引導名詞子句，作 certain 的補語",
+        "主句含轉折連接詞 but，表示結論與不確定性並存",
+        "複合句結構：含名詞子句的複雜句型"
+      ],
+      "hints": [
+        "提示1：『be certain/sure/clear whether...or not』是常見搭配，whether 子句補充說明不確定的內容",
+        "提示2：注意此題非讓步用法，而是名詞子句用法；讓步用法應呈現『無論如何結果不變』的邏輯"
+      ]
+    }
   ]
 }

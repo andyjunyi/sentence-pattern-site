@@ -301,5 +301,63 @@
       "explanation": "正確答案是A。participants與attend、take為主動關係，應使用現在分詞attending和taking形成平行結構。B選項混用了過去分詞，邏輯錯誤；C選項完成式having attended/taken過於複雜，此情境不需；D選項不定式to attend/take不符with獨立分詞構句的語法要求。需保持主動分詞的平行結構。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "她帶著滿臉的笑容走進教室，開始上課。",
+      "answer": "With a big smile on her face, she walked into the classroom and started the lesson.",
+      "key_points": [
+        "with + O + p.p.（a smile on her face）",
+        "on her face 作補語",
+        "walked into + started"
+      ],
+      "hints": [
+        "提示1：『滿臉的笑容』是被動狀態(笑容在臉上)，使用p.p. 『on』",
+        "提示2：勿寫成『with her face smiling』，應把focus放在smile這個名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "窗戶開著，一陣涼風吹進房間，他感到非常舒適。",
+      "answer": "With the window open and a cool breeze blowing in, he felt very comfortable.",
+      "key_points": [
+        "with + O + p.p.（window open）",
+        "with + O + V-ing（breeze blowing in）",
+        "複合結構用and連接"
+      ],
+      "hints": [
+        "提示1：『開著』是open(p.p.)的被動狀態；『吹進』是breeze主動執行(V-ing)",
+        "提示2：兩個with子句可用and合併，避免重複"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "隨著考試期間臨近，許多學生感到越來越焦慮，紛紛增加複習時數。",
+      "answer": "With the exam period approaching and stress mounting, many students felt increasingly anxious and increased their revision hours.",
+      "key_points": [
+        "with + O + V-ing（period approaching / stress mounting）",
+        "複合V-ing結構",
+        "主句含並列動詞（felt...increased）"
+      ],
+      "hints": [
+        "提示1：『臨近』『增加』都是主動動作，exam period和stress都是施事者，用V-ing",
+        "提示2：注意時態一致，with片語用現在分詞表伴隨，主句用過去式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "隨著氣候變遷加劇，許多沿海城市面臨淹水風險，政府被迫投入更多預算進行防災工程。",
+      "answer": "With climate change intensifying and coastal cities facing increased flooding risks, the government was forced to allocate more budget for disaster prevention projects.",
+      "key_points": [
+        "with + O + V-ing（change intensifying / cities facing）",
+        "p.p.作形容詞修飾名詞（increased risks）",
+        "被動語態主句（was forced to）"
+      ],
+      "hints": [
+        "提示1：『加劇』『面臨』皆為主動執行，故用V-ing；『增加的風險』中increased是p.p.作修飾詞，勿與分詞混淆",
+        "提示2：with獨立分詞構句不受主句主語限制，主句即使是被動語態亦可搭配"
+      ]
+    }
   ]
 }

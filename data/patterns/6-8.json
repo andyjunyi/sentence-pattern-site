@@ -304,5 +304,64 @@
       "explanation": "正確答案為 B。第一空需『in order to reduce』表達正面目的；第二空需『so as not to allow』表達否定目的。A 項『prevent』與『not to』語義重複；C 項第二部分邏輯錯誤（應為『not to』而非『to prevent』）；D 項『for preventing』不符合不定詞目的用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我每天早起是為了趕上公車。",
+      "answer": "I get up early every day in order to catch the bus.",
+      "key_points": [
+        "in order to + V 表示目的",
+        "get up early",
+        "catch the bus"
+      ],
+      "hints": [
+        "句型：S + V + in order to + V，in order to 後接原形動詞",
+        "注意：不能寫成 'in order to catching' 或 'for catching'"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "為了節省時間，她邊走路邊吃早餐。",
+      "answer": "In order to save time, she eats breakfast while walking.",
+      "key_points": [
+        "In order to + V 置句首",
+        "save time",
+        "while walking 表示同時進行"
+      ],
+      "hints": [
+        "句型：In order to + V, S + V，句首需用逗號分隔",
+        "注意：so as to 也可使用，但 in order to 更常用於正式英文"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "學生們努力讀書，以便不讓父母失望。",
+      "answer": "Students study hard in order not to disappoint their parents.",
+      "key_points": [
+        "in order not to + V 表示否定目的",
+        "study hard",
+        "disappoint their parents"
+      ],
+      "hints": [
+        "句型：S + V + in order not to + V，否定形式在 to 後加 not",
+        "注意：so as not to 也正確，但避免混用 'in order to not' 或 'in not to'"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "為了了解不同的文化，許多年輕人選擇出國旅遊而不是待在家裡。",
+      "answer": "In order to understand different cultures, many young people choose to travel abroad so as not to stay at home.",
+      "key_points": [
+        "In order to + V 置句首表明核心目的",
+        "understand different cultures",
+        "so as not to 表示否定目的",
+        "choose to do sth"
+      ],
+      "hints": [
+        "句型：In order to + V, S + V，後句可再用 so as not to 強調避免的反面結果",
+        "注意：in order to 和 so as not to 可混用，但需注意邏輯關係清晰，避免目的層級混亂"
+      ]
+    }
   ]
 }

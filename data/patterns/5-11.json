@@ -301,5 +301,67 @@
       "explanation": "正確答案是 C「encouraged to perform / to do」。第一空需『be encouraged to V』表被動鼓勵；第二空『promise to V』是不定詞結構。A 項第二空「doing」為動名詞，與 promise 搭配錯誤。B 項「encouraging」非過去分詞，違反被動語態規則。D 項「encouraged performing」中不定詞改為動名詞，違反 encourage to V 的正確搭配。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生被要求在課堂上準時交作業。",
+      "answer": "Students are required to submit their homework on time in class.",
+      "key_points": [
+        "are required to",
+        "submit",
+        "on time",
+        "被動語態 + 不定詞結構"
+      ],
+      "hints": [
+        "句型框架：S + be + required + to V，表達對學生的要求",
+        "注意：to不定詞前的to不可省略，submit前必須保留to"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "高中生被允許參加學校舉辦的課外活動。",
+      "answer": "High school students are allowed to participate in extracurricular activities organized by the school.",
+      "key_points": [
+        "are allowed to",
+        "participate in",
+        "extracurricular activities",
+        "organized by the school"
+      ],
+      "hints": [
+        "句型框架：S + be + allowed + to V，表達對主詞的許可或允許",
+        "易混淆：allowed後的to不可刪除，否則語意會不完整；區別『be allowed』（被允許）vs『allow』（主動允許）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "運動選手被鼓勵在比賽前進行充分的體能訓練，以提升他們的表現。",
+      "answer": "Athletes are encouraged to undergo adequate physical training before competitions in order to improve their performance.",
+      "key_points": [
+        "are encouraged to",
+        "undergo adequate physical training",
+        "before competitions",
+        "in order to improve"
+      ],
+      "hints": [
+        "句型框架：S + be + encouraged + to V，表達對主詞受到的鼓勵或建議",
+        "注意：『in order to』引導的不定詞片語表示目的，與主句中『are encouraged to』的to不定詞構成並列結構，兩個to都不可省"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "那些違反校規的學生被迫參加懲罰性的課程，並被告知要改正自己的行為以避免被開除。",
+      "answer": "Students who violate school regulations are forced to attend punitive courses and are told to correct their behavior in order to avoid being expelled.",
+      "key_points": [
+        "are forced to attend",
+        "are told to correct",
+        "violate school regulations",
+        "in order to avoid being expelled"
+      ],
+      "hints": [
+        "句型框架：S + be + forced/told + to V 與 S + be + told + to V，同一句中可出現多個『be + p.p. + to V』結構並列",
+        "易錯點：『avoid being expelled』中『being expelled』為動名詞的被動式，不是不定詞；『are told to correct』中to不可省，且不定詞後若接受詞（their behavior），結構仍然保持『to + V + O』的完整形式"
+      ]
+    }
   ]
 }

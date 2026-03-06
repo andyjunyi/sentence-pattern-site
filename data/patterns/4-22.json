@@ -305,5 +305,64 @@
       "explanation": "possibility 為抽象名詞，其同位語子句用 that 引導。子句「artificial intelligence will surpass human intelligence in specific domains」說明該可能性的具體內容。A（which）為定語關係代詞；C（whereby）為介系詞式關係副詞，用於說明方式；D（whether）引導疑問子句，不用於同位語結構。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "他考上名校的事實讓全家人都很高興。",
+      "answer": "The fact that he was admitted to a prestigious university made the whole family very happy.",
+      "key_points": [
+        "the fact that + S + V",
+        "was admitted to",
+        "made the whole family happy"
+      ],
+      "hints": [
+        "提示1：使用『the fact that + S + V』結構，that子句內容為『他被名校錄取』這個事實",
+        "提示2：注意that後接完整陳述句，不能省略that或用which替代；『考上』用被動語態『was admitted to』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "沒有人質疑她能贏得比賽的可能性。",
+      "answer": "No one questioned the possibility that she could win the competition.",
+      "key_points": [
+        "the possibility that + S + V",
+        "could win",
+        "questioned"
+      ],
+      "hints": [
+        "提示1：使用『the possibility that + S + V』結構，that子句說明『她可能贏得比賽』的可能性內容",
+        "提示2：情態動詞can在過去式變為could；『質疑』用questioned表達"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師的信念是學生應該主動學習而不是被動接受知識。",
+      "answer": "The teacher's belief that students should take the initiative to study rather than passively accept knowledge is correct.",
+      "key_points": [
+        "the belief that + S + V",
+        "take the initiative to study",
+        "rather than passively accept"
+      ],
+      "hints": [
+        "提示1：使用『the belief that + S + V』結構，that子句內容為『學生應主動學習而非被動接受』這個信念的具體說明",
+        "提示2：that子句內含對比結構『should do A rather than do B』；注意整句動詞一致（is correct）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "國內疫情已控制的消息激勵了許多人恢復正常生活的希望，儘管有些人對此仍持懷疑態度。",
+      "answer": "The news that the domestic epidemic had been brought under control inspired many people with the hope that they could resume their normal lives, though some remained skeptical about it.",
+      "key_points": [
+        "the news that + S + V (帶news的同位語子句)",
+        "the hope that + S + V (帶hope的同位語子句)",
+        "had been brought under control",
+        "inspired...with the hope"
+      ],
+      "hints": [
+        "提示1：句子中包含兩個同位語子句——第一個『the news that the domestic epidemic had been brought under control』說明消息內容，第二個『the hope that they could resume their normal lives』說明希望的具體內容",
+        "提示2：注意時態：第一個that子句用過去完成式『had been brought』表達已完成的狀態；第二個that子句用『could resume』表達基於該消息所產生的可能性"
+      ]
+    }
   ]
 }

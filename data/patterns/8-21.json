@@ -301,5 +301,63 @@
       "explanation": "此題考查複合句中連接副詞的邏輯關係、搭配詞性和完整性。前句述發現缺陷，後句述決定重新設計實驗，具因果關係。應選能完整表達因果的連接副詞短語「as a result」。選項 A 引入新主題（違反邏輯），B 動名詞形式不完整，C 引入預算話題（偏離主題）。分號用法正確。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影很有趣；然而，它太長了。",
+      "answer": "The movie is very interesting; however, it is too long.",
+      "key_points": [
+        "分號 + however + 逗號",
+        "兩個獨立子句結構",
+        "however 提供轉折邏輯"
+      ],
+      "hints": [
+        "提示1：使用『分號 + 連接副詞 + 逗號』來連接兩個完整句子",
+        "提示2：常見錯誤是用逗號直接連接 (The movie is very interesting, however it is too long.)，這是逗號接合錯誤"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他每天都努力讀書。因此，他在考試中取得了高分。",
+      "answer": "He studies hard every day. Therefore, he achieved a high score on the exam.",
+      "key_points": [
+        "句號後新起一句 + therefore + 逗號",
+        "因果關係邏輯",
+        "therefore 需要被逗號隔開"
+      ],
+      "hints": [
+        "提示1：當用句號分開時，連接副詞後跟逗號才能銜接下一子句",
+        "提示2：注意 therefore 後必須有逗號，不能寫成 Therefore he achieved... 或 Therefore, he achieved...（後者正確）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這份工作薪水不高；而且，工作時間很長，所以很多人不想做。",
+      "answer": "The job offers low salary; moreover, the working hours are very long, so many people don't want to do it.",
+      "key_points": [
+        "分號 + moreover + 逗號",
+        "moreover 表補充說明",
+        "複雜句中的連接副詞位置"
+      ],
+      "hints": [
+        "提示1：moreover 用於補充或強化前一句的觀點，使用『分號 + moreover + 逗號』",
+        "提示2：連接副詞後的子句可以很長，但連接副詞本身不提供連接功能，只提供邏輯關係"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學生不僅需要掌握課本知識，而且還要培養實踐能力。此外，他們應該學會與人合作。因此，學校應該提供更多實踐機會。",
+      "answer": "Students need not only to master textbook knowledge but also to develop practical skills. Furthermore, they should learn to cooperate with others. Therefore, schools should provide more opportunities for practice.",
+      "key_points": [
+        "連續使用多個連接副詞 (furthermore + therefore)",
+        "句號後新起一句 + 連接副詞 + 逗號",
+        "段落邏輯遞進與因果關係"
+      ],
+      "hints": [
+        "提示1：多個連接副詞可在同一段落中使用，但每個都須遵循『句號後新起一句 + 連接副詞 + 逗號』或『分號 + 連接副詞 + 逗號』的規則",
+        "提示2：furthermore 表補充，therefore 表因果；不能混用或用逗號直接連接 (...they should learn to cooperate with others, therefore schools should...)"
+      ]
+    }
   ]
 }

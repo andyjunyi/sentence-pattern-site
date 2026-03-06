@@ -299,5 +299,63 @@
       "explanation": "正確答案是 A「excellent enough to satisfy」。「形容詞 + enough + to V」表程度達標、能夠達成目標，符合「服務質量高到能滿足」的肯定情境。B 選項「too excellent」語意相反，表太優秀反而無法滿足（邏輯不通）。C 選項 enough 置於形容詞前，位置錯誤。D 選項混用 too 和 enough，文法不合。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個數學題太難了，我無法解決。",
+      "answer": "This math problem is too difficult for me to solve.",
+      "key_points": [
+        "too...to 表示超過限度而無法進行",
+        "for me 明確指出受詞，me 為受格",
+        "solve 作不定詞動詞"
+      ],
+      "hints": [
+        "句型框架：too + adj. + (for + 受詞) + to V",
+        "注意：too 置於形容詞前，人稱代詞必須用受格（me/him/her）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她足夠聰明，能夠理解這個複雜的概念。",
+      "answer": "She is intelligent enough to understand this complex concept.",
+      "key_points": [
+        "enough 置於形容詞之後",
+        "intelligent 作為形容詞修飾主詞",
+        "understand 表結果的不定詞"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + to V，注意 enough 的位置在形容詞之後",
+        "enough...to 表程度達標可進行，多用於肯定情境"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這個盒子太重了，小孩子無法搬動它。",
+      "answer": "The box is too heavy for children to carry.",
+      "key_points": [
+        "too...to 結合 for + 複數名詞",
+        "heavy 為形容詞修飾主詞",
+        "carry 為不定詞表示結果性動作"
+      ],
+      "hints": [
+        "句型框架：too + adj. + for + 名詞/代詞 + to V",
+        "for 後接複數名詞時不用改變形式（children），只有人稱代詞才改為受格"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這部電影足夠有趣，足以讓全家人坐著看兩個小時而不感到無聊。",
+      "answer": "The movie is interesting enough for the whole family to sit through for two hours without getting bored.",
+      "key_points": [
+        "enough 置於形容詞後，for 後接複合名詞片語",
+        "sit through 片語動詞表耐心看完",
+        "without + V-ing 表否定結果狀態"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + for + 複雜名詞結構 + to V，可搭配副詞片語（for two hours）增加複雜度",
+        "注意不定詞後的否定表達用 without + V-ing，而非 not to V"
+      ]
+    }
   ]
 }

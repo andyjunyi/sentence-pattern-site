@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A (yellowed and aging)。兩個單個分詞前置修飾名詞，yellowed（已變黃）+ aging（逐漸老化）分別表完成與進行狀態。B 項 yellowing 與 aged 搭配不協調；C 項包含 discovered 重複後面 found 的意思；D 項片語應單獨後置，不應與前置分詞混用。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "昨天我看到一個正在哭泣的小女孩坐在公園的長椅上。",
+      "answer": "Yesterday I saw a crying girl sitting on the bench in the park.",
+      "key_points": [
+        "crying（V-ing形容詞）",
+        "sitting on the bench（分詞片語後置修飾）",
+        "邏輯主語一致性"
+      ],
+      "hints": [
+        "提示1：單個分詞 crying 前置修飾 girl；分詞片語 sitting on... 後置修飾 girl",
+        "提示2：注意 cry 的 V-ing 形式是 crying（雙寫 y 不變），sitting 才是雙寫 t"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這些被損壞的教科書需要送去修理。",
+      "answer": "These damaged textbooks need to be repaired.",
+      "key_points": [
+        "damaged（p.p.形容詞，表被動）",
+        "textbooks（被修飾名詞）",
+        "need to be repaired（謂語動詞）"
+      ],
+      "hints": [
+        "提示1：p.p. damaged 前置修飾名詞 textbooks，表示教科書已經被損壞",
+        "提示2：不要混淆『被損壞的教科書』(damaged textbooks) 與『正在損壞教科書的人』(damaging textbooks)；damaged 是完成式被動，符合邏輯"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "那位努力準備考試的學生最終考上了他夢想的大學。",
+      "answer": "The student preparing for the exam finally got admitted to his dream university. / The student preparing for the exam finally got into the university of his dreams.",
+      "key_points": [
+        "preparing for the exam（V-ing分詞片語後置修飾 student）",
+        "dream university 或 university of his dreams",
+        "V-ing表示進行中的動作"
+      ],
+      "hints": [
+        "提示1：『準備考試的學生』用 the student preparing for the exam，V-ing 片語後置；若寫成 the preparing student 會顯得不自然",
+        "提示2：注意 dream 作形容詞（dream university）與名詞（university of his dreams）的差異；此句型應使用 V-ing 片語而非 who is preparing"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "當地居民發現了一個被遺棄的嬰兒，他們立即聯絡了相關部門來幫助這個可憐的孩子。",
+      "answer": "Local residents discovered an abandoned baby, and they immediately contacted the relevant department to help the unfortunate child.",
+      "key_points": [
+        "abandoned（p.p.作形容詞，表被動完成）",
+        "an abandoned baby（單詞前置修飾）",
+        "邏輯主語與被修飾名詞的一致"
+      ],
+      "hints": [
+        "提示1：『被遺棄的嬰兒』用 abandoned baby，p.p. 表示已經被遺棄（被動完成）；不能用 abandoning baby（會變成『正在遺棄嬰兒』的錯誤意思）",
+        "提示2：『可憐的孩子』可用 unfortunate child 或 pitiful child；注意 abandoned 必須前置（單詞），若要後置需變成分詞片語如 the baby abandoned by parents，但此句用前置更自然簡潔"
+      ]
+    }
   ]
 }

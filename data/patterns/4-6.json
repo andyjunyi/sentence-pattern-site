@@ -301,5 +301,63 @@
       "explanation": "第一空：介系詞of後需受格whom（of whom I had worked with）。第二空：who作were的主詞，須用主格who。此題考查同一子句中多個關係代名詞的正確搭配，以及介系詞與受格的配合原則。B、C、D選項皆混淆了主受格的用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我有一位老師，他每天都幫助我們學習英文。",
+      "answer": "I have a teacher whom he helps us learn English every day.",
+      "key_points": [
+        "先行詞 a teacher（人）",
+        "whom 代替受詞位置",
+        "主詞 he + 動詞 helps"
+      ],
+      "hints": [
+        "句型框架：N(人) + whom + S + V...",
+        "注意：whom 在子句中作受詞，不作主詞；此句也可省略 whom：a teacher who helps us..."
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這是我最敬佩的那位醫生，他用他的知識拯救了許多人的生命。",
+      "answer": "This is the doctor whom I admire most, and he has saved many people's lives with his knowledge.",
+      "key_points": [
+        "先行詞 the doctor（人）",
+        "whom 作動詞 admire 的受詞",
+        "介詞片語 with his knowledge 修飾動作"
+      ],
+      "hints": [
+        "句型框架：N + whom + S + V + O（S=I, V=admire, O=省略）",
+        "常見錯誤：誤用 who 代替 whom；記住 whom 作受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我認識一位朋友，我經常和他談論功課和生活問題。",
+      "answer": "I know a friend with whom I often talk about schoolwork and life problems.",
+      "key_points": [
+        "先行詞 a friend（人）",
+        "介詞 with 置於 whom 之前",
+        "動詞片語 talk about"
+      ],
+      "hints": [
+        "句型框架：N + prep. + whom + S + V...（介詞須移至 whom 前）",
+        "正式寫法將介詞置前；口語可用 who 或省略：a friend I often talk with"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這位作家寫了一部小說，該小說激勵了許多年輕人去追求他們的夢想，而我就是其中之一。",
+      "answer": "This is the author from whom I was inspired by her novel, which motivated many young people to pursue their dreams.",
+      "key_points": [
+        "先行詞 the author（人）",
+        "介詞 from 位於 whom 之前（被動結構）",
+        "關係代名詞子句搭配複合句"
+      ],
+      "hints": [
+        "句型框架：N + prep. + whom + S + V（被動語態）...；此句涉及 be inspired by 的被動結構",
+        "進階用法：介詞的選擇取決於動詞用法（be inspired from/by）；注意介詞的正確搭配"
+      ]
+    }
   ]
 }

@@ -304,5 +304,63 @@
       "explanation": "正確答案是 B「don't need to; can」。第一空表示「不必完成」用 don't need to；第二空表示「可以做」用 can（表示允許）。A 項後半搭配不當；C 項 must not 表禁止，與文意不符；D 項後半 must not 表禁止，邏輯錯誤，應表許可。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "你不必為明天的小考太擔心。",
+      "answer": "You don't need to worry too much about tomorrow's quiz.",
+      "key_points": [
+        "don't need to + worry",
+        "too much 修飾程度",
+        "about + 事物"
+      ],
+      "hints": [
+        "提示1：主詞是 you，用 don't need to（一般動詞用法），後接動詞原形 worry",
+        "提示2：易錯點─勿用 must not worry（禁止）替代，兩者意思完全不同"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他不必參加這個補習班，因為他的成績已經很好了。",
+      "answer": "He doesn't need to attend this cram school because his grades are already very good.",
+      "key_points": [
+        "doesn't need to + attend",
+        "人稱變化（he/she/it）",
+        "because 引導原因子句"
+      ],
+      "hints": [
+        "提示1：主詞是 he，用 doesn't need to（第三人稱單數），後接原形動詞 attend",
+        "提示2：注意人稱變化─he/she/it 用 doesn't；I/you/we/they 用 don't"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於學校已經提供午餐，學生們不必自己帶便當。",
+      "answer": "Since the school has already provided lunch, students don't need to bring their own lunch boxes.",
+      "key_points": [
+        "don't need to + bring",
+        "Since 引導原因",
+        "own 強調所有權或自備"
+      ],
+      "hints": [
+        "提示1：句型為 S + don't need to + V，此處 students 為複數，用 don't；若改為 'a student' 須用 doesn't",
+        "提示2：易錯點─need not 屬正式文體常用於書面語，日常口語多用 don't need to"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這份報告不必包含所有細節，只要涵蓋主要重點就足夠了。",
+      "answer": "This report doesn't need to include all the details; it is sufficient as long as it covers the main points.",
+      "key_points": [
+        "doesn't need to + include",
+        "all the details 賓語",
+        "as long as 條件連接詞"
+      ],
+      "hints": [
+        "提示1：主詞 report 為第三人稱單數，用 doesn't need to；後接原形動詞 include",
+        "提示2：易錯點─勿混淆 'need not / don't need to'（非必要）與 'must not'（禁止）；此句若用 'must not' 會變成『禁止包含』，意思相反"
+      ]
+    }
   ]
 }

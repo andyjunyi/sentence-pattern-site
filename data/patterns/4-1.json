@@ -301,5 +301,66 @@
       "explanation": "正確答案是C (that)。先行詞為 volunteers（人），限定關係子句中 we 為主詞，空格處應填受格，可用 that（通常省略）或 whom。但 that 在口語中更常見，B項 whom 正式但較少用；A項 who 為主格；D項 which 修飾物。此題考查實際使用習慣。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡那位每天幫助同學的老師。",
+      "answer": "I like the teacher who helps classmates every day.",
+      "key_points": [
+        "the teacher（先行詞）",
+        "who helps classmates（限定關係子句）",
+        "無逗號（限定用法）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + who + V...",
+        "注意：去掉who子句後，『我喜歡那位老師』意思不清楚，所以who子句是必要的限定資訊"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "那個贏得比賽的學生將代表學校參加全國競賽。",
+      "answer": "The student who won the competition will represent our school at the national contest.",
+      "key_points": [
+        "The student（先行詞）",
+        "who won the competition（限定關係子句）",
+        "will represent（主句動詞）",
+        "無逗號"
+      ],
+      "hints": [
+        "句型框架：S（The student who won...）+ V（will represent）+ O",
+        "限定用法修飾特定學生，若去掉who子句，無法識別是哪位學生"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我們班上認真做功課的學生都被老師表揚了。",
+      "answer": "The students in our class who do their homework seriously were all praised by the teacher.",
+      "key_points": [
+        "The students in our class（先行詞含修飾語）",
+        "who do their homework seriously（限定關係子句）",
+        "were praised（被動語態）",
+        "all（全稱量詞）"
+      ],
+      "hints": [
+        "句型框架：S + who + V（限定子句修飾複數先行詞）+ V + O",
+        "注意：who引導子句後接動詞原形或一般現在式，主句動詞與先行詞人數一致"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "那些在社群媒體上分享虛假資訊的人應該為他們的行為負責。",
+      "answer": "The people who spread false information on social media should be responsible for their behavior.",
+      "key_points": [
+        "The people（先行詞）",
+        "who spread false information on social media（限定關係子句，修飾特定人群）",
+        "should be responsible for（情態動詞+形容詞）",
+        "無逗號"
+      ],
+      "hints": [
+        "句型框架：S（The people who...）+ 情態動詞 + V + complement",
+        "常見錯誤：容易誤用that而不用who，或在who後加be動詞（who are spreading...會變成進行式，改變原意）"
+      ]
+    }
   ]
 }

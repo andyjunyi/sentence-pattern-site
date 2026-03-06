@@ -301,5 +301,63 @@
       "explanation": "正確答案是B。第一空『研究發現被國際專家廣泛討論』應用被動式 have been discussed；第二空『期刊發表他們的研究結果』中，journals 主動發表，應用被動式 have been published（強調發現結果被發表）。A項第二空主動式不符；C項兩空皆為主動式，無法表達『被討論』和『被發表』的被動意義；D項第一空為主動式。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影已經被看過很多次了。",
+      "answer": "This movie has been watched many times.",
+      "key_points": [
+        "has been + watched（過去分詞）",
+        "many times（時間狀語）",
+        "被動語態強調電影被觀看"
+      ],
+      "hints": [
+        "提示1：現在完成被動 = has/have + been + p.p.，主詞是被動者",
+        "提示2：注意 watch 的過去分詞是 watched，不是 watching"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我的手機已經被修理了三個星期。",
+      "answer": "My phone has been repaired for three weeks.",
+      "key_points": [
+        "has been repaired（過去分詞）",
+        "for three weeks（持續時間）",
+        "強調被修理的狀態持續至今"
+      ],
+      "hints": [
+        "提示1：搭配 for + 時間段表示『已經持續多久』",
+        "提示2：repair 的過去分詞是 repaired，for 後接時間長度（不用 since）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這棟新宿舍樓已經被建造了將近一年，但還沒有被投入使用。",
+      "answer": "The new dormitory building has been constructed for nearly a year, but it hasn't been put into use yet.",
+      "key_points": [
+        "has been constructed（過去分詞）",
+        "for nearly a year（持續時間）",
+        "hasn't been put into use yet（否定式現在完成被動）"
+      ],
+      "hints": [
+        "提示1：句子較長時，注意兩個被動結構的並列使用",
+        "提示2：put 的過去分詞是 put（不規則動詞），『投入使用』用 put into use"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "自從去年暑假以來，這個舊校舍一直被改建成多功能教室，現在終於完成了。",
+      "answer": "Since last summer, the old school building has been renovated into multipurpose classrooms, and it has finally been completed.",
+      "key_points": [
+        "has been renovated（過去分詞）",
+        "since last summer（自從過去某個時點）",
+        "has finally been completed（現在完成被動的完成性）"
+      ],
+      "hints": [
+        "提示1：since 引導時間點，搭配現在完成被動表示『自從...至今』的被動狀態",
+        "提示2：renovate 意為『翻新/改建』，完成用 complete；注意 since 後接具體時間點（不用 for）"
+      ]
+    }
   ]
 }

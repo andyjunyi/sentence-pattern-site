@@ -305,5 +305,63 @@
       "explanation": "正確答案是 A。struggle with 後接「疑問詞 + to V」的名詞片語，how to maintain 表「如何維持」。B 項介詞 with 後通常接動名詞，但原句結構要求不定詞名詞片語；C 項 what to maintain「維持什麼」意思不符；D 項 whether maintaining 結構不當，whether 後應接 to V。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不知道週末應該去哪裡。",
+      "answer": "I don't know where to go on the weekend.",
+      "key_points": [
+        "where to go",
+        "疑問詞 + to V 作動詞受詞",
+        "don't know 後接名詞片語"
+      ],
+      "hints": [
+        "提示1：疑問詞 where + to go 形成名詞片語，等於 where I should go",
+        "提示2：注意不能寫成 I don't know where should I go（這是名詞子句的錯誤用法）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師解釋了如何解決這個困難的數學問題。",
+      "answer": "The teacher explained how to solve this difficult math problem.",
+      "key_points": [
+        "how to solve",
+        "explained 後接名詞片語",
+        "疑問詞 + to V 表達方法或步驟"
+      ],
+      "hints": [
+        "提示1：how to V 表示『如何做某事』，常跟 explain、teach、show 等動詞搭配",
+        "提示2：注意不能用 how should we solve，應該用簡潔的 how to solve"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她在考慮是否應該參加明年的大學入學考試，或者先工作一年。",
+      "answer": "She is considering whether to take the university entrance exam next year or work for a year first.",
+      "key_points": [
+        "whether to take",
+        "whether to V 表『是否要做』",
+        "considering + 名詞片語"
+      ],
+      "hints": [
+        "提示1：whether to V 用於表達『做或不做』的兩難選擇，等於 whether she should take",
+        "提示2：whether 後只需 to V，不需加 or not，但可以在句尾用 or 連接兩個選項"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這篇文章讓我想知道應該如何在這個數位時代保護個人隱私，以及何時應該相信網路上的資訊。",
+      "answer": "This article makes me wonder how to protect personal privacy in the digital age and when to trust information online.",
+      "key_points": [
+        "how to protect + when to trust",
+        "wonder + 多個疑問詞 + to V",
+        "並列結構 and 連接兩個名詞片語"
+      ],
+      "hints": [
+        "提示1：make + O + wonder 後可接多個疑問詞名詞片語，用 and 並列表達多個疑惑",
+        "提示2：when to V 和 how to V 都是名詞片語，作 wonder 的受詞，保持平行結構"
+      ]
+    }
   ]
 }

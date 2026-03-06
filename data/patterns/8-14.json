@@ -305,5 +305,63 @@
       "explanation": "正確答案是 B（as / just as）。第一空需表達音樂家與指揮同時進行的動作，用 as 引導方式子句「the conductor led them」。第二空表達「恰如」開幕夜一樣的觀眾反應，用 just as 引導方式子句「they had on opening night」。其他選項混淆了介詞 like 與子句連接詞 as 的用法區別。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "就像老師教我們的一樣，我們應該誠實對待每個人。",
+      "answer": "As our teacher teaches us, we should treat everyone honestly.",
+      "key_points": [
+        "as 引導方式子句",
+        "teach us 完整主賓結構",
+        "should + V 主要子句"
+      ],
+      "hints": [
+        "句型框架：主要子句 + as + 副詞子句，as 後須接完整S+V結構",
+        "注意：as 是連接詞，後面必須有主語和動詞，不能用 like 代替"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "一如往常，她準時完成了所有的家庭作業。",
+      "answer": "As always, she completed all her homework on time.",
+      "key_points": [
+        "as always 慣用語",
+        "completed 過去式",
+        "on time 時間副詞片語"
+      ],
+      "hints": [
+        "句型變化：as always 是高中英文常見慣用表達，表示『一如既往』的意義",
+        "注意：as always 通常位於句首，後接主要子句；此時 as 已含有『如同……一樣』的比較意義"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "正如許多學生所做的那樣，他利用暑假時間準備學測。",
+      "answer": "As many students do, he used the summer vacation to prepare for the college entrance exam.",
+      "key_points": [
+        "as many students do 方式子句",
+        "used...to prepare 主要子句結構",
+        "college entrance exam 學測用語"
+      ],
+      "hints": [
+        "句型框架：主要子句 + as + 方式子句，此處 as 引導『如同……做的那樣』的比較",
+        "易錯點：avoid 用 like 代替 as；as 後的 do 是助動詞，不能省略"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "就像社會上許多人忽視環保問題一樣，我們有時也會忘記自己的責任。",
+      "answer": "Just as many people in society overlook environmental issues, we sometimes forget our own responsibilities.",
+      "key_points": [
+        "just as 強化比較意義",
+        "overlook environmental issues 方式子句",
+        "responsibilities 抽象名詞"
+      ],
+      "hints": [
+        "句型延伸：just as 是 as 的強調形式，更明確地表達『恰如』的比較意義，兩個子句結構應平行對稱",
+        "易錯點：just as 後的子句必須是完整S+V結構；注意 overlook（忽視）與 forget（忘記）的語義區別"
+      ]
+    }
   ]
 }

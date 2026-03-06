@@ -80,8 +80,7 @@
       "id": 1,
       "parts": [
         null,
-        " by the storm, the farmer decided to postpone the harvest.",
-        null
+        " by the storm, the farmer decided to postpone the harvest."
       ],
       "blanks": [
         "Battered"
@@ -98,8 +97,7 @@
       "id": 2,
       "parts": [
         null,
-        " for six months, she finally completed her research project.",
-        null
+        " for six months, she finally completed her research project."
       ],
       "blanks": [
         "Having been assigned"
@@ -116,8 +114,7 @@
       "id": 3,
       "parts": [
         null,
-        " three times, the applicant was determined to try once more.",
-        null
+        " three times, the applicant was determined to try once more."
       ],
       "blanks": [
         "Rejected"
@@ -134,8 +131,7 @@
       "id": 4,
       "parts": [
         null,
-        " for academic excellence, the student became more confident in class.",
-        null
+        " for academic excellence, the student became more confident in class."
       ],
       "blanks": [
         "Having been recognized"
@@ -300,6 +296,64 @@
       "answer": "D",
       "explanation": "第一空用「Having been trapped」強調在發展之前長期陷於貧困的完成被動狀態；第二空用「given」表同時狀態（獲得教育機會）。選項A「having given」邏輯錯誤（村莊不能給予機會）；B時間邏輯不清；C第一空主動形不當。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "被老師表揚後，這名學生感到非常驕傲。",
+      "answer": "Praised by the teacher, the student felt very proud.",
+      "key_points": [
+        "Praised (被動分詞)",
+        "省略being",
+        "主詞一致性(student)"
+      ],
+      "hints": [
+        "提示1：使用單純P.P.形式表示與主句動作同時的被動狀態，省略 being",
+        "提示2：注意 praised 的邏輯主詞必須是 student，避免懸垂修飾詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "因為被學校錄取了，小明決定努力準備高中生活。",
+      "answer": "Admitted to the school, Xiaoming decided to work hard preparing for high school life.",
+      "key_points": [
+        "Admitted (被動分詞)",
+        "理由狀語功能",
+        "prepositional phrase (to the school)"
+      ],
+      "hints": [
+        "提示1：分詞構句可替代 because/when + 被動副詞子句，此處表達被動原因",
+        "提示2：Admitted 的邏輯主詞必須是句子主詞 Xiaoming；避免寫成 'Being admitted'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "既然教室已經被打掃乾淨了，班級會議就可以開始了。",
+      "answer": "Having been cleaned thoroughly, the classroom was ready for the class meeting to begin.",
+      "key_points": [
+        "Having been cleaned (完成被動分詞)",
+        "強調先於主句的被動動作",
+        "thoroughly (程度副詞修飾)"
+      ],
+      "hints": [
+        "提示1：使用 Having been + P.P. 強調分詞動作發生於主句動作之前的被動情況",
+        "提示2：注意時間先後關係：已被打掃(先) → 會議開始(後)；邏輯主詞必須是 classroom"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "由於受到社交媒體的廣泛影響，許多青少年開始反思他們的網路使用習慣。",
+      "answer": "Influenced extensively by social media, many teenagers began to reflect on their online usage habits.",
+      "key_points": [
+        "Influenced (被動分詞)",
+        "by + agent (社交媒體為被動施事者)",
+        "邏輯主詞複數一致 (many teenagers)"
+      ],
+      "hints": [
+        "提示1：分詞構句的被動形式可表達原因關係，此處 Influenced 替代 because they were influenced by...",
+        "提示2：邏輯主詞 teenagers 必須與主句主詞一致；避免誤寫成 'Being influenced' 或造成懸垂修飾詞（如主詞為 'social media' 則邏輯錯誤）"
+      ]
     }
   ]
 }

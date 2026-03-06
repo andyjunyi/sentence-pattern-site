@@ -301,5 +301,63 @@
       "explanation": "第一空的 moment 是時間名詞，用 when；第二空的 beach 是地點名詞，用 where。選項 B 交換錯誤；C 的 that 無法作關係副詞修飾地點；D 的 which 為代名詞，需在子句中占位置，此處應用關係副詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "圖書館是我喜歡讀書的地方。",
+      "answer": "The library is the place where I like to read books.",
+      "key_points": [
+        "where 引導關係子句",
+        "where = in which",
+        "修飾地點名詞 place"
+      ],
+      "hints": [
+        "句型框架：N (地點) + where + S + V",
+        "注意：where 在子句中不占語法位置，子句需完整的主詞和動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我永遠不會忘記我們第一次見面的那個下午。",
+      "answer": "I will never forget the afternoon when we first met.",
+      "key_points": [
+        "when 引導關係子句",
+        "when = on which / in which",
+        "修飾時間名詞 afternoon"
+      ],
+      "hints": [
+        "句型框架：N (時間) + when + S + V",
+        "常見錯誤：混淆 when（時間） 和 where（地點），選擇時需看先行詞的性質"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他沒有參加聚會的理由就是他需要複習功課。",
+      "answer": "The reason why he didn't attend the party is that he needed to review his lessons.",
+      "key_points": [
+        "why 引導關係子句",
+        "why = for which",
+        "修飾原因名詞 reason"
+      ],
+      "hints": [
+        "句型框架：N (原因) + why + S + V",
+        "注意：reason why 是常用搭配，why 不能省略或改用其他詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學生時代是我們學習最多知識、建立友誼的時期，我們應該珍惜。",
+      "answer": "The school days when we learn the most knowledge and build friendships are a period that we should cherish.",
+      "key_points": [
+        "when 引導複雜關係子句",
+        "關係子句包含多個動詞（learn、build）",
+        "修飾複數時間名詞 days"
+      ],
+      "hints": [
+        "句型框架：N (時間) + when + S + V1 and V2",
+        "提醒：先行詞若為複數（days），關係子句的動詞應相應調整；when 子句可包含多個並列動詞"
+      ]
+    }
   ]
 }

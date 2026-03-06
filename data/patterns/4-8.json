@@ -307,5 +307,64 @@
       "explanation": "正確答案是 A「with which」。片語動詞「grapple with」意為「艱難地應對/與...搏鬥」，介系詞必須是 with。先行詞「dilemmas」為物體，使用 which。此為「prep. + which + S + V」的標準形式，表達醫療團隊與道德困境的對抗過程。B 項「about which」改變動詞片語之意；C 項「for which」與片語不符；D 項「toward which」雖為正式結構，但與 grapple 搭配不當，無法準確表達「與...對抗」之意。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這是我們昨天討論過的那個計畫。",
+      "answer": "This is the project about which we discussed yesterday.",
+      "key_points": [
+        "about which",
+        "discussed（過去式）",
+        "先行詞 project（物體）"
+      ],
+      "hints": [
+        "句型框架：N + about + which + S + V，介系詞 about 置於 which 前",
+        "常見錯誤：勿寫成 which about we discussed 或 that about which"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他是我最欽佩的那位老師，他的教學方法創新。",
+      "answer": "He is the teacher whom I admire most, with whom I have learned innovative teaching methods.",
+      "key_points": [
+        "whom（修飾人物）",
+        "with whom",
+        "admire + most 最高級表達"
+      ],
+      "hints": [
+        "句型框架：N + with + whom + S + V，介系詞 with 置於 whom 前；whom 用於人物先行詞",
+        "常見錯誤：誤用 who 或將介系詞置於句末"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這就是我們賴以生存的環境，我們必須好好保護它。",
+      "answer": "This is the environment on which we depend, and we must protect it well.",
+      "key_points": [
+        "on which（介系詞 + which）",
+        "depend on（片語動詞）",
+        "先行詞 environment（物體）"
+      ],
+      "hints": [
+        "句型框架：N + on + which + S + V，depend on 的介系詞 on 移至 which 前；整體呈現正式書面語氣",
+        "常見錯誤：勿寫成 depend which on 或 on that we depend"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這些是我們正在合作的學者，他們的研究涵蓋多個領域，我們對此印象深刻。",
+      "answer": "These are the scholars with whom we are collaborating, whose research covers multiple fields, of which we are impressed.",
+      "key_points": [
+        "with whom",
+        "of which",
+        "複合句結構（多個關係子句）",
+        "先行詞辨別（人與物）"
+      ],
+      "hints": [
+        "句型框架：複數先行詞可用多個 prep. + which/whom 子句修飾；with whom 修飾人物（collaborating），of which 修飾物體（research/fields）",
+        "常見錯誤：混淆人物與物體代名詞；介系詞位置前置與後置混用；忽略動詞時態與主詞一致性"
+      ]
+    }
   ]
 }

@@ -301,5 +301,63 @@
       "explanation": "答案是 C。前半句用 after 表示主句動作（公佈）在從句動作（審查完成）之後；從句用過去完成式 had reviewed（動作已完成），主句用簡單過去式 announced（表敘述過去事實）。A選項 would announce 用於未來不當；B選項 before 時間關係錯誤；D選項 until 表「持續到...為止」，邏輯不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "在你完成作業之前，不要看手機。",
+      "answer": "Before you finish your homework, don't check your phone. / Don't check your phone before you finish your homework.",
+      "key_points": [
+        "Before + S + V 引導時間從句",
+        "祈使句搭配時間副詞子句",
+        "從句置於主句前需加逗號"
+      ],
+      "hints": [
+        "提示1：使用 Before 結構時，從句可放主句前後；從句前加逗號",
+        "提示2：注意「完成」用 finish，不要用 complete；「看手機」用 check your phone 或 look at your phone"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他離開教室之後，才發現自己忘了帶書包。",
+      "answer": "After he left the classroom, he realized that he had forgotten his backpack. / He realized that he had forgotten his backpack after he left the classroom.",
+      "key_points": [
+        "After + S + V 引導時間從句",
+        "主句過去完成式 had forgotten 表先前動作",
+        "從句用簡單過去式 left"
+      ],
+      "hints": [
+        "提示1：After 從句動作先發生，主句動作後發生；從句置前加逗號",
+        "提示2：注意時態配搭——從句用 left (簡單過去)，主句用 realized (簡單過去) + had forgotten (過去完成式)"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我們要等到老師進來才能開始考試。",
+      "answer": "We cannot start the exam until the teacher comes in. / Until the teacher comes in, we cannot start the exam.",
+      "key_points": [
+        "Until + S + V 引導時間從句",
+        "否定句搭配 until 表延遲關係",
+        "從句置前時加逗號"
+      ],
+      "hints": [
+        "提示1：until 從句表達「直到…才」的延遲概念，通常搭配否定詞 not/cannot；從句用簡單現在式表未來",
+        "提示2：注意不能說『We can start...until』，must 搭配 until 時也需用否定結構 cannot/must not"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "直到他承認了錯誤，我們才願意原諒他，然而一切都已經太遲了。",
+      "answer": "Not until he admitted his mistake were we willing to forgive him, but by then everything was already too late. / We were not willing to forgive him until he admitted his mistake, but by then everything was already too late.",
+      "key_points": [
+        "Not...until 強調延遲與轉折",
+        "倒裝結構『Not until + 從句 + 助動詞 + 主詞』",
+        "複合句結合對比意義（but 連接兩獨立子句）"
+      ],
+      "hints": [
+        "提示1：『Not until』置於句首時引發倒裝，助動詞前移；若 until 在句尾則無倒裝。兩種位置都正確",
+        "提示2：注意『原諒』用 forgive；『承認』用 admit；『太遲』用 too late；時態搭配需一致（都用過去式）；倒裝版本『were we willing』語序"
+      ]
+    }
   ]
 }

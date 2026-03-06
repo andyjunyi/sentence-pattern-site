@@ -300,5 +300,63 @@
       "explanation": "混合條件句：前半部對過去相反（if had...），需要 would have started；後半部表現在結果（by now），需要 would be（第二條件句形式）。A 正確地結合兩個不同時間點。B、C、D 時態搭配都不恰當。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "如果你昨天沒有遲到，就不會被老師罵。",
+      "answer": "If you hadn't been late yesterday, you wouldn't have been scolded by your teacher.",
+      "key_points": [
+        "hadn't been late (過去完成式)",
+        "wouldn't have been scolded (主句結構)",
+        "時間副詞 yesterday 表示過去事實"
+      ],
+      "hints": [
+        "提示1：if 子句用 had + p.p.，主句用 would + have + p.p.，兩者時態配合",
+        "提示2：常見錯誤是在主句用 will have 或 would be scolded，記得必須是 would have been scolded"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "如果我有認真讀書，我就能通過那次數學考試。",
+      "answer": "If I had studied hard, I could have passed the math exam.",
+      "key_points": [
+        "had studied (過去完成式表示未曾發生)",
+        "could have passed (表示過去曾可能的結果)",
+        "study 與 pass 的因果邏輯"
+      ],
+      "hints": [
+        "提示1：主句用 could/might + have + p.p. 表達過去本可能但未發生的結果",
+        "提示2：注意 could have 和 would have 的差異——could 強調'有能力'，would 強調'必然結果'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "要不是你提醒我帶傘，我就會在雨中淋濕了。",
+      "answer": "Had you not reminded me to bring an umbrella, I would have gotten wet in the rain.",
+      "key_points": [
+        "Had you not reminded (倒裝結構，省略 if)",
+        "would have gotten (主句完成式)",
+        "to bring 不定詞作提醒內容"
+      ],
+      "hints": [
+        "提示1：省略 if 需使用倒裝語序 Had + S + p.p.，功能與 If I had not been reminded... 相同",
+        "提示2：倒裝時注意否定詞的位置（Had you not / Hadn't you），避免寫成 Did you not remind"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "如果我的朋友沒有在升學考試前夕告訴我那個重要的考試技巧，我就可能考不上理想的大學。",
+      "answer": "If my friend hadn't told me that important exam technique before the entrance exam, I might not have gotten into my ideal university.",
+      "key_points": [
+        "hadn't told (過去完成式，過去未曾發生的事)",
+        "might have gotten (表示過去較不確定的可能結果)",
+        "複雜時間背景 (before the entrance exam) 與假設的層次"
+      ],
+      "hints": [
+        "提示1：might have + p.p. 比 would have 語氣更不確定，適合表達不確定的假設後果",
+        "提示2：長句型需注意 if 子句與主句的邏輯清晰；避免混用 might have 與 would have 導致邏輯模糊，應根據確定度選擇"
+      ]
+    }
   ]
 }

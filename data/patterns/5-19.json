@@ -312,5 +312,63 @@
       "explanation": "連貫的完整動作「看到嫌犯離開店舖並開車逃離」應用原形 leave 和 drive，表示目睹整個事件過程。A、C、D 項混用現在分詞和原形，但此句強調完整事件序列，應全用原形保持平行結構且強調事實性。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我看到一隻貓在花園裡跑來跑去。",
+      "answer": "I saw a cat running around in the garden.",
+      "key_points": [
+        "see + O + V-ing",
+        "running around（現在分詞表示動作正在進行）",
+        "in the garden（地點狀語）"
+      ],
+      "hints": [
+        "提示1：使用『see + O + V-ing』結構，因為貓的跑動是正在進行的動作",
+        "提示2：不可寫成『saw a cat run』，因為題意強調『跑來跑去』的動作過程，需用現在分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師注意到學生們在教室裡交談時沒有認真聽課。",
+      "answer": "The teacher noticed students talking to each other instead of listening carefully to the lesson in the classroom.",
+      "key_points": [
+        "notice + O + V-ing",
+        "talking to each other（現在分詞表示同時進行的動作）",
+        "instead of + V-ing（對比結構）"
+      ],
+      "hints": [
+        "提示1：『notice + O + V-ing』用來描述老師觀察到學生們『正在交談』的情況",
+        "提示2：注意『instead of listening』也要用V-ing形式保持平行結構，而非instead of to listen"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我聽到隔壁房間傳來的音樂聲，所以我知道我的朋友在那裡。",
+      "answer": "I heard music coming from the next room, so I knew my friend was there. / I heard music come from the next room, so I knew my friend was there.",
+      "key_points": [
+        "hear + O + V-ing / hear + O + V原形",
+        "coming/come from the next room",
+        "hear強調客觀感知結果（區別於listen主動傾聽）"
+      ],
+      "hints": [
+        "提示1：『hear + O + V-ing』（music coming）強調聲音正在傳出；『hear + O + V原形』（music come）強調聲音傳出的完整過程，兩者皆可接受",
+        "提示2：不可用『listen to music』代替『hear music』，因為題意是客觀聽到而非主動傾聽；V-ing或V原形都表達得出題意"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "演唱會上，我們看著表演者在舞台上跳舞，他的精彩表現令全場觀眾感動。被動語態：表演者的精彩跳舞表演被全場觀眾看著進行。",
+      "answer": "At the concert, we watched the performer dancing on the stage, and his wonderful performance moved the entire audience. / The performer was seen to dance wonderfully on the stage by the entire audience at the concert.",
+      "key_points": [
+        "watch + O + V-ing（主動式）",
+        "be seen to V（被動式，原形改為to V）",
+        "動詞V-ing vs to V的轉換規則"
+      ],
+      "hints": [
+        "提示1：主動語態『watch + O + V-ing』強調持續觀看表演者『正在跳舞』的過程；被動語態需改為『be seen to dance』，注意V-ing改為to V形式",
+        "提示2：被動式常見錯誤是寫成『be seen dancing』，但感官動詞的被動式必須使用『to + V原形』而非V-ing形式"
+      ]
+    }
   ]
 }

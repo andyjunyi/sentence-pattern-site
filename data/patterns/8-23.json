@@ -310,5 +310,63 @@
       "explanation": "正確答案是 B (Rather than admitting)。當 rather than 置句首時，須採 Rather than + V-ing 的倒裝形式。A 項加 to 錯誤；C 項應接現在分詞；D 項完成式分詞不符合句型。此結構強調通過動名詞與主要子句動詞的對比，表達強烈的優先順序。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我寧可在家讀書，也不要去嘈雜的咖啡館。",
+      "answer": "I would rather study at home than go to a noisy café.",
+      "key_points": [
+        "would rather...than",
+        "study at home",
+        "go to (原形動詞)"
+      ],
+      "hints": [
+        "句型框架：S + would rather + V + than + V（原形）",
+        "注意：rather than 後接原形動詞 go，不能用 going"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "與其花錢買新手機，她寧可存錢去旅遊。",
+      "answer": "Rather than buying a new phone, she prefers to save money for a trip.",
+      "key_points": [
+        "Rather than + V-ing 置句首",
+        "buying a new phone",
+        "save money for a trip"
+      ],
+      "hints": [
+        "句型框架：Rather than + V-ing, S + V（主要動詞保持原形或適當時態）",
+        "注意：句首使用 Rather than + buying（-ing形式），主句動詞用 prefers to save"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這間公司更看重員工的創新能力，而不是單純的工作經驗。",
+      "answer": "This company values innovation rather than work experience in its employees.",
+      "key_points": [
+        "values...rather than",
+        "innovation（名詞）",
+        "work experience（名詞短語）"
+      ],
+      "hints": [
+        "句型框架：S + V + N rather than + N（連接兩個名詞詞組，強調優先選擇）",
+        "注意：rather than 後接名詞 work experience，不能加動詞形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "與其被動地接受老師的講解，學生應該主動提問和批判性思考，以便更深入理解課程內容。",
+      "answer": "Rather than passively accepting the teacher's explanation, students should ask questions and think critically to gain a deeper understanding of the course content.",
+      "key_points": [
+        "Rather than + V-ing 句首結構",
+        "passively accepting",
+        "ask questions and think critically（並列動詞原形）"
+      ],
+      "hints": [
+        "句型框架：Rather than + V-ing (複雜動詞片語), S + should + V + and + V（主句可含並列結構或助動詞）",
+        "注意：rather than 後的 accepting 使用 -ing 形式，但主句動詞 should ask 和 think 保持原形；此句強調對比的教育理念"
+      ]
+    }
   ]
 }

@@ -303,5 +303,63 @@
       "explanation": "正確答案是C。第一空：What-子句作主詞（單數），謂語用「concerns」（第三人稱單數）。第二空：governments為複數主詞，後接「are not taking」。A項第一空正確但第二空錯誤。B項第一空錯誤。D項兩空都錯誤。此題測試考生在複合句中維持主詞-動詞一致性的能力。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "最重要的是你必須努力學習。",
+      "answer": "What matters most is that you must study hard.",
+      "key_points": [
+        "What matters most is",
+        "名詞子句 that you must study hard",
+        "is 連繫動詞"
+      ],
+      "hints": [
+        "提示1：使用『What + 動詞 + is』結構，what 在子句中作主詞",
+        "提示2：what 子句內已有主詞 you，不能再加代詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他所做的一切似乎都是為了贏得比賽。",
+      "answer": "What he does appears to be (done) to win the competition.",
+      "key_points": [
+        "What he does",
+        "appears to be + 不定詞",
+        "what 在子句中作受詞"
+      ],
+      "hints": [
+        "提示1：『What + S + V + appears/seems to be + C』結構，what 作子句內的受詞",
+        "提示2：子句『he does』中已有主詞 he，what 只作受詞，不需重複主詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "令人印象深刻的是她如何在壓力下保持冷靜的能力。",
+      "answer": "What is impressive is her ability to stay calm under pressure.",
+      "key_points": [
+        "What is impressive is",
+        "her ability to + 不定詞",
+        "主詞補語為名詞片語"
+      ],
+      "hints": [
+        "提示1：『What + is/seems + C』可倒裝為『What + is + C + is...』強調前面的重點",
+        "提示2：what 引導的名詞子句作主詞，其後的 is 為主要句子的動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "真正困難的是如何在有限的時間內完成所有的功課並維持身心健康。",
+      "answer": "What is truly difficult is how to complete all the assignments within limited time and maintain both mental and physical health.",
+      "key_points": [
+        "What is truly difficult is",
+        "how to + 不定詞片語",
+        "並列結構 and 連接兩個目的"
+      ],
+      "hints": [
+        "提示1：『What + is + 形容詞 + is』句型，what 子句為名詞子句作主詞，後方補語為疑問詞引導的不定詞片語",
+        "提示2：what 子句內部結構為『how to V』(疑問詞+不定詞)，不能加主詞；注意 and 連接並列概念時詞性需對稱"
+      ]
+    }
   ]
 }

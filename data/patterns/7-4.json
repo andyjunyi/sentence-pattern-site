@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B「Having read / knowing」。第一空用 Having read（完成式分詞）表示先於主句的動作「她前晚讀過小說」；第二空用 knowing（現在分詞）與主句動詞並時，表示「儘管知道已是午夜」的狀況說明，邏輯主詞均為 Sarah。A 項第一空時態關係錯誤；C、D 項第二空都不符合邏輯關係。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "小明走進教室，看到老師在黑板上寫數學題目。",
+      "answer": "Walking into the classroom, Xiaoming saw the teacher writing math problems on the blackboard. / Xiaoming walked into the classroom, seeing the teacher writing math problems on the blackboard.",
+      "key_points": [
+        "Walking into / entering the classroom（進教室）",
+        "saw the teacher writing（看到老師在寫）",
+        "邏輯主詞一致（Xiaoming both walked and saw）"
+      ],
+      "hints": [
+        "提示1：用現在分詞 V-ing 取代『走進...時』的時間副詞子句，表示同時發生的兩個動作",
+        "提示2：兩個動作的邏輯主詞必須相同（都是 Xiaoming），否則句義不清"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她完成了家庭作業，便開始複習考試內容。",
+      "answer": "Having finished her homework, she began reviewing the exam material. / She finished her homework, then began reviewing the exam material by using the structure with having done.",
+      "key_points": [
+        "Having finished（完成式分詞，表先行動作）",
+        "homework 與 exam material（功課與考試內容）",
+        "then / began reviewing（然後開始複習）"
+      ],
+      "hints": [
+        "提示1：『完成了...之後』應使用完成式分詞 Having V-ed，表先發生的動作",
+        "提示2：現在分詞 V-ing 只表同時動作；完成式分詞 Having V-ed 表已完成後才進行下一步，要注意時序"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於時間不足，他匆匆收拾書包，趕上了最後一班公車。",
+      "answer": "Running out of time, he hurriedly packed his bag, catching the last bus. / Lacking sufficient time, he packed his bag hastily, catching the last bus.",
+      "key_points": [
+        "Running out of time / Lacking time（時間不足，表原因）",
+        "packed his bag, catching（收拾書包，趕上）",
+        "V-ing 形式表原因或伴隨情況"
+      ],
+      "hints": [
+        "提示1：『由於時間不足』可用『Running out of time, ...』表原因，比『Because he ran out of time』更簡潔",
+        "提示2：後半句『趕上公車』也用 V-ing（catching）表連續動作，保持邏輯主詞一致（都是 he）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "老師在課堂上解釋這道難題，班上的學生認真聆聽，並記下重點筆記。",
+      "answer": "Explaining the difficult problem in class, the teacher watched the students listening attentively and taking notes on key points. / The teacher explained the difficult problem in class, observing the students listening attentively and taking key notes.",
+      "key_points": [
+        "Explaining the difficult problem in class（解釋難題）",
+        "listening attentively and taking notes（認真聆聽並記筆記）",
+        "邏輯主詞一致與伴隨情況的表達"
+      ],
+      "hints": [
+        "提示1：主句主詞是『老師』，分詞構句『Explaining...』的邏輯主詞也必須是老師；後面『學生聆聽與記筆記』應作為老師『看到』的內容（賓語從句或分詞結構修飾），而非分詞構句",
+        "提示2：避免讓『學生聆聽』直接成為分詞構句，因為邏輯主詞與主句不符，應改為『the students listening and taking』作為老師『看到』的對象，或另起句子"
+      ]
+    }
   ]
 }

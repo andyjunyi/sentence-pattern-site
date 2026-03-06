@@ -306,5 +306,63 @@
       "explanation": "句子比較兩個城市的發展程度，需使用兩個比較級。「developed」是多音節形容詞，前需加「more」；「economically」是副詞，修飾「developed」，亦需加「more」形成「more economically developed」。正確答案為A。B項漏掉副詞的比較級；C和D項詞序不當，不符英文語法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影比那部電影更有趣。",
+      "answer": "This movie is more interesting than that movie.",
+      "key_points": [
+        "more interesting（多音節形容詞比較級）",
+        "than + 比較對象",
+        "be 動詞 + 比較級"
+      ],
+      "hints": [
+        "句型結構：be + more + 形容詞 + than + 對象；interesting 為多音節形容詞，須用 more",
+        "常見錯誤：不可寫成 'more interested'（此為過去分詞形容詞，意義不同）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我弟弟比我高，跑步也比我快。",
+      "answer": "My younger brother is taller than me and runs faster than I do.",
+      "key_points": [
+        "taller（單音節形容詞加-er）",
+        "faster（單音節形容詞加-er，注意雙寫字母）",
+        "並列結構 and + 比較級"
+      ],
+      "hints": [
+        "句型結構：主詞 + be + 形容詞-er + than + 對象；or 主詞 + 動詞-er + than；注意 fast→faster 需雙寫 t",
+        "常見錯誤：比較對象應一致（都比較人物或相同詞性），不可混淆主詞或省略主詞導致比較不清"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "隨著年紀增長，適應新環境變得比以前更困難。",
+      "answer": "As we get older, adapting to new environments becomes more difficult than it used to be.",
+      "key_points": [
+        "more difficult（多音節形容詞比較級）",
+        "than + it used to be（過去式虛擬比較）",
+        "becomes（連綴動詞）"
+      ],
+      "hints": [
+        "句型結構：主詞 + 連綴動詞 + more + 形容詞 + than + 過去狀態；'比以前更...' 常用 than it used to be",
+        "常見錯誤：勿寫 'more difficultly'（difficult 為形容詞，不可加-ly 後用比較級）；比較對象應明確指涉過去"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管線上課程很方便，但面對面互動對學生的學習效果仍然比遠距教學更好。",
+      "answer": "Although online courses are convenient, face-to-face interaction is better for students' learning outcomes than distance learning.",
+      "key_points": [
+        "better（不規則比較級 good→better）",
+        "介詞片語 for + 人物（表受惠者）",
+        "邏輯可比性（互動方式之間的比較）"
+      ],
+      "hints": [
+        "句型結構：主詞 + be + 不規則比較級 + for + 受詞 + than + 比較對象；good/bad/far 等須用不規則形式",
+        "常見錯誤：避免比較不同類別（如比較 'interaction' 與 'courses'），應確保比較物件詞性相同邏輯清晰；'for students' 明確指出受惠者，增強表達精確度"
+      ]
+    }
   ]
 }

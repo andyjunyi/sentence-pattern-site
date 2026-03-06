@@ -293,5 +293,64 @@
       "explanation": "正確答案是 A「will be donated; are believed」。第一空應使被動語態「will be donated」表示文物將被捐贈；第二空主詞為複數「artifacts」，需用「are believed」與主詞一致。B 項第一空用主動語態錯誤，第二空主詞不一致；C 項第二空主詞不一致；D 項第一空時態不符，第二空無法呼應原句「said」的內容。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "據說這位新任校長曾經是一位優秀的教師。",
+      "answer": "It is said that the new principal was once an excellent teacher. / The new principal is said to have been an excellent teacher.",
+      "key_points": [
+        "It is said that",
+        "虛主詞 It",
+        "被動語態結構"
+      ],
+      "hints": [
+        "提示1：句型框架為『It is said (that) + S + V』，that 可省略但建議保留",
+        "提示2：『曾經是』應使用過去式 was 或完成式 have been，注意時態搭配"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "據報導，這家新開的餐廳使用了許多有機食材。",
+      "answer": "It is reported that the newly opened restaurant uses many organic ingredients. / The newly opened restaurant is reported to use many organic ingredients.",
+      "key_points": [
+        "It is reported that",
+        "有機食材 organic ingredients",
+        "被動語態 + to V"
+      ],
+      "hints": [
+        "提示1：『據報導』用 is reported，後接 that 子句或改寫為『S + is reported + to V』的主詞型",
+        "提示2：『新開的』可用 newly opened 或 brand new，『許多』用 many 或 a lot of"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "據信許多年輕人因為過度使用手機而患上了睡眠問題。",
+      "answer": "It is believed that many young people have developed sleep problems due to excessive use of smartphones. / Many young people are believed to have developed sleep problems due to excessive use of smartphones.",
+      "key_points": [
+        "It is believed that",
+        "have developed (現在完成式)",
+        "due to + 名詞片語"
+      ],
+      "hints": [
+        "提示1：『據信』用 is believed，『患上』可用 develop 或 suffer from，注意時態應為現在完成式 have developed",
+        "提示2：『過度使用』用 excessive use of 或 overuse of；主詞型改寫時，to have developed 需保留完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "據說政府計畫於未來三年內投資大量資金來改善鄉村地區的教育設施，以縮小城鄉差距。",
+      "answer": "It is said that the government plans to invest a huge amount of funds over the next three years to improve educational facilities in rural areas in order to narrow the gap between urban and rural regions. / The government is said to plan to invest a huge amount of funds over the next three years to improve educational facilities in rural areas so as to narrow the gap between urban and rural regions.",
+      "key_points": [
+        "It is said that",
+        "plan to V (計畫做某事)",
+        "in order to / so as to (表示目的)",
+        "城鄉差距 urban-rural gap / gap between urban and rural regions"
+      ],
+      "hints": [
+        "提示1：複雜句型結構：『It is said + that 子句』，子句中需含有『plans to V』結構，最後加上目的子句『in order to / so as to V』",
+        "提示2：『未來三年內』用 over the next three years；主詞型改寫時變成『is said to plan to V』，需注意雙重不定詞的使用；『縮小差距』可用 narrow the gap 或 close the gap"
+      ]
+    }
   ]
 }

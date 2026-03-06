@@ -301,5 +301,63 @@
       "explanation": "C 項正確，Since 引導原因子句，句構合法。A 項錯誤，From 為介詞，不能接 S + V 結構，應改為 Because/Since。B 項錯誤，重複使用連接詞（As + because），屬結構重疊。D 項錯誤，Due to 後接名詞，不能同時用 so，產生雙連接詞錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "因為明天要考試，所以今晚我必須早點睡覺。",
+      "answer": "Because there is an exam tomorrow, I must go to bed early tonight. / I must go to bed early tonight because there is an exam tomorrow.",
+      "key_points": [
+        "Because + S + V 引導原因",
+        "there is an exam tomorrow（有考試）",
+        "must go to bed early（必須早睡）"
+      ],
+      "hints": [
+        "提示1：Because 語氣直接，可單獨回答 Why 問句；原因子句可置於句首或句尾",
+        "提示2：句首位置需用逗號分隔；避免使用 because...so... 雙連接詞結構"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "既然你已經完成了功課，就可以去和朋友打籃球。",
+      "answer": "Since you have already finished your homework, you can go to play basketball with your friends. / You can go to play basketball with your friends since you have already finished your homework.",
+      "key_points": [
+        "Since + S + V 表示已知或前提條件",
+        "have finished your homework（完成功課）",
+        "can go to play basketball（可以去打籃球）"
+      ],
+      "hints": [
+        "提示1：Since 語氣較弱，表示雙方都知道的事實或已確定的條件；可置於句首或句尾",
+        "提示2：注意現在完成式 have finished 的使用；句首需加逗號；不能寫成 since...so..."
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於空氣品質不良，政府要求所有學校暫停室外運動課程。",
+      "answer": "As the air quality is poor, the government requires all schools to suspend outdoor PE classes. / The government requires all schools to suspend outdoor PE classes as the air quality is poor.",
+      "key_points": [
+        "As + S + V 表示附帶或明顯的原因",
+        "air quality is poor（空氣品質不良）",
+        "suspend outdoor PE classes（暫停室外體育課）"
+      ],
+      "hints": [
+        "提示1：As 語氣較弱，表示附帶或顯而易見的原因；句首需加逗號，句尾無需逗號",
+        "提示2：注意 require + O + to V 的用法；避免混淆 because/since/as 三者；不可使用 from 代替 as"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "因為智慧型手機使用時間過長，許多青少年面臨視力下降和頸椎問題的困擾。",
+      "answer": "Because smartphones are used for too long, many teenagers face problems such as vision decline and cervical spine issues. / Many teenagers face problems such as vision decline and cervical spine issues because smartphones are used for too long.",
+      "key_points": [
+        "Because + S + V 引導明確的因果關係",
+        "are used for too long（使用時間過長）",
+        "face problems such as...（面臨...困擾）"
+      ],
+      "hints": [
+        "提示1：複雜句型中，Because 後可接較複雜的子句結構；主句包含多重信息時，邏輯要清晰",
+        "提示2：避免誤用 because...so... 或 from + 名詞；注意 such as 的用法；若從句在首位，逗號不可省"
+      ]
+    }
   ]
 }

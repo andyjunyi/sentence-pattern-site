@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A。空格需填入『the + 比較級』形式；第一空應用 'worse'（比較級），第二空應用 'more'（修飾名詞 respiratory problems）。B項用最高級，不符合平行比較的結構；C項兩個 'worse' 邏輯混亂，且第二空應是增量詞而非形容詞；D項原級形式無法表達比較關係。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "你讀書越多，你學到的東西就越多。",
+      "answer": "The more you study, the more you learn.",
+      "key_points": [
+        "the + 比較級 (more)",
+        "主詞 + 動詞結構重複",
+        "第二子句省略相同主詞"
+      ],
+      "hints": [
+        "提示1：使用『The + 比較級 + S + V, the + 比較級 + S + V』結構",
+        "提示2：注意冠詞 the 不能用 a 替代，且 more 是 much/many 的比較級"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你越認真上課，考試成績就越好。",
+      "answer": "The more seriously you attend class, the better your exam grades become.",
+      "key_points": [
+        "the + 比較級副詞 (more seriously)",
+        "the + 比較級形容詞 (better)",
+        "第二子句省略相同部分以避免重複"
+      ],
+      "hints": [
+        "提示1：第一子句用比較級副詞修飾動詞，第二子句用比較級形容詞修飾名詞",
+        "提示2：務必記住 good → better，並注意兩子句之間的因果邏輯關係"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "你花在手機上的時間越長，你就越容易感到疲勞，睡眠品質就越差。",
+      "answer": "The longer you spend on your phone, the more tired you feel, and the worse your sleep quality becomes.",
+      "key_points": [
+        "the + 比較級 (longer, more tired, worse)",
+        "多個平行比較結構",
+        "因果關係的量化表達"
+      ],
+      "hints": [
+        "提示1：可以使用多個『the + 比較級』結構串連，但需保持邏輯清晰",
+        "提示2：注意 bad → worse 的不規則變化，並確保每個比較級前都有冠詞 the"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學校的課程難度越高，學生就越需要投入更多時間複習，但這樣他們的學習效果也就越明顯。",
+      "answer": "The more difficult the school curriculum becomes, the more time students need to spend on revision, and the more noticeable their learning outcomes are.",
+      "key_points": [
+        "複雜的比較級結構 (more difficult, more time, more noticeable)",
+        "多個從屬子句的並列",
+        "『the + 形容詞 + 名詞』的結構變化"
+      ],
+      "hints": [
+        "提示1：第一子句可使用『the + 比較級 + 名詞』形式，後續子句維持『the + 比較級 + S + V』框架",
+        "提示2：注意邏輯連貫性，ensure 前後子句的因果或相關性清晰；difficult → more difficult（多音節形容詞用 more）"
+      ]
+    }
   ]
 }

@@ -300,5 +300,68 @@
       "explanation": "若省略 if，需將 were 倒裝至句首：Were I...。主句應用 would 表確定結果。A 項正確。B 項保留 if 與倒裝矛盾；C 項 Had 用於完成假設；D 項 should 與 will 皆不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "如果我昨天沒有熬夜，我今天就不會那麼累。",
+      "answer": "If I hadn't stayed up late yesterday, I wouldn't be so tired today. / If I didn't stay up late yesterday, I wouldn't be so tired today.",
+      "key_points": [
+        "If + S + V-ed (stayed up)",
+        "wouldn't be so tired",
+        "表達與現在事實相反的假設"
+      ],
+      "hints": [
+        "提示1：主句用 would + be + 形容詞，表示確定的假設結果",
+        "提示2：注意『昨天熬夜』是過去事實，但『現在很累』是現在狀態，可用過去簡單式或過去完成式表達if子句"
+      ],
+      "difficulty": "易"
+    },
+    {
+      "id": 2,
+      "sentence_chi": "如果你是我，你會接受這份工作邀請嗎？",
+      "answer": "If you were me, would you accept the job offer?",
+      "key_points": [
+        "If + S + were (不用 was)",
+        "would + V (accept)",
+        "第一人稱或第三人稱單數be動詞一律用were"
+      ],
+      "hints": [
+        "提示1：be 動詞在假設語氣中無論何種人稱都用 were，此為必須記住的例外",
+        "提示2：疑問句需將 would 前移至句首，變成『If you were me, would...?』的語序"
+      ],
+      "difficulty": "中"
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果我們有充足的時間和資金，我們可能會實現這個環保計畫。",
+      "answer": "If we had sufficient time and funding, we could realize / carry out this environmental protection project.",
+      "key_points": [
+        "If + S + had (充足的時間和資金)",
+        "could + V (表可能性，非確定性)",
+        "sufficient time and funding / adequate resources"
+      ],
+      "hints": [
+        "提示1：could 表示理論上的可能性或能力，比 would 的確定性低；might 則表更低的或然率",
+        "提示2：『充足的』可用 sufficient 或 adequate，『實現計畫』可用 carry out 或 implement，選詞需符合正式用語"
+      ],
+      "difficulty": "中"
+    },
+    {
+      "id": 4,
+      "sentence_chi": "倘若不是因為疫情打亂了我們的計畫，我們早就完成這個專題研究，現在也不會面臨這麼大的壓力。",
+      "answer": "Were it not for the pandemic disrupting our plan, we would have completed this research project by now, and we wouldn't be facing such great pressure.",
+      "key_points": [
+        "Were it not for + N (倒裝結構)",
+        "would have + V-ed (已完成)",
+        "wouldn't be + V-ing (現在進行的狀態)",
+        "複雜的假設情景結合過去與現在"
+      ],
+      "hints": [
+        "提示1：『倘若不是因為』可用 If it were not for 或倒裝形式 Were it not for，倒裝時 were 移到句首",
+        "提示2：當假設涉及過去已發生的事(完成專題)和現在的結果(面臨壓力)時，if子句用過去式，主句中『已完成』用 would have + V-ed，『現在面臨』用 would be + V-ing"
+      ],
+      "difficulty": "難"
+    }
   ]
 }

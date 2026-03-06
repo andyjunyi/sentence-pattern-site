@@ -301,5 +301,67 @@
       "explanation": "第一空為非限定關係子句修飾人物 Dr. Chen，用 who；第二空為主要動詞 conducts 的主詞應為 who，但此處可用 that 作限定用法補充前述資訊。標準答案是 who 配 that 以區別子句性質，或改用 who / and she。A 項最符合此非限定+限定的複合結構邏輯。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我的英文老師，她今年教了我們很多有趣的文法。",
+      "answer": "My English teacher, who taught us a lot of interesting grammar this year, is very dedicated.",
+      "key_points": [
+        "My English teacher（先行詞）",
+        "who引導非限定關係子句",
+        "逗號位置在who之前和之後",
+        "動詞taught與teacher一致"
+      ],
+      "hints": [
+        "句型框架：N, who + V...（逗號在who前後）",
+        "注意：不可用that；who後的動詞must與先行詞teacher一致"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我的數學課本，它已經用了三年，現在有點破舊了。",
+      "answer": "My math textbook, which I have used for three years, is getting worn out now.",
+      "key_points": [
+        "My math textbook（先行詞）",
+        "which引導非限定關係子句",
+        "逗號標示補充資訊性質",
+        "have used搭配時間副詞for three years"
+      ],
+      "hints": [
+        "句型框架：N, which + V...（which代替物體）",
+        "易錯點：which後可接及物動詞+受詞（I have used）；不能用that因為是非限定用法"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我的好友林明，他在學校辯論隊表現傑出，最近被選為隊長。",
+      "answer": "My best friend Ming Lin, who has performed excellently in the school debate team, was recently elected captain.",
+      "key_points": [
+        "My best friend Ming Lin（先行詞）",
+        "who引導非限定關係子句補充說明",
+        "逗號分隔主句與從句",
+        "has performed完成式表達至今為止的傑出表現"
+      ],
+      "hints": [
+        "句型框架：S + V + N, who + V...（誰的身份或特性補充說明）",
+        "易錯點：who後的動詞時態應呼應語境；非限定用法去掉逗號後從句就失去意義"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這份氣候變遷研究報告，它由我校環保社團耗時一年完成，獲得了市政府的高度認可。",
+      "answer": "This climate change research report, which was completed by our school's environmental club over one year, has been highly recognized by the municipal government.",
+      "key_points": [
+        "This climate change research report（先行詞）",
+        "which引導非限定關係子句提供補充背景",
+        "被動語態was completed適合描述報告的完成過程",
+        "逗號確保非限定性質"
+      ],
+      "hints": [
+        "句型框架：S + V + N, which + V...（補充事物的來源、過程或特性）",
+        "易錯點：which後的被動語態動詞must與先行詞report單數一致；若改用that會改為限定用法，改變句意"
+      ]
+    }
   ]
 }

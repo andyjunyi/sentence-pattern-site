@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A（Whatever）。「Whatever circumstances may arise」表示「無論出現什麼情況」，whatever 作關係代名詞與名詞 circumstances 直接搭配，表達任意情況下的讓步關係。B（Whenever）表時間；C（However）表方式但須接形容詞；D（Wherever）表地點，皆與句意不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "無論你在哪裡，你都應該遵守當地的規則。",
+      "answer": "Wherever you are, you should follow the local rules.",
+      "key_points": [
+        "Wherever引導讓步副詞子句",
+        "主要子句使用should表示義務",
+        "逗號分隔兩個子句"
+      ],
+      "hints": [
+        "提示1：句型為『Wherever + S + V, main clause』的結構",
+        "提示2：注意wherever後面是完整的主詞+動詞，不要遺漏主詞you"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "無論你何時完成作業，老師都會檢查。",
+      "answer": "Whenever you finish your homework, the teacher will check it.",
+      "key_points": [
+        "Whenever表示時間上的任意性",
+        "主要子句使用will表示必然結果",
+        "子句時態使用簡單式"
+      ],
+      "hints": [
+        "提示1：句型為『Whenever + S + V, main clause』，whenever不能用where替代",
+        "提示2：常見錯誤是在whenever後面使用完成式，應用簡單式即可"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論你用什麼方法解決這個問題，我都會支持你的決定。",
+      "answer": "However you solve this problem, I will support your decision.",
+      "key_points": [
+        "However表示方式上的任意性",
+        "however後可不跟形容詞，直接接動詞",
+        "主要子句表達確定的支持態度"
+      ],
+      "hints": [
+        "提示1：句型為『However + S + V, main clause』，however在此表『無論用什麼方式』而非『然而』",
+        "提示2：注意however後面要有完整的S + V結構，不要誤寫成『However you solve』就停止"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論學生在什麼地方或什麼時候學習，只要他們認真投入，他們就一定能取得好成績。",
+      "answer": "Wherever or whenever students study, as long as they engage seriously, they will definitely achieve good grades.",
+      "key_points": [
+        "複合使用wherever和whenever表多層面的任意性",
+        "搭配as long as強化條件與結果的因果關係",
+        "主要子句強調必然的正面結果"
+      ],
+      "hints": [
+        "提示1：可使用『Wherever or whenever』同時表達地點和時間的任意性，或分開成兩句",
+        "提示2：注意學生容易混淆『只要』(as long as)與『無論』(wherever/whenever)的用法差異，兩者可並用但表達邏輯不同"
+      ]
+    }
   ]
 }

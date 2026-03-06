@@ -311,5 +311,63 @@
       "explanation": "正確答案是A「has spent / on preparing」。Although後接完成式has spent表過去動作延續至現在，與後句「did not meet」形成對比。「on preparing」為spend的標準搭配(spend + 時間/金錢 + on + V-ing名詞)。B項spends現在式不符語境。C項in為錯誤介詞，spend不與in搭配。D項is spending現在進行式與過去事件不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我花了三個小時做功課。",
+      "answer": "I spent three hours doing homework.",
+      "key_points": [
+        "spent + 時間",
+        "doing homework（動名詞）",
+        "主詞為人稱代詞"
+      ],
+      "hints": [
+        "句型框架：S + spend + 時間 + V-ing",
+        "注意：homework 不可數，前面不加 a；doing 是動名詞，不是原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她在購物上花了很多錢。",
+      "answer": "She spent a lot of money on shopping.",
+      "key_points": [
+        "spent + 金錢",
+        "on + 名詞（shopping）",
+        "a lot of money 為金錢表達"
+      ],
+      "hints": [
+        "句型框架：S + spend + 金錢 + on + N（當接名詞時用 on）",
+        "常見錯誤：寫成 'spent money shopping' 缺少 on；或寫成 'spent money to shop' 用錯介詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他們每週花兩小時在準備學測英文上。",
+      "answer": "They spend two hours every week preparing for the GSAT English exam.",
+      "key_points": [
+        "spend + 時間 + V-ing",
+        "every week（時間副詞置句末）",
+        "prepare for 搭配"
+      ],
+      "hints": [
+        "句型框架：S + spend + 時間 + V-ing，時間副詞可置句首或句末",
+        "preparing for the GSAT English exam 是動名詞片語；avoid 錯誤用法 'spend time to prepare'"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "與其花數百元買補充教材，不如投資時間自己讀書。",
+      "answer": "Rather than spending hundreds of dollars on supplementary materials, it's better to invest time reading on your own.",
+      "key_points": [
+        "Rather than + V-ing（對比結構）",
+        "spend + 金錢 + on + N",
+        "reading on your own（動名詞短語）"
+      ],
+      "hints": [
+        "進階句型：Rather than 引導對比時，spend 搭配 on；後半句可用 it's better to 或 it's wiser to",
+        "注意：supplementary materials 為複數可數名詞；reading on your own 中 on your own 是修飾語"
+      ]
+    }
   ]
 }

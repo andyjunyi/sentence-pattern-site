@@ -293,5 +293,66 @@
       "explanation": "正確答案為 C。『be worth one's time to V』是標準同義句型，表示值得花費時間做某事。A 項表達不自然；B 項 worthy of being watched 結構冗長；D 項 worthy to watch 用法不當，worthy 後應接 of 而非 to。C 項最符合語境與學測等級。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影很值得看。",
+      "answer": "This movie is worth watching.",
+      "key_points": [
+        "be worth",
+        "watching（動名詞）",
+        "主詞為事物（movie）"
+      ],
+      "hints": [
+        "句型框架：S + be worth + V-ing，S 必須是有價值的事物",
+        "注意：worth 後接動名詞，不能接 to watch"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這個古老的博物館很值得參觀，因為它有許多珍貴的文物。",
+      "answer": "This ancient museum is worth visiting because it has many precious artifacts.",
+      "key_points": [
+        "be worth",
+        "visiting（動名詞）",
+        "主詞為事物（museum）",
+        "因果關係說明"
+      ],
+      "hints": [
+        "句型框架：S + be worth + V-ing，動名詞表示『值得被進行的動作』",
+        "常見錯誤：不要寫成 worth to visit 或 worthy of visiting"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "儘管這本書很厚，但它仍然值得一讀，因為內容引人深思。",
+      "answer": "Although this book is quite thick, it is still worth reading because the content is thought-provoking.",
+      "key_points": [
+        "be worth reading",
+        "動名詞邏輯受詞是主詞",
+        "讓步句型 + worth 結合",
+        "thought-provoking 形容詞用法"
+      ],
+      "hints": [
+        "句型框架：主詞（事物）+ be worth + V-ing，此處 reading 的邏輯受詞是 book",
+        "注意：worth 無法用於人作主詞，例如『他值得去愛』不能寫成 He is worth loving"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這家餐廳以其創意菜單聞名，絕對值得光臨，即使價格稍高也不遺憾。",
+      "answer": "This restaurant is well-known for its creative menu and is definitely worth visiting, even if the price is a bit higher.",
+      "key_points": [
+        "be worth visiting",
+        "邏輯受詞隱含（visiting 的邏輯受詞是 restaurant）",
+        "be known for + N/V-ing",
+        "讓步子句"
+      ],
+      "hints": [
+        "句型框架：S + be worth + V-ing，其中 S 必須是具體的事物或地點",
+        "易錯點：worth 後面直接接動名詞，不需要任何介詞；邏輯受詞是隱含的，不用明確表達"
+      ]
+    }
   ]
 }

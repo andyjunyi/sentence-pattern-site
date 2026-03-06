@@ -301,5 +301,63 @@
       "explanation": "第一空：neither...nor遵循近似一致原則，最接近的主詞為explanation（單數），應用account，但account for為片語，主詞為複數概念（兩個否定概念合併），故用account。第二空：neither...they表倒裝，neither引導倒裝句時主詞為they（複數），故用were。B項accounts錯誤；C、D項動詞選擇均有誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "明天要麼下雨，要麼下雪。",
+      "answer": "Either rain or snow will occur tomorrow.",
+      "key_points": [
+        "Either...or 結構",
+        "will occur（動詞與最接近主詞 snow 一致）",
+        "表達二選一的可能性"
+      ],
+      "hints": [
+        "提示1：Either A or B 的動詞應與 B 保持一致，此句 B 為 snow（單數）",
+        "提示2：不能寫成『Either rain or snow will occurs』，snow 是單數"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "要不是你媽媽，要不就是你爸爸會來參加學校運動會。",
+      "answer": "Either your mother or your father will attend the school sports day.",
+      "key_points": [
+        "Either...or 結構",
+        "will attend（動詞與 father 一致）",
+        "attend 表示「參加」"
+      ],
+      "hints": [
+        "提示1：Either A or B，動詞應與最接近的主詞 B（your father）保持一致",
+        "提示2：注意 father 是單數，所以用 will attend，不能用 will attends"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我既不喜歡數學也不喜歡化學，但我喜歡物理。",
+      "answer": "Neither mathematics nor chemistry appeals to me, but physics does.",
+      "key_points": [
+        "Neither...nor 結構",
+        "appeals to me（倒裝用法，動詞與 chemistry 一致）",
+        "neither...nor 表全盤否定"
+      ],
+      "hints": [
+        "提示1：Neither A nor B 動詞應與最接近的主詞 B 保持一致；此句 chemistry 為單數",
+        "提示2：常見錯誤是『Neither mathematics nor chemistry appeal to me』，應為 appeals（chemistry 單數）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論是班長還是副班長都無法在下週一的班會上發言，因為他們都要參加模擬考。",
+      "answer": "Neither the class president nor the vice president is able to speak at the class meeting next Monday because they both have to take a mock exam.",
+      "key_points": [
+        "Neither...nor 結構搭配 is able to",
+        "因果關係（because 子句說明原因）",
+        "動詞與最接近主詞 vice president 一致"
+      ],
+      "hints": [
+        "提示1：Neither A nor B，此句 B 為『the vice president』（單數），所以用 is able to，不用 are able to",
+        "提示2：注意主要子句用單數 is，但 because 子句後的代名詞 they 是複數指代兩人"
+      ]
+    }
   ]
 }

@@ -320,5 +320,63 @@
       "explanation": "正確答案是 A。虛受詞句型 make it + adj. + to 受詞 (that 子句) 中，真正受詞由 that 子句承接，說明具體內容。B 是關係代詞，無法引導名詞子句；C 引導方式子句；D 引導疑問子句，皆不符。此句 it 是形式受詞，that 子句才是真實受詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我覺得每天早起上學很困難。",
+      "answer": "I find it difficult to wake up early and go to school every day.",
+      "key_points": [
+        "find + it + difficult",
+        "to wake up early",
+        "虛受詞 it 的使用"
+      ],
+      "hints": [
+        "句型框架：S + find + it + adj. + to V，it 是形式受詞，代替後方不定詞",
+        "常見錯誤：不能直接說『I find to wake up difficult』，必須在形容詞前插入 it"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他認為在這麼多人面前發表演講很害怕。",
+      "answer": "He thinks it scary to give a speech in front of so many people.",
+      "key_points": [
+        "thinks + it + scary",
+        "to give a speech",
+        "in front of so many people"
+      ],
+      "hints": [
+        "句型框架：S + think + it + adj. + to V，形容詞可用 scary、nervous、embarrassing 等情感形容詞",
+        "注意：『in front of』片語修飾地點，置於不定詞之後可使句意更完整"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師認為學生理解這個複雜的文法概念是有可能的。",
+      "answer": "The teacher considers it possible for students to understand this complex grammar concept.",
+      "key_points": [
+        "considers + it + possible",
+        "for students to understand",
+        "複雜受詞結構 for + N + to V"
+      ],
+      "hints": [
+        "句型框架：S + consider + it + adj. + for sb. + to V，當不定詞有明確的邏輯主詞時，用『for + 人 + to V』",
+        "『possible』是表示可能性的形容詞，也可用 necessary、important、difficult 等"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們發現同時兼顧學業、運動和社交活動這三件事是很有挑戰性的，特別是在大學入學考試之前。",
+      "answer": "We find it challenging to balance schoolwork, sports, and social activities at the same time, especially before the university entrance exam.",
+      "key_points": [
+        "find + it + challenging",
+        "to balance + three objects",
+        "時間副詞片語『especially before the university entrance exam』"
+      ],
+      "hints": [
+        "句型框架：S + find + it + adj. + to V，當不定詞後接多個並列受詞（schoolwork, sports, and social activities）時，該結構能避免句子過於繁重",
+        "『balance』意為『平衡』，比『do at the same time』更精確；『challenging』比『difficult』更具體地表達挑戰性"
+      ]
+    }
   ]
 }

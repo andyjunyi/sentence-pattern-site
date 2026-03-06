@@ -293,5 +293,63 @@
       "explanation": "句首倒裝子句主詞為 the students（複數），be 動詞用 were；but also 子句主詞為 the parents（複數），be 動詞用 are。此句型中動詞應與各自的主詞一致，不遵循就近原則。A 項後半錯誤；B、C 項前半錯誤。正確答案是 D。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影不只很有趣，而且很感人。",
+      "answer": "Not only is this movie entertaining, but it is also touching.",
+      "key_points": [
+        "Not only + be動詞 + S 倒裝結構",
+        "entertaining 和 touching（形容詞對等連接）",
+        "but also 後接正常語序"
+      ],
+      "hints": [
+        "提示1：not only 置於句首時，be 動詞須提前至主詞之前形成倒裝",
+        "提示2：but also 後的子句不需倒裝，維持『S + be V』的正常語序"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這份工作不只薪水高，而且工作環境也很舒適。",
+      "answer": "Not only is the salary high for this job, but the working environment is also comfortable.",
+      "key_points": [
+        "倒裝結構：Not only + be + S + adj",
+        "高級詞彙：salary / working environment",
+        "but also 維持正常主詞-動詞語序"
+      ],
+      "hints": [
+        "提示1：形容詞對等連接時，not only 後的子句需倒裝（is + S），but also 後的子句保持正常語序",
+        "提示2：注意 also 可省略，但 but 不能省；此處使用 also 可加強語氣"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他不只通過了英文考試，而且還考了全班最高分。",
+      "answer": "Not only did he pass the English exam, but he also scored the highest mark in the class.",
+      "key_points": [
+        "過去式倒裝：Not only + did + S + V",
+        "pass / score 的動詞對等連接",
+        "就近原則：動詞與靠近的主詞『he』一致"
+      ],
+      "hints": [
+        "提示1：not only 置於句首時需倒裝，此句用過去式須將『did』提前至主詞前；but also 後恢復『S + V』的正常語序",
+        "提示2：常見錯誤是忘記倒裝或混淆兩個子句的語序，記住『not only 倒裝，but also 正常』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這個提案不只能降低成本，而且能改善員工的工作效率和滿意度。",
+      "answer": "Not only can this proposal reduce costs, but it can also improve employees' work efficiency and job satisfaction.",
+      "key_points": [
+        "情態動詞倒裝：Not only + can + S + V",
+        "reduce / improve 動詞對等連接",
+        "and 連接『work efficiency』和『job satisfaction』（名詞對等連接的複雜結構）"
+      ],
+      "hints": [
+        "提示1：含情態動詞時，not only 後需將情態動詞提前形成倒裝（can + S + V）；but also 後仍為『S + can + V』的正常語序",
+        "提示2：注意複雜句中多個對等元素的連接方式：不同動詞對等（reduce/improve）且 improve 後接兩個名詞對象（用 and 連接），結構完整性是評分重點"
+      ]
+    }
   ]
 }

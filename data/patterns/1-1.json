@@ -299,5 +299,63 @@
       "explanation": "正確答案是 C。第一空：there are 句型中，computer lab、sports facilities、library 為複數名詞組合，be 動詞應與最靠近的名詞 library（複數）一致，故用 are。第二空：關係代名詞 which 指代先行詞（複數），動詞應為複數形 provide。A 項錯誤：is 與複數不符。B 項錯誤：provides 與複數主詞不符。D 項錯誤：is 與複數不符，provides 與複數不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "教室裡有很多學生。",
+      "answer": "There are many students in the classroom.",
+      "key_points": [
+        "There are + 複數名詞",
+        "many students（複數）",
+        "in the classroom（地點）"
+      ],
+      "hints": [
+        "提示1：複數名詞搭配 are，單數名詞搭配 is",
+        "提示2：常見錯誤為寫成『Students are many in the classroom』，但應用 There are 開頭引介新資訊"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "圖書館的桌子上有一本書。",
+      "answer": "There is a book on the desk in the library.",
+      "key_points": [
+        "There is + 單數名詞",
+        "a book（單數）",
+        "on the desk in the library（多層地點副詞）"
+      ],
+      "hints": [
+        "提示1：單數名詞或不可數名詞用 is；複數名詞用 are",
+        "提示2：地點副詞可有多個，從小範圍到大範圍排列（on the desk → in the library）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "學校操場上沒有學生在進行課外活動。",
+      "answer": "There are no students on the school playground doing extracurricular activities.",
+      "key_points": [
+        "There are no + 複數名詞",
+        "做否定表達",
+        "doing extracurricular activities（現在分詞片語修飾）"
+      ],
+      "hints": [
+        "提示1：否定句可用『There are not...』或『There are no...』；『no』直接接名詞，『not』搭配 any",
+        "提示2：當有修飾語（如現在分詞）時，應置於名詞之後，地點副詞在最後"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這個暑假期間，市立美術館裡將會有一場關於現代藝術的特展。",
+      "answer": "There will be a special exhibition on modern art in the city art museum during this summer vacation.",
+      "key_points": [
+        "There will be + 單數名詞",
+        "未來式搭配 will",
+        "介系詞片語修飾（on modern art、in the city art museum、during this summer vacation）"
+      ],
+      "hints": [
+        "提示1：There is/are 可搭配時態變化，如 will be、was/were；句型框架不變，只改變 be 動詞",
+        "提示2：多個介系詞片語應按邏輯順序排列（展覽主題 → 地點 → 時間），避免用『A special exhibition on modern art will be...』的主動句型"
+      ]
+    }
   ]
 }

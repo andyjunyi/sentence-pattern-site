@@ -301,5 +301,63 @@
       "explanation": "正確答案是 C (to promise; making)。第一空：forget + to V 表示「忘記要去做的事」（未來任務），所以用 to promise。第二空：remember + V-ing 表示「回想起過去做過的事」，所以用 making。A、C 的組合都用 to promise，但 making 才對。B、D 都誤用 promising，表示忘記停止許諾的行為，語義錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我媽媽戒掉了每天喝咖啡的習慣。",
+      "answer": "My mother stopped drinking coffee every day.",
+      "key_points": [
+        "stopped + V-ing",
+        "表示終止過去的習慣",
+        "every day 強調習慣性"
+      ],
+      "hints": [
+        "提示1：stop + V-ing 表『停止做某事（習慣）』，重點在過去的行為",
+        "提示2：若寫成 stopped to drink 則變成『停下來去喝咖啡』，意思完全不同"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她忘記了帶家庭作業到學校。",
+      "answer": "She forgot to bring her homework to school.",
+      "key_points": [
+        "forgot + to V",
+        "表示未完成的任務",
+        "bring 是未來應該做但沒做的動作"
+      ],
+      "hints": [
+        "提示1：forget + to V 強調『忘記去做某件事』（未完成），通常帶有遺憾感",
+        "提示2：若寫 forgot bringing 則表『記得某次帶過的經驗』，邏輯不符"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他停下腳步去幫助那位跌倒的老奶奶。",
+      "answer": "He stopped to help the elderly woman who had fallen down.",
+      "key_points": [
+        "stopped + to V",
+        "表示為了做另一件事而停止正在進行的動作",
+        "過去分詞 fallen 補充背景"
+      ],
+      "hints": [
+        "提示1：stop + to V 意為『停止X去做Y』，強調目的與轉換動作",
+        "提示2：注意 to help 前的動作必須先存在，如『他在走路，然後停下來幫忙』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我記得曾經參加過一次全校運動會，但我忘記去買參賽用的運動鞋。",
+      "answer": "I remember participating in a school sports day before, but I forgot to buy the athletic shoes for the competition.",
+      "key_points": [
+        "remember + V-ing vs. forgot + to V",
+        "V-ing 回憶過去經驗，to V 指未完成的未來任務",
+        "but 連接對比的兩個動詞"
+      ],
+      "hints": [
+        "提示1：remember + V-ing 表『記得曾經做過』（有做過的記憶），forgot + to V 表『忘記去做』（應該做但沒做）",
+        "提示2：注意時態搭配：remember 可用簡單過去式，V-ing 形式暗示過去已發生；forgot + to buy 同樣用過去式但強調『遺漏的任務』而非經驗"
+      ]
+    }
   ]
 }

@@ -307,5 +307,64 @@
       "explanation": "正確答案是A。\"understand how to balance...\" 符合句型 S + understand + wh- + to V，其中how為疑問詞，to balance為不定詞，表「了解如何平衡」。B項「what should balance」將不定詞改為應然結構，破壞句型。C項「how balancing」使用動名詞，不符不定詞要求。D項「whether the need to balance」為名詞子句結構，且whether後接完整子句，不是 wh- + to V 句型。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不知道如何使用這個新軟體。",
+      "answer": "I don't know how to use this new software.",
+      "key_points": [
+        "know + how to V",
+        "how 疑問詞",
+        "use 不定詞形式"
+      ],
+      "hints": [
+        "句型框架：S + don't know + how + to V",
+        "注意：不能寫成 'how using' 或 'how use'，必須用不定詞 to use"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師教我們學會了什麼時候應該使用被動語態。",
+      "answer": "The teacher taught us when to use the passive voice.",
+      "key_points": [
+        "teach + wh- + to V",
+        "when 疑問詞",
+        "不定詞主詞與主句主詞相同（us）"
+      ],
+      "hints": [
+        "句型框架：S + teach + O + when + to V，受詞 us 後接 when to V",
+        "注意：when to use 中的 to use 是不定詞，不能用 should use 或 using"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他決定了應該往哪一個大學申請，但仍在思考選擇哪一個科系。",
+      "answer": "He decided which university to apply to, but he is still wondering which major to choose.",
+      "key_points": [
+        "decide + which + to V",
+        "wonder + which + to V",
+        "which 可用於可數名詞（university, major）"
+      ],
+      "hints": [
+        "句型框架：S + decide/wonder + which (N) + to V，which 通常搭配名詞使用",
+        "注意：apply to 的 to 是介詞，不定詞的 to 要分開看；'which major to choose' 中的 to 才是不定詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "由於環保議題日益嚴重，許多學生開始學習如何減少日常生活中的碳足跡，並思考應該在哪裡從小事做起。",
+      "answer": "As environmental issues become increasingly serious, many students are learning how to reduce their carbon footprint in daily life and wondering where to start with small actions.",
+      "key_points": [
+        "learn + how to V",
+        "wonder + where to V",
+        "不定詞主詞隱含但與主句主詞一致（students）",
+        "複合句搭配"
+      ],
+      "hints": [
+        "句型框架：S + learn + how to V 和 S + wonder + where to V 均符合本章句型",
+        "注意：'where to start' 中 start 後沒有賓語時，where 充當介詞角色；勿混淆 'learning how reduce' (錯誤)，必須用 'learning how to reduce'"
+      ]
+    }
   ]
 }

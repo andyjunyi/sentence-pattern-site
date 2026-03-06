@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B。現代英文中，否定句用「didn't dare to + V」最為常見自然。A 項「dared not」為舊式情態動詞用法，在現代英文中罕見；C 項缺時態；D 項結構錯誤。根據上下文判斷需用過去式，B 項最符合現代英文習慣。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "他不敢在課堂上舉手發言。",
+      "answer": "He doesn't dare to raise his hand and speak in class.",
+      "key_points": [
+        "doesn't dare to + V",
+        "raise one's hand",
+        "in class"
+      ],
+      "hints": [
+        "提示1：否定句用『doesn't dare to + 原形動詞』，為現代慣用法",
+        "提示2：注意 dare not 已少用；『raise one's hand』是舉手的正確搭配"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你敢在朋友面前承認自己的錯誤嗎？",
+      "answer": "Do you dare to admit your mistake in front of your friends?",
+      "key_points": [
+        "Do you dare to + V?",
+        "admit one's mistake",
+        "in front of"
+      ],
+      "hints": [
+        "提示1：疑問句用『Do you dare to + 原形動詞』，表示驚奇或挑戰",
+        "提示2：避免用『Dare you...?』（情態動詞用法已過時）；『admit one's mistake』是認錯的常用表達"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "儘管感到害怕，她還是敢獨自走進黑暗的房間。",
+      "answer": "Despite her fear, she dares to enter the dark room alone.",
+      "key_points": [
+        "dare to + V（肯定句）",
+        "despite + noun",
+        "enter...alone"
+      ],
+      "hints": [
+        "提示1：肯定句用『S + dare to + 原形動詞』表示有勇氣做某事",
+        "提示2：注意『Despite her fear』作開頭副詞片語，強調對比；『enter the dark room alone』須完整表達行為與方式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "沒有人敢挑戰班上最聰明的同學回答這道難題。",
+      "answer": "No one dares to challenge the smartest student in the class to answer this difficult question.",
+      "key_points": [
+        "No one dares to + V",
+        "challenge sb. to do sth.",
+        "the smartest student"
+      ],
+      "hints": [
+        "提示1：『No one』作主詞時，後用『dares to + 原形動詞』；若改為『Nobody dares to』亦可",
+        "提示2：『challenge sb. to do sth.』是『挑戰某人做某事』的正確結構，勿誤用為『challenge to do』"
+      ]
+    }
   ]
 }

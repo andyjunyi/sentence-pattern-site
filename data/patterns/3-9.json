@@ -299,5 +299,63 @@
       "explanation": "正確答案是 B。本題強調程度，使用『so + 形容詞 + that』結構。informative 是形容詞，so 修飾形容詞表達『如此...以至於』。A 項 such 應接名詞片語，不能直接修飾形容詞；C 項 such an 搭配錯誤且邏輯不通；D 項 so much 用於不可數名詞，which 非結果子句。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影很有趣，以至於我們都笑了。",
+      "answer": "The movie was so funny that we all laughed.",
+      "key_points": [
+        "so + funny（形容詞）",
+        "that 引導結果子句",
+        "自然因果關係"
+      ],
+      "hints": [
+        "句型框架：S + V + so + adj. + that + S + V",
+        "注意：so 後接形容詞，不能用 such；that 子句需表達自然結果"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "昨天的考試這麼難，以至於很多學生都不及格。",
+      "answer": "The exam yesterday was so difficult that many students failed.",
+      "key_points": [
+        "so + difficult（形容詞）",
+        "that 子句表達結果",
+        "邏輯連貫性"
+      ],
+      "hints": [
+        "句型框架：S + V + so + adj. + that + S + V",
+        "常見錯誤：誤用 such difficult exam 代替 so difficult；that 後需跟完整子句（主詞+動詞）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他說話的速度太快了，以至於我無法跟上他的意思。",
+      "answer": "He spoke so quickly that I couldn't follow what he was saying.",
+      "key_points": [
+        "so + quickly（副詞）",
+        "so...that 表示程度與結果",
+        "couldn't follow = 無法跟上"
+      ],
+      "hints": [
+        "句型框架：S + V + so + adv. + that + S + V（注意副詞修飾動詞）",
+        "提醒：so 後接副詞時，副詞修飾前面的動詞；that 子句常含否定（couldn't）表示負面結果"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學校的暑期作業這麼多，以至於學生們整個暑假都在做功課，根本沒有時間放鬆。",
+      "answer": "There was so much summer homework that students spent the entire vacation doing assignments and had little time to relax.",
+      "key_points": [
+        "so much + homework（數量表達）",
+        "that 引導的複合結果子句",
+        "邏輯層次深化"
+      ],
+      "hints": [
+        "句型框架：S + V + so much/many + N + that + S + V（強調數量之多）",
+        "提醒：so much 用於不可數名詞；that 子句可包含多個結果（and 連接）；避免誤用 such much"
+      ]
+    }
   ]
 }

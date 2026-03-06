@@ -297,5 +297,63 @@
       "explanation": "正確答案是 A（It appears that the company）。虛主詞句型 \"It appears that...\" 較直接用 \"The company appears to...\" 更形式正式、中立，適合官方報告語境。此句型強調說話人的客觀推測。選項 B 語序錯誤，\"that\" 不應在句首。選項 C 雖文法正確，但不如虛主詞句型正式有力。選項 D（appearing）非動詞用法，文法錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "據說明年會有新的大學入學制度。",
+      "answer": "It is said that there will be a new university admission system next year.",
+      "key_points": [
+        "It is said that",
+        "there will be",
+        "虛主詞 it 無實義"
+      ],
+      "hints": [
+        "提示1：使用『It is said that + S + V』結構，將子句後移",
+        "提示2：注意時態與被動語態搭配，『said』表傳聞，不需加『by whom』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "人們普遍認為運動對身體健康很重要。",
+      "answer": "It is believed that exercise is very important for physical health.",
+      "key_points": [
+        "It is believed that",
+        "exercise is",
+        "形容詞 important 搭配介詞 for"
+      ],
+      "hints": [
+        "提示1：『believed』為被動語態，表示普遍看法或共識",
+        "提示2：主詞 exercise 為單數，動詞用 is；避免誤用『It is believed that people think...』的重複結構"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "眾所周知，充足的睡眠對學生的學業表現有很大的影響。",
+      "answer": "It is well known that adequate sleep has a significant impact on students' academic performance.",
+      "key_points": [
+        "It is well known that",
+        "adequate sleep / has a significant impact on",
+        "名詞所有格 students'"
+      ],
+      "hints": [
+        "提示1：『well known』強調眾所周知的事實，『well』修飾 known；整個結構為『It + is + well known + that + S + V』",
+        "提示2：注意『impact on』為固定搭配；『academic performance』為關鍵詞；避免用『It is known that people know...』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "據報導，長時間使用社群媒體可能會導致青少年的心理健康問題，但這一點仍有許多人質疑。",
+      "answer": "It is reported that prolonged use of social media may lead to mental health problems in adolescents, though this remains questioned by many.",
+      "key_points": [
+        "It is reported that",
+        "prolonged use / may lead to",
+        "虛主詞句型搭配轉折子句"
+      ],
+      "hints": [
+        "提示1：『reported』表示新聞報導；『prolonged』修飾 use；『may lead to』表推測性因果；後半句用『though』引導轉折",
+        "提示2：避免誤用『It is reported that people report...』；注意『in adolescents』說明受影響者；『questioned by many』為被動結構，表示異議"
+      ]
+    }
   ]
 }

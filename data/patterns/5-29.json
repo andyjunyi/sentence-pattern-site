@@ -300,5 +300,63 @@
       "explanation": "正確答案是 A「were supposed」。be supposed to + have + 過去分詞表示「本應已完成但未確認」的推測。選項 B supposing 為現在分詞，無法表達此意。選項 C had supposed 為過去完成式但非 be supposed to 結構。選項 D 進行式不適合此語境，且文意不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生應該準時到校。",
+      "answer": "Students are supposed to arrive at school on time.",
+      "key_points": [
+        "be supposed to",
+        "arrive at school",
+        "on time"
+      ],
+      "hints": [
+        "提示1：現在式 be supposed to 表示目前應該做的事",
+        "提示2：注意 arrive at（到達地點）的搭配，不可用 go to"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你本來應該昨天完成這份作業的。",
+      "answer": "You were supposed to finish this homework yesterday.",
+      "key_points": [
+        "were supposed to",
+        "過去式暗示未完成",
+        "yesterday"
+      ],
+      "hints": [
+        "提示1：過去式 was/were supposed to 表達『本應但未能』的遺憾感",
+        "提示2：過去式用於描述昨天的預期行動，暗示該作業可能未完成"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "根據天氣預報，明天應該會下雨，所以我們不應該去登山。",
+      "answer": "According to the weather forecast, it is supposed to rain tomorrow, so we are not supposed to go hiking.",
+      "key_points": [
+        "is supposed to rain",
+        "天氣推測用法",
+        "are not supposed to（否定形式）"
+      ],
+      "hints": [
+        "提示1：be supposed to 除表義務外，也可用於推測或預期情況",
+        "提示2：注意否定形式為 be not supposed to，表示『不應該』或『不該』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "醫生告訴他應該每天運動至少三十分鐘，但他上週本應遵守這個建議卻沒有做到。",
+      "answer": "The doctor told him he is supposed to exercise for at least thirty minutes every day, but he was supposed to follow this advice last week but didn't.",
+      "key_points": [
+        "is supposed to exercise",
+        "過去式 was supposed to 搭配but didn't",
+        "時態轉換"
+      ],
+      "hints": [
+        "提示1：同一句子中結合現在式（一般規則）與過去式（未達成的期望）",
+        "提示2：『but didn't』強化過去式『本應但未能』的遺憾感，避免單用過去式造成歧義"
+      ]
+    }
   ]
 }

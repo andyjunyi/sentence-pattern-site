@@ -312,5 +312,63 @@
       "explanation": "正確答案是 B。keep + O + OC 表「使...保持某狀態」，過去分詞 ruined 作補語，表「持續處於被破壞狀態」。A 選項 make + ruin（原形動詞）不當，make 後應接形容詞或過去分詞；C 選項 found 語意不符（「發現」不適當）；D 選項 considered + to be ruined 過於冗長，且動詞搭配不當。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影讓我感到非常開心。",
+      "answer": "This movie makes me very happy.",
+      "key_points": [
+        "make + O + OC (adj.)",
+        "受詞補語用形容詞 happy",
+        "形容詞補語描述受詞狀態"
+      ],
+      "hints": [
+        "句型框架：S + make + O + 形容詞補語，表示『使某人保持某狀態』",
+        "常見錯誤：勿加 to，即『make me to happy』是錯誤的"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師發現這個學生是個天才。",
+      "answer": "The teacher found the student a genius.",
+      "key_points": [
+        "find + O + OC (N)",
+        "受詞補語用名詞 genius",
+        "名詞補語表達身份認可"
+      ],
+      "hints": [
+        "句型框架：S + find + O + 名詞補語，表示『發現某人具有某身份/特質』",
+        "注意：genius 前無冠詞時表身份，用 a genius 表特定身份認可"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他們選舉她為學生會主席。",
+      "answer": "They elected her president of the student council.",
+      "key_points": [
+        "elect + O + OC (N)",
+        "受詞補語用名詞 president",
+        "過去分詞或名詞均可作補語"
+      ],
+      "hints": [
+        "句型框架：S + elect/choose/appoint + O + 名詞補語，表示『任命某人為某職位』",
+        "注意：president 前通常不加冠詞，直接作補語表職位身份"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們發現教室的門被鎖上了，所以無法進去上課。",
+      "answer": "We found the classroom door locked, so we couldn't enter to take the class.",
+      "key_points": [
+        "find + O + OC (p.p.)",
+        "受詞補語用過去分詞 locked",
+        "過去分詞補語表被動狀態或完成狀態"
+      ],
+      "hints": [
+        "句型框架：S + find + O + 過去分詞補語，表示『發現某物處於被動或完成狀態』",
+        "常見錯誤：勿用 is locked（補語已含被動意義），直接用 locked；注意補語修飾受詞 door，非主詞 we"
+      ]
+    }
   ]
 }

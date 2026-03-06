@@ -301,5 +301,66 @@
       "explanation": "正確答案是 B (that)。discover 後接名詞子句表示「發現某事實」時用 that；子句「consuming moderate amounts of coffee daily may reduce the risk」是完整的主詞動詞結構。A 選項 what 作為名詞子句引詞時子句內無完整主詞；C 選項 how 表方式；D 選項 whether 表是否選擇，文意不符。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我認為明天會下雨。",
+      "answer": "I think (that) it will rain tomorrow.",
+      "key_points": [
+        "think 作主動詞",
+        "that 可省略",
+        "it will rain 為完整子句"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V",
+        "注意：that 在受詞子句中可省，但省略後意思不變"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師希望所有學生都能通過這次考試。",
+      "answer": "The teacher hopes (that) all students will pass the exam.",
+      "key_points": [
+        "hopes 作主動詞",
+        "that 可省略",
+        "all students will pass 為完整子句",
+        "受詞子句內有複雜主詞"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V，注意受詞子句內主詞可以是複數或帶有修飾詞",
+        "易錯點：不要在子句前加介詞 of，受詞子句直接跟在及物動詞後"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "科學家相信全球暖化會對環境造成嚴重的影響。",
+      "answer": "Scientists believe (that) global warming will have a serious impact on the environment.",
+      "key_points": [
+        "believe 作主動詞",
+        "that 可省略",
+        "global warming will have 為完整子句",
+        "受詞子句內有複雜述語"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V，受詞子句內的述語可包含複雜結構如 have a...impact",
+        "易錯點：勿混淆與形容詞子句，此句 that 引導名詞子句作 believe 的受詞，而非修飾名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我期望你已經完成了家庭作業，並且你會在明天的課堂上提交它。",
+      "answer": "I expect (that) you have finished your homework and (that) you will submit it in class tomorrow.",
+      "key_points": [
+        "expect 作主動詞",
+        "兩個 that 引導的並列受詞子句",
+        "that 通常省略但結構仍完整",
+        "並列子句間用 and 連接"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V and (that) + S + V，多個受詞子句時第二個 that 可省或保留",
+        "易錯點：注意時態搭配（have finished 為現在完成式表示已完成；will submit 為未來式表示將來動作），勿使用非限制用法的形容詞子句"
+      ]
+    }
   ]
 }

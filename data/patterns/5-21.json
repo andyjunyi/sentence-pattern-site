@@ -310,5 +310,63 @@
       "explanation": "正確答案是 C (kept; closed)。第一空為過去式 kept + V-ing，表示瑪麗持續反覆抱怨。第二空為 keep + O + adj.，kept my door closed 表保持房門處於關閉狀態。A 的 closing 誤用為狀態；B 時態不符（當前文用過去式）；D 混淆兩種用法，第二空應用形容詞，不能用現在分詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "媽媽叫我保持房間整潔。",
+      "answer": "My mother asks me to keep my room clean.",
+      "key_points": [
+        "keep + O + adj.",
+        "room（房間）",
+        "clean（整潔的形容詞）"
+      ],
+      "hints": [
+        "句型框架：keep + O + 形容詞，表保持某物處於特定狀態",
+        "注意：clean 是形容詞，不是動詞；若要用動詞應改為 cleaning（現在分詞）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師要求學生在考試期間保持安靜。",
+      "answer": "The teacher requires students to keep quiet during the exam.",
+      "key_points": [
+        "keep + O + adj.",
+        "quiet（安靜的）",
+        "during the exam（在考試期間）"
+      ],
+      "hints": [
+        "句型框架：keep + O + 形容詞，此處 quiet 形容詞修飾 students 的狀態",
+        "常見錯誤：誤用 keeping quiet 或 be quiet，應用 keep + adj. 結構"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "不要讓食物放在外面太久而變壞。",
+      "answer": "Don't leave the food sitting out for too long.",
+      "key_points": [
+        "leave + O + V-ing",
+        "food（食物）",
+        "sitting out（放在外面，現在分詞表動作）"
+      ],
+      "hints": [
+        "句型框架：leave + O + V-ing，表讓某物處於持續的動作狀態；leave 強調「放任不管」",
+        "注意：sitting out 是現在分詞短語，描述食物被放在外面的狀態"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "他整天持續玩手機，這讓他的視力保持惡化的狀態。",
+      "answer": "He keeps playing with his phone all day, which leaves his eyesight getting worse.",
+      "key_points": [
+        "keep + V-ing（無受詞，表持續反覆）",
+        "leave + O + V-ing",
+        "eyesight getting worse（視力惡化的現在分詞片語）"
+      ],
+      "hints": [
+        "句型框架有兩種：keep playing（持續玩）是 keep + V-ing；leave his eyesight getting worse 是 leave + O + V-ing",
+        "易混淆：keep + V-ing 無受詞表反覆動作；keep + O + V-ing/adj. 有受詞表保持狀態；leave + O + V-ing 強調放任導致的消極狀態"
+      ]
+    }
   ]
 }

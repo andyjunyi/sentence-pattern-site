@@ -302,5 +302,66 @@
       "explanation": "正確答案是 C (to study; give up)。plan to V 為控制動詞搭配不定詞，第一空應為 to study。force sb. to V 中第二空亦需不定詞 to give up。A 中 abandon 後應接名詞或動名詞，非不定詞。B、D 中 plan 後接動名詞形式錯誤。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我希望在大學入學考試中取得好成績。",
+      "answer": "I hope to get good grades in the university entrance exam.",
+      "key_points": [
+        "hope + to V",
+        "get good grades",
+        "in the university entrance exam"
+      ],
+      "hints": [
+        "句型：S + hope + to V，表達未來的願望",
+        "注意：不能寫『hope that I will get』，要用不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她計畫在暑假期間去歐洲旅遊，並改善她的英文能力。",
+      "answer": "She plans to travel to Europe during summer vacation and improve her English ability.",
+      "key_points": [
+        "plan + to V",
+        "travel to Europe",
+        "improve...ability",
+        "and + to V 並列結構"
+      ],
+      "hints": [
+        "句型：S + plan + to V，表示已計畫好的行動；多個不定詞可用 and 連接",
+        "注意：『plan to + V』是固定搭配，不能用『plan on + V-ing』的形式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "經過深思熟慮，他決定放棄這份工作機會，以便專注於學業。",
+      "answer": "After careful consideration, he decided to give up the job opportunity in order to focus on his studies.",
+      "key_points": [
+        "decide + to V",
+        "give up the job opportunity",
+        "in order to + V（表目的）",
+        "focus on"
+      ],
+      "hints": [
+        "句型：S + decide + to V，表示經過思考做出的決定；『in order to』可用來表達目的",
+        "注意：『give up』是片語動詞，後接名詞；『focus on』後接名詞或動名詞，但前面用『to focus on』時，to 屬於不定詞，不是介詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "他們希望通過參加志願服務來回饋社會，並承諾每個月至少投入兩小時的時間。",
+      "answer": "They hope to give back to society by volunteering and promise to contribute at least two hours per month.",
+      "key_points": [
+        "hope + to V + by + V-ing",
+        "promise + to V",
+        "give back to",
+        "contribute...per month"
+      ],
+      "hints": [
+        "句型：可同時使用多個『S + V + to V』結構（hope to...and promise to...）；『by + V-ing』表示實現目標的方式",
+        "注意：『by volunteering』中的 volunteering 是動名詞作介詞 by 的受詞，而不是不定詞；『promise to V』同樣遵循本句型"
+      ]
+    }
   ]
 }

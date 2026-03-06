@@ -305,5 +305,63 @@
       "explanation": "正確答案是 A。此句使用 call 搭配受詞補語：S + call + O + N。主詞 the public、動詞 called、受詞 him、補語 a pioneer。因強調『一個先驅者』的身分（非特定或首次認可），需加不定冠詞 a。B 分詞無法作主動詞。C 複數主詞應為 were，但邏輯不符。D 定冠詞 the 用法不當，應為不定冠詞。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學校選舉時，同學們選舉李明為班長。",
+      "answer": "The classmates elected Li Ming class monitor.",
+      "key_points": [
+        "elect + O + N 結構",
+        "class monitor（職位名詞，不加冠詞）",
+        "過去式 elected"
+      ],
+      "hints": [
+        "提示1：使用 elect 搭配受詞 Li Ming 和職位補語 class monitor",
+        "提示2：職位前不加 a/an，直接使用名詞作補語"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師任命王雨為學生會主席。",
+      "answer": "The teacher appointed Wang Yu president of the Student Council.",
+      "key_points": [
+        "appoint + O + N 結構",
+        "president（職位補語，不加冠詞）",
+        "of the Student Council（職位限定修飾語）"
+      ],
+      "hints": [
+        "提示1：appoint 表示『正式任命』，後接受詞和職位名詞補語",
+        "提示2：職位名詞前不加冠詞，但可加介詞片語來限定範圍（如 of the Student Council）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這本書的作者被譯者稱為當代最偉大的文學家。",
+      "answer": "The author of the book was called the greatest contemporary writer by the translator.",
+      "key_points": [
+        "被動式：be + called + O + N",
+        "the greatest contemporary writer（帶冠詞的身分補語）",
+        "by the translator（施事者短語）"
+      ],
+      "hints": [
+        "提示1：被動式時原受詞補語保留在述部，結構為 be + called/named + N",
+        "提示2：當補語是一般身分描述而非單純職位時，要加冠詞 the；被動式中施事者用 by 引導"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "新當選的總統將被全國人民稱為人民的僕人，並且他被任命為三軍統帥。",
+      "answer": "The newly elected president will be called a servant of the people by the nation, and he was appointed commander-in-chief of the armed forces.",
+      "key_points": [
+        "複合被動式：will be called + a servant of the people",
+        "appoint + commander-in-chief（軍事職位）",
+        "a servant of the people（帶冠詞的身分補語）vs. commander-in-chief（職位無冠詞）"
+      ],
+      "hints": [
+        "提示1：本題含兩個命名/任命句型，第一個用 call（被稱為）搭配身分補語加冠詞，第二個用 appoint 搭配職位補語無冠詞",
+        "提示2：『人民的僕人』是比喻身分，需加 a；『統帥』是具體職位，不加冠詞；注意時態一致性（will be called vs. was appointed 依語境調整）"
+      ]
+    }
   ]
 }

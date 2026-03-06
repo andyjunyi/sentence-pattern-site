@@ -301,5 +301,63 @@
       "explanation": "第一空：both...and 連接複數主詞，動詞用 are；第二空：either...or，supervisor（單數）靠近動詞，故用 has。選項 C 第二空錯誤（supervisor 單數應用 has）；A、D 第一空錯誤（both...and 須用複數動詞）。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "瑪麗和湯姆都喜歡看電影。",
+      "answer": "Both Mary and Tom like watching movies.",
+      "key_points": [
+        "Both...and 連接兩個人名",
+        "複數動詞 like",
+        "動名詞 watching"
+      ],
+      "hints": [
+        "提示1：Both...and 後面一律使用複數動詞，regardless of 主詞是否單數",
+        "提示2：常見錯誤是寫成 'Both Mary and Tom likes'，須記住 both...and = 複數"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你可以選擇去看演唱會或參加補習班，但不能兩者都選。",
+      "answer": "You can choose either attending the concert or joining the cram school, but not both.",
+      "key_points": [
+        "Either...or 連接兩個動名詞短語",
+        "情態動詞 can choose",
+        "邏輯轉折 but not both"
+      ],
+      "hints": [
+        "提示1：Either...or 用於表示二選一的情況，兩個連接的成分應為平行結構（都用動名詞或都用名詞）",
+        "提示2：若要表達「不能兩者都選」，可加 'but not both' 來強調互斥性"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "小王既不喜歡數學也不喜歡物理，所以他打算改選歷史。",
+      "answer": "Neither math nor physics appeals to Xiaowang, so he plans to switch to history.",
+      "key_points": [
+        "Neither...nor 表示雙重否定",
+        "就近一致：physics（單數）+ appeals（單數動詞）",
+        "邏輯連接詞 so"
+      ],
+      "hints": [
+        "提示1：Neither...nor 遵循就近一致原則，動詞形式由最靠近的主詞（physics）決定，此處為單數",
+        "提示2：常見錯誤是忽視就近一致，誤寫成 'appeal'；另外 appeal to 意為『吸引』，比 like 更正式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "不論是老師的建議還是父母的期望，都深深影響了她對大學科系的選擇；相反地，她自己的興趣或朋友的意見都沒有產生太大的影響。",
+      "answer": "Both her teachers' suggestions and her parents' expectations have deeply influenced her choice of university major; conversely, neither her own interests nor her friends' opinions have had much impact.",
+      "key_points": [
+        "Both...and + 複數動詞 have influenced",
+        "Neither...nor + 就近一致 have had（opinions 複數）",
+        "所有格與名詞短語的平行性"
+      ],
+      "hints": [
+        "提示1：Both...and 連接複雜名詞短語時（含所有格），仍須使用複數動詞；Neither...nor 時要確認靠近動詞的主詞數量",
+        "提示2：常見錯誤是名詞短語不平行（如一個用所有格一個不用），或混淆 impact 與 influence 的搭配用法（have influence vs. have impact）"
+      ]
+    }
   ]
 }

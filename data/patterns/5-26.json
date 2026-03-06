@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B「don't have to; must」。第一空：「無義務參加補習班」用 don't have to（不必、無強制義務）。第二空：「必須遵守規則」是說話者根據邏輯判斷的強烈要求，用 must。A 選項第一空 must not 表禁止，不符合「無義務」。C 選項順序反覆。D 選項第二空用 have to 強調客觀規則，但此處是主觀判斷。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生必須在期末考前完成所有作業。",
+      "answer": "Students must/have to complete all assignments before the final exam.",
+      "key_points": [
+        "must/have to + V原形",
+        "complete all assignments",
+        "before the final exam時間副詞片語"
+      ],
+      "hints": [
+        "提示1：肯定形式，must和have to皆可，表示強制性義務",
+        "提示2：動詞必須用原形，不可用completed或completing"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "根據校規，學生不可以在走廊上奔跑。",
+      "answer": "According to school regulations, students must not run in the hallway.",
+      "key_points": [
+        "must not表禁止",
+        "according to school regulations",
+        "in the hallway"
+      ],
+      "hints": [
+        "提示1：『不可以/禁止』要用must not，而非don't have to（後者表不必）",
+        "提示2：must not後接動詞原形，must和not之間不能分開"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於簽證要求，他必須在出發前提交護照副本。",
+      "answer": "Due to visa requirements, he must/has to submit a copy of his passport before departure.",
+      "key_points": [
+        "due to + 名詞片語表原因",
+        "submit a copy of his passport",
+        "before departure時間狀語"
+      ],
+      "hints": [
+        "提示1：『因為客觀規定』可用have to強調客觀性，也可用must；兩者在肯定形式通常互通",
+        "提示2：copy of his passport為固定搭配，submit後直接接受詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "明年起，所有新員工不必參加為期三週的培訓課程，除非他們之前沒有相關經驗。",
+      "answer": "Starting next year, all new employees don't have to attend a three-week training program unless they lack relevant experience beforehand.",
+      "key_points": [
+        "don't have to表無義務/不必",
+        "attend a three-week training program",
+        "unless條件句連接"
+      ],
+      "hints": [
+        "提示1：『不必』用don't have to（無義務），絕非must not（禁止）；must not會變成『禁止參加』反義",
+        "提示2：注意三週training program的表達：three-week為複合形容詞修飾program，中間用連字號"
+      ]
+    }
   ]
 }

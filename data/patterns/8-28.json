@@ -81,12 +81,10 @@
       "parts": [
         "No sooner ",
         null,
-        " the exam than everyone celebrated.",
-        null
+        " the exam than everyone celebrated."
       ],
       "blanks": [
-        "had they finished",
-        ""
+        "had they finished"
       ],
       "sentence": "No sooner had they finished the exam than everyone celebrated.",
       "translation": "他們一考完，大家就歡慶了。",
@@ -143,6 +141,7 @@
       "parts": [
         null,
         " had the storm begun ",
+        null,
         " the power went out."
       ],
       "blanks": [
@@ -309,6 +308,64 @@
       "answer": "A",
       "explanation": "此題綜合考查『No sooner...than』的語法精確性。標準結構為『No sooner had...than S + V（過去簡單式）』，選項 A 符合。選項 B 的 when 與 hardly 搭配；選項 C 多餘倒裝助動詞 did；選項 D 動名詞形式錯誤。句子描述指揮家一舉起指揮棒就掀起樂團演奏的立即效應。",
       "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師剛宣布放假，學生們就歡呼雀躍。",
+      "answer": "No sooner had the teacher announced the holiday than the students cheered with joy.",
+      "key_points": [
+        "No sooner + had + p.p. 倒裝結構",
+        "than 後接過去簡單式",
+        "announce 的過去分詞 announced"
+      ],
+      "hints": [
+        "提示1：No sooner 置句首，had 必須提前，形成『No sooner had S p.p.』的倒裝結構",
+        "提示2：than 後的子句用過去簡單式（cheered），不能用過去完成式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他剛走出教室門，就開始下雨了。",
+      "answer": "No sooner had he left the classroom than it started to rain.",
+      "key_points": [
+        "leave 的過去分詞 left",
+        "it 作主詞的非人稱表達",
+        "start to rain 表示雨開始下"
+      ],
+      "hints": [
+        "提示1：前半句『No sooner had he left』用過去完成式強調動作完成的立即性",
+        "提示2：後半句『it started to rain』用過去簡單式，注意 it 是非人稱主詞，常用於天氣表達"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "考試才結束，全班學生就迫不及待地討論起答案來。",
+      "answer": "No sooner had the exam ended than all the students could hardly wait to discuss the answers.",
+      "key_points": [
+        "end 的過去分詞 ended",
+        "could hardly wait to 表示迫不及待",
+        "all the students 作主詞的複數形式"
+      ],
+      "hints": [
+        "提示1：『No sooner had the exam ended』用過去完成式，強調考試結束的完成動作",
+        "提示2：『could hardly wait to discuss』是過去簡單式結構，不可寫成『could have waited』或『waiting』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "父親才踏進家門，一隻狗就從廚房衝出來舔他的臉。",
+      "answer": "No sooner had his father stepped through the door than a dog rushed out from the kitchen and licked his face.",
+      "key_points": [
+        "step through the door 的過去分詞 stepped",
+        "and 連接兩個並列過去簡單式動詞 rushed 和 licked",
+        "複雜句型中的時態一致性"
+      ],
+      "hints": [
+        "提示1：『No sooner had his father stepped through the door』是標準倒裝結構，through the door 是介詞片語修飾 step",
+        "提示2：than 後雖有 and 連接多個動作（rushed and licked），所有動作仍須用過去簡單式，保持時態一致"
+      ]
     }
   ]
 }

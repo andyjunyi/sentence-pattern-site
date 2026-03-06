@@ -301,5 +301,63 @@
       "explanation": "正確答案是 B (until)。句意為「在新環保法規實施之前，公司會繼續運營這座工廠」。Until 表示持續狀態直到某時間點終止，符合「繼續運營直到新法規實施」的邏輯。Before 表示時間點，不強調持續；Since 強調自某點開始的持續狀態；After 表先後順序。Future continuous 搭配 until 表示某狀態在未來持續到某時間點停止。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "在我完成功課之前，我不能去朋友家玩。",
+      "answer": "Before I finish my homework, I cannot go to my friend's house. / I cannot go to my friend's house before I finish my homework.",
+      "key_points": [
+        "Before + S + V 時間子句",
+        "cannot/can't 表示禁止或不能",
+        "主句一般現在式"
+      ],
+      "hints": [
+        "提示1：Before 子句可置於句首（加逗號）或句尾（不加逗號）",
+        "提示2：注意 finish 用第一人稱單數形式，主句 cannot 後接原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "自從她搬到台北以來，她一直在補習班教英文。",
+      "answer": "Since she moved to Taipei, she has been teaching English at a cram school. / She has been teaching English at a cram school since she moved to Taipei.",
+      "key_points": [
+        "Since + S + V (過去簡單式)",
+        "現在完成進行式 has been teaching",
+        "表示持續性動作"
+      ],
+      "hints": [
+        "提示1：Since 從句必須用過去簡單式，主句用現在完成式或現在完成進行式，強調動作自過去持續至今",
+        "提示2：常見錯誤是主句用現在簡單式 'teaches' 或從句用現在完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "直到他收到大學錄取通知後，他的父母才放心了。",
+      "answer": "After he received the university admission letter, his parents finally felt relieved. / His parents finally felt relieved after he received the university admission letter.",
+      "key_points": [
+        "After + S + V (過去簡單式)",
+        "received 表示過去完成的動作",
+        "finally 強調時間點的轉變"
+      ],
+      "hints": [
+        "提示1：After 表示一個單一時間點之後，兩個動作都用過去簡單式表示先後順序",
+        "提示2：注意 'relieved' 是形容詞或過去分詞，作為感受狀態；不要混淆 'until' 和 'after' 的用法"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "自從疫情開始以來，學生們已經習慣於在家上線課程，直到學校完全恢復實體上課為止。",
+      "answer": "Since the pandemic started, students have grown accustomed to taking online classes until schools fully resumed in-person classes. / Since the pandemic began, students have been adjusting to online learning until physical classes returned to normal.",
+      "key_points": [
+        "Since + S + V (過去簡單式) 與現在完成式搭配",
+        "Until 表示持續到某個時間點",
+        "複合時間子句結構"
+      ],
+      "hints": [
+        "提示1：Since 引導的時間副詞子句置於句首，主句用現在完成式；Until 可單獨出現在主句尾，說明狀況持續到何時",
+        "提示2：注意 'since' 強調持續性（已經持續的狀態），'until' 標記終點；兩者可在同一句中搭配使用，但分別引導不同的時間概念"
+      ]
+    }
   ]
 }

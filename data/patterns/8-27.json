@@ -299,5 +299,63 @@
       "explanation": "正確答案是 A。第一空：except that 引導完整子句「the funding committee's requirements weren't fully met」，說明具體狀況。第二空：except for 後接名詞片語 the time constraints，指出特定的限制條件。整句邏輯：「研究計畫達成所有目標，除了委員會要求未完全滿足；除了時間限制外，團隊仍產出完整成果」。B 項順序錯誤。C、D 項混淆兩種結構用法。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "除了沒有WiFi之外，這間咖啡廳的環境很舒適。",
+      "answer": "The café is comfortable except for the lack of WiFi.",
+      "key_points": [
+        "except for + N (the lack of WiFi)",
+        "形容詞 comfortable 描述整體",
+        "強調單一缺點"
+      ],
+      "hints": [
+        "提示1：用 except for + 名詞片語來指出單一例外要素",
+        "提示2：注意不能用 except that，因為後面只是名詞概念，非完整子句"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這次月考成績還不錯，除了數學考得不理想之外。",
+      "answer": "My midterm exam results were quite good except that I didn't do well in mathematics.",
+      "key_points": [
+        "except that + S + V (I didn't do well)",
+        "完整子句說明具體狀況",
+        "前後邏輯對比"
+      ],
+      "hints": [
+        "提示1：用 except that 後接完整子句時，要有主語和動詞",
+        "提示2：不能寫 'except for math'，因為要說明的是『表現不佳』這個動作，非單純名詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "除了缺少實踐經驗之外，他在理論知識上已經掌握得很充分了。",
+      "answer": "Except for the lack of practical experience, he has mastered the theoretical knowledge quite well.",
+      "key_points": [
+        "except for + 名詞片語 (the lack of practical experience)",
+        "句首位置的倒裝使用",
+        "對比句式強調例外"
+      ],
+      "hints": [
+        "提示1：except for 引導的短語可置於句首，用逗號隔開主句",
+        "提示2：注意與 'besides practical experience' 的區別——前者是『排除』缺點，後者是『額外加上』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這份計畫幾乎完美，除了時間規劃太緊張，導致執行部門感到壓力很大。",
+      "answer": "The project is almost flawless except that the timeline is too tight, which puts tremendous pressure on the implementation team.",
+      "key_points": [
+        "except that + 完整子句 (the timeline is too tight)",
+        "因果連鎖：例外原因引發後果",
+        "複雜句式結構"
+      ],
+      "hints": [
+        "提示1：except that 後的子句可帶有因果關係或進一步說明，形成更複雜的邏輯",
+        "提示2：易誤用 'except for the tight timeline'——但若要強調『時間緊張導致的具體影響』，需用 except that 搭配完整動作敘述"
+      ]
+    }
   ]
 }

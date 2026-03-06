@@ -305,5 +305,63 @@
       "explanation": "正確答案是 C (secret)。keep + O + adj./p.p. 結構中，secret 在此為形容詞而非過去分詞，表「保持某物秘密狀態」。A 項 keeping secret 冗餘；B 項 to keep secret 為不定詞結構，改變了句子意思；D 項 secreted 是過去分詞但語意不當。形容詞 secret 最符合保持狀態的含義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我需要把這份報告做完。",
+      "answer": "I need to have this report finished.",
+      "key_points": [
+        "need + O + p.p.",
+        "have 作使役動詞",
+        "finished 為過去分詞"
+      ],
+      "hints": [
+        "句型框架：need + object + past participle，表示『需要讓某事被完成』",
+        "常見錯誤：誤用 need to finish（主動語態），應使用 have + p.p.（被動語態）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師要求學生提交已完成的作業。",
+      "answer": "The teacher wants the homework submitted by students.",
+      "key_points": [
+        "want + O + p.p.",
+        "submitted 為過去分詞",
+        "by students 表示動作執行者"
+      ],
+      "hints": [
+        "句型框架：want + object + past participle，表示『希望某事被做』",
+        "注意：O 與 p.p. 之間是被動關係，homework 是被提交的對象"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她發現自己的想法被人誤解了。",
+      "answer": "She found her ideas misunderstood by others.",
+      "key_points": [
+        "find + O + p.p.",
+        "misunderstood 為過去分詞",
+        "by others 說明動作執行者"
+      ],
+      "hints": [
+        "句型框架：find + object + past participle，表示『發現某人/某事處於某種被動狀態』",
+        "易錯點：find 後接被動結構，不是 find + that + be 的句型"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "為了保持校園整潔，學校讓垃圾每天被清理。",
+      "answer": "To keep the campus clean, the school keeps the garbage collected every day.",
+      "key_points": [
+        "keep + O + p.p.",
+        "collected 為過去分詞",
+        "every day 時間副詞修飾動作頻率"
+      ],
+      "hints": [
+        "句型框架：keep + object + past participle，表示『保持某事處於被動狀態』",
+        "注意：keep 有『保持』之意，與 have/get 的使役含義略有不同，強調持續或維持的狀態"
+      ]
+    }
   ]
 }

@@ -299,5 +299,63 @@
       "explanation": "正確答案是 B「so」。此處 fast 是副詞修飾動詞 spoke，應用 so + 副詞 + that 結構。A 項「such」用於名詞片語，不適合副詞。C 項「such a」後接可數名詞，此處無名詞。D 項「very so」組合不當，two intensifiers 不能並用。副詞用 so，名詞片語用 such，此題為副詞情況。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影如此有趣，以至於我看了兩遍。",
+      "answer": "The movie was so interesting that I watched it twice.",
+      "key_points": [
+        "so + interesting (形容詞)",
+        "that + 結果子句",
+        "過去簡單式 watched"
+      ],
+      "hints": [
+        "提示1：so 後接形容詞，that 引導結果子句，表示「如此...以至於...」",
+        "提示2：結果子句通常用過去簡單式或現在簡單式，注意時態一致"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "昨天的數學考試這麼難，結果全班都沒及格。",
+      "answer": "Yesterday's math exam was so difficult that the whole class failed.",
+      "key_points": [
+        "so + difficult (形容詞)",
+        "that + 結果子句（全班都沒及格）",
+        "過去簡單式 failed"
+      ],
+      "hints": [
+        "提示1：用 so + 形容詞來表達考試的難度，該難度導致了失敗的結果",
+        "提示2：注意 'the whole class' 是集合名詞，搭配 failed（單數或複數皆可）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她講話的速度這麼快，以至於我根本聽不懂她在說什麼。",
+      "answer": "She spoke so quickly that I couldn't understand what she was saying. / She spoke so fast that I couldn't understand a word she said.",
+      "key_points": [
+        "so + quickly/fast (副詞)",
+        "that + 結果子句（couldn't understand）",
+        "couldn't + 原形動詞"
+      ],
+      "hints": [
+        "提示1：講話速度快要用副詞修飾動詞 spoke，so + 副詞是此句型的關鍵",
+        "提示2：結果子句用 couldn't (could not)，表示無法理解的負面結果"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "他寫了一篇如此優美的文章，使得他在全國比賽中獲得了第一名。",
+      "answer": "He wrote such a beautiful essay that he won first place in the national competition. / He wrote such a well-written essay that he won first prize at the national contest.",
+      "key_points": [
+        "such + a/an + beautiful (形容詞) + essay (名詞)",
+        "that + 結果子句（won first place）",
+        "名詞片語結構搭配 such"
+      ],
+      "hints": [
+        "提示1：因為中心詞是名詞 essay，所以用 such + a/an + 形容詞 + 名詞，不能用 so",
+        "提示2：易誤用 'so beautiful essay'，但名詞前必須用 such；注意 a/an 的使用（a beautiful essay）"
+      ]
+    }
   ]
 }

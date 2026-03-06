@@ -301,5 +301,63 @@
       "explanation": "正確答案是B。『cannot help + V-ing』是最標準且常見的句型。A項『but laughing』在『cannot help』後應為『but laugh』（原形），『cannot help but + V-ing』為非標準用法；C項『having laughed』為完成式動名詞，表達不符邏輯；D項『to have laughed』為完成不定詞，與『help』搭配錯誤。B項『laughing』正確表達「忍不住笑」的意思。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "看到同學的搞笑影片，我忍不住笑了出來。",
+      "answer": "I cannot help laughing when I see my classmate's funny video.",
+      "key_points": [
+        "cannot help + laughing（動名詞形式）",
+        "when引導時間狀語",
+        "funny video（搞笑影片）"
+      ],
+      "hints": [
+        "提示1：cannot help後直接接V-ing形式，不需加to",
+        "提示2：常見錯誤是寫成cannot help to laugh或cannot help laugh"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "聽到這個悲傷的消息，她忍不住哭了。",
+      "answer": "She cannot help but cry upon hearing the sad news.",
+      "key_points": [
+        "cannot help but + cry（原形動詞的口語用法）",
+        "upon hearing（聽到……時）",
+        "sad news（悲傷的消息）"
+      ],
+      "hints": [
+        "提示1：cannot help but + V是cannot help + V-ing的同義表達，但較為口語",
+        "提示2：注意upon/on hearing是分詞片語，表示「一……就……」的時間關係"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "面對老師不公平的評分，全班同學都忍不住提出抗議。",
+      "answer": "Faced with the teacher's unfair grading, all students in the class cannot help but protest.",
+      "key_points": [
+        "Faced with（面對）分詞片語作句首狀語",
+        "cannot help but + protest",
+        "unfair grading（不公平的評分）"
+      ],
+      "hints": [
+        "提示1：分詞片語可置於句首強調背景或原因，cannot help句型緊跟其後",
+        "提示2：主詞是all students，謂語動詞應保持複數形式cannot help（第三人稱複數），protest也保持原形"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管他試圖冷靜，但看到不公正的事情時，他還是忍不住發表自己的意見。",
+      "answer": "Although he tried to stay calm, he cannot help voicing his opinion whenever he witnesses something unjust.",
+      "key_points": [
+        "cannot help voicing（無法抗拒地表達）",
+        "whenever引導條件狀語從句",
+        "stay calm與voicing opinion的對比"
+      ],
+      "hints": [
+        "提示1：雖然前半句用Although引導讓步狀語從句，但主句仍須使用cannot help + V-ing表達主要意思",
+        "提示2：注意V-ing的邏輯主詞應與主句主詞he一致；avoid常見錯誤：cannot help to voice"
+      ]
+    }
   ]
 }

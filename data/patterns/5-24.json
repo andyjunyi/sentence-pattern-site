@@ -298,5 +298,64 @@
       "explanation": "正確答案是 B。第一空需 'used to wake up'，表過去習慣（已停止）；第二空需 'is used to staying'，表現在習慣狀態。C 項 'gets used to' 強調動態變化不符語境；A、D 項順序顛倒或文法錯誤，無法表達過去與現在的對比。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我以前經常熬夜讀書，但現在我已經習慣早睡早起了。",
+      "answer": "I used to stay up late studying, but now I am used to going to bed early and waking up early.",
+      "key_points": [
+        "used to + stay up late",
+        "be used to + V-ing (going/waking)",
+        "時間對比 (but now)"
+      ],
+      "hints": [
+        "提示1：第一句用 used to 表過去習慣已停止，第二句用 be used to + V-ing 表現在已適應的狀態",
+        "提示2：注意 used to 後接原型動詞 (stay)，be used to 後必接動名詞 (going/waking)，不能接原型"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "搬到新城市後，他逐漸習慣了繁忙的生活節奏。",
+      "answer": "After moving to a new city, he gradually got used to the busy lifestyle / pace of life.",
+      "key_points": [
+        "get used to + N (lifestyle/pace)",
+        "漸進適應過程 (gradually)",
+        "時間狀語 (after moving)"
+      ],
+      "hints": [
+        "提示1：get used to 強調逐漸適應的動態過程，通常與 gradually、slowly 等副詞搭配",
+        "提示2：get used to 後可接名詞 (lifestyle) 或動名詞，但此句因表示對事物的適應，用名詞更自然；避免混淆 get 和 be 的差異"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他曾經害怕在公眾場合發言，但經過多次練習後，他已經能夠適應在大人群面前表達自己的想法了。",
+      "answer": "He used to be afraid of speaking in public, but after practicing many times, he has become / gotten used to expressing his ideas in front of large crowds.",
+      "key_points": [
+        "used to + be afraid of + V-ing",
+        "be/get used to + V-ing (expressing)",
+        "複雜時間轉折結構 (but + after)"
+      ],
+      "hints": [
+        "提示1：used to 後可接形容詞短語 (be afraid of)，整句表示心理狀態的改變過程，前半為過去，後半為現在習慣",
+        "提示2：注意 used to 無現在式形態，不能寫成 uses to；後半可用 has become used to 或 has gotten used to，兩者皆可但後者更強調漸進"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "雖然一開始很不適應遠距上課的模式，但經過一個學期，學生們已經習慣了在家線上學習，甚至有人說他們曾經喜歡傳統課堂，但現在更喜歡這種靈活的教學方式。",
+      "answer": "Although students were not used to the distance learning mode at first, after one semester, they have gotten / become used to studying online at home. Some even said they used to prefer traditional classrooms, but now they prefer this flexible teaching style.",
+      "key_points": [
+        "be not used to + V-ing (初期不適應)",
+        "get/become used to + V-ing (已適應)",
+        "used to + prefer (過去偏好對比)",
+        "複合句結構與時態搭配"
+      ],
+      "hints": [
+        "提示1：此句結合三種用法：be not used to (未適應) + get/become used to (逐漸適應) + used to (過去對比)，需清楚區分各時態與含義",
+        "提示2：注意 'not used to' 表示不習慣／不適應某事物（現在狀態），不同於 'used to' 的過去習慣；整句涉及過去、初期、現在多個時間點，應留意時態邏輯（過去式→現在完成式→一般現在式）"
+      ]
+    }
   ]
 }

@@ -301,5 +301,63 @@
       "explanation": "正確答案為 A (occurring; rising)。technological advancements 與 occur 為主動關係（技術進步正在發生），consumers' expectations 與 rise 為主動關係（期望不斷提升），均應使用現在分詞 V-ing 表示進行中的狀態。B、C、D 項使用過去分詞或單數形式，無法恰當表達動態發展的含義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "小明坐在教室裡，雙手交叉在胸前，認真地聽著老師的講課。",
+      "answer": "With his arms crossed on his chest, Xiaoming sat in the classroom listening attentively to the teacher's lecture.",
+      "key_points": [
+        "with + O + p.p.",
+        "arms crossed（被動關係）",
+        "listening attentively（伴隨狀態）"
+      ],
+      "hints": [
+        "句型框架：with + 受詞（arms）+ 過去分詞（crossed）+ 主句",
+        "注意：crossed 與 arms 是被動關係（arms 被交叉），所以用過去分詞而非 crossing"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她淚流滿面地走出考場，手裡拿著成績單。",
+      "answer": "With tears streaming down her face and a report card in her hand, she walked out of the exam room.",
+      "key_points": [
+        "with + O + V-ing",
+        "tears streaming（主動關係）",
+        "並列結構（and）"
+      ],
+      "hints": [
+        "句型框架：with + 受詞（tears）+ 現在分詞（streaming）+ 主句",
+        "注意：streaming 與 tears 是主動關係（淚水在流下來），所以用現在分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "天空飄著雨，同學們撐著傘，一起走向停車場。",
+      "answer": "With rain falling from the sky and their umbrellas held up, the classmates walked toward the parking lot together.",
+      "key_points": [
+        "with + 多個受詞搭配 V-ing 和 p.p.",
+        "rain falling（主動）、umbrellas held（被動）",
+        "時態配合"
+      ],
+      "hints": [
+        "句型框架：with + 受詞1 + V-ing + 受詞2 + p.p. + 主句",
+        "注意：falling 與 rain 主動，held 與 umbrellas 被動，要根據邏輯關係選擇"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "他帶著對未來的憧憬和對父母的感謝，邁入大學校園，開始了新的人生篇章。",
+      "answer": "With hopes for the future burning in his heart and gratitude to his parents filling his mind, he stepped onto the university campus and began a new chapter of his life.",
+      "key_points": [
+        "with + O + V-ing（抽象受詞）",
+        "burning / filling（生動化表現）",
+        "複合式主句（並列與因果）"
+      ],
+      "hints": [
+        "句型框架：with + 抽象名詞受詞 + 現在分詞 + 主句，強調心理狀態的伴隨性",
+        "注意：burning 與 hopes、filling 與 gratitude 都是主動關係，用 V-ing 表達內心活動的動態過程"
+      ]
+    }
   ]
 }

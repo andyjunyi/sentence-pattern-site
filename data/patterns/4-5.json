@@ -301,5 +301,63 @@
       "explanation": "正確答案是 A (whose... which)。第一空用 whose 表「她的創新方法」修飾名詞 methods；第二空用 which 引導非限制性關係子句，修飾前面整個主要子句「獲得眾多國際獎項」。選項 B (who... that) 中 who 無法表所有格，that 不可引導非限制性子句；C (whom... which) 中 whom 不表所有格；D (whose... that) 中 that 不可引導非限制性子句。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡那位老師，她的課堂非常有趣。",
+      "answer": "I like the teacher whose classes are very interesting.",
+      "key_points": [
+        "whose + 名詞（classes）",
+        "whose 修飾人（teacher）",
+        "子句完整性（主詞 + 動詞）"
+      ],
+      "hints": [
+        "句型框架：N + whose + N + V...，whose 後必須接名詞",
+        "注意：不能寫成 'whose is interesting'，whose 後一定要有名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我找到了一本書，它的作者是我最喜歡的作家。",
+      "answer": "I found a book whose author is my favorite writer.",
+      "key_points": [
+        "whose + 名詞（author）",
+        "whose 修飾物（book）",
+        "主句與子句的連接"
+      ],
+      "hints": [
+        "句型框架：N + whose + N + V + C（補語），whose 可修飾人或物",
+        "易錯點：勿寫成 'whose is my favorite writer'；whose 後必須接名詞 author"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "那些學生的家庭作業還沒有交，老師很擔心。",
+      "answer": "The students whose homework has not been submitted are worrying the teacher.",
+      "key_points": [
+        "whose + 名詞（homework）",
+        "N + whose + N + V + O 結構",
+        "現在完成被動式（has not been submitted）"
+      ],
+      "hints": [
+        "句型框架：N + whose + N + V + O，whose 後接的名詞可作子句主詞",
+        "注意主詞單複數一致：homework 為單數，所以用 has；若為 homeworks 複數則用 have"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "科技公司的員工們失去了對公司未來的信心，導致許多人辭職。",
+      "answer": "Employees of tech companies whose future they had lost confidence in have resigned.",
+      "key_points": [
+        "whose + 名詞作受詞（future）",
+        "phrasal verb（lose confidence in）",
+        "過去完成式與現在完成式的時態對比"
+      ],
+      "hints": [
+        "句型框架：N + whose + N + V + O，whose 後接的名詞可在子句中作受詞而非主詞",
+        "易錯點：當 whose + N 在子句中作受詞時，子句仍需有主詞（they），結構為 whose N + S + V + O"
+      ]
+    }
   ]
 }

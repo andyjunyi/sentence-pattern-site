@@ -301,5 +301,63 @@
       "explanation": "正確答案是C (that / that)。兩處均為限定用法，that 在限定關係子句中為首選，語法上更簡潔。第一空修飾 technology（事物），第二空修飾 engineers（人），兩者都可用 that。A、B、D 混用 which，在限定用法中不若 that 恰當，且 which 在非正式限定用法中不如 that 自然。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡那本書，它幫助我準備學測。",
+      "answer": "I like the book that helps me prepare for the college entrance exam.",
+      "key_points": [
+        "that 引導限定關係子句",
+        "先行詞 the book",
+        "子句動詞 helps（無逗號分隔）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + V...",
+        "注意：限定用法不用逗號，that 在此作主詞可省略但保留較清楚"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師推薦的那些練習題對考試很重要。",
+      "answer": "The practice questions that the teacher recommended are important for the exam.",
+      "key_points": [
+        "that 引導限定關係子句",
+        "先行詞 the practice questions（複數）",
+        "子句結構：that + S + V + O"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V + O...",
+        "注意：that 可作受詞被省略，省略後為『the practice questions the teacher recommended』"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "學校舉辦的暑期營隊提供了許多實用的技能。",
+      "answer": "The summer camp that the school held provided many practical skills.",
+      "key_points": [
+        "that 引導限定關係子句",
+        "先行詞 the summer camp",
+        "子句動詞 held（及物動詞，帶受詞 the school）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V + O...",
+        "注意：『學校舉辦』= the school held，that 作受詞，可省略為『the summer camp the school held』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我同學提出的那個解決方案既創新又實用，值得被學校採納。",
+      "answer": "The solution that my classmate proposed is both innovative and practical, and it deserves to be adopted by the school.",
+      "key_points": [
+        "that 引導限定關係子句",
+        "先行詞 the solution",
+        "子句結構複雜：that + S + V + O + 形容詞補語"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V + O（限定）, and...",
+        "注意：『我同學提出的』= that my classmate proposed，that 作受詞可省略；主要子句用 and 連接補充訊息"
+      ]
+    }
   ]
 }

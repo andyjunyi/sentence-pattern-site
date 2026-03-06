@@ -305,5 +305,63 @@
       "explanation": "正確答案是 B。此句需要「so + adv. + that + S + can/V」結構，表「演奏得如此精彩以至於...」。A 選項 enough 後無 that 子句不適當；C 選項 enough so 搭配錯誤；D 選項 very so 不符合英文句法。此題測試 so...that 與 enough...to 的區別。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個盒子足夠輕，小孩可以拿起來。",
+      "answer": "The box is light enough for a child to pick up.",
+      "key_points": [
+        "light enough",
+        "for a child",
+        "to pick up"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + for sb. + to V",
+        "注意：enough 必須放在形容詞後面，不能寫成 enough light"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你說話的速度足夠慢，讓我能理解。",
+      "answer": "You speak slowly enough for me to understand.",
+      "key_points": [
+        "slowly enough",
+        "adverb placement",
+        "for me to understand"
+      ],
+      "hints": [
+        "句型框架：adv. + enough + for sb. + to V；副詞 enough 也要放在副詞後面",
+        "常見錯誤：誤寫成 'enough slowly' 或 'speak enough slowly'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這部電影夠有趣，足以讓全班學生在週末時間觀看。",
+      "answer": "The movie is interesting enough for all the students in the class to watch during the weekend.",
+      "key_points": [
+        "interesting enough",
+        "for all the students in the class",
+        "to watch during the weekend"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + for + 複雜受詞 + to V",
+        "注意：for 後面可以接複雜的名詞片語，整個結構仍需保持完整"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "他的英文程度已經足夠好，能夠在國際會議上用英文發表研究成果，而不需要翻譯的協助。",
+      "answer": "His English proficiency is good enough for him to present his research findings in English at an international conference without the help of a translator.",
+      "key_points": [
+        "proficiency is good enough",
+        "for him to present",
+        "present...without the help of"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + for sb. + to V；可搭配複雜的動詞片語或副詞片語增加句子複雜度",
+        "常見錯誤：在複雜句式中忽略 for sb. 這個關鍵成分，或誤將 enough 前置"
+      ]
+    }
   ]
 }

@@ -301,5 +301,65 @@
       "explanation": "正確答案是A。whose修飾複數名詞projects，配合複數動詞were selected。注意whose直接跟名詞，不需冠詞。B選項whose's為雙重所有格錯誤。C選項「of whom」無法指涉projects（物），且結構不符。D選項their是代名詞，無法引導關係子句。此句whose + N（projects）作受詞被動詞selected修飾。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡那位老師，她的課程很有趣。",
+      "answer": "I like the teacher whose classes are interesting.",
+      "key_points": [
+        "the teacher（先行詞）",
+        "whose classes（所有格關係代名詞+名詞）",
+        "are interesting（複數動詞與classes一致）"
+      ],
+      "hints": [
+        "句型框架：I like N + whose + N + V",
+        "注意：whose後直接跟名詞classes，不需加冠詞a/the"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我認識一位學生，他的父親是醫生。",
+      "answer": "I know a student whose father is a doctor.",
+      "key_points": [
+        "a student（先行詞）",
+        "whose father（所有格關係代名詞+單數名詞）",
+        "is a doctor（單數動詞is與father一致）"
+      ],
+      "hints": [
+        "句型框架：I know N + whose + N + be + N",
+        "常見錯誤：誤寫成whose's father或whose he father"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我們學校有很多學生，他們的夢想是進入頂尖大學。",
+      "answer": "Our school has many students whose dreams are to enter top universities.",
+      "key_points": [
+        "many students（複數先行詞）",
+        "whose dreams（複數名詞）",
+        "are to enter（複數動詞與dreams一致）",
+        "to enter（不定詞片語作表語）"
+      ],
+      "hints": [
+        "句型框架：N + whose + N (複數) + V (複數)",
+        "注意whose後的名詞dreams為複數，動詞are須配合複數形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這是一部我非常欣賞的電影，它的導演曾獲得多項國際獎項。",
+      "answer": "This is a movie whose director has won numerous international awards, which I admire very much.",
+      "key_points": [
+        "a movie（先行詞，物）",
+        "whose director（所有格關係代名詞修飾人物）",
+        "has won（單數動詞與director一致）",
+        "numerous international awards（複雜受詞）"
+      ],
+      "hints": [
+        "句型框架：This is N + whose + N + V + O，whose可修飾人或物",
+        "易混淆：whose修飾的是director（導演），而非movie本身；whose後跟名詞，不是who"
+      ]
+    }
   ]
 }

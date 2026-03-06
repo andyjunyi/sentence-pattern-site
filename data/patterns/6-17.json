@@ -315,5 +315,63 @@
       "explanation": "正確答案是 C。『is taking a car tomorrow』用現在進行式表示明天已安排好的具體計畫——搭車改開車。此句強調已做出決定並準備好（不同於臨時決定）。B 項『will take』雖可表未來，但缺乏『已確定安排』的含義；A 項『takes』為習慣性動作；D 項『has taken』為完成式。現在進行式適合表達已決定的改變計畫，尤其在『because』說明理由時，更顯示此為事先安排而非臨時起意。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我明天要去看牙醫。",
+      "answer": "I am going to the dentist tomorrow.",
+      "key_points": [
+        "am going（現在進行式）",
+        "to the dentist（具體地點）",
+        "tomorrow（明確時間詞）"
+      ],
+      "hints": [
+        "句型框架：S + am/is/are + V-ing + 時間詞，表已確定的計畫",
+        "注意：不能寫『I will go』，因為要強調已預約確定的計畫"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我們這週末要去台北參加朋友的生日派對。",
+      "answer": "We are going to Taipei to attend our friend's birthday party this weekend.",
+      "key_points": [
+        "are going（現在進行式複數形）",
+        "this weekend（明確時間段）",
+        "to attend + 具體活動"
+      ],
+      "hints": [
+        "句型框架：S + are + V-ing + 時間詞，表預先安排好的計畫",
+        "提醒：『to attend』說明去台北的目的，整句強調這是已確定的安排"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "下個月的校慶，我們班級要參加運動會的接力賽。",
+      "answer": "Next month at the school anniversary, our class is participating in the relay race of the sports day.",
+      "key_points": [
+        "is participating（現在進行式，強調已確定參賽）",
+        "next month at the school anniversary（具體時間點）",
+        "in the relay race（明確活動項目）"
+      ],
+      "hints": [
+        "句型框架：S + is + V-ing + 時間詞/時間點，不能用『will participate』因為要強調已報名確定",
+        "注意：時間詞『next month』和『at the school anniversary』一起使用，清楚界定計畫時間"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "王老師這學期要開設一門新的選修課，內容是關於永續發展的議題，預計在九月開課。",
+      "answer": "Teacher Wang is offering a new elective course on sustainable development this semester, with the course starting in September.",
+      "key_points": [
+        "is offering（現在進行式，強調課程已排定）",
+        "this semester / starting in September（明確的時間詞和時間點）",
+        "a new elective course on sustainable development（具體課程內容）"
+      ],
+      "hints": [
+        "句型框架：主要用『is offering』表示已確定開課的計畫，『with the course starting in September』提供具體開課時間",
+        "易錯提醒：勿寫『will offer』；此句強調課程安排已確定，不是簡單的未來預測；時間詞『this semester』和『in September』共同交代計畫時間"
+      ]
+    }
   ]
 }

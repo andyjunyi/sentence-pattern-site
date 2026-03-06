@@ -298,5 +298,65 @@
       "explanation": "第一個子句由 While 引導，第二個子句應獨立成主述結構，無需重複連接詞。「Such jobs」作主詞明確指稱製造業工作，避免代詞模糊。選項 B、D 在句子中段不適合再用連接詞。選項 A 的代詞缺乏明確先行詞。選項 C 語意清晰、邏輯嚴密。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "姊姊喜歡安靜地讀書，反之弟弟喜歡邊聽音樂邊讀書。",
+      "answer": "While my sister prefers to study in silence, my brother likes to study while listening to music.",
+      "key_points": [
+        "While 表對比，不表時間",
+        "prefers to study in silence（喜歡安靜讀書）",
+        "完整的對比主子句結構"
+      ],
+      "hints": [
+        "提示1：While + S + V, S + V 結構，前後兩子句形成鮮明對比",
+        "提示2：注意 While 在此不表「當...時」，而是「相比之下」或「反之」"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "台北的生活節奏很快，而台東的生活步調相對緩慢。",
+      "answer": "Whereas life in Taipei moves at a fast pace, life in Taitung is relatively slow.",
+      "key_points": [
+        "Whereas 用於正式對比",
+        "move at a fast pace（快節奏）",
+        "relatively slow（相對緩慢）"
+      ],
+      "hints": [
+        "提示1：Whereas 比 While 正式，常用於比較兩地或兩群體的差異，結構為 Whereas + S + V, S + V",
+        "提示2：Whereas 後接完整子句，須包含動詞；避免使用 Whereas + 名詞片語"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "有些學生靠自律完成功課，而另一些學生則需要父母的督促才能專心讀書。",
+      "answer": "While some students complete their homework through self-discipline, others need parental supervision to concentrate on their studies.",
+      "key_points": [
+        "While 連接兩個對比的學生群體",
+        "through self-discipline（透過自律）",
+        "parental supervision（父母督促）",
+        "相反或相對的描述"
+      ],
+      "hints": [
+        "提示1：While + S + V, S + V 結構，兩個子句呈現相反或相對的特性",
+        "提示2：注意 some...others 的配對用法，強化對比效果；While 此時純粹表對比，不涉及時間關係"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "傳統教育強調死記硬背和標準答案，然而現代教育卻著重於培養學生的創意思維和問題解決能力。",
+      "answer": "Whereas traditional education emphasizes rote memorization and standardized answers, modern education focuses on cultivating students' creative thinking and problem-solving abilities.",
+      "key_points": [
+        "Whereas 用於正式論述的對比",
+        "emphasize rote memorization and standardized answers（強調死記硬背和標準答案）",
+        "focus on cultivating...abilities（著重於培養...能力）",
+        "兩個完整獨立子句的對稱結構"
+      ],
+      "hints": [
+        "提示1：Whereas + S + V, S + V 結構，適用於論述性文章或正式比較；注意兩個子句的詞彙和結構應力求對稱，以增強對比效果",
+        "提示2：避免混淆 While 和 Whereas 的正式程度差異；此題因涉及教育制度的正式比較，應優先選用 Whereas 而非 While"
+      ]
+    }
   ]
 }

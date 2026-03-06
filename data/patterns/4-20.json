@@ -305,5 +305,63 @@
       "explanation": "正確答案是B。第一空「如何正確使用軟體」應用how to use。第二空需表「是否優先安裝驅動程式」的選擇性，應用whether to install。A項what不符前文語境。C項which用於多選，但安裝驅動程式不是選擇問題。D項前空錯誤，what to use表選物品。only whether to V正確表達「是否…」的不確定性。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不知道明天的考試要帶什麼。",
+      "answer": "I don't know what to bring for tomorrow's exam.",
+      "key_points": [
+        "don't know + what to V",
+        "what 作疑問詞",
+        "bring 為及物動詞"
+      ],
+      "hints": [
+        "句型框架：S + don't know + wh- + to V",
+        "注意：what 後面直接接 to bring，無需加受詞代詞 it"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她想知道如何平衡課業和興趣。",
+      "answer": "She wonders how to balance schoolwork and hobbies.",
+      "key_points": [
+        "wonder + how to V",
+        "how 修飾動詞 balance",
+        "balance 表示「平衡」"
+      ],
+      "hints": [
+        "句型框架：S + wonder + wh- + to V，表達思考或不確定",
+        "注意：how to V 不需要主詞，因為主詞與句子主詞相同"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師問學生們是否知道應該如何準備大學申請。",
+      "answer": "The teacher asked the students whether/if they knew how to prepare for university applications.",
+      "key_points": [
+        "ask + whether/how to V",
+        "know how to V 表達能力或方法",
+        "賓語子句時態後退"
+      ],
+      "hints": [
+        "句型框架：S + ask + (O) + wh- + to V，可用 whether 或 how",
+        "注意：ask 後若有受詞，需判斷是否為間接問句，時態要一致"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "隨著社會變化，許多學生開始思考應該選擇哪一條職業道路，以及何時做出決定。",
+      "answer": "As society changes, many students begin to wonder which career path to choose and when to make the decision.",
+      "key_points": [
+        "wonder + which + to V",
+        "wonder + when + to V",
+        "複合句型結構"
+      ],
+      "hints": [
+        "句型框架：S + wonder + wh- + to V，可重複使用多個 wh- + to V 結構並以 and 連接",
+        "注意：which 可加名詞修飾（which path），when/how/where/why 後通常無名詞；兩個不定詞主詞相同時可省略重複的 to"
+      ]
+    }
   ]
 }

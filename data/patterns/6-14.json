@@ -301,5 +301,64 @@
       "explanation": "「look forward to」和「be committed to」中的 to 均為介系詞，後接動名詞。正確答案為 hearing; providing。B、C、D 選項各有一個空填入原形動詞或動名詞，違反介系詞後接動名詞的規則。此題結合兩個同類片語，加深難度。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我期待放暑假。",
+      "answer": "I look forward to having summer vacation.",
+      "key_points": [
+        "look forward to",
+        "having（動名詞）",
+        "summer vacation"
+      ],
+      "hints": [
+        "句型框架：S + look forward to + V-ing，to 是介系詞，後接動名詞",
+        "注意：不可寫 look forward for 或 look forward to have"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我們的班級致力於參與社區志願服務。",
+      "answer": "Our class is committed to participating in community volunteer service.",
+      "key_points": [
+        "be committed to",
+        "participating（動名詞）",
+        "community volunteer service"
+      ],
+      "hints": [
+        "be committed to 表示「致力於、承諾」，同樣採用『to + V-ing』結構",
+        "注意：committed 後的 to 是介系詞，後面一定要加動名詞形式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "許多學生習慣於利用手機學習英文，但也有人反對這種做法。",
+      "answer": "Many students are used to using mobile phones to learn English, but some are opposed to this practice.",
+      "key_points": [
+        "be used to + V-ing（習慣於）",
+        "be opposed to + V-ing（反對）",
+        "兩個不同片語的對比"
+      ],
+      "hints": [
+        "『be used to + V-ing』表示習慣於某事，『be opposed to + V-ing』表示反對，兩者 to 均為介系詞",
+        "注意：be used to 與 used to 不同；used to 表過去習慣，be used to 表現在習慣"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管父母親反對我選擇藝術系，但我仍然期待著完成我的大學夢，因為我致力於追求自己的熱情。",
+      "answer": "Although my parents are opposed to my choosing an art major, I still look forward to fulfilling my university dream because I am dedicated to pursuing my passion.",
+      "key_points": [
+        "be opposed to + V-ing（反對）",
+        "look forward to + V-ing（期待）",
+        "be dedicated to + V-ing（致力於）",
+        "複雜句結構中的多個片語並用"
+      ],
+      "hints": [
+        "題目包含三個不同的『to + V-ing』片語，需注意各自的含義與用法的一致性",
+        "注意：『my choosing』是所有格搭配動名詞的用法；避免混淆 be opposed to、look forward to 和 be dedicated to 的細微區別"
+      ]
+    }
   ]
 }

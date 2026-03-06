@@ -308,5 +308,66 @@
       "explanation": "正確答案是 C (as/that)。第一空：在 such...as 結構中，as 作關係代名詞指代 technologies，引導定義性子句。第二空：ways 後接 that 形成 ways that...(定義性子句)，表達「人們無法預測的方式」。A 項兩個 as 會造成結構混亂；B 項兩個 that 違反 such 的搭配規則；D 項 which 不能與 such 搭配。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡像莎士比亞一樣偉大的作家。",
+      "answer": "I like such great writers as Shakespeare.",
+      "key_points": [
+        "such + N + as",
+        "作家(writers)",
+        "莎士比亞作為具體例子"
+      ],
+      "hints": [
+        "提示1：使用 such...as 結構，as 引導關係子句補充說明名詞",
+        "提示2：不要用 that 替代 as，as 在此帶有「像...一樣」的比較意義"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我們應該學習像愛因斯坦一樣的科學家所具有的好奇心。",
+      "answer": "We should learn the curiosity that such scientists as Einstein possess.",
+      "key_points": [
+        "such + N + as",
+        "科學家(scientists)",
+        "possess（具有）",
+        "定義性子句"
+      ],
+      "hints": [
+        "提示1：such...as 結構中，as 後可接具體人物或例子補充說明前面的名詞",
+        "提示2：注意 possess 與 have 的差異，possess 較為正式，常用於表達抽象特質"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他報名參加了與去年相同的暑假志工計劃。",
+      "answer": "He enrolled in the same summer volunteer program as he did last year.",
+      "key_points": [
+        "the same...as",
+        "暑假志工計劃(summer volunteer program)",
+        "去年(last year)",
+        "完全相同性"
+      ],
+      "hints": [
+        "提示1：使用 the same...as 表示完全一致，as 引導比較子句，強調前後相同",
+        "提示2：比較子句可省略重複動詞，但完整寫法為 as he did last year"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "雖然這個城市面臨著許多挑戰，但它仍保有像前輩城市那樣的堅韌精神，展現出對未來的信心。",
+      "answer": "As this city faces many challenges, it still retains the same resilient spirit as older cities do, demonstrating confidence in the future.",
+      "key_points": [
+        "As 引導讓步子句置於句首",
+        "the same...as 比較結構",
+        "resilient spirit（堅韌精神）",
+        "主句與讓步子句的邏輯對比"
+      ],
+      "hints": [
+        "提示1：As 可作從屬連接詞引導讓步子句置於句首（意為「雖然」），後接主句，形成前讓步後轉折的結構",
+        "提示2：留意 as 在此句型有兩種用法：(1)引導讓步子句的 As faces...；(2)在 the same...as 結構中作關係代名詞，兩者不可混淆"
+      ]
+    }
   ]
 }

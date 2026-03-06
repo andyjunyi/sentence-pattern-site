@@ -307,5 +307,64 @@
       "explanation": "正確答案是 A。第一句強調他過去「沒有」抽煙習慣，所以戒煙容易，需用 didn't use to。第二句表其兄弟過去有抽煙習慣但現在想戒，需用 used to。B 項邏輯相反。C 與 D 混用了 be used to 的現在式，無法表達過去習慣語義。",
       "id": 4
     }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我小時候經常看卡通，但現在不看了。",
+      "answer": "I used to watch cartoons when I was a child, but I don't watch them anymore.",
+      "key_points": [
+        "used to + watch（原形動詞）",
+        "when I was a child（時間對比）",
+        "but I don't watch them anymore（突顯現在已改變）"
+      ],
+      "hints": [
+        "提示1：used to 後接原形動詞，表示過去經常做但現在不做的事",
+        "提示2：避免寫成 I used to watching cartoons；需搭配過去時間副詞強調對比"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你以前每天都運動嗎？",
+      "answer": "Did you use to exercise every day?",
+      "key_points": [
+        "Did + S + use to + V（疑問句結構）",
+        "exercise（動詞原形）",
+        "every day（頻率副詞）"
+      ],
+      "hints": [
+        "提示1：疑問句使用 Did you use to...，用 did 輔助動詞，use to 後接原形動詞",
+        "提示2：注意不能寫成 Did you used to...，use 不加-d"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他上國中時經常和朋友在公園玩，可是現在因為功課忙就很少去了。",
+      "answer": "He used to play with his friends in the park when he was in junior high school, but he rarely goes there now because he is busy with schoolwork.",
+      "key_points": [
+        "used to + play（過去習慣）",
+        "when he was in junior high school（明確時間背景）",
+        "but he rarely goes there now（現在已改變的狀態）",
+        "because 子句（改變原因）"
+      ],
+      "hints": [
+        "提示1：used to 表達已停止的過去習慣，後面用 but 對比現在的改變",
+        "提示2：避免寫成 he used to play...and now he doesn't go；要用 but 明確對比，突顯習慣的改變"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "以前我媽媽不允許我玩電動，但現在她理解我更多了，所以我可以在週末適度遊玩。",
+      "answer": "My mother used not to allow me to play video games, but now she understands me better, so I can play them moderately on weekends.",
+      "key_points": [
+        "used not to allow（否定形式，較正式用法）",
+        "allow + 人 + to V（容許結構）",
+        "but now...（時間對比與態度轉變）"
+      ],
+      "hints": [
+        "提示1：used to 的否定可用 used not to（較正式）或 didn't use to，後接原形動詞；allow 後需加 to V",
+        "提示2：避免混淆 used to 與 be used to；此處強調過去習慣的改變，不是指現在已習慣某事物"
+      ]
+    }
   ]
 }
