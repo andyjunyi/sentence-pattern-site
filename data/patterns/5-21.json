@@ -1,371 +1,369 @@
 {
   "code": "5-21",
   "chapter": 5,
-  "title": "S + keep/leave + O + V-ing/adj.（保持狀態）",
+  "title": "S + used to + V（過去習慣）",
   "formulas": [
     {
-      "formula": "keep/leave + O + V-ing / adj.",
-      "zh": "讓某人或物保持（某狀態）；也可表示持續做某事"
+      "formula": "S + used to + V",
+      "zh": "主詞過去經常/曾經做某事，現在不再如此"
     },
     {
-      "formula": "keep + V-ing",
-      "zh": "持續進行某動作，不間斷地做某事"
+      "formula": "Did + S + use to + V?",
+      "zh": "過去是否經常做某事的疑問句形式"
     }
   ],
-  "explanation": "此句型用於表達保持狀態或持續動作。keep/leave後接受詞（名詞或代詞），再加現在分詞或形容詞，表讓某人或物維持特定狀態。如「keep the door open」。當keep單獨後接V-ing時，表示持續或反覆進行某動作，無受詞。易混淆處：形容詞與現在分詞的選擇需依狀態或動作性質判斷；「leave O adj.」強調靜態狀態。",
+  "explanation": "used to 表達過去的習慣、經常性動作或已不存在的狀態，強調現在已改變。結構上，used to 後接原形動詞。否定形式為 didn't use to 或 used not to（較正式）。疑問句為 Did S use to V?。注意與 be used to + -ing（習慣於）區別：前者談過去習慣已改變，後者指現在已習慣某事。used to 通常需搭配過去時間副詞如 when I was young、in my childhood 等，以突顯時間對比。",
   "examples": [
     {
       "id": 1,
-      "eng": "Please keep the windows open during the day to let fresh air in.",
-      "chi": "請在白天保持窗戶開著以讓新鮮空氣進入。",
+      "eng": "I used to play basketball every day when I was in high school.",
+      "chi": "我高中時曾經每天打籃球。",
       "keywords": [
-        "keep",
-        "open",
-        "狀態保持"
+        "used to",
+        "過去習慣",
+        "時間對比"
       ]
     },
     {
       "id": 2,
-      "eng": "The teacher left the classroom empty after the final exam ended.",
-      "chi": "期末考結束後，老師讓教室保持空著。",
+      "eng": "She used to be afraid of heights, but now she enjoys rock climbing.",
+      "chi": "她曾經害怕高度，但現在她喜歡攀岩。",
       "keywords": [
-        "leave",
-        "empty",
-        "靜態狀態"
+        "used to",
+        "過去狀態",
+        "現在改變"
       ]
     },
     {
       "id": 3,
-      "eng": "He kept calling his friend until someone finally answered the phone.",
-      "chi": "他持續打電話給他的朋友直到有人終於接聽。",
+      "eng": "Did you use to live in Taipei before moving to Kaohsiung?",
+      "chi": "你搬到高雄前曾經住在台北嗎？",
       "keywords": [
-        "keep",
-        "calling",
-        "持續動作"
+        "Did...use to",
+        "疑問句",
+        "過去經驗"
       ]
     },
     {
       "id": 4,
-      "eng": "Don't keep the light on when you leave the office at night.",
-      "chi": "你晚上離開辦公室時不要讓燈保持開著。",
+      "eng": "My grandfather didn't use to have a smartphone, but he learns it now.",
+      "chi": "我爺爺過去沒有用過智慧型手機，但現在他在學。",
       "keywords": [
-        "keep",
-        "on",
-        "動詞片語搭配"
+        "didn't use to",
+        "否定",
+        "時間對比"
       ]
     }
   ],
-  "adj_table_for": [
-    {
-      "adj": "open",
-      "zh": "開著的"
-    },
-    {
-      "adj": "closed",
-      "zh": "關閉的"
-    },
-    {
-      "adj": "clean",
-      "zh": "乾淨的"
-    },
-    {
-      "adj": "busy",
-      "zh": "忙碌的"
-    },
-    {
-      "adj": "safe",
-      "zh": "安全的"
-    },
-    {
-      "adj": "warm",
-      "zh": "溫暖的"
-    },
-    {
-      "adj": "dry",
-      "zh": "乾的"
-    },
-    {
-      "adj": "silent",
-      "zh": "沉默的"
-    },
-    {
-      "adj": "secret",
-      "zh": "秘密的"
-    },
-    {
-      "adj": "waiting",
-      "zh": "等待中的（現在分詞作形容詞）"
-    },
-    {
-      "adj": "running",
-      "zh": "運行中的（現在分詞作形容詞）"
-    },
-    {
-      "adj": "locked",
-      "zh": "上鎖的（過去分詞作形容詞）"
-    }
-  ],
+  "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷技巧：若表「靜態狀況」用形容詞（如open, closed, clean）；若表「動態進行」用現在分詞（如calling, working, playing）。keep V-ing不需受詞，表持續反覆；keep O adj./V-ing則需受詞。注意leave O adj.強調狀態留下。",
+    "tip": "區別 used to 與 be used to：used to + V 談過去習慣已改變；be used to + -ing 談已習慣某事（現在仍持續）。另與 would 區別：would 表過去重複動作但無「現在改變」含義。used to 適合談習慣、狀態、職業等過去特徵。",
     "examples": [
       {
-        "test": "Keep the door _____ (open/opening) for the guests.",
-        "result": "→ Keep the door open（形容詞，保持開啟狀態）"
+        "test": "I used to smoke.",
+        "result": "→ 我曾經抽菸（現在不抽了）"
       },
       {
-        "test": "He kept _____ (talk/talking) about the same topic.",
-        "result": "→ He kept talking（V-ing，持續進行的動作）"
+        "test": "I am used to smoking.",
+        "result": "→ 我習慣於抽菸（現在仍在抽）"
       },
       {
-        "test": "Don't leave the children _____ (alone/aloning) in the house.",
-        "result": "→ Don't leave the children alone（形容詞，靜態狀態）"
+        "test": "He would visit me every weekend.",
+        "result": "→ 他過去每週末來訪（無現在對比意涵）"
       }
     ],
-    "note": "形容詞→靜態狀態；V-ing→動態進行；keep O adj./V-ing有受詞，keep V-ing無受詞。"
+    "note": "記住：used to = 過去的習慣或狀態，重點在「現在已改變」；be used to = 已習慣，強調「現在適應」。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "You should ",
+        "I ",
         null,
-        " your room clean and organized.",
-        null
+        " go to the library every Saturday, but now I prefer studying at home."
       ],
       "blanks": [
-        "keep",
-        "/"
+        "used to"
       ],
-      "sentence": "You should keep your room clean and organized.",
-      "translation": "你應該保持你的房間乾淨且有序。",
+      "sentence": "I used to go to the library every Saturday, but now I prefer studying at home.",
+      "translation": "我曾經每週六去圖書館，但現在我更喜歡在家裡讀書。",
       "keywords": [
-        "keep",
-        "clean",
-        "形容詞"
+        "used to",
+        "過去習慣",
+        "時間對比"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "The mother left her baby ",
+        "",
         null,
-        " in the crib while she prepared dinner.",
-        null
+        " you ",
+        null,
+        " drink coffee before sleeping?"
       ],
       "blanks": [
-        "sleeping",
-        "/"
+        "Did",
+        "use to"
       ],
-      "sentence": "The mother left her baby sleeping in the crib while she prepared dinner.",
-      "translation": "媽媽在準備晚餐時讓她的嬰兒在嬰兒床裡睡著。",
+      "sentence": "Did you use to drink coffee before sleeping?",
+      "translation": "你曾經睡前喝咖啡嗎？",
       "keywords": [
-        "leave",
-        "sleeping",
-        "現在分詞"
+        "Did...use to",
+        "疑問句",
+        "過去習慣"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "If you ",
+        "My mother ",
         null,
-        " trying hard, you will eventually succeed in this project.",
-        null
+        " make homemade bread, but she is too busy now."
       ],
       "blanks": [
-        "keep",
-        "/"
+        "used to"
       ],
-      "sentence": "If you keep trying hard, you will eventually succeed in this project.",
-      "translation": "如果你持續努力，你最終會在這個專案中成功。",
+      "sentence": "My mother used to make homemade bread, but she is too busy now.",
+      "translation": "我媽媽曾經做自製麵包，但她現在太忙了。",
       "keywords": [
-        "keep",
-        "trying",
-        "持續動作"
+        "used to",
+        "過去習慣",
+        "現在改變"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Please ",
+        "They ",
         null,
-        " the windows ",
+        " not ",
         null,
-        " to prevent the rain from coming in.",
-        null
+        " eat meat, but they are vegetarian now."
       ],
       "blanks": [
-        "keep",
-        "closed",
-        "/"
+        "did",
+        "use to"
       ],
-      "sentence": "Please keep the windows closed to prevent the rain from coming in.",
-      "translation": "請保持窗戶關閉以防止雨水進來。",
+      "sentence": "They did not use to eat meat, but they are vegetarian now.",
+      "translation": "他們過去不吃肉，但他們現在是素食者。",
       "keywords": [
-        "keep",
-        "closed",
-        "形容詞"
+        "didn't use to",
+        "否定",
+        "狀態改變"
       ]
     }
   ],
+  "vocab_table": [
+    {
+      "adj": "when I was young",
+      "zh": "當我年輕時"
+    },
+    {
+      "adj": "in my childhood",
+      "zh": "在我的童年"
+    },
+    {
+      "adj": "a long time ago",
+      "zh": "很久以前"
+    },
+    {
+      "adj": "every day / week",
+      "zh": "每天/每週"
+    },
+    {
+      "adj": "frequently",
+      "zh": "經常地"
+    },
+    {
+      "adj": "often",
+      "zh": "常常"
+    },
+    {
+      "adj": "always",
+      "zh": "總是"
+    },
+    {
+      "adj": "rarely",
+      "zh": "很少"
+    },
+    {
+      "adj": "seldom",
+      "zh": "難得"
+    },
+    {
+      "adj": "regularly",
+      "zh": "規律地"
+    },
+    {
+      "adj": "habitually",
+      "zh": "習慣性地"
+    },
+    {
+      "adj": "in those days",
+      "zh": "在那些日子裡"
+    }
+  ],
+  "vocab_table_label": "常用時間表達",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的詞彙完成句子，表示保持門開著的狀態。",
-      "question_eng": "Please keep the door _______ so the fresh air can come in.",
+      "question_chi": "選擇正確的過去習慣表達方式",
+      "question_eng": "When I was a child, I _______ go to the beach every summer with my family.",
       "options": [
         {
           "key": "A",
-          "text": "opening"
+          "text": "used to"
         },
         {
           "key": "B",
-          "text": "open"
+          "text": "am used to"
         },
         {
           "key": "C",
-          "text": "opens"
+          "text": "use to"
         },
         {
           "key": "D",
-          "text": "to open"
+          "text": "was used to"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B (open)。keep + O + adj. 表示保持某物處於特定靜態狀態，open 是形容詞。A (opening) 是現在分詞，但此處表狀態而非動作；C (opens) 是動詞第三人稱，用法錯誤；D (to open) 是不定詞，不符合此句型結構。",
+      "answer": "A",
+      "explanation": "正確答案是 A。used to + 原形動詞表示過去習慣性動作，現在已改變。B 項 am used to 是現在式被動，表示「習慣於」，語意不符。C 項 use to 缺少 d，文法錯誤。D 項 was used to 為過去被動，亦不符合過去習慣的表達。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確詞彙，表示老師使教室保持安靜的狀態。",
-      "question_eng": "The teacher kept the classroom _______ during the exam so students could concentrate.",
+      "question_chi": "判斷過去習慣的疑問句正確形式",
+      "question_eng": "_______ you use to study in the library when you were in college?",
       "options": [
         {
           "key": "A",
-          "text": "silent"
+          "text": "Are"
         },
         {
           "key": "B",
-          "text": "silencing"
+          "text": "Were"
         },
         {
           "key": "C",
-          "text": "being silent"
+          "text": "Did"
         },
         {
           "key": "D",
-          "text": "to be silent"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是 A (silent)。keep + O + adj. 表示保持靜態狀態，silent 為形容詞。B (silencing) 是現在分詞，強調動作進行中而非狀態保持；C (being silent) 語法冗余；D (to open) 不符合句型結構。此句型著重於狀態維持，需用形容詞。",
-      "id": 2
-    },
-    {
-      "question_chi": "選擇正確選項，區別 keep 和 leave 搭配動詞或形容詞的用法差異。",
-      "question_eng": "He left the window _______ all night, but I kept the lights _______ to save electricity.",
-      "options": [
-        {
-          "key": "A",
-          "text": "open; off"
-        },
-        {
-          "key": "B",
-          "text": "opening; turning off"
-        },
-        {
-          "key": "C",
-          "text": "opened; turned off"
-        },
-        {
-          "key": "D",
-          "text": "to open; to turn off"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是 A (open; off)。leave/keep + O + adj. 都表示保持靜態狀態。open 和 off 都是形容詞，描述窗戶和燈的狀態。B 用現在分詞強調動作而非狀態；C 用過去分詞表被動而非狀態保持；D 用不定詞結構錯誤。此句型強調保持狀態，應使用形容詞。",
-      "id": 3
-    },
-    {
-      "question_chi": "區別 keep + V-ing（持續動作）和 keep + O + adj.（保持狀態）的用法。",
-      "question_eng": "Mary _______ complaining about the noise, so I decided to leave her alone. Meanwhile, I kept my bedroom door _______ to block the sound.",
-      "options": [
-        {
-          "key": "A",
-          "text": "kept; closing"
-        },
-        {
-          "key": "B",
-          "text": "keeps; closed"
-        },
-        {
-          "key": "C",
-          "text": "kept; closed"
-        },
-        {
-          "key": "D",
-          "text": "keeps; closing"
+          "text": "Do"
         }
       ],
       "answer": "C",
-      "explanation": "正確答案是 C (kept; closed)。第一空為過去式 kept + V-ing，表示瑪麗持續反覆抱怨。第二空為 keep + O + adj.，kept my door closed 表保持房門處於關閉狀態。A 的 closing 誤用為狀態；B 時態不符（當前文用過去式）；D 混淆兩種用法，第二空應用形容詞，不能用現在分詞。",
+      "explanation": "正確答案是 C。過去習慣的疑問句結構為 Did + S + use to + V（原形）。A 與 D 為現在式，B 為 be 動詞過去式但不用於此句型。只有 Did 才能正確構成 used to 的疑問句，後接原形 use to。",
+      "id": 2
+    },
+    {
+      "question_chi": "區別 used to 與 be used to 的語法用法",
+      "question_eng": "My grandfather _______ drink coffee every morning, but now he's _______ tea instead.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used to / used to drinking"
+        },
+        {
+          "key": "B",
+          "text": "is used to / used to"
+        },
+        {
+          "key": "C",
+          "text": "used to / used to"
+        },
+        {
+          "key": "D",
+          "text": "used to / used to drinking"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是 D。前半句用 used to + 動詞原形表過去習慣已改變；後半句用 be used to + -ing 表現在已習慣某事。A 項第二空漏掉 be 動詞。B 項前半句文法錯誤。C 項第二空缺少 be 動詞，無法表達「已習慣」之意。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合判斷過去習慣的否定與意義區分",
+      "question_eng": "He _______ smoking, so he was able to quit easily. However, his brother _______ smoking every day, but he's trying to break the habit now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn't use to / used to"
+        },
+        {
+          "key": "B",
+          "text": "used to / didn't use to"
+        },
+        {
+          "key": "C",
+          "text": "wasn't used to / is used to"
+        },
+        {
+          "key": "D",
+          "text": "didn't use to / is used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一句強調他過去「沒有」抽煙習慣，所以戒煙容易，需用 didn't use to。第二句表其兄弟過去有抽煙習慣但現在想戒，需用 used to。B 項邏輯相反。C 與 D 混用了 be used to 的現在式，無法表達過去習慣語義。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "媽媽叫我保持房間整潔。",
-      "answer": "My mother asks me to keep my room clean.",
+      "sentence_chi": "我小時候經常看卡通，但現在不看了。",
+      "answer": "I used to watch cartoons when I was a child, but I don't watch them anymore.",
       "key_points": [
-        "keep + O + adj.",
-        "room（房間）",
-        "clean（整潔的形容詞）"
+        "used to + watch（原形動詞）",
+        "when I was a child（時間對比）",
+        "but I don't watch them anymore（突顯現在已改變）"
       ],
       "hints": [
-        "句型框架：keep + O + 形容詞，表保持某物處於特定狀態",
-        "注意：clean 是形容詞，不是動詞；若要用動詞應改為 cleaning（現在分詞）"
+        "提示1：used to 後接原形動詞，表示過去經常做但現在不做的事",
+        "提示2：避免寫成 I used to watching cartoons；需搭配過去時間副詞強調對比"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "老師要求學生在考試期間保持安靜。",
-      "answer": "The teacher requires students to keep quiet during the exam.",
+      "sentence_chi": "你以前每天都運動嗎？",
+      "answer": "Did you use to exercise every day?",
       "key_points": [
-        "keep + O + adj.",
-        "quiet（安靜的）",
-        "during the exam（在考試期間）"
+        "Did + S + use to + V（疑問句結構）",
+        "exercise（動詞原形）",
+        "every day（頻率副詞）"
       ],
       "hints": [
-        "句型框架：keep + O + 形容詞，此處 quiet 形容詞修飾 students 的狀態",
-        "常見錯誤：誤用 keeping quiet 或 be quiet，應用 keep + adj. 結構"
+        "提示1：疑問句使用 Did you use to...，用 did 輔助動詞，use to 後接原形動詞",
+        "提示2：注意不能寫成 Did you used to...，use 不加-d"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "不要讓食物放在外面太久而變壞。",
-      "answer": "Don't leave the food sitting out for too long.",
+      "sentence_chi": "他上國中時經常和朋友在公園玩，可是現在因為功課忙就很少去了。",
+      "answer": "He used to play with his friends in the park when he was in junior high school, but he rarely goes there now because he is busy with schoolwork.",
       "key_points": [
-        "leave + O + V-ing",
-        "food（食物）",
-        "sitting out（放在外面，現在分詞表動作）"
+        "used to + play（過去習慣）",
+        "when he was in junior high school（明確時間背景）",
+        "but he rarely goes there now（現在已改變的狀態）",
+        "because 子句（改變原因）"
       ],
       "hints": [
-        "句型框架：leave + O + V-ing，表讓某物處於持續的動作狀態；leave 強調「放任不管」",
-        "注意：sitting out 是現在分詞短語，描述食物被放在外面的狀態"
+        "提示1：used to 表達已停止的過去習慣，後面用 but 對比現在的改變",
+        "提示2：避免寫成 he used to play...and now he doesn't go；要用 but 明確對比，突顯習慣的改變"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "他整天持續玩手機，這讓他的視力保持惡化的狀態。",
-      "answer": "He keeps playing with his phone all day, which leaves his eyesight getting worse.",
+      "sentence_chi": "以前我媽媽不允許我玩電動，但現在她理解我更多了，所以我可以在週末適度遊玩。",
+      "answer": "My mother used not to allow me to play video games, but now she understands me better, so I can play them moderately on weekends.",
       "key_points": [
-        "keep + V-ing（無受詞，表持續反覆）",
-        "leave + O + V-ing",
-        "eyesight getting worse（視力惡化的現在分詞片語）"
+        "used not to allow（否定形式，較正式用法）",
+        "allow + 人 + to V（容許結構）",
+        "but now...（時間對比與態度轉變）"
       ],
       "hints": [
-        "句型框架有兩種：keep playing（持續玩）是 keep + V-ing；leave his eyesight getting worse 是 leave + O + V-ing",
-        "易混淆：keep + V-ing 無受詞表反覆動作；keep + O + V-ing/adj. 有受詞表保持狀態；leave + O + V-ing 強調放任導致的消極狀態"
+        "提示1：used to 的否定可用 used not to（較正式）或 didn't use to，後接原形動詞；allow 後需加 to V",
+        "提示2：避免混淆 used to 與 be used to；此處強調過去習慣的改變，不是指現在已習慣某事物"
       ]
     }
   ]

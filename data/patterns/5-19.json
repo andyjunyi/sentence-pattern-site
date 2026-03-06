@@ -1,373 +1,369 @@
 {
   "code": "5-19",
   "chapter": 5,
-  "title": "S + see/hear/watch + O + V-ing/V原形（感官動詞）",
+  "title": "S + help + O + (to) V（help 用法）",
   "formulas": [
     {
-      "formula": "see/hear/watch/feel/notice + O + V (原形)",
-      "zh": "感官動詞後接受詞和動詞原形，表示目睹或感知整個完整動作"
+      "formula": "S + help + O + (to) V",
+      "zh": "主詞幫助受詞做某事（to可省略）"
     },
     {
-      "formula": "see/hear/watch/feel/notice + O + V-ing",
-      "zh": "感官動詞後接受詞和現在分詞，表示動作正在進行中"
+      "formula": "S + help + (to) V",
+      "zh": "主詞幫忙做某事（不及物用法）"
     },
     {
-      "formula": "O + be + seen/heard/watched/felt/noticed + to V (被動式)",
-      "zh": "被動語態時，原形動詞改為to V"
+      "formula": "cannot help + V-ing",
+      "zh": "忍不住做某事（特殊用法，表被動意涵）"
     }
   ],
-  "explanation": "感官動詞（see、hear、watch、feel、notice）後接受詞時，可搭配動詞原形或現在分詞。使用原形表示看到或聽到整個完整的動作過程；使用現在分詞表示動作正在進行中。被動語態時，原形動詞需改為to V形式。注意：感官動詞本身不使用進行式；hear與listen的區別在於前者強調客觀感知結果。",
+  "explanation": "help後可直接接受詞加原形動詞或加to的不定詞，兩種形式意義相同。當help為及物動詞時，句型為「S + help + O + (to) V」，to可省略；當help為不及物動詞時，用「S + help + (to) V」。特殊用法「cannot help + V-ing」表示「忍不住、無法抗拒」，常用於表達被迫的反應或情感。注意此時help後跟動名詞，意思與普通用法截然不同。",
   "examples": [
     {
       "id": 1,
-      "eng": "I saw the accident happen right in front of the school.",
-      "chi": "我看到那場車禍就在學校門口發生。",
+      "eng": "I helped my younger brother (to) finish his homework yesterday.",
+      "chi": "我昨天幫助弟弟完成作業。",
       "keywords": [
-        "see",
-        "happen",
-        "原形動詞",
-        "完整動作"
+        "help",
+        "受詞",
+        "不定詞",
+        "to可省"
       ]
     },
     {
       "id": 2,
-      "eng": "She heard someone crying outside her bedroom last night.",
-      "chi": "她昨晚聽到有人在她臥室外哭泣。",
+      "eng": "The teacher helped the struggling student understand the difficult concept.",
+      "chi": "老師幫助那位困難的學生理解這個困難的概念。",
       "keywords": [
-        "hear",
-        "crying",
-        "現在分詞",
-        "動作進行"
+        "help",
+        "及物用法",
+        "目的",
+        "動詞原形"
       ]
     },
     {
       "id": 3,
-      "eng": "The teacher noticed the students cheating during the exam.",
-      "chi": "老師注意到學生在考試中作弊。",
+      "eng": "We all helped prepare for the upcoming school festival.",
+      "chi": "我們都幫忙準備即將到來的校園慶典。",
       "keywords": [
-        "notice",
-        "cheating",
-        "現在分詞",
-        "進行中"
+        "help",
+        "不及物用法",
+        "共同參與"
       ]
     },
     {
       "id": 4,
-      "eng": "A strange light was seen disappearing into the sky by many witnesses.",
-      "chi": "許多目擊者看到一道奇異的光消失在天空中。",
+      "eng": "I cannot help laughing when I saw that funny video.",
+      "chi": "當我看到那支有趣的影片時，忍不住笑了。",
       "keywords": [
-        "was seen",
-        "disappearing",
-        "被動式",
-        "to V"
+        "cannot help",
+        "V-ing",
+        "忍不住",
+        "特殊用法"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷使用原形或現在分詞的關鍵：看到整個動作從開始到結束用原形（He saw the bird fly away）；看到動作正進行時用現在分詞（He saw the bird flying）。被動式時原形變to V（The bird was seen to fly away）。",
+    "tip": "判斷help用法的關鍵：看後面是否直接有受詞。有受詞用「help + O + (to) V」；無受詞用「help + (to) V」。「cannot help + V-ing」是固定片語，專表「忍不住」，語意上通常代表無法控制的行為反應。",
     "examples": [
       {
-        "test": "I saw him leave the classroom. vs. I saw him leaving the classroom.",
-        "result": "→ 前者表示看到他離開全過程；後者表示看到他離開的過程中（可能還未完全離開）"
+        "test": "I helped him finish the project. vs. I helped finish the project.",
+        "result": "→ 前者有受詞him，後者無受詞。兩句皆正確，只是及物與不及物的區別。"
       },
       {
-        "test": "She was heard to sing beautifully.",
-        "result": "→ 被動式需用to V，不能寫was heard singing（該句為被動式不同結構）"
+        "test": "I cannot help but laugh. vs. I cannot help laughing.",
+        "result": "→ 兩種形式皆可接受，皆表「忍不住笑」，但cannot help + V-ing最為常用。"
       },
       {
-        "test": "I'm hearing music vs. I hear music.",
-        "result": "→ 感官動詞hear不用進行式，聽覺的狀態用簡單式表達"
+        "test": "錯誤：I helped him to go there. 正確：I helped him go there.",
+        "result": "→ 在help句型中，to可省略。省略to會更自然且更常見。"
       }
     ],
-    "note": "原形表終始，分詞表進行；被動改to V，感官動詞勿進行。"
+    "note": "help後有受詞時to可省；cannot help固定搭配V-ing；記住「幫助」與「忍不住」兩大用法分野。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "I watched the young girl ",
+        "The coach helped the young athletes ",
         null,
-        " into the water and disappear quickly."
+        " their skills and techniques."
       ],
       "blanks": [
-        "jump / jumping"
+        "(to) improve"
       ],
-      "sentence": "I watched the young girl jump into the water and disappear quickly.",
-      "translation": "我看著那個小女孩跳入水中並快速消失。",
+      "sentence": "The coach helped the young athletes (to) improve their skills and techniques.",
+      "translation": "教練幫助年輕運動員改進他們的技巧和技術。",
       "keywords": [
-        "watch",
-        "jump",
-        "原形",
-        "完整動作序列"
+        "help",
+        "及物用法",
+        "to可省"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "Did you hear someone ",
+        "We all helped ",
         null,
-        " at the door last night?"
+        " the classroom before the principal's visit."
       ],
       "blanks": [
-        "knock / knocking"
+        "(to) clean"
       ],
-      "sentence": "Did you hear someone knocking at the door last night?",
-      "translation": "你昨晚聽到有人敲門嗎？",
+      "sentence": "We all helped (to) clean the classroom before the principal's visit.",
+      "translation": "在校長視察前，我們都幫忙打掃教室。",
       "keywords": [
-        "hear",
-        "knocking",
-        "現在分詞",
-        "進行狀態"
+        "help",
+        "不及物用法",
+        "共同動作"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "The accident was ",
+        "She cannot help ",
         null,
-        " by dozens of people who rushed to help."
+        " when her favorite song plays on the radio."
       ],
       "blanks": [
-        "seen to happen"
+        "dancing"
       ],
-      "sentence": "The accident was seen to happen by dozens of people who rushed to help.",
-      "translation": "那場事故被許多趕來幫忙的人看到發生。",
+      "sentence": "She cannot help dancing when her favorite song plays on the radio.",
+      "translation": "當她最喜歡的歌曲在廣播中播放時，她忍不住跳舞。",
       "keywords": [
-        "was seen to happen",
-        "被動式",
-        "to V形式"
+        "cannot help",
+        "V-ing",
+        "忍不住"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "She noticed the stranger ",
+        "The doctor helped the elderly patient ",
         null,
-        " her with suspicion, so she felt uncomfortable."
+        " the medication correctly."
       ],
       "blanks": [
-        "watching / watch"
+        "(to) take"
       ],
-      "sentence": "She noticed the stranger watching her with suspicion, so she felt uncomfortable.",
-      "translation": "她注意到那個陌生人懷疑地注視著她，所以她感到不舒服。",
+      "sentence": "The doctor helped the elderly patient (to) take the medication correctly.",
+      "translation": "醫生幫助老年患者正確服用藥物。",
       "keywords": [
-        "notice",
-        "watching",
-        "現在分詞",
-        "持續觀察"
+        "help",
+        "受詞",
+        "不定詞"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "see",
-      "zh": "看見、看到"
+      "adj": "finish",
+      "zh": "完成"
     },
     {
-      "adj": "hear",
-      "zh": "聽見、聽到"
+      "adj": "understand",
+      "zh": "理解"
     },
     {
-      "adj": "watch",
-      "zh": "觀看、注視"
+      "adj": "prepare",
+      "zh": "準備"
+    },
+    {
+      "adj": "solve",
+      "zh": "解決"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "laugh",
+      "zh": "笑"
+    },
+    {
+      "adj": "cry",
+      "zh": "哭"
+    },
+    {
+      "adj": "think",
+      "zh": "認為"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
     },
     {
       "adj": "feel",
-      "zh": "感受、感覺"
+      "zh": "感受"
     },
     {
-      "adj": "notice",
-      "zh": "注意到、察覺"
-    },
-    {
-      "adj": "happen",
-      "zh": "發生"
-    },
-    {
-      "adj": "appear",
-      "zh": "出現、顯現"
-    },
-    {
-      "adj": "disappear",
-      "zh": "消失、消減"
-    },
-    {
-      "adj": "approach",
-      "zh": "靠近、接近"
-    },
-    {
-      "adj": "arrive",
-      "zh": "到達"
-    },
-    {
-      "adj": "move",
-      "zh": "移動、運動"
-    },
-    {
-      "adj": "fall",
-      "zh": "摔倒、下落"
+      "adj": "wonder",
+      "zh": "想知道"
     }
   ],
-  "vocab_table_label": "常用感官動詞",
+  "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的感官動詞搭配形式",
-      "question_eng": "I saw the children _______ in the playground yesterday afternoon.",
+      "question_chi": "選擇最適當的句子完成此句：媽媽幫助孩子完成功課。",
+      "question_eng": "My mother helped her child _______ his homework.",
       "options": [
         {
           "key": "A",
-          "text": "play"
+          "text": "to finish"
         },
         {
           "key": "B",
-          "text": "playing"
+          "text": "finishing"
         },
         {
           "key": "C",
-          "text": "to play"
+          "text": "finished"
         },
         {
           "key": "D",
-          "text": "played"
+          "text": "finish"
         }
       ],
-      "answer": "B",
-      "explanation": "句子描述看到孩子們「正在玩耍」的動作過程，應用現在分詞 playing 表示動作進行中。A 項原形表示完整動作但此句強調進行狀態；C 項 to play 為不定詞，感官動詞不搭配；D 項過去式語法錯誤。",
+      "answer": "D",
+      "explanation": "help後接受詞加原形動詞時，to可省略。A和D都正確，但D更符合現代英文用法。B「finishing」為動名詞，不適用於此句型。C「finished」為過去分詞，用法錯誤。本題測試help的基本用法，正確答案為D。",
       "id": 1
     },
     {
-      "question_chi": "判斷感官動詞後接原形或現在分詞的差異",
-      "question_eng": "She heard the door _______ and immediately turned around.",
+      "question_chi": "選擇正確答案完成句子：老師幫助學生理解這個概念。",
+      "question_eng": "The teacher helped the student _______ the concept.",
       "options": [
         {
           "key": "A",
-          "text": "opening"
+          "text": "understanding"
         },
         {
           "key": "B",
-          "text": "to open"
+          "text": "to understand"
         },
         {
           "key": "C",
-          "text": "open"
+          "text": "understood"
         },
         {
           "key": "D",
-          "text": "opened"
+          "text": "understand"
         }
       ],
-      "answer": "C",
-      "explanation": "「聽到門打開」表示完整的動作事件，應用動詞原形 open。現在分詞 opening 表示動作進行但此句著重整個打開事件；B 項不定詞語法錯誤；D 項過去式不符感官動詞用法。",
+      "answer": "B",
+      "explanation": "help後跟受詞時，可用「to + V」或「V原形」，兩種皆正確。B和D都可接受，但此題強調「to understand」的正式寫法。A「understanding」不符合help的用法。C「understood」為過去分詞，錯誤。題目選B以測試學生對to不定詞的認識。",
       "id": 2
     },
     {
-      "question_chi": "感官動詞被動語態的正確形式",
-      "question_eng": "The strange noise was heard _______ from the attic by all the residents in the building.",
+      "question_chi": "選擇最適當的選項完成此句，注意語境差異。",
+      "question_eng": "I couldn't help _______ when I saw the funny video.",
       "options": [
         {
           "key": "A",
-          "text": "coming"
+          "text": "to laugh"
         },
         {
           "key": "B",
-          "text": "to come"
+          "text": "laughing"
         },
         {
           "key": "C",
-          "text": "come"
+          "text": "laugh"
         },
         {
           "key": "D",
-          "text": "to be coming"
+          "text": "to laughing"
         }
       ],
       "answer": "B",
-      "explanation": "感官動詞被動語態中，原形動詞需改為 to V 形式，故「被聽到發出聲音」應用 to come。A 項現在分詞在被動語態不適用；C 項原形在被動語態需改為不定詞；D 項形式冗餘。",
+      "explanation": "「cannot/couldn't help + V-ing」是特殊用法，表示「忍不住、無法抗拒」，後面必須跟動名詞。B「laughing」正確。A「to laugh」不符此特殊用法。C「laugh」為原形，用法錯誤。D「to laughing」為文法錯誤，不能同時有to和ing。此題測試學生對cannot help的特殊用法認識。",
       "id": 3
     },
     {
-      "question_chi": "複雜語境中感官動詞與動詞形式的正確搭配",
-      "question_eng": "The witnesses reported that they watched the suspect _______ the store and _______ away in a black car after the robbery.",
+      "question_chi": "判斷句子意思，選擇最適當的動詞形式完成此句。",
+      "question_eng": "She helped her friend _______ for the exam and couldn't help _______ nervous when the results came out.",
       "options": [
         {
           "key": "A",
-          "text": "leaving; driving"
+          "text": "prepare; feeling"
         },
         {
           "key": "B",
-          "text": "leave; drive"
+          "text": "to prepare; to feel"
         },
         {
           "key": "C",
-          "text": "leave; driving"
+          "text": "preparing; to feel"
         },
         {
           "key": "D",
-          "text": "leaving; drive"
+          "text": "prepare; feel"
         }
       ],
-      "answer": "B",
-      "explanation": "連貫的完整動作「看到嫌犯離開店舖並開車逃離」應用原形 leave 和 drive，表示目睹整個事件過程。A、C、D 項混用現在分詞和原形，但此句強調完整事件序列，應全用原形保持平行結構且強調事實性。",
+      "answer": "A",
+      "explanation": "第一個help為及物動詞「幫助~準備」，後接受詞加V原形或to+V，此處用「prepare」。第二個「couldn't help」為特殊用法「忍不住~」，必須跟V-ing，故為「feeling」。A正確結合兩個不同的help用法。B和C未正確區分兩種help的用法。D第二個help用法錯誤，應為動名詞。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我看到一隻貓在花園裡跑來跑去。",
-      "answer": "I saw a cat running around in the garden.",
+      "sentence_chi": "媽媽幫我複習英文功課。",
+      "answer": "My mother helps me (to) review English homework.",
       "key_points": [
-        "see + O + V-ing",
-        "running around（現在分詞表示動作正在進行）",
-        "in the garden（地點狀語）"
+        "help + O + (to) V 結構",
+        "to 可省略",
+        "review（複習）"
       ],
       "hints": [
-        "提示1：使用『see + O + V-ing』結構，因為貓的跑動是正在進行的動作",
-        "提示2：不可寫成『saw a cat run』，因為題意強調『跑來跑去』的動作過程，需用現在分詞"
+        "提示1：help 為及物動詞，後接受詞 me，再接原形或 to 不定詞",
+        "提示2：常見錯誤是寫成『helps me reviewing』，動詞應用原形或 to 不定詞，不用 V-ing"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "老師注意到學生們在教室裡交談時沒有認真聽課。",
-      "answer": "The teacher noticed students talking to each other instead of listening carefully to the lesson in the classroom.",
+      "sentence_chi": "老師幫助學生們理解這個複雜的文法概念。",
+      "answer": "The teacher helps the students (to) understand this complicated grammar concept.",
       "key_points": [
-        "notice + O + V-ing",
-        "talking to each other（現在分詞表示同時進行的動作）",
-        "instead of + V-ing（對比結構）"
+        "help + O + (to) V 結構",
+        "complicated grammar concept（複雜的文法概念）",
+        "to 省略後仍正確"
       ],
       "hints": [
-        "提示1：『notice + O + V-ing』用來描述老師觀察到學生們『正在交談』的情況",
-        "提示2：注意『instead of listening』也要用V-ing形式保持平行結構，而非instead of to listen"
+        "提示1：『幫助某人做某事』的標準句型是 help sb. (to) do sth.，to 在此位置可加可不加",
+        "提示2：注意『理解』用 understand，不要用 comprehend；『概念』用 concept 較為恰當"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "我聽到隔壁房間傳來的音樂聲，所以我知道我的朋友在那裡。",
-      "answer": "I heard music coming from the next room, so I knew my friend was there. / I heard music come from the next room, so I knew my friend was there.",
+      "sentence_chi": "我無法抗拒想要檢查手機裡的新訊息。",
+      "answer": "I cannot help (but) checking my phone for new messages.",
       "key_points": [
-        "hear + O + V-ing / hear + O + V原形",
-        "coming/come from the next room",
-        "hear強調客觀感知結果（區別於listen主動傾聽）"
+        "cannot help + V-ing 特殊句型",
+        "check one's phone（檢查手機）",
+        "新訊息 new messages"
       ],
       "hints": [
-        "提示1：『hear + O + V-ing』（music coming）強調聲音正在傳出；『hear + O + V原形』（music come）強調聲音傳出的完整過程，兩者皆可接受",
-        "提示2：不可用『listen to music』代替『hear music』，因為題意是客觀聽到而非主動傾聽；V-ing或V原形都表達得出題意"
+        "提示1：『無法抗拒、忍不住』要用『cannot help + V-ing』，此時 help 後必須接動名詞，意思與普通用法完全不同",
+        "提示2：常見錯誤是寫『cannot help to check』或『cannot help check』，這兩種都不對；正確形式是『cannot help + V-ing』或『cannot help but + V』"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "演唱會上，我們看著表演者在舞台上跳舞，他的精彩表現令全場觀眾感動。被動語態：表演者的精彩跳舞表演被全場觀眾看著進行。",
-      "answer": "At the concert, we watched the performer dancing on the stage, and his wonderful performance moved the entire audience. / The performer was seen to dance wonderfully on the stage by the entire audience at the concert.",
+      "sentence_chi": "看到班上同學失敗的表現，我忍不住感到難過，所以主動幫他複習準備重考。",
+      "answer": "Seeing my classmate's failed performance, I could not help but feel sad, so I actively helped him (to) prepare for the makeup exam.",
       "key_points": [
-        "watch + O + V-ing（主動式）",
-        "be seen to V（被動式，原形改為to V）",
-        "動詞V-ing vs to V的轉換規則"
+        "cannot help but + V 表達無法抗拒的情感",
+        "help + O + (to) V 表達主動幫助",
+        "failed performance 與 makeup exam 的詞彙"
       ],
       "hints": [
-        "提示1：主動語態『watch + O + V-ing』強調持續觀看表演者『正在跳舞』的過程；被動語態需改為『be seen to dance』，注意V-ing改為to V形式",
-        "提示2：被動式常見錯誤是寫成『be seen dancing』，但感官動詞的被動式必須使用『to + V原形』而非V-ing形式"
+        "提示1：前半句用『cannot help but + V』表達忍不住的悲傷；後半句用『help + O + (to) V』表達主動幫助，兩種 help 用法需區分清楚",
+        "提示2：『重考』用 makeup exam；『準備』用 prepare for；注意第一個 help 後接動名詞/動詞原形（情感反應），第二個 help 後接受詞+動詞原形（實際幫助動作）"
       ]
     }
   ]

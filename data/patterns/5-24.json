@@ -1,360 +1,362 @@
 {
   "code": "5-24",
   "chapter": 5,
-  "title": "used to + V / be used to + V-ing",
+  "title": "S + had better + V / S + ought to + V",
   "formulas": [
     {
-      "formula": "used to + V (原型動詞)",
-      "zh": "過去習慣性動作（現在已不如此）"
+      "formula": "S + had better (not) + V (原形)",
+      "zh": "主詞最好（不要）做某事（帶有警告或不利後果的建議）"
     },
     {
-      "formula": "be/get used to + V-ing / N",
-      "zh": "習慣於；適應於（現在的狀態或逐漸適應）"
+      "formula": "S + ought to + V (原形)",
+      "zh": "主詞應該做某事（表義務、應然或道德責任）"
     }
   ],
-  "explanation": "used to + V 表示過去經常做某事，但現在已停止，具有時間對比性。be used to + V-ing 表目前已習慣某事物，為習慣狀態。get used to + V-ing 表逐漸適應過程，強調動態變化。三者易混淆，應注意：used to 無現在式，be used to 後必接動名詞或名詞，get used to 表漸進適應。判別關鍵在於是否有時間對比（過去習慣）及是否為現在狀態。",
+  "explanation": "had better 與 ought to 都是助動詞用法，後接原形動詞，無人稱變化。had better 語氣較強，帶有警告意味，暗示不照做會有負面後果；ought to 表示道德義務、應然責任或期望，語氣較溫和。兩者都可用 not 形成否定，had better not 和 ought not to 都正確。學測常混淆 had better 與 should，需注意前者語氣更強。",
   "examples": [
     {
       "id": 1,
-      "eng": "I used to play basketball every weekend, but now I don't have time.",
-      "chi": "我過去每個週末都打籃球，但現在沒有時間了。",
+      "eng": "You had better finish your homework before watching TV.",
+      "chi": "你最好先完成功課再看電視。",
       "keywords": [
-        "used to + V",
-        "過去習慣",
-        "時間對比"
+        "had better",
+        "原形動詞",
+        "建議"
       ]
     },
     {
       "id": 2,
-      "eng": "She is used to working late nights as a journalist for many years.",
-      "chi": "作為記者多年，她已習慣於在晚上工作到很晚。",
+      "eng": "Students ought to respect their teachers and classmates.",
+      "chi": "學生應該尊重他們的老師和同學。",
       "keywords": [
-        "be used to + V-ing",
-        "現在習慣狀態"
+        "ought to",
+        "義務",
+        "應然"
       ]
     },
     {
       "id": 3,
-      "eng": "It took him a long time to get used to living in the countryside.",
-      "chi": "他花了很長時間才逐漸適應在鄉村生活。",
+      "eng": "You had better not be late for the exam tomorrow.",
+      "chi": "你最好明天考試不要遲到。",
       "keywords": [
-        "get used to + V-ing",
-        "逐漸適應",
-        "過程"
+        "had better not",
+        "否定建議",
+        "警告"
       ]
     },
     {
       "id": 4,
-      "eng": "Children are used to using smartphones, which concerns many parents.",
-      "chi": "小孩已習慣使用智慧型手機，這令許多父母擔憂。",
+      "eng": "Everyone ought to care about environmental protection.",
+      "chi": "每個人都應該關心環境保護。",
       "keywords": [
-        "be used to + V-ing",
-        "習慣狀態"
+        "ought to",
+        "社會責任",
+        "道德義務"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判別關鍵：看句子時間。有「過去常常做，現在不做」→ used to + V。有「現在習慣了」→ be used to + V-ing。有「正在逐漸習慣」→ get used to + V-ing。注意 used to 後接原型動詞，be/get used to 後接動名詞或名詞。",
+    "tip": "had better 的 had 不是過去式，而是助動詞的一部分，整體仍表現在或未來建議。ought to 有時可縮寫為 ought，但正式用法保留 to。兩者都不用加 -s，即使主詞是第三人稱單數。注意 had better 後不加 to，常見錯誤為 had better to do。",
     "examples": [
       {
-        "test": "He used to drink coffee every morning. (過去習慣)",
-        "result": "→ 表過去每天喝咖啡，現在已停止此習慣"
+        "test": "✗ You had better to study hard.",
+        "result": "→ ○ You had better study hard.（had better 後直接接原形，不加 to）"
       },
       {
-        "test": "He is used to drinking coffee every morning. (現在狀態)",
-        "result": "→ 表他現在已習慣每天喝咖啡，為習常動作"
+        "test": "✗ He ought study for the test.",
+        "result": "→ ○ He ought to study for the test.（ought to 中的 to 不可省略）"
       },
       {
-        "test": "He is getting used to drinking coffee since he moved to Italy. (逐漸適應)",
-        "result": "→ 表他搬到義大利後，正在逐漸適應喝咖啡的習慣"
+        "test": "✗ She ought not study there.",
+        "result": "→ ○ She ought not to study there.（ought 的否定應為 ought not to）"
       }
     ],
-    "note": "口訣：used to 看過去（已停止），be used to 看現在（已習慣），get used to 看過程（逐漸適應）。"
+    "note": "had better 帶警告（不做有後果），ought to 表義務（道德或責任）；記住 had better 後無 to，ought to 後必有 to。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "My grandfather ",
+        "If you want to succeed, you ",
         null,
-        " go fishing on weekends, but his health doesn't allow him anymore."
+        " work hard every day."
       ],
       "blanks": [
-        "used to"
+        "had better"
       ],
-      "sentence": "My grandfather used to go fishing on weekends, but his health doesn't allow him anymore.",
-      "translation": "我的祖父過去在週末經常去釣魚，但他的健康現在不允許他這樣做了。",
+      "sentence": "If you want to succeed, you had better work hard every day.",
+      "translation": "如果你想成功，你最好每天努力工作。",
       "keywords": [
-        "used to + V",
-        "過去習慣",
-        "現在已停止"
+        "had better",
+        "條件句",
+        "建議"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "After living abroad for two years, she finally ",
+        "All citizens ",
         null,
-        " eating local cuisine."
+        " obey the laws of their country."
       ],
       "blanks": [
-        "got used to"
+        "ought to"
       ],
-      "sentence": "After living abroad for two years, she finally got used to eating local cuisine.",
-      "translation": "在國外生活兩年後，她終於逐漸習慣了吃當地美食。",
+      "sentence": "All citizens ought to obey the laws of their country.",
+      "translation": "所有公民都應該遵守他們國家的法律。",
       "keywords": [
-        "get used to + V-ing",
-        "逐漸適應",
-        "時間過程"
+        "ought to",
+        "社會責任",
+        "法律義務"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Professional athletes are ",
+        "You ",
         null,
-        " training under high pressure and fatigue."
+        " not miss this important meeting tomorrow."
       ],
       "blanks": [
-        "used to"
+        "had better"
       ],
-      "sentence": "Professional athletes are used to training under high pressure and fatigue.",
-      "translation": "職業運動員已習慣於在高壓和疲勞下進行訓練。",
+      "sentence": "You had better not miss this important meeting tomorrow.",
+      "translation": "你最好明天不要缺席這個重要會議。",
       "keywords": [
-        "be used to + V-ing",
-        "現在習慣狀態"
+        "had better not",
+        "否定",
+        "警告"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "Tom ",
+        "Young people ",
         null,
-        " wake up late every day in high school, but university changed his schedule."
+        " take responsibility for their own future."
       ],
       "blanks": [
-        "used to"
+        "ought to"
       ],
-      "sentence": "Tom used to wake up late every day in high school, but university changed his schedule.",
-      "translation": "湯姆在高中時過去每天都起床很晚，但大學改變了他的作息。",
+      "sentence": "Young people ought to take responsibility for their own future.",
+      "translation": "年輕人應該為自己的未來負責。",
       "keywords": [
-        "used to + V",
-        "過去習慣",
-        "時間對比"
+        "ought to",
+        "責任",
+        "應然"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "play",
-      "zh": "玩；演奏"
+      "adj": "finish",
+      "zh": "完成"
     },
     {
-      "adj": "smoke",
-      "zh": "抽菸"
-    },
-    {
-      "adj": "eat",
-      "zh": "吃"
+      "adj": "arrive",
+      "zh": "到達"
     },
     {
       "adj": "study",
-      "zh": "研究；學習"
+      "zh": "學習"
     },
     {
-      "adj": "travel",
-      "zh": "旅遊"
+      "adj": "respect",
+      "zh": "尊重"
     },
     {
-      "adj": "get up early",
-      "zh": "早起"
+      "adj": "care about",
+      "zh": "關心"
     },
     {
-      "adj": "work hard",
-      "zh": "努力工作"
+      "adj": "prepare",
+      "zh": "準備"
     },
     {
-      "adj": "speak in public",
-      "zh": "在公眾場合說話"
+      "adj": "tell the truth",
+      "zh": "說實話"
     },
     {
-      "adj": "live abroad",
-      "zh": "在國外生活"
+      "adj": "help others",
+      "zh": "幫助他人"
     },
     {
-      "adj": "handle stress",
-      "zh": "處理壓力"
+      "adj": "be responsible",
+      "zh": "負責任"
     },
     {
-      "adj": "adapt to change",
-      "zh": "適應改變"
+      "adj": "follow the rules",
+      "zh": "遵守規則"
     },
     {
-      "adj": "commute daily",
-      "zh": "每日通勤"
+      "adj": "stay healthy",
+      "zh": "保持健康"
+    },
+    {
+      "adj": "listen carefully",
+      "zh": "認真聽"
     }
   ],
   "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確形式：他過去經常去健身房，但現在不去了。",
-      "question_eng": "He _______ go to the gym every day, but he doesn't anymore.",
+      "question_chi": "警告朋友不要遲到，語氣較強。",
+      "question_eng": "You _______ be late for the meeting, or the boss will be angry.",
       "options": [
         {
           "key": "A",
-          "text": "is used to"
+          "text": "had better not"
         },
         {
           "key": "B",
-          "text": "used to"
+          "text": "ought not to"
         },
         {
           "key": "C",
-          "text": "is getting used to"
+          "text": "should not"
         },
         {
           "key": "D",
-          "text": "uses to"
+          "text": "had not better"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B。'used to + 原動詞' 表示過去經常做某事但現在已停止，句中 'but he doesn't anymore' 表示時間對比。A 項 'is used to' 後需動名詞，表現在習慣；C 項表適應過程；D 項 'uses to' 為非正式用法且無此時間對比意涵。",
+      "answer": "A",
+      "explanation": "正確答案是 A「had better not」。had better 語氣強烈且帶有警告意味，表示不照做會有負面後果（老闆會生氣），符合題意。B 項「ought not to」語氣較溫和，用於道德責任；C 項「should not」語氣也溫和；D 項「had not better」文法錯誤，had better 的否定形式是 had better not，not 不能置於 had 之後。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確形式：她已習慣在嘈雜環境中工作多年。",
-      "question_eng": "She _______ working in a noisy environment for many years.",
+      "question_chi": "表達對學生的期望與道德責任。",
+      "question_eng": "Students _______ arrive on time and listen carefully in class.",
       "options": [
         {
           "key": "A",
-          "text": "is used to"
+          "text": "had better"
         },
         {
           "key": "B",
-          "text": "used to"
+          "text": "ought to"
         },
         {
           "key": "C",
-          "text": "is using to"
+          "text": "had to"
         },
         {
           "key": "D",
-          "text": "has used to"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是 A。'be used to + V-ing' 表現在已習慣某事物，為習慣狀態，後接動名詞 'working'。B 項 'used to' 無現在式，用法錯誤；C 項非正式用法；D 項 'has used to' 文法不正確。",
-      "id": 2
-    },
-    {
-      "question_chi": "填空：他正在逐漸適應紐約的快速生活步調。",
-      "question_eng": "He is _______ the fast-paced lifestyle in New York.",
-      "options": [
-        {
-          "key": "A",
-          "text": "getting used to"
-        },
-        {
-          "key": "B",
-          "text": "used to"
-        },
-        {
-          "key": "C",
-          "text": "being used to"
-        },
-        {
-          "key": "D",
-          "text": "getting use to"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是 A。'get used to + V-ing/N' 表逐漸適應過程，強調動態變化。'getting used to' 符合句意 '正在適應'。B 項無現在進行式；C 項 'being used to' 用法不當；D 項拼寫錯誤，應為 'to' 而非 'use'。",
-      "id": 3
-    },
-    {
-      "question_chi": "選擇正確形式：他曾住在農村，習慣早起；現在在城市住習慣了熬夜。",
-      "question_eng": "He _______ wake up early when he lived in the countryside, and now he _______ staying up late since moving to the city.",
-      "options": [
-        {
-          "key": "A",
-          "text": "is used to / used to"
-        },
-        {
-          "key": "B",
-          "text": "used to / is used to"
-        },
-        {
-          "key": "C",
-          "text": "gets used to / used to"
-        },
-        {
-          "key": "D",
-          "text": "uses to / is getting used to"
+          "text": "should to"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B。第一空需 'used to wake up'，表過去習慣（已停止）；第二空需 'is used to staying'，表現在習慣狀態。C 項 'gets used to' 強調動態變化不符語境；A、D 項順序顛倒或文法錯誤，無法表達過去與現在的對比。",
+      "explanation": "正確答案是 B「ought to」。ought to 表示道德義務、應然責任或期望，語氣溫和，適合表達對學生的期望與要求。A 項「had better」語氣過強且帶有警告；C 項「had to」表強制義務，語氣不適；D 項「should to」文法錯誤，should 後直接加原形動詞，不加 to。",
+      "id": 2
+    },
+    {
+      "question_chi": "表示必須立即行動，否則會有嚴重後果。",
+      "question_eng": "The patient _______ take this medicine immediately, or his condition will worsen.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should"
+        },
+        {
+          "key": "B",
+          "text": "ought to"
+        },
+        {
+          "key": "C",
+          "text": "had better"
+        },
+        {
+          "key": "D",
+          "text": "is supposed to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「had better」。句中強調必須立即行動且帶有警告（condition will worsen），had better 語氣最強且暗示負面後果，最符合此情境。A 項「should」語氣較溫和；B 項「ought to」表責任而非緊急警告；D 項「is supposed to」表被期望，但語氣不如 had better 強烈。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷兩個句子中 had better 與 ought to 的區別用法。",
+      "question_eng": "Which pair of sentences correctly uses both 'had better' and 'ought to'? (1) You _______ study hard, or you'll fail the exam. (2) Citizens _______ follow traffic rules for everyone's safety.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1) ought to (2) had better"
+        },
+        {
+          "key": "B",
+          "text": "(1) had better (2) ought to"
+        },
+        {
+          "key": "C",
+          "text": "(1) had better (2) had better"
+        },
+        {
+          "key": "D",
+          "text": "(1) ought to (2) ought to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。句(1)「You _______ study hard, or you'll fail」帶有警告（否則會不及格），需用 had better，語氣強烈。句(2)「Citizens _______ follow traffic rules for everyone's safety」表社會責任與義務，用 ought to 較適合。A 項反向；C、D 項皆為同一用法，無法區分兩者語氣差異，不符學測考點。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我以前經常熬夜讀書，但現在我已經習慣早睡早起了。",
-      "answer": "I used to stay up late studying, but now I am used to going to bed early and waking up early.",
+      "sentence_chi": "你最好立刻完成你的家庭作業。",
+      "answer": "You had better finish your homework immediately.",
       "key_points": [
-        "used to + stay up late",
-        "be used to + V-ing (going/waking)",
-        "時間對比 (but now)"
+        "had better 表示強烈建議",
+        "原形動詞 finish",
+        "無人稱變化"
       ],
       "hints": [
-        "提示1：第一句用 used to 表過去習慣已停止，第二句用 be used to + V-ing 表現在已適應的狀態",
-        "提示2：注意 used to 後接原型動詞 (stay)，be used to 後必接動名詞 (going/waking)，不能接原型"
+        "句型：S + had better + V（原形），語氣帶有警告意味",
+        "常見錯誤：不要加 to（❌ had better to finish），不要用過去式（❌ had finished）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "搬到新城市後，他逐漸習慣了繁忙的生活節奏。",
-      "answer": "After moving to a new city, he gradually got used to the busy lifestyle / pace of life.",
+      "sentence_chi": "學生們應該尊重他們的老師。",
+      "answer": "Students ought to respect their teachers.",
       "key_points": [
-        "get used to + N (lifestyle/pace)",
-        "漸進適應過程 (gradually)",
-        "時間狀語 (after moving)"
+        "ought to 表示道德義務",
+        "原形動詞 respect",
+        "主詞複數時助動詞無變化"
       ],
       "hints": [
-        "提示1：get used to 強調逐漸適應的動態過程，通常與 gradually、slowly 等副詞搭配",
-        "提示2：get used to 後可接名詞 (lifestyle) 或動名詞，但此句因表示對事物的適應，用名詞更自然；避免混淆 get 和 be 的差異"
+        "句型：S + ought to + V（原形），語氣溫和，強調應然責任",
+        "注意：ought to 的否定形式是 ought not to（❌ oughtn't to 在正式英文中較少用）"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "他曾經害怕在公眾場合發言，但經過多次練習後，他已經能夠適應在大人群面前表達自己的想法了。",
-      "answer": "He used to be afraid of speaking in public, but after practicing many times, he has become / gotten used to expressing his ideas in front of large crowds.",
+      "sentence_chi": "他最好不要在考試時作弊，否則會被處分。",
+      "answer": "He had better not cheat on the exam, or he will be punished.",
       "key_points": [
-        "used to + be afraid of + V-ing",
-        "be/get used to + V-ing (expressing)",
-        "複雜時間轉折結構 (but + after)"
+        "had better not 構成否定",
+        "原形動詞 cheat",
+        "後接 or 子句說明負面後果"
       ],
       "hints": [
-        "提示1：used to 後可接形容詞短語 (be afraid of)，整句表示心理狀態的改變過程，前半為過去，後半為現在習慣",
-        "提示2：注意 used to 無現在式形態，不能寫成 uses to；後半可用 has become used to 或 has gotten used to，兩者皆可但後者更強調漸進"
+        "句型：S + had better not + V（原形），否定形式直接加 not，不需要 do not",
+        "had better 常與後果相連，強調「如果不這樣做會很糟糕」的警告語氣"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "雖然一開始很不適應遠距上課的模式，但經過一個學期，學生們已經習慣了在家線上學習，甚至有人說他們曾經喜歡傳統課堂，但現在更喜歡這種靈活的教學方式。",
-      "answer": "Although students were not used to the distance learning mode at first, after one semester, they have gotten / become used to studying online at home. Some even said they used to prefer traditional classrooms, but now they prefer this flexible teaching style.",
+      "sentence_chi": "年輕人應該為他們的未來著想，並且不應該浪費時間在無意義的事情上。",
+      "answer": "Young people ought to think about their future, and they ought not to waste time on meaningless things.",
       "key_points": [
-        "be not used to + V-ing (初期不適應)",
-        "get/become used to + V-ing (已適應)",
-        "used to + prefer (過去偏好對比)",
-        "複合句結構與時態搭配"
+        "ought to 與 ought not to 並用",
+        "原形動詞 think、waste",
+        "複句結構連接兩個義務陳述"
       ],
       "hints": [
-        "提示1：此句結合三種用法：be not used to (未適應) + get/become used to (逐漸適應) + used to (過去對比)，需清楚區分各時態與含義",
-        "提示2：注意 'not used to' 表示不習慣／不適應某事物（現在狀態），不同於 'used to' 的過去習慣；整句涉及過去、初期、現在多個時間點，應留意時態邏輯（過去式→現在完成式→一般現在式）"
+        "句型：可在並列句中重複使用 S + ought to + V，強調多項責任與期望",
+        "注意：ought not to 的否定較正式，也可用 ought to + not + V，但前者更常見；避免混淆 had better 與 ought to 的語氣差異（前者強烈警告，後者溫和義務）"
       ]
     }
   ]

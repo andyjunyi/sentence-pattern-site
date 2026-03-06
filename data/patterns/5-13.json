@@ -12,7 +12,7 @@
       "zh": "被動語態時 make 後接 to 不定詞"
     }
   ],
-  "explanation": "使役動詞 make、let、have 表示讓或使某人做某事。make 表強制或迫使，後接原形動詞；let 表許可或允許；have 表要求或安排。在被動語態中，make 被動後需加 to V，而 let 和 have 的被動較少使用。注意 make/let/have 後面必須接原形動詞，不能加 -ing 或 to V（make 被動除外）。常見錯誤為混淆使役動詞的主動被動形式。",
+  "explanation": "使役動詞 make、let、have 表示讓或使某人做某事。make 表強制或迫使，後接原形動詞；let 表許可或允許；have 表要求或安排。在被動語態中，make 被動後需加 to V，而 let 和 have 的被動較少使用。注意 make/let/have 後面必須接原形動詞，不能加 -ing 或 to V（make 被動除外）。常見錯誤為混淆使役動詞的主動被動形式。 let 和 have 的被動式仍保持原形動詞，只有 make 被動需改為 be made to V。",
   "examples": [
     {
       "id": 1,
@@ -58,7 +58,7 @@
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "區分三個使役動詞：make 帶強制意義，讓人被迫做；let 帶許可意義，允許某人做；have 帶要求或安排意義。make 被動時必須加 to V（was made to do），但主動時只用原形（made him do）。have 也可接 O + p.p. 表被動意義（have the car repaired）。",
+    "tip": "區分三個使役動詞：make 帶強制意義，讓人被迫做；let 帶許可意義，允許某人做；have 帶要求或安排意義。make 被動時必須加 to V（was made to do），但主動時只用原形（made him do）。have 也可接 O + p.p. 表被動意義（have the car repaired）。\n\nmake被動時必須加to，是最常見錯誤。記住：主動make → 被動be made to。其他動詞let和have的被動式仍保持原形。判斷時先看使役動詞，再觀察後面動詞形式，確認是否為被動語態以決定是否加to。",
     "examples": [
       {
         "test": "The boss made him work overtime. vs The boss let him work overtime.",
@@ -73,7 +73,7 @@
         "result": "→ have + O + p.p. 表被動（請人清理）；have + O + 原形只用於要求人做某事"
       }
     ],
-    "note": "make 强制用 to V 被動、let 許可用原形、have 變通用 p.p. 表被動。"
+    "note": "Make被動加to，Let和Have被動保原形；一個強迫兩個溫和（Let自由，Have委託）。"
   },
   "exercises": [
     {
@@ -146,6 +146,42 @@
         "was made to",
         "被動語態",
         "to V"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "The coach ",
+        null,
+        " the players run ten laps every morning."
+      ],
+      "blanks": [
+        "has"
+      ],
+      "sentence": "The coach has the players run ten laps every morning.",
+      "translation": "教練每天早上讓球員跑十圈。",
+      "keywords": [
+        "have",
+        "委託",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "The cruel king ",
+        null,
+        " the prisoners work in the mines without rest."
+      ],
+      "blanks": [
+        "made"
+      ],
+      "sentence": "The cruel king made the prisoners work in the mines without rest.",
+      "translation": "殘暴的國王強迫囚犯在礦場不停地工作。",
+      "keywords": [
+        "make",
+        "強迫",
+        "原形動詞"
       ]
     }
   ],
@@ -300,6 +336,56 @@
       "answer": "A",
       "explanation": "正確答案是 A（were made）。make 在被動語態中需使用「be made + to V」結構，to work overtime 為不定詞。B（were let）被動形式少見且不自然。C（had made）為主動過去完成式，不符被動語態。D（were having）與 to work overtime 搭配邏輯不通。",
       "id": 4
+    },
+    {
+      "question_chi": "母親允許孩子參加派對。選擇正確的使役動詞及時態。",
+      "question_eng": "The mother _______ her child attend the party last Saturday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "let"
+        },
+        {
+          "key": "B",
+          "text": "made"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "had"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「let」。此句強調母親「允許」孩子參加派對，表示給予自由/許可，should用let。雖然時態是過去，但let的過去式仍為let（不規則動詞）。B的make表強迫不符；C和D的have表委託吩咐不符原意。",
+      "id": 5
+    },
+    {
+      "question_chi": "經理強迫員工加班完成專案。選擇最適當的使役動詞形式。",
+      "question_eng": "The manager _______ the employees work overtime to finish the project.",
+      "options": [
+        {
+          "key": "A",
+          "text": "let"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "made"
+        },
+        {
+          "key": "D",
+          "text": "was made"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「made」。句子強調經理「強迫」員工加班，make表示強制或致使，最符合語境。A的let表允許不符；B的have表委託語氣較溫和；D為被動式且帶to（be made to），改變了主語，不符合此主動結構。",
+      "id": 6
     }
   ],
   "translation_exercises": [
@@ -357,6 +443,34 @@
       "hints": [
         "提示1：make 的被動語態特殊，需要加 to，結構為『be made + to V』，這是唯一加 to 的使役動詞被動",
         "提示2：常見錯誤是寫成『were made attend』或『were made attending』，make 的被動後必須加 to + 原形動詞"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "父母親強迫他每晚做兩小時的功課。",
+      "answer": "His parents made him do two hours of homework every night.",
+      "key_points": [
+        "made + O + V原形",
+        "do homework（做功課）",
+        "every night（時間副詞）"
+      ],
+      "hints": [
+        "提示1：make表示『強迫』，後接原形動詞，注意時態變化（made是過去式）",
+        "提示2：不要寫成『make him to do』，make後絕對不加to（被動式除外）"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "經理讓員工在週末加班，導致他們感到疲憊。",
+      "answer": "The manager had the employees work overtime on weekends, which made them feel exhausted.",
+      "key_points": [
+        "have + O + V原形",
+        "work overtime（加班）",
+        "which引導的結果子句"
+      ],
+      "hints": [
+        "提示1：have表示『委託或吩咐』，正式用法，後接原形動詞；make可用於表示『導致』結果",
+        "提示2：『加班』用work overtime，不是『do overtime』"
       ]
     }
   ]

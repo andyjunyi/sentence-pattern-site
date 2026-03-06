@@ -1,365 +1,362 @@
 {
   "code": "5-27",
   "chapter": 5,
-  "title": "S + need not / don't need to + V",
+  "title": "S + dare (not) + V（dare 的用法）",
   "formulas": [
     {
-      "formula": "S + need not + V (原形)",
-      "zh": "主詞 + 情態動詞 need not + 動詞原形，表示不必做某事"
+      "formula": "S + dare (not) + V",
+      "zh": "主詞 + dare（不）+ 原形動詞（情態動詞用法）"
     },
     {
-      "formula": "S + don't/doesn't need to + V (原形)",
-      "zh": "主詞 + 一般動詞 don't/doesn't need to + 動詞原形，表示不必做某事"
+      "formula": "S + dare (to) V / S + doesn't dare to V",
+      "zh": "主詞 + dare (to) + 動詞 / 主詞 + doesn't dare to + 動詞（一般動詞用法）"
     }
   ],
-  "explanation": "「need not」為情態動詞用法，後接動詞原形，無人稱變化，主要用於正式文體；「don't need to」為一般動詞用法，有人稱變化（I/you/we/they don't need to；he/she/it doesn't need to），更常見於日常口語和現代英文。兩者皆表示「無必要」或「不必」之意。注意：need not 與 must not 意思截然不同，前者表非必要，後者表禁止。過去式為 needed not 或 didn't need to。",
+  "explanation": "dare 可作情態動詞或一般動詞，表達「敢/不敢」之意。情態動詞用法（dare not + 原形）多見於疑問句和否定句，現代英文漸少；一般動詞用法（dare to V）在肯定、否定、疑問句皆可使用，為現代慣用。注意：疑問句常用 dare you...? 表示驚奇或挑戰；否定句用 doesn't dare to V 較為常見。",
   "examples": [
     {
       "id": 1,
-      "eng": "You need not worry about the exam because you've studied hard.",
-      "chi": "你不必擔心考試，因為你已經認真讀書了。",
+      "eng": "He doesn't dare to speak up in front of his boss.",
+      "chi": "他不敢在老闆面前說出來。",
       "keywords": [
-        "need not",
-        "worry about",
-        "不必"
+        "dare",
+        "doesn't dare to",
+        "speak up"
       ]
     },
     {
       "id": 2,
-      "eng": "She doesn't need to take the bus since her father will drive her to school.",
-      "chi": "她不必搭公車，因為她爸爸會開車送她上學。",
+      "eng": "How dare you treat me so rudely?",
+      "chi": "你怎麼敢那樣對待我？",
       "keywords": [
-        "doesn't need to",
-        "bus",
-        "不必"
+        "dare",
+        "how dare",
+        "疑問句"
       ]
     },
     {
       "id": 3,
-      "eng": "We need not attend the meeting if it's not important for our project.",
-      "chi": "如果會議對我們的專案不重要，我們就不必參加。",
+      "eng": "The young athlete dared to challenge the champion.",
+      "chi": "年輕運動員敢於挑戰冠軍。",
       "keywords": [
-        "need not",
-        "attend",
-        "不必"
+        "dare to",
+        "dared",
+        "challenge"
       ]
     },
     {
       "id": 4,
-      "eng": "The students don't need to submit their homework on Friday afternoon.",
-      "chi": "學生們不必在星期五下午提交作業。",
+      "eng": "I dare say that most students find this exam difficult.",
+      "chi": "我敢說大多數學生覺得這場考試很難。",
       "keywords": [
-        "don't need to",
-        "submit",
-        "homework",
-        "不必"
+        "dare say",
+        "習慣用語",
+        "表達意見"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷使用時：need not 較正式、文學性強，常見於書面英文或正式場合；don't need to 更口語化、現代，日常溝通更常見。若強調「被禁止」要用 must not；若強調「不必但可以做」用 need not/don't need to。",
+    "tip": "判斷時機：dare not（情態）多用於文學或正式文體、疑問句；doesn't dare to（一般動詞）為現代日常用語。常見錯誤：混淆 dare not 與 doesn't dare to 的語境，或遺漏 to；記住疑問句 \"How dare you...?\" 為固定驚嘆句型。",
     "examples": [
       {
-        "test": "You need not come early. vs. You must not come early.",
-        "result": "→ 前者：不必提早來（可提早也可不提早）；後者：禁止提早來（不能提早）"
+        "test": "He dare not refuse.",
+        "result": "→ 正式/文學用法（情態動詞），現代改為 He doesn't dare to refuse."
       },
       {
-        "test": "He doesn't need to call her vs. He needs not to call her.",
-        "result": "→ 正確：doesn't need to；錯誤：need 為情態時不加 to，一般動詞才加 to"
+        "test": "How dare you lie to me?",
+        "result": "→ 固定疑問句，表驚奇或責備，不可改為陳述句用法"
       },
       {
-        "test": "We don't need to bring gifts. (現在) vs. We didn't need to bring gifts. (過去)",
-        "result": "→ 過去式用 didn't need to，need not 通常只用現在式，少用過去"
+        "test": "I dare to try this new sport.",
+        "result": "→ 一般動詞用法，可用於肯定句，亦可作 I dare say（我敢說）"
       }
     ],
-    "note": "情態 need not 無人稱變化，一般 don't/doesn't need to 有人稱變化——這是兩種用法的核心區別。"
+    "note": "dare not 為文學，doesn't dare to 為現代；How dare you 為驚奇；I dare say 為表達意見慣用語。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "You ",
+        "The student ",
         null,
-        " answer all the questions on the test.",
-        " Just focus on the main ones."
+        " ask the teacher a difficult question."
       ],
       "blanks": [
-        "need not / don't need to"
+        "doesn't dare to"
       ],
-      "sentence": "You need not answer all the questions on the test. Just focus on the main ones.",
-      "translation": "你不必回答考試上的所有題目。只需要專注於主要的題目。",
+      "sentence": "The student doesn't dare to ask the teacher a difficult question.",
+      "translation": "這名學生不敢向老師問一個困難的問題。",
       "keywords": [
-        "need not",
-        "don't need to",
-        "不必"
+        "doesn't dare to",
+        "一般動詞",
+        "否定句"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "My students ",
+        "",
         null,
-        " finish their projects by next week.",
-        " We have more time."
+        " you speak to your parents like that?"
       ],
       "blanks": [
-        "don't need to"
+        "How dare"
       ],
-      "sentence": "My students don't need to finish their projects by next week. We have more time.",
-      "translation": "我的學生不必在下週完成他們的專案。我們還有更多時間。",
+      "sentence": "How dare you speak to your parents like that?",
+      "translation": "你怎麼敢那樣對父母講話？",
       "keywords": [
-        "don't need to",
-        "finish",
-        "不必"
+        "How dare",
+        "疑問句",
+        "驚奇"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "If you have a car, you ",
+        "She ",
         null,
-        " take the subway anymore."
+        " explore the unknown forest yesterday."
       ],
       "blanks": [
-        "don't need to"
+        "dared to"
       ],
-      "sentence": "If you have a car, you don't need to take the subway anymore.",
-      "translation": "如果你有車，你就不必再搭地鐵了。",
+      "sentence": "She dared to explore the unknown forest yesterday.",
+      "translation": "她昨天敢於去探索那個陌生的森林。",
       "keywords": [
-        "don't need to",
-        "take",
-        "不必"
+        "dared to",
+        "過去式",
+        "肯定句"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "We ",
+        "I ",
         null,
-        " remind him again because he already knows the deadline."
+        " say that this is the best movie I've ever seen."
       ],
       "blanks": [
-        "need not / don't need to"
+        "dare"
       ],
-      "sentence": "We need not remind him again because he already knows the deadline.",
-      "translation": "我們不必再次提醒他，因為他已經知道截止期限了。",
+      "sentence": "I dare say that this is the best movie I've ever seen.",
+      "translation": "我敢說這是我看過最好的電影。",
       "keywords": [
-        "need not",
-        "remind",
-        "不必"
+        "dare say",
+        "固定搭配",
+        "表達意見"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "worry",
-      "zh": "擔心"
+      "adj": "dare (not)",
+      "zh": "敢（不敢）"
     },
     {
-      "adj": "hurry",
-      "zh": "趕快"
+      "adj": "dare to",
+      "zh": "敢於"
     },
     {
-      "adj": "attend",
-      "zh": "參加"
+      "adj": "doesn't dare to",
+      "zh": "不敢"
     },
     {
-      "adj": "prepare",
-      "zh": "準備"
+      "adj": "How dare",
+      "zh": "你怎麼敢（驚奇/責備）"
     },
     {
-      "adj": "wait",
-      "zh": "等待"
+      "adj": "I dare say",
+      "zh": "我敢說（慣用語）"
     },
     {
-      "adj": "apply",
-      "zh": "申請"
+      "adj": "bold",
+      "zh": "大膽的"
     },
     {
-      "adj": "bring",
-      "zh": "帶來"
+      "adj": "courageous",
+      "zh": "勇敢的"
     },
     {
-      "adj": "call",
-      "zh": "撥打電話"
+      "adj": "timid",
+      "zh": "膽小的"
     },
     {
-      "adj": "explain",
-      "zh": "解釋"
+      "adj": "nervous",
+      "zh": "緊張的"
     },
     {
-      "adj": "book",
-      "zh": "預訂"
+      "adj": "challenge",
+      "zh": "挑戰"
     },
     {
-      "adj": "arrive early",
-      "zh": "提早到達"
+      "adj": "risk",
+      "zh": "冒險"
     },
     {
-      "adj": "repeat",
-      "zh": "重複"
+      "adj": "afraid",
+      "zh": "害怕的"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "dare 的常見用法",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的情態動詞形式填空，表示「無必要」",
-      "question_eng": "You _______ bring an umbrella today because the weather forecast says it will be sunny.",
+      "question_chi": "補充適當的動詞形式，表達「他不敢向老闆說話」",
+      "question_eng": "He _______ speak up in front of his boss.",
       "options": [
         {
           "key": "A",
-          "text": "need not"
+          "text": "doesn't dare to"
         },
         {
           "key": "B",
-          "text": "must not"
+          "text": "dare not"
         },
         {
           "key": "C",
-          "text": "should not"
+          "text": "doesn't dare"
         },
         {
           "key": "D",
-          "text": "cannot"
+          "text": "dares not to"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A「need not」。本句表示「無必要帶傘」，need not 表非必要性。B 項 must not 表禁止，意思相反；C 項 should not 表不應該；D 項 cannot 表不能。只有 A 符合文意。",
+      "explanation": "正確答案是 A。否定句中，dare 作一般動詞時用「doesn't dare to + V」，為現代英文標準用法。B 項「dare not」是情態動詞用法，多見於疑問或文言句；C 項缺少不定詞 to；D 項「dares not to」為錯誤組合，情態動詞不加 to。",
       "id": 1
     },
     {
-      "question_chi": "根據人稱代詞選擇正確的動詞形式表達無必要",
-      "question_eng": "She _______ attend the morning meeting since her boss approved her late arrival.",
+      "question_chi": "選擇適當形式填空，表達驚奇或挑戰的語氣",
+      "question_eng": "_______ you speak to me in that tone of voice!",
       "options": [
         {
           "key": "A",
-          "text": "don't need to"
+          "text": "You dare"
         },
         {
           "key": "B",
-          "text": "doesn't need to"
+          "text": "How dare"
         },
         {
           "key": "C",
-          "text": "need not to"
+          "text": "Dare you"
         },
         {
           "key": "D",
-          "text": "not need to"
+          "text": "Don't you dare"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B「doesn't need to」。主語 she 為第三人稱單數，使用一般動詞 don't/doesn't need to 時需加 s。A 項人稱不符；C 項 need not to 文法錯誤，need not 後不接 to；D 項否定形式錯誤，應置於 do/does 後。",
+      "explanation": "正確答案是 B。「How dare you...?」是固定表達，用於表達強烈的驚奇、憤怒或指責，構成反問句。A 項語序不對；C 項是簡單疑問，語氣不符；D 項為警告/命令，不是表達驚奇。",
       "id": 2
     },
     {
-      "question_chi": "在正式書信中選擇適當的情態動詞表示非必要",
-      "question_eng": "Applicants _______ submit additional documents if they have already provided all required materials.",
+      "question_chi": "根據上下文選擇合適選項，表達「她敢嘗試新事物」",
+      "question_eng": "Although she was nervous, she _______ try the new challenge.",
       "options": [
         {
           "key": "A",
-          "text": "don't need to"
+          "text": "dared to"
         },
         {
           "key": "B",
-          "text": "need not"
+          "text": "dare to"
         },
         {
           "key": "C",
-          "text": "must not"
+          "text": "dares to"
         },
         {
           "key": "D",
-          "text": "are not needed to"
+          "text": "dared not"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B「need not」。此為正式書信或官方文體，適合使用 need not（情態動詞）表示「無必要」。A 項雖正確但較口語；C 項 must not 表禁止意思錯誤；D 項被動語態結構不當，且 be needed to 不是標準用法。",
+      "answer": "A",
+      "explanation": "正確答案是 A。句子時態為過去式（was nervous），需用「dared to」表過去的勇氣或決定。B 項時態與上下文不符；C 項為現在式；D 項意思相反，表「不敢」。",
       "id": 3
     },
     {
-      "question_chi": "綜合判斷語境選擇適當形式，且正確表達否定意思",
-      "question_eng": "The students _______ complete the optional assignment, but those who wish to improve their grades _______ do so.",
+      "question_chi": "辨析 dare 的情態與一般動詞用法，選擇最自然的表達",
+      "question_eng": "In the formal interrogation, the witness _______ deny the evidence presented by the prosecution, and the judge seemed impressed by his honesty.",
       "options": [
         {
           "key": "A",
-          "text": "need not; must"
+          "text": "dared not"
         },
         {
           "key": "B",
-          "text": "don't need to; can"
+          "text": "didn't dare to"
         },
         {
           "key": "C",
-          "text": "must not; may"
+          "text": "dare not"
         },
         {
           "key": "D",
-          "text": "don't need to; must not"
+          "text": "dares not to"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B「don't need to; can」。第一空表示「不必完成」用 don't need to；第二空表示「可以做」用 can（表示允許）。A 項後半搭配不當；C 項 must not 表禁止，與文意不符；D 項後半 must not 表禁止，邏輯錯誤，應表許可。",
+      "explanation": "正確答案是 B。現代英文中，否定句用「didn't dare to + V」最為常見自然。A 項「dared not」為舊式情態動詞用法，在現代英文中罕見；C 項缺時態；D 項結構錯誤。根據上下文判斷需用過去式，B 項最符合現代英文習慣。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "你不必為明天的小考太擔心。",
-      "answer": "You don't need to worry too much about tomorrow's quiz.",
+      "sentence_chi": "他不敢在課堂上舉手發言。",
+      "answer": "He doesn't dare to raise his hand and speak in class.",
       "key_points": [
-        "don't need to + worry",
-        "too much 修飾程度",
-        "about + 事物"
+        "doesn't dare to + V",
+        "raise one's hand",
+        "in class"
       ],
       "hints": [
-        "提示1：主詞是 you，用 don't need to（一般動詞用法），後接動詞原形 worry",
-        "提示2：易錯點─勿用 must not worry（禁止）替代，兩者意思完全不同"
+        "提示1：否定句用『doesn't dare to + 原形動詞』，為現代慣用法",
+        "提示2：注意 dare not 已少用；『raise one's hand』是舉手的正確搭配"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "他不必參加這個補習班，因為他的成績已經很好了。",
-      "answer": "He doesn't need to attend this cram school because his grades are already very good.",
+      "sentence_chi": "你敢在朋友面前承認自己的錯誤嗎？",
+      "answer": "Do you dare to admit your mistake in front of your friends?",
       "key_points": [
-        "doesn't need to + attend",
-        "人稱變化（he/she/it）",
-        "because 引導原因子句"
+        "Do you dare to + V?",
+        "admit one's mistake",
+        "in front of"
       ],
       "hints": [
-        "提示1：主詞是 he，用 doesn't need to（第三人稱單數），後接原形動詞 attend",
-        "提示2：注意人稱變化─he/she/it 用 doesn't；I/you/we/they 用 don't"
+        "提示1：疑問句用『Do you dare to + 原形動詞』，表示驚奇或挑戰",
+        "提示2：避免用『Dare you...?』（情態動詞用法已過時）；『admit one's mistake』是認錯的常用表達"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "由於學校已經提供午餐，學生們不必自己帶便當。",
-      "answer": "Since the school has already provided lunch, students don't need to bring their own lunch boxes.",
+      "sentence_chi": "儘管感到害怕，她還是敢獨自走進黑暗的房間。",
+      "answer": "Despite her fear, she dares to enter the dark room alone.",
       "key_points": [
-        "don't need to + bring",
-        "Since 引導原因",
-        "own 強調所有權或自備"
+        "dare to + V（肯定句）",
+        "despite + noun",
+        "enter...alone"
       ],
       "hints": [
-        "提示1：句型為 S + don't need to + V，此處 students 為複數，用 don't；若改為 'a student' 須用 doesn't",
-        "提示2：易錯點─need not 屬正式文體常用於書面語，日常口語多用 don't need to"
+        "提示1：肯定句用『S + dare to + 原形動詞』表示有勇氣做某事",
+        "提示2：注意『Despite her fear』作開頭副詞片語，強調對比；『enter the dark room alone』須完整表達行為與方式"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "這份報告不必包含所有細節，只要涵蓋主要重點就足夠了。",
-      "answer": "This report doesn't need to include all the details; it is sufficient as long as it covers the main points.",
+      "sentence_chi": "沒有人敢挑戰班上最聰明的同學回答這道難題。",
+      "answer": "No one dares to challenge the smartest student in the class to answer this difficult question.",
       "key_points": [
-        "doesn't need to + include",
-        "all the details 賓語",
-        "as long as 條件連接詞"
+        "No one dares to + V",
+        "challenge sb. to do sth.",
+        "the smartest student"
       ],
       "hints": [
-        "提示1：主詞 report 為第三人稱單數，用 doesn't need to；後接原形動詞 include",
-        "提示2：易錯點─勿混淆 'need not / don't need to'（非必要）與 'must not'（禁止）；此句若用 'must not' 會變成『禁止包含』，意思相反"
+        "提示1：『No one』作主詞時，後用『dares to + 原形動詞』；若改為『Nobody dares to』亦可",
+        "提示2：『challenge sb. to do sth.』是『挑戰某人做某事』的正確結構，勿誤用為『challenge to do』"
       ]
     }
   ]

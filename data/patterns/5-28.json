@@ -1,115 +1,114 @@
 {
   "code": "5-28",
   "chapter": 5,
-  "title": "S + dare (not) + V（dare 的用法）",
+  "title": "S + be supposed to + V",
   "formulas": [
     {
-      "formula": "S + dare (not) + V",
-      "zh": "主詞 + dare（不）+ 原形動詞（情態動詞用法）"
+      "formula": "S + be supposed to + V",
+      "zh": "某人應該做某事；某事理應發生"
     },
     {
-      "formula": "S + dare (to) V / S + doesn't dare to V",
-      "zh": "主詞 + dare (to) + 動詞 / 主詞 + doesn't dare to + 動詞（一般動詞用法）"
+      "formula": "S + was/were supposed to + V",
+      "zh": "某人本應做某事（但實際未做）"
     }
   ],
-  "explanation": "dare 可作情態動詞或一般動詞，表達「敢/不敢」之意。情態動詞用法（dare not + 原形）多見於疑問句和否定句，現代英文漸少；一般動詞用法（dare to V）在肯定、否定、疑問句皆可使用，為現代慣用。注意：疑問句常用 dare you...? 表示驚奇或挑戰；否定句用 doesn't dare to V 較為常見。",
+  "explanation": "be supposed to 表達義務、期望或推測，含「應該」之意，暗示存在預期或規範。現在式表示目前應該做的事；過去式 was/were supposed to 則表達「本應但未能」的遺憾感，通常暗示該行動未完成或未達成。此句型常見於日常交流、規則說明及事實敘述中，與 should 相似但語氣略顯正式。",
   "examples": [
     {
       "id": 1,
-      "eng": "He doesn't dare to speak up in front of his boss.",
-      "chi": "他不敢在老闆面前說出來。",
+      "eng": "You are supposed to submit your homework by Friday.",
+      "chi": "你應該在星期五之前提交你的功課。",
       "keywords": [
-        "dare",
-        "doesn't dare to",
-        "speak up"
+        "be supposed to",
+        "義務",
+        "期限"
       ]
     },
     {
       "id": 2,
-      "eng": "How dare you treat me so rudely?",
-      "chi": "你怎麼敢那樣對待我？",
+      "eng": "The meeting was supposed to start at 9 AM, but it was delayed.",
+      "chi": "會議原本應該在上午9點開始，但被延遲了。",
       "keywords": [
-        "dare",
-        "how dare",
-        "疑問句"
+        "was supposed to",
+        "本應",
+        "延遲"
       ]
     },
     {
       "id": 3,
-      "eng": "The young athlete dared to challenge the champion.",
-      "chi": "年輕運動員敢於挑戰冠軍。",
+      "eng": "Students are supposed to follow the school regulations.",
+      "chi": "學生應該遵守學校規定。",
       "keywords": [
-        "dare to",
-        "dared",
-        "challenge"
+        "be supposed to",
+        "規範",
+        "遵守"
       ]
     },
     {
       "id": 4,
-      "eng": "I dare say that most students find this exam difficult.",
-      "chi": "我敢說大多數學生覺得這場考試很難。",
+      "eng": "He was supposed to arrive yesterday, but his flight was cancelled.",
+      "chi": "他本應昨天到達，但他的班機被取消了。",
       "keywords": [
-        "dare say",
-        "習慣用語",
-        "表達意見"
+        "was supposed to",
+        "計畫改變",
+        "意外"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷時機：dare not（情態）多用於文學或正式文體、疑問句；doesn't dare to（一般動詞）為現代日常用語。常見錯誤：混淆 dare not 與 doesn't dare to 的語境，或遺漏 to；記住疑問句 \"How dare you...?\" 為固定驚嘆句型。",
+    "tip": "be supposed to 帶有未達成或期望落空的隱含意義，尤其在過去式；should 則較為直接的建議或義務。在陳述規則、計畫或期望時優先使用 be supposed to，比 should 更正式、更具約束力。注意與 be expected to 的區別：前者強調應該/規範，後者強調期望。",
     "examples": [
       {
-        "test": "He dare not refuse.",
-        "result": "→ 正式/文學用法（情態動詞），現代改為 He doesn't dare to refuse."
+        "test": "He should finish the project by next week. vs. He is supposed to finish the project by next week.",
+        "result": "→ 前者為建議，後者為明確義務或規範；後者更正式、更具約束力"
       },
       {
-        "test": "How dare you lie to me?",
-        "result": "→ 固定疑問句，表驚奇或責備，不可改為陳述句用法"
+        "test": "You were supposed to call me yesterday. vs. You should have called me yesterday.",
+        "result": "→ 前者暗示有既定計畫未完成，後者則為後悔的建議；前者實際性更強"
       },
       {
-        "test": "I dare to try this new sport.",
-        "result": "→ 一般動詞用法，可用於肯定句，亦可作 I dare say（我敢說）"
+        "test": "The package is supposed to arrive tomorrow. vs. The package should arrive tomorrow.",
+        "result": "→ 前者指預期/計畫狀態，後者指邏輯推測；前者更確定"
       }
     ],
-    "note": "dare not 為文學，doesn't dare to 為現代；How dare you 為驚奇；I dare say 為表達意見慣用語。"
+    "note": "現在式是「應該現在做」，過去式是「本應當時做但沒做」——時態決定是否含遺憾感。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The student ",
+        "Students ",
         null,
-        " ask the teacher a difficult question."
+        " arrive at school before 8 AM."
       ],
       "blanks": [
-        "doesn't dare to"
+        "are supposed to"
       ],
-      "sentence": "The student doesn't dare to ask the teacher a difficult question.",
-      "translation": "這名學生不敢向老師問一個困難的問題。",
+      "sentence": "Students are supposed to arrive at school before 8 AM.",
+      "translation": "學生應該在上午8點前到校。",
       "keywords": [
-        "doesn't dare to",
-        "一般動詞",
-        "否定句"
+        "be supposed to",
+        "學校規定"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "",
+        "The project ",
         null,
-        " you speak to your parents like that?"
+        " complete by the end of this month."
       ],
       "blanks": [
-        "How dare"
+        "is supposed to be"
       ],
-      "sentence": "How dare you speak to your parents like that?",
-      "translation": "你怎麼敢那樣對父母講話？",
+      "sentence": "The project is supposed to be complete by the end of this month.",
+      "translation": "該專案應該在本月底前完成。",
       "keywords": [
-        "How dare",
-        "疑問句",
-        "驚奇"
+        "be supposed to",
+        "被動語態",
+        "期限"
       ]
     },
     {
@@ -117,246 +116,246 @@
       "parts": [
         "She ",
         null,
-        " explore the unknown forest yesterday."
+        " attend the conference, but she got sick."
       ],
       "blanks": [
-        "dared to"
+        "was supposed to"
       ],
-      "sentence": "She dared to explore the unknown forest yesterday.",
-      "translation": "她昨天敢於去探索那個陌生的森林。",
+      "sentence": "She was supposed to attend the conference, but she got sick.",
+      "translation": "她本應參加會議，但她生病了。",
       "keywords": [
-        "dared to",
-        "過去式",
-        "肯定句"
+        "was supposed to",
+        "計畫改變",
+        "意外事件"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "I ",
+        "We ",
         null,
-        " say that this is the best movie I've ever seen."
+        " know the truth about what happened last year."
       ],
       "blanks": [
-        "dare"
+        "are supposed to"
       ],
-      "sentence": "I dare say that this is the best movie I've ever seen.",
-      "translation": "我敢說這是我看過最好的電影。",
+      "sentence": "We are supposed to know the truth about what happened last year.",
+      "translation": "我們應該知道去年發生的事情的真相。",
       "keywords": [
-        "dare say",
-        "固定搭配",
-        "表達意見"
+        "be supposed to",
+        "推測",
+        "事實"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "dare (not)",
-      "zh": "敢（不敢）"
+      "adj": "on time",
+      "zh": "準時"
     },
     {
-      "adj": "dare to",
-      "zh": "敢於"
+      "adj": "on schedule",
+      "zh": "按時間表"
     },
     {
-      "adj": "doesn't dare to",
-      "zh": "不敢"
+      "adj": "in advance",
+      "zh": "提前"
     },
     {
-      "adj": "How dare",
-      "zh": "你怎麼敢（驚奇/責備）"
+      "adj": "immediately",
+      "zh": "立即"
     },
     {
-      "adj": "I dare say",
-      "zh": "我敢說（慣用語）"
+      "adj": "carefully",
+      "zh": "小心地"
     },
     {
-      "adj": "bold",
-      "zh": "大膽的"
+      "adj": "properly",
+      "zh": "適當地"
     },
     {
-      "adj": "courageous",
-      "zh": "勇敢的"
+      "adj": "together",
+      "zh": "一起"
     },
     {
-      "adj": "timid",
-      "zh": "膽小的"
+      "adj": "alone",
+      "zh": "獨自"
     },
     {
-      "adj": "nervous",
-      "zh": "緊張的"
+      "adj": "responsible",
+      "zh": "負責任的"
     },
     {
-      "adj": "challenge",
-      "zh": "挑戰"
+      "adj": "obligated",
+      "zh": "有義務的"
     },
     {
-      "adj": "risk",
-      "zh": "冒險"
+      "adj": "required",
+      "zh": "被要求的"
     },
     {
-      "adj": "afraid",
-      "zh": "害怕的"
+      "adj": "expected",
+      "zh": "被期望的"
     }
   ],
-  "vocab_table_label": "dare 的常見用法",
+  "vocab_table_label": "常用副詞片語",
   "mc_exercises": [
     {
-      "question_chi": "補充適當的動詞形式，表達「他不敢向老闆說話」",
-      "question_eng": "He _______ speak up in front of his boss.",
+      "question_chi": "描述學生應該完成的作業截止日期",
+      "question_eng": "You _______ to submit your homework by Friday.",
       "options": [
         {
           "key": "A",
-          "text": "doesn't dare to"
+          "text": "are supposed"
         },
         {
           "key": "B",
-          "text": "dare not"
+          "text": "are suppose"
         },
         {
           "key": "C",
-          "text": "doesn't dare"
+          "text": "suppose to be"
         },
         {
           "key": "D",
-          "text": "dares not to"
+          "text": "are supposing"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。否定句中，dare 作一般動詞時用「doesn't dare to + V」，為現代英文標準用法。B 項「dare not」是情態動詞用法，多見於疑問或文言句；C 項缺少不定詞 to；D 項「dares not to」為錯誤組合，情態動詞不加 to。",
+      "explanation": "正確答案是 A「are supposed」。be supposed to 為固定片語，表示「應該」的義務。選項 B 缺少過去分詞 supposed，文法錯誤。選項 C 改變了片語結構，意思不符。選項 D supposing 為現在分詞，無法搭配 are 形成此句型。",
       "id": 1
     },
     {
-      "question_chi": "選擇適當形式填空，表達驚奇或挑戰的語氣",
-      "question_eng": "_______ you speak to me in that tone of voice!",
+      "question_chi": "說明會議本應但未能準時開始的情況",
+      "question_eng": "The meeting _______ to start at 9 AM, but it was delayed by an hour.",
       "options": [
         {
           "key": "A",
-          "text": "You dare"
+          "text": "was supposed"
         },
         {
           "key": "B",
-          "text": "How dare"
+          "text": "is supposed"
         },
         {
           "key": "C",
-          "text": "Dare you"
+          "text": "has been supposed"
         },
         {
           "key": "D",
-          "text": "Don't you dare"
-        }
-      ],
-      "answer": "B",
-      "explanation": "正確答案是 B。「How dare you...?」是固定表達，用於表達強烈的驚奇、憤怒或指責，構成反問句。A 項語序不對；C 項是簡單疑問，語氣不符；D 項為警告/命令，不是表達驚奇。",
-      "id": 2
-    },
-    {
-      "question_chi": "根據上下文選擇合適選項，表達「她敢嘗試新事物」",
-      "question_eng": "Although she was nervous, she _______ try the new challenge.",
-      "options": [
-        {
-          "key": "A",
-          "text": "dared to"
-        },
-        {
-          "key": "B",
-          "text": "dare to"
-        },
-        {
-          "key": "C",
-          "text": "dares to"
-        },
-        {
-          "key": "D",
-          "text": "dared not"
+          "text": "would be supposed"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。句子時態為過去式（was nervous），需用「dared to」表過去的勇氣或決定。B 項時態與上下文不符；C 項為現在式；D 項意思相反，表「不敢」。",
-      "id": 3
+      "explanation": "正確答案是 A「was supposed」。過去式 was supposed to 表示「本應但未能」的遺憾感，搭配後文「延遲」的事實。選項 B 現在式不符合已發生的過去事件。選項 C 現在完成式與後文過去時態不搭配。選項 D would be 帶有假設意味，不適合陳述事實。",
+      "id": 2
     },
     {
-      "question_chi": "辨析 dare 的情態與一般動詞用法，選擇最自然的表達",
-      "question_eng": "In the formal interrogation, the witness _______ deny the evidence presented by the prosecution, and the judge seemed impressed by his honesty.",
+      "question_chi": "表達對某人應該知道某事的期望",
+      "question_eng": "As a professional accountant, you _______ to be familiar with the latest tax regulations.",
       "options": [
         {
           "key": "A",
-          "text": "dared not"
+          "text": "are expected"
         },
         {
           "key": "B",
-          "text": "didn't dare to"
+          "text": "are supposed"
         },
         {
           "key": "C",
-          "text": "dare not"
+          "text": "should be"
         },
         {
           "key": "D",
-          "text": "dares not to"
+          "text": "ought to be"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B。現代英文中，否定句用「didn't dare to + V」最為常見自然。A 項「dared not」為舊式情態動詞用法，在現代英文中罕見；C 項缺時態；D 項結構錯誤。根據上下文判斷需用過去式，B 項最符合現代英文習慣。",
+      "explanation": "正確答案是 B「are supposed」。be supposed to 表達基於職業角色的期望和規範。選項 A expect 意思相近但搭配不同，通常用「be expected to」。選項 C D 雖文法正確，但題目強調規範性期望時，be supposed to 最恰當，語氣更正式。",
+      "id": 3
+    },
+    {
+      "question_chi": "推測過去應該發生但未確認的事件",
+      "question_eng": "According to the itinerary, they _______ to have arrived in Tokyo by yesterday evening, yet we haven't heard from them.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were supposed"
+        },
+        {
+          "key": "B",
+          "text": "were supposing"
+        },
+        {
+          "key": "C",
+          "text": "had supposed"
+        },
+        {
+          "key": "D",
+          "text": "are being supposed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「were supposed」。be supposed to + have + 過去分詞表示「本應已完成但未確認」的推測。選項 B supposing 為現在分詞，無法表達此意。選項 C had supposed 為過去完成式但非 be supposed to 結構。選項 D 進行式不適合此語境，且文意不符。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "他不敢在課堂上舉手發言。",
-      "answer": "He doesn't dare to raise his hand and speak in class.",
+      "sentence_chi": "學生應該準時到校。",
+      "answer": "Students are supposed to arrive at school on time.",
       "key_points": [
-        "doesn't dare to + V",
-        "raise one's hand",
-        "in class"
+        "be supposed to",
+        "arrive at school",
+        "on time"
       ],
       "hints": [
-        "提示1：否定句用『doesn't dare to + 原形動詞』，為現代慣用法",
-        "提示2：注意 dare not 已少用；『raise one's hand』是舉手的正確搭配"
+        "提示1：現在式 be supposed to 表示目前應該做的事",
+        "提示2：注意 arrive at（到達地點）的搭配，不可用 go to"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "你敢在朋友面前承認自己的錯誤嗎？",
-      "answer": "Do you dare to admit your mistake in front of your friends?",
+      "sentence_chi": "你本來應該昨天完成這份作業的。",
+      "answer": "You were supposed to finish this homework yesterday.",
       "key_points": [
-        "Do you dare to + V?",
-        "admit one's mistake",
-        "in front of"
+        "were supposed to",
+        "過去式暗示未完成",
+        "yesterday"
       ],
       "hints": [
-        "提示1：疑問句用『Do you dare to + 原形動詞』，表示驚奇或挑戰",
-        "提示2：避免用『Dare you...?』（情態動詞用法已過時）；『admit one's mistake』是認錯的常用表達"
+        "提示1：過去式 was/were supposed to 表達『本應但未能』的遺憾感",
+        "提示2：過去式用於描述昨天的預期行動，暗示該作業可能未完成"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "儘管感到害怕，她還是敢獨自走進黑暗的房間。",
-      "answer": "Despite her fear, she dares to enter the dark room alone.",
+      "sentence_chi": "根據天氣預報，明天應該會下雨，所以我們不應該去登山。",
+      "answer": "According to the weather forecast, it is supposed to rain tomorrow, so we are not supposed to go hiking.",
       "key_points": [
-        "dare to + V（肯定句）",
-        "despite + noun",
-        "enter...alone"
+        "is supposed to rain",
+        "天氣推測用法",
+        "are not supposed to（否定形式）"
       ],
       "hints": [
-        "提示1：肯定句用『S + dare to + 原形動詞』表示有勇氣做某事",
-        "提示2：注意『Despite her fear』作開頭副詞片語，強調對比；『enter the dark room alone』須完整表達行為與方式"
+        "提示1：be supposed to 除表義務外，也可用於推測或預期情況",
+        "提示2：注意否定形式為 be not supposed to，表示『不應該』或『不該』"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "沒有人敢挑戰班上最聰明的同學回答這道難題。",
-      "answer": "No one dares to challenge the smartest student in the class to answer this difficult question.",
+      "sentence_chi": "醫生告訴他應該每天運動至少三十分鐘，但他上週本應遵守這個建議卻沒有做到。",
+      "answer": "The doctor told him he is supposed to exercise for at least thirty minutes every day, but he was supposed to follow this advice last week but didn't.",
       "key_points": [
-        "No one dares to + V",
-        "challenge sb. to do sth.",
-        "the smartest student"
+        "is supposed to exercise",
+        "過去式 was supposed to 搭配but didn't",
+        "時態轉換"
       ],
       "hints": [
-        "提示1：『No one』作主詞時，後用『dares to + 原形動詞』；若改為『Nobody dares to』亦可",
-        "提示2：『challenge sb. to do sth.』是『挑戰某人做某事』的正確結構，勿誤用為『challenge to do』"
+        "提示1：同一句子中結合現在式（一般規則）與過去式（未達成的期望）",
+        "提示2：『but didn't』強化過去式『本應但未能』的遺憾感，避免單用過去式造成歧義"
       ]
     }
   ]

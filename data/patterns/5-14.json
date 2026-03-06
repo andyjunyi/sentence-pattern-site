@@ -1,362 +1,378 @@
 {
   "code": "5-14",
   "chapter": 5,
-  "title": "S + make/let/have + O + V原形（使役動詞）",
+  "title": "S + get/cause + O + to V（使役動詞）",
   "formulas": [
     {
-      "formula": "make/let/have + O + 原形V",
-      "zh": "使役動詞後接受詞加原形動詞，表強迫、允許或委託"
+      "formula": "get + O + to V",
+      "zh": "使役某人做某事（較口語、費力感）"
     },
     {
-      "formula": "be made + to V（make的被動式）",
-      "zh": "make被動時需改為to V，其他兩個動詞被動式仍為原形V"
+      "formula": "cause + O + to V",
+      "zh": "導致某人/物做某事（較正式、客觀因果）"
     }
   ],
-  "explanation": "使役動詞用於表示讓他人執行某動作。make表強迫或致使（帶有強制性），let表允許或准許（表自由），have表委託或吩咐（較正式）。三者後均接原形動詞。注意：make改為被動式時必須加to成為be made to V，但let和have的被動式仍保持原形。此為學測常考重點，易與被動語態混淆。",
+  "explanation": "get 和 cause 都是使役動詞，後接受詞加不定詞。get 強調透過說服、勸導等努力使他人做事，帶有口語色彩；cause 表達客觀的因果關係，較正式。兩者皆須接 to V（不同於 make/have 接原形動詞）。注意受詞必須是人或有行為能力的對象，to V 前不可省略 to，否則違反句型規則。",
   "examples": [
     {
       "id": 1,
-      "eng": "The teacher made the students rewrite their essays more carefully.",
-      "chi": "老師強迫學生更仔細地重寫他們的文章。",
+      "eng": "I couldn't get my friend to believe my incredible story about the accident.",
+      "chi": "我無法讓我的朋友相信我關於這場事故的不可思議故事。",
       "keywords": [
-        "make",
-        "強迫",
-        "原形動詞"
+        "get",
+        "to believe",
+        "使役"
       ]
     },
     {
       "id": 2,
-      "eng": "Her parents let her attend the concert last weekend.",
-      "chi": "她的父母允許她上周末參加音樂會。",
+      "eng": "The heavy rain caused the baseball game to be postponed until next week.",
+      "chi": "大雨導致棒球比賽被延期到下週。",
       "keywords": [
-        "let",
-        "允許",
-        "原形動詞"
+        "cause",
+        "to be postponed",
+        "因果關係"
       ]
     },
     {
       "id": 3,
-      "eng": "I had my mechanic repair my car before the trip.",
-      "chi": "我委託機修工在出遊前修理我的車。",
+      "eng": "What finally got him to make a decision after months of hesitation?",
+      "chi": "經過數月的猶豫後，是什麼終於促使他做出決定？",
       "keywords": [
-        "have",
-        "委託",
-        "原形動詞"
+        "get",
+        "to make",
+        "說服效果"
       ]
     },
     {
       "id": 4,
-      "eng": "The strict coach was made to apologize for his harsh words to the team.",
-      "chi": "那位嚴格的教練被迫為對球隊的刺耳言語道歉。",
+      "eng": "The new policy caused many employees to reconsider their career paths.",
+      "chi": "新政策導致許多員工重新思考他們的職業道路。",
       "keywords": [
-        "be made to",
-        "被動式",
-        "to V"
+        "cause",
+        "to reconsider",
+        "結果狀態"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "make被動時必須加to，是最常見錯誤。記住：主動make → 被動be made to。其他動詞let和have的被動式仍保持原形。判斷時先看使役動詞，再觀察後面動詞形式，確認是否為被動語態以決定是否加to。",
+    "tip": "get 與 cause 的關鍵區別：get 常指「通過勸說、努力或技巧」使人做事，帶有主觀意圖；cause 指「客觀原因」導致結果發生，通常不含意圖。另外，make 和 have 後接原形動詞（V），不能加 to，這是最常見的混淆點。",
     "examples": [
       {
-        "test": "The general made the soldiers advance.",
-        "result": "→ 主動：make + O + 原形V。被動改為：The soldiers were made to advance by the general.（必須加to）"
+        "test": "I got him _____ the project. (make vs. to complete)",
+        "result": "→ I got him to complete the project.（正確）；I got him complete... 或 I made him to complete...（皆錯誤）"
       },
       {
-        "test": "Let him go home early today.",
-        "result": "→ let表允許，被動式為：He was let go home early.（保持原形，不加to）"
+        "test": "The accident caused three people _____ to hospital. (去醫院)",
+        "result": "→ The accident caused three people to go to hospital.（正確）；caused...go（缺 to，錯誤）"
       },
       {
-        "test": "I have the worker paint the fence.",
-        "result": "→ have表委託，被動式為：The fence was had painted.（較少用被動，但保持原形）"
+        "test": "She managed _____ her parents to allow her to travel abroad.",
+        "result": "→ She managed to get her parents to allow her to travel abroad.（正確使役鏈結）"
       }
     ],
-    "note": "Make被動加to，Let和Have被動保原形；一個強迫兩個溫和（Let自由，Have委託）。"
+    "note": "get + to V = 說服式使役；cause + to V = 因果式使役；make/have + V = 原形使役。三者 to 的有無是判別關鍵。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The coach ",
+        "The teacher couldn't ",
         null,
-        " the players run ten laps every morning."
+        " the students ",
+        null,
+        " silent during the test."
       ],
       "blanks": [
-        "has"
+        "get",
+        "to remain"
       ],
-      "sentence": "The coach has the players run ten laps every morning.",
-      "translation": "教練每天早上讓球員跑十圈。",
+      "sentence": "The teacher couldn't get the students to remain silent during the test.",
+      "translation": "老師無法讓學生在考試期間保持安靜。",
       "keywords": [
-        "have",
-        "委託",
-        "原形動詞"
+        "get",
+        "to remain",
+        "使役結構"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "The cruel king ",
+        "The severe storm ",
         null,
-        " the prisoners work in the mines without rest."
+        " several trees ",
+        null,
+        " down, which blocked the main road."
       ],
       "blanks": [
-        "made"
+        "caused",
+        "to fall"
       ],
-      "sentence": "The cruel king made the prisoners work in the mines without rest.",
-      "translation": "殘暴的國王強迫囚犯在礦場不停地工作。",
+      "sentence": "The severe storm caused several trees to fall down, which blocked the main road.",
+      "translation": "嚴重的風暴導致幾棵樹倒下，阻塞了主要道路。",
       "keywords": [
-        "make",
-        "強迫",
-        "原形動詞"
+        "cause",
+        "to fall",
+        "因果關係"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "Her mother ",
+        "He finally ",
         null,
-        " her stay out past midnight on weekends."
+        " his sister ",
+        null,
+        " attend the family dinner by promising her a reward."
       ],
       "blanks": [
-        "lets"
+        "got",
+        "to"
       ],
-      "sentence": "Her mother lets her stay out past midnight on weekends.",
-      "translation": "她的母親允許她在週末過午夜後才回家。",
+      "sentence": "He finally got his sister to attend the family dinner by promising her a reward.",
+      "translation": "他終於通過許諾獎勵讓妹妹參加家庭晚宴。",
       "keywords": [
-        "let",
-        "允許",
-        "原形動詞"
+        "get",
+        "to attend",
+        "說服成功"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The company was ",
+        "The company's environmental policy ",
         null,
-        " provide better working conditions for all employees."
+        " all departments ",
+        null,
+        " reduce their carbon footprint."
       ],
       "blanks": [
-        "made to"
+        "caused",
+        "to"
       ],
-      "sentence": "The company was made to provide better working conditions for all employees.",
-      "translation": "該公司被迫為所有員工提供更好的工作條件。",
+      "sentence": "The company's environmental policy caused all departments to reduce their carbon footprint.",
+      "translation": "公司的環保政策導致所有部門減少碳足跡。",
       "keywords": [
-        "be made to",
-        "被動式",
-        "to V"
+        "cause",
+        "to reduce",
+        "政策效應"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "make",
-      "zh": "強迫、致使（帶強制意味）"
+      "adj": "get",
+      "zh": "使役（口語、需努力）"
     },
     {
-      "adj": "let",
-      "zh": "允許、准許（表自由意願）"
-    },
-    {
-      "adj": "have",
-      "zh": "委託、吩咐（較正式用途）"
-    },
-    {
-      "adj": "原形動詞",
-      "zh": "不加to的動詞原形"
-    },
-    {
-      "adj": "主動句",
-      "zh": "使役者主動表達意圖"
-    },
-    {
-      "adj": "被動句",
-      "zh": "被使役者為主語"
-    },
-    {
-      "adj": "强制性",
-      "zh": "make特有的強迫特徵"
-    },
-    {
-      "adj": "自願性",
-      "zh": "let特有的允許特徵"
-    },
-    {
-      "adj": "受詞",
-      "zh": "被使役的人或物"
-    },
-    {
-      "adj": "過去式",
-      "zh": "動作已完成的時態"
-    },
-    {
-      "adj": "使役關係",
-      "zh": "主詞與受詞間的指使關係"
+      "adj": "cause",
+      "zh": "導致（正式、客觀）"
     },
     {
       "adj": "to V",
-      "zh": "make被動時的特殊形式"
+      "zh": "不定詞（必須帶 to）"
+    },
+    {
+      "adj": "persuade",
+      "zh": "勸說；說服"
+    },
+    {
+      "adj": "force",
+      "zh": "強迫；被迫"
+    },
+    {
+      "adj": "encourage",
+      "zh": "鼓勵；促使"
+    },
+    {
+      "adj": "convince",
+      "zh": "說服；使確信"
+    },
+    {
+      "adj": "compel",
+      "zh": "迫使；強制"
+    },
+    {
+      "adj": "enable",
+      "zh": "使能夠；使可能"
+    },
+    {
+      "adj": "happen",
+      "zh": "碰巧；恰好發生"
+    },
+    {
+      "adj": "manage",
+      "zh": "設法；成功地做"
+    },
+    {
+      "adj": "difficulty",
+      "zh": "困難；勉強"
     }
   ],
-  "vocab_table_label": "常用使役動詞",
+  "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "老師讓學生重新檢查他們的作業。選擇最適當的使役動詞形式。",
-      "question_eng": "The teacher _______ the students check their homework again.",
+      "question_chi": "選擇正確的使役動詞形式來完成句子",
+      "question_eng": "The teacher tried to _______ the students to submit their homework on time.",
       "options": [
         {
           "key": "A",
-          "text": "made"
+          "text": "get submit"
         },
         {
           "key": "B",
-          "text": "let"
+          "text": "get to submit"
         },
         {
           "key": "C",
-          "text": "had"
+          "text": "cause submit"
         },
         {
           "key": "D",
-          "text": "have"
+          "text": "cause to submit"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是C「had」。此句表示老師吩咐/要求學生檢查作業，具有正式的委託意味，應用have。A的make表強迫，語氣過強；B的let表允許，不符合老師主動要求的語義；D的have為現在式，時態不符（句子使用過去式）。",
+      "answer": "B",
+      "explanation": "正確答案是 B。get 是使役動詞，後接受詞加 to V，因此為 get the students to submit。A 缺少 to，違反 get 的句型規則。C 和 D 中 cause 也需加 to V，但在「說服他人」的語境中應用 get 而非 cause，cause 用於客觀因果關係。",
       "id": 1
     },
     {
-      "question_chi": "母親允許孩子參加派對。選擇正確的使役動詞及時態。",
-      "question_eng": "The mother _______ her child attend the party last Saturday.",
+      "question_chi": "根據語境選擇適當的使役動詞及結構",
+      "question_eng": "The doctor managed to _______ her patient to quit smoking through consistent counseling.",
       "options": [
         {
           "key": "A",
-          "text": "let"
+          "text": "cause to quit"
         },
         {
           "key": "B",
-          "text": "made"
+          "text": "cause quit"
         },
         {
           "key": "C",
-          "text": "have"
+          "text": "get to quit"
         },
         {
           "key": "D",
-          "text": "had"
-        }
-      ],
-      "answer": "A",
-      "explanation": "正確答案是A「let」。此句強調母親「允許」孩子參加派對，表示給予自由/許可，should用let。雖然時態是過去，但let的過去式仍為let（不規則動詞）。B的make表強迫不符；C和D的have表委託吩咐不符原意。",
-      "id": 2
-    },
-    {
-      "question_chi": "經理強迫員工加班完成專案。選擇最適當的使役動詞形式。",
-      "question_eng": "The manager _______ the employees work overtime to finish the project.",
-      "options": [
-        {
-          "key": "A",
-          "text": "let"
-        },
-        {
-          "key": "B",
-          "text": "had"
-        },
-        {
-          "key": "C",
-          "text": "made"
-        },
-        {
-          "key": "D",
-          "text": "was made"
+          "text": "make to quit"
         }
       ],
       "answer": "C",
-      "explanation": "正確答案是C「made」。句子強調經理「強迫」員工加班，make表示強制或致使，最符合語境。A的let表允許不符；B的have表委託語氣較溫和；D為被動式且帶to（be made to），改變了主語，不符合此主動結構。",
-      "id": 3
+      "explanation": "正確答案是 C。「透過勸導使他人做某事」應用 get to V（強調說服努力），因此為 get her patient to quit。A 中 cause 用於客觀因果，不適合勸導語境。B 缺少 to。D 中 make 後接原形動詞，不能加 to，違反使役動詞規則。",
+      "id": 2
     },
     {
-      "question_chi": "被動語態：這名學生被迫重新寫論文。選擇正確的被動式使役動詞。",
-      "question_eng": "The student was _______ rewrite his essay because of the numerous errors.",
+      "question_chi": "判斷哪個選項正確表達客觀因果關係的使役含義",
+      "question_eng": "The scandal _______ several government officials to resign from their positions immediately.",
       "options": [
         {
           "key": "A",
-          "text": "made to"
+          "text": "led cause"
         },
         {
           "key": "B",
-          "text": "let to"
+          "text": "caused to resign"
         },
         {
           "key": "C",
-          "text": "had to"
+          "text": "got to resign"
         },
         {
           "key": "D",
-          "text": "made"
+          "text": "made to resign"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是A「made to」。make改為被動式時必須加to變成be made to V，表「被迫做某事」。B的let被動式不加to，應為「was let」（罕見）；C的had to為情態動詞短語，非被動使役結構；D缺少to，被動式make後必須接to才完整。",
+      "answer": "B",
+      "explanation": "正確答案是 B。表達客觀因果關係（醜聞導致辭職）應用 cause to V，因此為 caused to resign。A 中 led cause 是雙重動詞錯誤。C 中 got 用於勸導而非客觀因果。D 中 made 後接原形動詞，不能加 to。",
+      "id": 3
+    },
+    {
+      "question_chi": "複合句型：區辨 get/cause 在被動語態及語境的運用差異",
+      "question_eng": "Although the manager tried hard to _______ the reluctant employee to accept the transfer, the family circumstances _______ him to decline the offer finally.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get accept; caused"
+        },
+        {
+          "key": "B",
+          "text": "get to accept; caused"
+        },
+        {
+          "key": "C",
+          "text": "cause to accept; got"
+        },
+        {
+          "key": "D",
+          "text": "get to accept; made"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。第一空「說服員工接受」用 get to accept（強調說服努力）；第二空「家庭情況導致拒絕」用 caused（客觀因果關係）。A 中第一個 get accept 缺少 to。C 中 cause to accept 不符合勸導語境。D 中 made 後不能加 to。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "老師讓學生們在課堂上練習英文對話。",
-      "answer": "The teacher let the students practice English conversation in class.",
+      "sentence_chi": "老師說服學生參加英文辯論比賽。",
+      "answer": "The teacher got the students to participate in the English debate competition.",
       "key_points": [
-        "let + O + V原形",
-        "practice（不加s）",
-        "in class（時間地點）"
+        "got + O + to V",
+        "參加 = participate in",
+        "比賽 = competition"
       ],
       "hints": [
-        "提示1：let表示『允許』，後接原形動詞，不需加to",
-        "提示2：常見錯誤是讓動詞加-s或加-ing，記住原形即可"
+        "句型框架：S + get + O + to V，表示透過說服使他人做事",
+        "注意：to participate 前的 to 不可省略，get 後直接接受詞再接 to V"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "父母親強迫他每晚做兩小時的功課。",
-      "answer": "His parents made him do two hours of homework every night.",
+      "sentence_chi": "媽媽勸我哥哥放棄玩電動遊戲，專心讀書。",
+      "answer": "Mom got my brother to give up playing video games and focus on studying.",
       "key_points": [
-        "made + O + V原形",
-        "do homework（做功課）",
-        "every night（時間副詞）"
+        "got my brother to",
+        "give up = 放棄",
+        "focus on = 專心於",
+        "不定詞的並列結構"
       ],
       "hints": [
-        "提示1：make表示『強迫』，後接原形動詞，注意時態變化（made是過去式）",
-        "提示2：不要寫成『make him to do』，make後絕對不加to（被動式除外）"
+        "句型框架：S + get + O + to V，O 是 my brother，to V 是 to give up and focus on；兩個不定詞可用 and 連接",
+        "常見錯誤：不能寫成 get my brother give up（缺少 to）或 get my brother to playing（第二個動詞應為 focus on）"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "經理讓員工在週末加班，導致他們感到疲憊。",
-      "answer": "The manager had the employees work overtime on weekends, which made them feel exhausted.",
+      "sentence_chi": "大雨導致許多學生無法準時抵達學校。",
+      "answer": "The heavy rain caused many students to arrive at school late.",
       "key_points": [
-        "have + O + V原形",
-        "work overtime（加班）",
-        "which引導的結果子句"
+        "caused + O + to V",
+        "cause 表客觀因果關係",
+        "arrive at = 抵達",
+        "late = 遲到/晚"
       ],
       "hints": [
-        "提示1：have表示『委託或吩咐』，正式用法，後接原形動詞；make可用於表示『導致』結果",
-        "提示2：『加班』用work overtime，不是『do overtime』"
+        "句型框架：S + cause + O + to V，cause 較正式，強調客觀的因果關係；O 是 many students，to V 是 to arrive at school late",
+        "注意：late 是副詞修飾 arrive，不能寫成 cause students to be late（雖文法正確但改變了結構）；重點是掌握 caused + O + to V 的基本形式"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "那位學生被老師強迫寫了一份兩千字的反思報告，因為他在考試中作弊。",
-      "answer": "The student was made to write a two-thousand-word reflection report by his teacher because he cheated on the exam.",
+      "sentence_chi": "社群媒體上的虛假新聞導致許多人相信不實的資訊。",
+      "answer": "Fake news on social media caused many people to believe false information.",
       "key_points": [
-        "be made to V（被動式加to）",
-        "write a reflection report",
-        "because引導的原因子句"
+        "caused + O + to V",
+        "fake news = 虛假新聞",
+        "believe = 相信",
+        "false information = 不實資訊",
+        "cause 表示因果關係"
       ],
       "hints": [
-        "提示1：make的被動式必須改為『be made + to V』，這是唯一需要加to的被動式用法",
-        "提示2：注意『作弊』用cheat on the exam，『反思報告』用reflection report；被動式時要加to是本題核心考點"
+        "句型框架：S + cause + O + to V；S 是 fake news（複合名詞），O 是 many people，to V 是 to believe false information；cause 強調客觀影響",
+        "常見錯誤：不能寫成 caused people believe（缺少 to）或 caused people to believing（to 後須接原形動詞，不能加 -ing）；注意複合名詞 fake news 作主詞時動詞用單數"
       ]
     }
   ]

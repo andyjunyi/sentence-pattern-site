@@ -1,373 +1,373 @@
 {
   "code": "5-17",
   "chapter": 5,
-  "title": "S + have + O + p.p.（使役被動）",
+  "title": "感官動詞 see/hear/feel + O + V / V-ing",
   "formulas": [
     {
-      "formula": "S + have + O + p.p.",
-      "zh": "主詞讓受詞被…（主動請人做事）"
+      "formula": "see/hear/watch/feel/notice + O + V (原形動詞)",
+      "zh": "看到/聽到/注意到某人做完整的動作"
     },
     {
-      "formula": "S + get + O + p.p.",
-      "zh": "主詞讓受詞被…（較非正式）或主詞遭遇被…"
+      "formula": "see/hear/watch/feel/notice + O + V-ing (現在分詞)",
+      "zh": "看到/聽到/注意到某人正在進行的動作"
+    },
+    {
+      "formula": "被動：O + be + seen/heard/watched/felt/noticed + to V",
+      "zh": "被動語態時原形動詞改為 to V"
     }
   ],
-  "explanation": "此句型表達兩種含義：(1)主動請人做某事——主詞主動安排讓受詞被某事，受詞與過去分詞為被動關係；(2)遭遇某事——主詞被動遭遇某情況。結構為「主詞＋have/get＋受詞＋過去分詞」。have較正式，get較口語。關鍵在於受詞與後面過去分詞的被動關係，與「make＋受詞＋原形動詞」的主動用法區別。學測常考此句型與被動語態的比較。",
+  "explanation": "感官動詞（see, hear, watch, feel, notice）後接受詞加動詞形式，用以表達感知動作。原形動詞表示目睹完整、整體的動作；現在分詞表示動作正在進行中。被動語態時需將原形動詞改為帶 to 的不定詞。此句型常用於描述親眼所見或親耳所聞的事件，是高中英文重要考點。",
   "examples": [
     {
       "id": 1,
-      "eng": "I had my car repaired by a professional mechanic last week.",
-      "chi": "我上週讓一位專業機械師修理我的車。",
+      "eng": "I saw her leave the classroom five minutes ago.",
+      "chi": "我五分鐘前看到她離開教室。",
       "keywords": [
-        "have",
-        "過去分詞",
-        "主動安排"
+        "see",
+        "leave",
+        "原形動詞",
+        "完整動作"
       ]
     },
     {
       "id": 2,
-      "eng": "She got her hair cut at the salon before the important meeting.",
-      "chi": "她在重要會議前在沙龍剪了頭髮。",
+      "eng": "We heard the children singing happily in the park.",
+      "chi": "我們聽到孩子們在公園裡快樂地唱歌。",
       "keywords": [
-        "get",
-        "過去分詞",
-        "非正式"
+        "hear",
+        "singing",
+        "現在分詞",
+        "進行中"
       ]
     },
     {
       "id": 3,
-      "eng": "The company had its new office building constructed in the downtown area.",
-      "chi": "該公司讓人在市中心建造了新辦公室。",
+      "eng": "The manager watched the workers install the new equipment.",
+      "chi": "經理看著工人們安裝新設備。",
       "keywords": [
-        "have",
-        "過去分詞",
-        "被動關係"
+        "watch",
+        "install",
+        "原形動詞"
       ]
     },
     {
       "id": 4,
-      "eng": "Tom got his phone stolen while he was shopping at the mall.",
-      "chi": "湯姆在商場購物時手機被盜了。",
+      "eng": "She was seen to enter the building secretly by the security guard.",
+      "chi": "保全看到她秘密地進入大樓。",
       "keywords": [
-        "get",
-        "過去分詞",
-        "遭遇"
+        "was seen",
+        "to enter",
+        "被動式",
+        "to V"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷關鍵：看受詞與過去分詞的關係。若受詞是被…的對象，用have/get＋p.p.；若受詞是執行者，用make＋受詞＋原形。「have my car repaired」(車被修)vs「make him work」(他去工作)。get用於遭遇不幸時常見。",
+    "tip": "判斷使用原形或分詞：若強調動作開始到結束的完整過程用原形；若強調動作正在進行、未完成用分詞。被動語態最常出現在學測，務必記住原形變 to V。注意 catch 後只能接分詞。",
     "examples": [
       {
-        "test": "I had the document translated by an expert.",
-        "result": "→ 正確。文件是被翻譯的對象，受詞與過去分詞被動關係。"
+        "test": "I saw him write the letter. vs I saw him writing the letter.",
+        "result": "→ 前者：他寫完了整封信（我看到完整過程）；後者：他正在寫信（我看到他寫作的過程中）"
       },
       {
-        "test": "I made him do the homework.",
-        "result": "→ 正確用法不同。make表強制他人主動做，用原形；have是安排讓人做。"
+        "test": "錯誤：The student was heard to singing the song.",
+        "result": "→ 正確：The student was heard to sing the song.（被動態用 to V）"
       },
       {
-        "test": "She got her proposal rejected by the committee.",
-        "result": "→ 正確。表遭遇不幸，提案被拒，受詞與p.p.為被動關係。"
+        "test": "I caught him entering the room secretly.",
+        "result": "→ 正確：catch 只能接分詞，表示「抓到某人正在做某事」"
       }
     ],
-    "note": "受詞是『被做』的對象，後接過去分詞；若受詞是『去做』的人，則用make＋原形動詞。"
+    "note": "原形=完整動作看完整，分詞=進行中動作看一半，被動=原形改 to V 是關鍵。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The hotel manager ",
+        "The teacher noticed the students ",
         null,
-        " a new swimming pool built in the resort.",
-        null
+        " during the exam."
       ],
       "blanks": [
-        "had",
-        "constructed"
+        "cheating"
       ],
-      "sentence": "The hotel manager had a new swimming pool constructed in the resort.",
-      "translation": "旅館經理讓人在度假村建造了一個新游泳池。",
+      "sentence": "The teacher noticed the students cheating during the exam.",
+      "translation": "老師注意到學生們在考試中作弊。",
       "keywords": [
-        "have",
-        "過去分詞",
-        "被動安排"
+        "notice",
+        "cheating",
+        "現在分詞",
+        "進行中"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "After the accident, they ",
+        "She heard her little sister ",
         null,
-        " the damaged car ",
-        null,
-        " immediately."
+        " in the bedroom next door."
       ],
       "blanks": [
-        "got",
-        "repaired"
+        "cry"
       ],
-      "sentence": "After the accident, they got the damaged car repaired immediately.",
-      "translation": "事故之後，他們立即讓人修理了那輛受損的車。",
+      "sentence": "She heard her little sister cry in the bedroom next door.",
+      "translation": "她聽到她的妹妹在隔壁房間哭。",
       "keywords": [
-        "get",
-        "過去分詞",
-        "緊急處理"
+        "hear",
+        "cry",
+        "原形動詞",
+        "完整聲音"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "The student ",
+        "The suspect was observed ",
         null,
-        " her thesis ",
-        null,
-        " before submitting it to the professor."
+        " the jewelry store at midnight."
       ],
       "blanks": [
-        "had",
-        "reviewed"
+        "to enter"
       ],
-      "sentence": "The student had her thesis reviewed before submitting it to the professor.",
-      "translation": "學生在提交給教授之前讓人檢閱了她的論文。",
+      "sentence": "The suspect was observed to enter the jewelry store at midnight.",
+      "translation": "該嫌疑犯被觀察到在午夜進入珠寶店。",
       "keywords": [
-        "have",
-        "過去分詞",
-        "提交前準備"
+        "was observed",
+        "to enter",
+        "被動式",
+        "to V"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "During the robbery, the shop owner ",
+        "We watched the sunset ",
         null,
-        " his money ",
-        null,
-        " by the thieves."
+        " slowly behind the mountains while sitting on the beach."
       ],
       "blanks": [
-        "got",
-        "stolen"
+        "disappear"
       ],
-      "sentence": "During the robbery, the shop owner got his money stolen by the thieves.",
-      "translation": "搶劫期間，店主的錢被小偷偷走了。",
+      "sentence": "We watched the sunset disappear slowly behind the mountains while sitting on the beach.",
+      "translation": "我們坐在海灘上，看著夕陽慢慢消失在山後。",
       "keywords": [
-        "get",
-        "過去分詞",
-        "遭遇不幸"
+        "watch",
+        "disappear",
+        "原形動詞",
+        "完整過程"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "repaired",
-      "zh": "被修理的"
+      "adj": "see",
+      "zh": "看到"
     },
     {
-      "adj": "cut",
-      "zh": "被剪的"
+      "adj": "hear",
+      "zh": "聽到"
     },
     {
-      "adj": "painted",
-      "zh": "被油漆的"
+      "adj": "watch",
+      "zh": "看著、觀察"
     },
     {
-      "adj": "cleaned",
-      "zh": "被清潔的"
+      "adj": "notice",
+      "zh": "注意到"
     },
     {
-      "adj": "delivered",
-      "zh": "被送達的"
+      "adj": "feel",
+      "zh": "感覺到"
     },
     {
-      "adj": "translated",
-      "zh": "被翻譯的"
+      "adj": "observe",
+      "zh": "觀察到"
     },
     {
-      "adj": "organized",
-      "zh": "被組織的"
+      "adj": "catch",
+      "zh": "看到、抓住"
     },
     {
-      "adj": "examined",
-      "zh": "被檢查的"
+      "adj": "spot",
+      "zh": "發現、看到"
     },
     {
-      "adj": "designed",
-      "zh": "被設計的"
+      "adj": "V-ing",
+      "zh": "現在分詞（進行中）"
     },
     {
-      "adj": "installed",
-      "zh": "被安裝的"
+      "adj": "V（原形）",
+      "zh": "原形動詞（完整動作）"
     },
     {
-      "adj": "prepared",
-      "zh": "被準備的"
+      "adj": "to V",
+      "zh": "不定詞（被動語態）"
     },
     {
-      "adj": "published",
-      "zh": "被出版的"
+      "adj": "clearly",
+      "zh": "清楚地"
     }
   ],
-  "vocab_table_label": "常用過去分詞",
+  "vocab_table_label": "常用感官動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的使役被動句型，表示她在沙龍剪頭髮。",
-      "question_eng": "She _______ her hair cut at the salon yesterday.",
+      "question_chi": "選擇正確的感官動詞用法，表示看到某人離開教室。",
+      "question_eng": "I saw her _______ the classroom yesterday afternoon.",
       "options": [
         {
           "key": "A",
-          "text": "had"
+          "text": "leave"
         },
         {
           "key": "B",
-          "text": "made"
+          "text": "leaving"
         },
         {
           "key": "C",
-          "text": "let"
+          "text": "to leave"
         },
         {
           "key": "D",
-          "text": "asked"
+          "text": "left"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A（had）。使役被動句型『have + O + p.p.』表示主詞安排讓受詞被動接受某動作。B 項『make』後接原形動詞，不接過去分詞。C 項『let』表允許，不符語意。D 項『asked』需接不定詞，不能接過去分詞。",
+      "explanation": "感官動詞 see 後接受詞加原形動詞（leave）表示目睹完整的動作。B 項 leaving 表示動作進行中，不符題意；C 項 to leave 為被動語態用法；D 項 left 為過去式，感官動詞結構不用此形式。",
       "id": 1
     },
     {
-      "question_chi": "選擇適當的詞彙完成使役被動句，表示他修理了汽車。",
-      "question_eng": "He _______ his car repaired by a professional mechanic last month.",
+      "question_chi": "選擇適當形式，表示聽到孩子們正在唱歌。",
+      "question_eng": "We heard the children _______ happily in the classroom.",
       "options": [
         {
           "key": "A",
-          "text": "got"
+          "text": "sing"
         },
         {
           "key": "B",
-          "text": "had"
+          "text": "singing"
         },
         {
           "key": "C",
-          "text": "caused"
+          "text": "sang"
         },
         {
           "key": "D",
-          "text": "arranged"
+          "text": "to sing"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B（had）。『have + O + p.p.』為較正式的使役被動表達。A 項『got』也可接 O + p.p.（較口語），但題目用 last month 暗示正式語境。C 項『caused』需接原形或不定詞。D 項『arranged』後通常接不定詞或 for，不接過去分詞。",
+      "explanation": "hear 後接現在分詞 singing 表示動作正在進行中。A 項 sing 表示完整動作，不符「正在唱」之意；C 項 sang 為過去式，不符感官動詞結構；D 項 to sing 為被動語態用法。",
       "id": 2
     },
     {
-      "question_chi": "區分使役被動與被動語態，選擇正確句型表達遭遇不幸。",
-      "question_eng": "They _______ their house damaged during the storm, which was devastating to them.",
+      "question_chi": "選擇正確選項，表示被動語態下看到他被帶走。",
+      "question_eng": "He was seen _______ away by several witnesses.",
       "options": [
         {
           "key": "A",
-          "text": "were having"
+          "text": "being taken"
         },
         {
           "key": "B",
-          "text": "had"
+          "text": "to be taken"
         },
         {
           "key": "C",
-          "text": "have been"
+          "text": "taking"
         },
         {
           "key": "D",
-          "text": "were made"
+          "text": "take"
         }
       ],
       "answer": "B",
-      "explanation": "正確答案是 B（had）。『have + O + p.p.』可表『遭遇不幸或經歷某事』，語意為『房子在暴風雨中遭損毀』。A 項『were having』文法不當。C 項『have been』為現在完成進行式，不符。D 項『were made』需接原形動詞，語意錯誤。",
+      "explanation": "感官動詞的被動語態，原形動詞改為帶 to 的不定詞加被動形式（to be taken）。A 項 being taken 為進行式被動，不符感官動詞被動規則；C 項 taking 為主動分詞；D 項 take 缺少被動形式。",
       "id": 3
     },
     {
-      "question_chi": "難題：區分『have + O + p.p.』與『make + O + 原形』的細微差異。",
-      "question_eng": "The manager _______ the employee _______ the report by Friday, showing his authority in the workplace.",
+      "question_chi": "選擇最適當選項，區辨感官動詞的兩種用法差異。",
+      "question_eng": "The manager noticed the employee _______ tired, so he had her _______ early that day.",
       "options": [
         {
           "key": "A",
-          "text": "had / completed"
+          "text": "looking; leave"
         },
         {
           "key": "B",
-          "text": "made / complete"
+          "text": "to look; leaving"
         },
         {
           "key": "C",
-          "text": "got / completing"
+          "text": "look; leaving"
         },
         {
           "key": "D",
-          "text": "caused / completed"
+          "text": "looked; to leave"
         }
       ],
-      "answer": "B",
-      "explanation": "正確答案是 B（made / complete）。『make + O + 原形動詞』表管理者強制員工做事，強調強迫與權威。『have + O + p.p.』表安排他人被動完成，較為溫和。A 項『had』搭配過去分詞較不強調強制。C 項『got』後接現在分詞不當。D 項『caused』用法不當。",
+      "answer": "A",
+      "explanation": "notice 後接現在分詞 looking 表示狀態特徵；had her leave 是 have 使役動詞用法，接原形動詞 leave 表示完整動作。B 項 to look 不符 notice 的用法；C 項 look 與 leaving 搭配不當；D 項 looked 和 to leave 都違反感官動詞結構。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我媽媽讓裁縫師修改了我的制服。",
-      "answer": "My mother had a tailor alter her uniform.",
+      "sentence_chi": "我看到小王在教室裡睡覺。",
+      "answer": "I saw Wang sleeping in the classroom.",
       "key_points": [
-        "have + 受詞(a tailor) + p.p.(altered)",
-        "受詞與過去分詞的被動關係",
-        "表示主動安排他人做某事"
+        "saw + O (Wang) + V-ing (sleeping)",
+        "現在分詞表示動作正在進行",
+        "in the classroom 為地點補充"
       ],
       "hints": [
-        "句型框架：S + have + O(人) + p.p.，表示『主詞安排讓受詞被...』",
-        "注意：不能用『make a tailor to alter』，因為make後接原形動詞為主動；have則表被動關係"
+        "提示1：感官動詞 saw 後接受詞 Wang，再加現在分詞 sleeping",
+        "提示2：因為是看到他正在睡覺的過程中，用 V-ing 而非原形 sleep"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "他昨天在髮廊燙了頭髮。",
-      "answer": "He had his hair permed at the salon yesterday.",
+      "sentence_chi": "老師聽到學生們在走廊上大聲說話。",
+      "answer": "The teacher heard the students talking loudly in the hallway.",
       "key_points": [
-        "have + 所有格代詞 + 名詞 + p.p.(permed)",
-        "表示『主詞主動去服務地點做某事』",
-        "受詞為物品(hair)而非人物"
+        "heard + O (the students) + V-ing (talking)",
+        "現在分詞 talking 表示持續的動作",
+        "loudly 修飾動詞，in the hallway 為地點"
       ],
       "hints": [
-        "此句型可用於『主詞主動請他人服務自己的身體或物品』的情境",
-        "注意：『his hair』為受詞，『permed』為過去分詞，二者為被動關係（頭髮被燙）"
+        "提示1：感官動詞 heard 後接受詞 the students，再加現在分詞 talking",
+        "提示2：注意 talk 變成現在分詞是 talking（雙寫 t），不是 talkking"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "由於意外，她不得不讓人重新檢查她的報告，結果發現了許多錯誤。",
-      "answer": "Due to the accident, she had to have her report rechecked, which revealed many errors.",
+      "sentence_chi": "我們看到那個男孩把書掉在地上。",
+      "answer": "We saw the boy drop his book on the ground.",
       "key_points": [
-        "have + O + p.p.(rechecked)表示被動遭遇或被迫安排",
-        "『had to have』的結合表示『被迫讓...被...』",
-        "受詞與過去分詞為被動關係"
+        "saw + O (the boy) + V (drop)",
+        "原形動詞 drop 表示一個完整的、已完成的動作",
+        "把...掉在... 用 drop...on the ground 表達"
       ],
       "hints": [
-        "此句型的第二含義：表示『遭遇某事』或『被迫讓他人做某事』，帶有無奈感",
-        "注意區別：『She checked her report』(主動檢查) vs『She had her report checked』(被動讓他人檢查)"
+        "提示1：感官動詞 saw 後接受詞 the boy，再加原形動詞 drop（不是 dropping）",
+        "提示2：用原形動詞是因為看到了『掉下去』這個完整的動作結果，不是強調動作正在進行中"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "考試那天，他的手機在教室外被盜了，所以他被迫讓警察調查這起盜竊案。",
-      "answer": "On the exam day, he had his phone stolen outside the classroom, so he had to have the theft investigated by the police.",
+      "sentence_chi": "人們注意到那棟舊建築物正在被破壞。",
+      "answer": "People noticed the old building being demolished.",
       "key_points": [
-        "have + O + p.p.表示『遭遇...被...』的被動含義",
-        "『have one's phone stolen』為常見慣用表達",
-        "與『get + O + p.p.』可互換，但have更正式"
+        "noticed + O (the building) + being + V-ed (demolished)",
+        "被動現在分詞 being demolished 表示受詞正在受動",
+        "形容詞 old 修飾受詞 building"
       ],
       "hints": [
-        "此題考查『have + O + p.p.』的第二含義：表示主詞被動遭遇某事，帶有不幸或意外的語氣",
-        "注意：『have one's phone stolen』中，phone是受詞，stolen是p.p.；『have the theft investigated』中，theft是受詞，investigated是p.p."
+        "提示1：感官動詞 noticed 後接受詞 the old building，再加被動現在分詞 being demolished",
+        "提示2：『被破壞』是被動，用 being + 過去分詞；如果要用原形動詞被動需改為『O + be + seen/noticed + to be V-ed』結構"
       ]
     }
   ]

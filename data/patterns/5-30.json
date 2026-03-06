@@ -1,362 +1,365 @@
 {
   "code": "5-30",
   "chapter": 5,
-  "title": "S + should have + p.p.（過去應該做而沒做）",
+  "title": "S + must have + p.p.（對過去的推測）",
   "formulas": [
     {
-      "formula": "S + should/ought to + have + p.p.",
-      "zh": "主詞應該做某事（過去），但實際沒做；表示對過去行為的責備、遺憾或後悔"
+      "formula": "S + must have + p.p.",
+      "zh": "主詞必定已經…（對過去強烈肯定的推測）"
     },
     {
-      "formula": "S + should/ought to + have + p.p. + (time expression)",
-      "zh": "加入時間副詞，強調過去特定時刻應該做但未做的事"
+      "formula": "S + may/might have + p.p. / S + can't have + p.p.",
+      "zh": "主詞可能已經…／主詞不可能已經…（過去推測的其他表達）"
     }
   ],
-  "explanation": "此句型由情態動詞 should/ought to 加完成式構成，用於表達對過去行為的責備、遺憾或否定評價。結構為：should/ought to + have + 過去分詞。主要用於：(1)責備他人未履行責任，(2)表達自我悔恨，(3)提出建議性批評。注意 should have 和 ought to have 意義相同，但 should 更常用且更自然。不可與現在簡單式或現在進行式混用，避免時態錯誤。",
+  "explanation": "must have + 過去分詞用於對過去事實的強烈肯定推測，表示說話者對某事幾乎確定。此句型強度介於一般過去式的陳述與推測之間。may/might have表示可能性較低的推測；can't have則表否定推測，語氣強烈。三者均涉及對過去情況的態度判斷，而非事實敘述。常見混淆點：confuse with「must + V」（現在義務）；must have強調過去推測基礎。",
   "examples": [
     {
       "id": 1,
-      "eng": "You should have studied harder before the exam instead of playing games.",
-      "chi": "你本應該在考試前更努力讀書，而不是玩遊戲。",
+      "eng": "She must have studied hard before the exam because she got an A.",
+      "chi": "她考試前一定很認真讀書，因為她考了A。",
       "keywords": [
-        "should have",
-        "過去責備",
-        "對比"
+        "must have",
+        "過去推測",
+        "肯定"
       ]
     },
     {
       "id": 2,
-      "eng": "She ought to have told him the truth from the beginning.",
-      "chi": "她從一開始就應該告訴他真相。",
+      "eng": "He didn't answer the phone; he must have been sleeping when I called.",
+      "chi": "他沒接電話；我打電話時他一定在睡覺。",
       "keywords": [
-        "ought to have",
-        "遺憾",
-        "過去行為"
+        "must have been",
+        "過去進行",
+        "推測"
       ]
     },
     {
       "id": 3,
-      "eng": "We should have arrived earlier, but the traffic was terrible.",
-      "chi": "我們應該早點到達，但交通太糟糕了。",
+      "eng": "The accident might have happened during rush hour, but we're not sure.",
+      "chi": "車禍可能在尖峰時間發生，但我們不確定。",
       "keywords": [
-        "should have",
-        "後悔",
-        "原因說明"
+        "might have",
+        "低確定度推測"
       ]
     },
     {
       "id": 4,
-      "eng": "He should have listened to his parents' advice about his career.",
-      "chi": "他應該聽他父母關於職涯的建議。",
+      "eng": "You can't have forgotten the meeting; it was yesterday at 3 p.m.",
+      "chi": "你不可能忘記昨天下午三點的會議。",
       "keywords": [
-        "should have",
-        "後悔",
-        "建議未採納"
+        "can't have",
+        "否定推測",
+        "強烈語氣"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷此句型的關鍵是識別過去時間背景與後悔/責備情感。若句子強調過去應做但未做的事，優先選用此句型。避免與 'would have + p.p.'（虛擬條件）混淆，should have 是直接評價，would have 是假設情境。注意 have 後必須是過去分詞，不能是動詞原形。",
+    "tip": "判斷推測強度：must have最強（95%肯定）→ may/might have較弱（50%可能）→ can't have為完全否定。注意與「should have / could have」的區別：前兩者是過去未實現的遺憾，不純粹推測。時間詞（ago, yesterday, last week）常與此句型搭配。",
     "examples": [
       {
-        "test": "You should have gone to the party last night.",
-        "result": "✓ 正確。表達責備或遺憾，have + gone 為過去分詞形式。"
+        "test": "She didn't come to the party last night.",
+        "result": "→ She must have been busy.（她一定很忙）VS. She might have forgotten.（她可能忘了）"
       },
       {
-        "test": "You should go to the party last night.",
-        "result": "✗ 錯誤。time expression 為過去時，應使用完成式，改為 should have gone。"
+        "test": "He scored perfectly on the test.",
+        "result": "→ He must have studied very carefully.（他一定很認真讀書）VS. ✗ He must study carefully.（錯：無法表達推測）"
       },
       {
-        "test": "If you had studied harder, you would have passed the exam.",
-        "result": "→ 虛擬條件句，與 should have 不同；強調假設情境下的後果。"
+        "test": "Nobody saw him at the meeting.",
+        "result": "→ He can't have attended.（他不可能出席）vs. He might not have attended.（他可能沒出席）"
       }
     ],
-    "note": "「應該做但沒做」用 should have + p.p.，聽到過去時間詞立即想到完成式結構。"
+    "note": "記憶口訣：「must最強，may最弱，can't否定」；推測過去用完成式（have + p.p.），推測現在用簡單式（must be）。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "I ",
+        "The window is broken. Someone ",
         null,
-        " called you earlier, but my phone was dead."
+        " during the night."
       ],
       "blanks": [
-        "should have"
+        "must have broken it"
       ],
-      "sentence": "I should have called you earlier, but my phone was dead.",
-      "translation": "我應該早點打電話給你，但我的手機沒電了。",
+      "sentence": "The window is broken. Someone must have broken it during the night.",
+      "translation": "窗戶破了。一定是有人在晚上把它打破的。",
       "keywords": [
-        "should have",
-        "過去責備",
-        "解釋"
+        "must have",
+        "過去推測",
+        "肯定語氣"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "They ",
+        "He didn't answer his phone yesterday. He ",
         null,
-        " informed us about the change in schedule."
+        " or ",
+        null,
+        "."
       ],
       "blanks": [
-        "ought to have"
+        "might have been busy",
+        "could have forgotten it"
       ],
-      "sentence": "They ought to have informed us about the change in schedule.",
-      "translation": "他們應該通知我們日程的改變。",
+      "sentence": "He didn't answer his phone yesterday. He might have been busy or could have forgotten it.",
+      "translation": "他昨天沒接電話。他可能很忙，或者可能忘了帶手機。",
       "keywords": [
-        "ought to have",
-        "責任未履行",
-        "過去式"
+        "might have",
+        "could have",
+        "推測可能性"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "She ",
+        "The accident ",
         null,
-        " that her decision was wrong instead of defending it stubbornly."
+        " because nobody was on the road at that time."
       ],
       "blanks": [
-        "should have admitted"
+        "can't have happened"
       ],
-      "sentence": "She should have admitted that her decision was wrong instead of defending it stubbornly.",
-      "translation": "她應該承認她的決定是錯的，而不是固執地為之辯護。",
+      "sentence": "The accident can't have happened because nobody was on the road at that time.",
+      "translation": "事故不可能發生，因為那時沒有人在路上。",
       "keywords": [
-        "should have",
-        "對比",
-        "反省"
+        "can't have",
+        "否定推測",
+        "完全排除"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "We ",
+        "She got the job offer! She ",
         null,
-        " more time preparing for the presentation before the deadline."
+        " very well in the interview."
       ],
       "blanks": [
-        "should have spent"
+        "must have performed"
       ],
-      "sentence": "We should have spent more time preparing for the presentation before the deadline.",
-      "translation": "在截止日期前，我們應該花更多時間準備簡報。",
+      "sentence": "She got the job offer! She must have performed very well in the interview.",
+      "translation": "她收到了工作錄取通知！她一定在面試中表現得很好。",
       "keywords": [
-        "should have",
-        "後悔",
-        "時間管理"
+        "must have",
+        "肯定推測",
+        "因果關係"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "regret",
-      "zh": "遺憾、後悔"
+      "adj": "must have",
+      "zh": "必定已經（強烈肯定推測）"
     },
     {
-      "adj": "feel sorry about",
-      "zh": "為…感到抱歉"
+      "adj": "may have",
+      "zh": "可能已經（低確定度推測）"
     },
     {
-      "adj": "blame",
-      "zh": "責備、指責"
+      "adj": "might have",
+      "zh": "可能已經（同may，更不確定）"
     },
     {
-      "adj": "criticize",
-      "zh": "批評"
+      "adj": "can't have",
+      "zh": "不可能已經（否定推測）"
     },
     {
-      "adj": "disappoint",
-      "zh": "使失望"
+      "adj": "couldn't have",
+      "zh": "不可能已經（同can't have，較正式）"
     },
     {
-      "adj": "miss",
-      "zh": "錯過"
+      "adj": "could have",
+      "zh": "本可能已經（過去能力或可能性）"
     },
     {
-      "adj": "realize",
-      "zh": "意識到（常用於悔悟前）"
+      "adj": "should have",
+      "zh": "本應該已經（後悔或未實現之事）"
     },
     {
-      "adj": "fail to",
-      "zh": "未能"
+      "adj": "been",
+      "zh": "（與have搭配構成完成進行式）"
     },
     {
-      "adj": "neglect",
-      "zh": "忽視、疏忽"
+      "adj": "过去分詞",
+      "zh": "表示已完成的動作"
     },
     {
-      "adj": "waste",
-      "zh": "浪費"
+      "adj": "evidence",
+      "zh": "證據（推測的依據）"
     },
     {
-      "adj": "lose the opportunity to",
-      "zh": "失去…的機會"
+      "adj": "probably",
+      "zh": "可能地（與must have同義強化）"
     },
     {
-      "adj": "instead of",
-      "zh": "而不是、反而"
+      "adj": "certainly",
+      "zh": "肯定地（肯定推測的強調）"
     }
   ],
-  "vocab_table_label": "常用動詞",
+  "vocab_table_label": "常用情態動詞推測",
   "mc_exercises": [
     {
-      "question_chi": "填入適當的情態動詞完成式，表達對過去行為的遺憾",
-      "question_eng": "I _______ more time preparing for the interview instead of procrastinating.",
+      "question_chi": "根據情境選擇正確的推測句型，表達對過去事實的強烈肯定推測。",
+      "question_eng": "The game was cancelled yesterday. It _______ because of the heavy rain.",
       "options": [
         {
           "key": "A",
-          "text": "should have spent"
+          "text": "must have been"
         },
         {
           "key": "B",
-          "text": "should spend"
+          "text": "must be"
         },
         {
           "key": "C",
-          "text": "ought spend"
+          "text": "must have been cancelled"
         },
         {
           "key": "D",
-          "text": "should have spending"
+          "text": "must cancel"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。此句型需用 'should have + 過去分詞' 表達對過去行為的悔恨。B 項用現在簡單式，時態錯誤。C 項 'ought spend' 缺少 have，結構不完整。D 項用動名詞 spending，與情態動詞搭配錯誤。",
+      "explanation": "正確答案是A。句子表達對過去事實的強烈推測（因為下雨多半導致取消），應使用『must have + p.p.』結構。B項『must be』表現在義務或推測，文法錯誤；C項過於冗贅且語意重複；D項『must cancel』缺少助動詞，不符合推測句型。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確的過去完成表達，責備他人未盡責任",
-      "question_eng": "Tom _______ the project deadline; he was irresponsible.",
+      "question_chi": "選擇合適的推測動詞片語，表達對過去情況的不同推測程度。",
+      "question_eng": "Tom didn't show up at the meeting. He _______ about the time change.",
       "options": [
         {
           "key": "A",
-          "text": "ought to miss"
+          "text": "must have forgotten"
         },
         {
           "key": "B",
-          "text": "ought to have missed"
+          "text": "might have forgotten"
         },
         {
           "key": "C",
-          "text": "should not have missed"
+          "text": "can't have forgotten"
         },
         {
           "key": "D",
-          "text": "should be missing"
+          "text": "may forget"
         }
       ],
-      "answer": "C",
-      "explanation": "正確答案是 C。根據句意（責備未盡責），應用 'should not have + p.p.' 表示「不應該在過去做某事」。A 項時態錯誤，B 項意思相反，D 項進行式時態不符。",
+      "answer": "B",
+      "explanation": "正確答案是B。根據情境（Tom缺席），說話者對其遺忘的推測程度中等，應用『might have + p.p.』表示可能性較低的推測。A項『must have』表示強烈確定，不符合內文的不確定語氣；C項『can't have』表強烈否定推測，與語意不符；D項『may forget』為現在式推測，時態錯誤。",
       "id": 2
     },
     {
-      "question_chi": "判斷哪個句子正確表達了對過去決定的批評",
-      "question_eng": "Her parents believed she _______ the scholarship offer; it was a tremendous opportunity.",
+      "question_chi": "根據上下文判斷正確的過去推測句型，區分強肯定與強否定。",
+      "question_eng": "The witness said she saw the suspect at midnight. The suspect _______ at that time, so he couldn't be the criminal.",
       "options": [
         {
           "key": "A",
-          "text": "should have accepted"
+          "text": "must have been"
         },
         {
           "key": "B",
-          "text": "should accept"
+          "text": "can't have been"
         },
         {
           "key": "C",
-          "text": "ought be accepting"
+          "text": "may have been"
         },
         {
           "key": "D",
-          "text": "should have been accepting"
+          "text": "might be"
         }
       ],
-      "answer": "A",
-      "explanation": "正確答案是 A。『should have + p.p.』表達對過去行為的遺憾或批評。B 項現在式不符合過去情境。C 項結構錯誤，ought 後需要 to。D 項進行式完成式造成語意混淆，不適合此文脈。",
+      "answer": "B",
+      "explanation": "正確答案是B。後半句『so he couldn't be the criminal』提示用強烈否定推測，應使用『can't have + p.p.』表達說話者對過去的強烈否定。A項『must have been』為肯定推測，與邏輯矛盾；C項『may have been』表可能性，語氣過弱；D項『might be』為現在推測，時態與語意都不符。",
       "id": 3
     },
     {
-      "question_chi": "複雜句型：選擇最合適的完成式，說明被動語態下的應該做某事",
-      "question_eng": "The safety report _______ submitted to the authorities last month, but management ignored it completely.",
+      "question_chi": "綜合判斷複雜情境下的過去推測，區分推測強度與時態轉換。",
+      "question_eng": "Sarah's car was found abandoned near the beach. She _______ an accident, or she _______ to escape from something dangerous.",
       "options": [
         {
           "key": "A",
-          "text": "should have been"
+          "text": "must have had; might have been trying"
         },
         {
           "key": "B",
-          "text": "should be"
+          "text": "must have had; might try"
         },
         {
           "key": "C",
-          "text": "ought to have being"
+          "text": "must be having; might have tried"
         },
         {
           "key": "D",
-          "text": "should have had been"
+          "text": "could have; may have been trying"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。被動語態的過去應該做需用 'should have been + p.p.'。B 項現在式不符合過去時間點。C 項 'being' 用法錯誤，應是 'been'。D 項重複 'had been'，語法結構錯誤。此題結合被動語態與完成式增加難度。",
+      "explanation": "正確答案是A。第一空『must have had』表強烈推測她發生車禍（過去發生的事件），用『must have + p.p.』；第二空『might have been trying』表較弱的推測她當時在逃離危險（過去進行的動作），用『might have + 現在分詞』。B項第二空用現在式錯誤；C項第一空『must be having』為現在推測不符；D項『could have』表可能性但不如『must have』確定，第一空語氣不當。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "你不應該昨天沒有準時完成功課。",
-      "answer": "You should have finished your homework on time yesterday.",
+      "sentence_chi": "昨天李明沒來學校，他一定生病了。",
+      "answer": "Liming must have been sick yesterday since he didn't come to school.",
       "key_points": [
-        "should have + finished（過去分詞）",
-        "on time（準時）",
-        "yesterday（時間標誌）"
+        "must have + been",
+        "過去分詞 (been)",
+        "表示對過去的強烈推測"
       ],
       "hints": [
-        "提示1：使用 should have + p.p. 結構，表達對過去未完成行為的責備",
-        "提示2：注意不可寫成 'should finish' 或 'should have finish'，p.p. 必須用過去分詞形式"
+        "提示1：使用 must have + p.p. 結構表達對過去事實的幾乎確定的推測",
+        "提示2：避免誤用 must be sick（現在義務或狀態），要用 must have been 表示昨天的推測"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "她本來應該告訴父母她的考試成績，但她沒有。",
-      "answer": "She should have told her parents about her exam results, but she didn't.",
+      "sentence_chi": "考試時間那麼長，她一定有好好準備。",
+      "answer": "She must have prepared well for the exam, considering how much time she spent on it.",
       "key_points": [
-        "should have + told（告訴）",
-        "about（關於）",
-        "but she didn't（對比結構）"
+        "must have + prepared",
+        "過去分詞 (prepared)",
+        "基於客觀跡象的推測"
       ],
       "hints": [
-        "提示1：框架為 S + should have + p.p.，後面可接 but 子句強調對比",
-        "提示2：'tell' 的過去分詞是 'told'，不是 'tell' 或 'telling'；避免寫成 'should told' 或 'should have tell'"
+        "提示1：must have + p.p. 用於根據現有證據推測過去已發生的事實",
+        "提示2：不能用 must prepare（現在式），因為句子涉及已經過去的準備行為"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "他們不應該在考試前一天才開始準備，而應該提前幾週就開始。",
-      "answer": "They should have started preparing several weeks before the exam instead of the day before.",
+      "sentence_chi": "他考試失利，可能沒有認真複習；或者他根本不可能是故意作弊的，他不是那樣的人。",
+      "answer": "He might have not studied hard for the exam, or he can't have cheated on purpose because he's not that kind of person.",
       "key_points": [
-        "should have + started",
-        "several weeks before（提前幾週）",
-        "instead of（而不是）"
+        "might have + studied",
+        "can't have + cheated",
+        "兩種不同推測強度的對比"
       ],
       "hints": [
-        "提示1：使用 should have + p.p. 表達對過去準備不足的遺憾與批評",
-        "提示2：注意時間副詞片語的位置（通常在句尾）；'start' 的過去分詞是 'started'，不可混淆時態"
+        "提示1：might/may have 表示較低確定性的推測；can't have 表示強烈否定推測，語氣最強",
+        "提示2：注意 might have not/might not have 兩種否定形式皆可接受，但 can't have 已含否定意義，不再加 not"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "如果她之前更認真聽課，就不會在期末考時感到困惑；她本來應該在課堂上專心聽講。",
-      "answer": "She should have paid closer attention in class; otherwise, she wouldn't have felt confused during the final exam.",
+      "sentence_chi": "那場大雨後馬路被淹沒了，之前一定下了好幾個小時；但操場上沒有積水，可能雨水已經流走了，或者那裡根本不可能下那麼大的雨。",
+      "answer": "It must have rained for several hours before the street was flooded. However, there was no water on the playground; the rainwater might have drained away, or it can't have rained that heavily there.",
       "key_points": [
-        "should have + paid（付出）",
-        "pay attention（專心聽講）",
-        "closer attention（更認真的專注）"
+        "must have + rained",
+        "might have + drained",
+        "can't have + rained",
+        "三層推測強度遞進"
       ],
       "hints": [
-        "提示1：使用 should have + p.p. 責備過去未履行的責任，可搭配 'otherwise' 說明後果",
-        "提示2：'pay' 的過去分詞是 'paid'；整句須保持過去時態一致，避免混入現在式；'pay attention' 是固定搭配"
+        "提示1：must have 用於基於明顯跡象的確定推測；might/may have 用於基於部分證據的可能推測；can't have 用於邏輯上否定某事發生",
+        "提示2：常見錯誤是用 must rain（現在式）或 must have been raining（進行式）；本題應直接用簡單過去分詞表達已完成的狀態"
       ]
     }
   ]

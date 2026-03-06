@@ -1,269 +1,238 @@
 {
   "code": "5-22",
   "chapter": 5,
-  "title": "S + used to + V（過去習慣）",
+  "title": "S + be used to + V-ing（習慣於）",
   "formulas": [
     {
-      "formula": "S + used to + V",
-      "zh": "主詞過去經常/曾經做某事，現在不再如此"
+      "formula": "S + be used to + V-ing",
+      "zh": "主詞現在習慣於做某事（已成為習慣的狀態）"
     },
     {
-      "formula": "Did + S + use to + V?",
-      "zh": "過去是否經常做某事的疑問句形式"
+      "formula": "S + get used to + V-ing",
+      "zh": "主詞逐漸習慣於做某事（習慣化的過程）"
     }
   ],
-  "explanation": "used to 表達過去的習慣、經常性動作或已不存在的狀態，強調現在已改變。結構上，used to 後接原形動詞。否定形式為 didn't use to 或 used not to（較正式）。疑問句為 Did S use to V?。注意與 be used to + -ing（習慣於）區別：前者談過去習慣已改變，後者指現在已習慣某事。used to 通常需搭配過去時間副詞如 when I was young、in my childhood 等，以突顯時間對比。",
+  "explanation": "be used to 表示已經習慣某事物或某活動，強調目前的習慣狀態。get used to 則表逐漸適應、習慣化的過程。兩者的關鍵點是 to 為介系詞，後接動名詞（V-ing），不是動詞原形。易混淆點：used to + V 表過去習慣性動作，已停止；而 be/get used to + V-ing 強調現在或正在進行的習慣。學測常考區分這兩者的差異。",
   "examples": [
     {
       "id": 1,
-      "eng": "I used to play basketball every day when I was in high school.",
-      "chi": "我高中時曾經每天打籃球。",
+      "eng": "I am used to getting up early every morning for my job.",
+      "chi": "我已經習慣於每天早起上班。",
       "keywords": [
-        "used to",
-        "過去習慣",
-        "時間對比"
+        "be used to",
+        "getting up",
+        "現在習慣"
       ]
     },
     {
       "id": 2,
-      "eng": "She used to be afraid of heights, but now she enjoys rock climbing.",
-      "chi": "她曾經害怕高度，但現在她喜歡攀岩。",
+      "eng": "She is getting used to living in a new city after three months.",
+      "chi": "三個月後，她逐漸習慣於住在新城市。",
       "keywords": [
-        "used to",
-        "過去狀態",
-        "現在改變"
+        "get used to",
+        "living",
+        "逐漸適應"
       ]
     },
     {
       "id": 3,
-      "eng": "Did you use to live in Taipei before moving to Kaohsiung?",
-      "chi": "你搬到高雄前曾經住在台北嗎？",
+      "eng": "My parents are used to eating late dinner because of their work schedule.",
+      "chi": "由於工作時間，我的父母已經習慣於晚餐吃得很晚。",
       "keywords": [
-        "Did...use to",
-        "疑問句",
-        "過去經驗"
+        "be used to",
+        "eating",
+        "已成習慣"
       ]
     },
     {
       "id": 4,
-      "eng": "My grandfather didn't use to have a smartphone, but he learns it now.",
-      "chi": "我爺爺過去沒有用過智慧型手機，但現在他在學。",
+      "eng": "The students gradually got used to studying online during the pandemic.",
+      "chi": "學生們在疫情期間逐漸習慣於線上學習。",
       "keywords": [
-        "didn't use to",
-        "否定",
-        "時間對比"
+        "get used to",
+        "studying",
+        "逐漸適應過程"
       ]
     }
   ],
   "adj_table_for": [],
   "adj_table_of": [],
   "extension": {
-    "tip": "區別 used to 與 be used to：used to + V 談過去習慣已改變；be used to + -ing 談已習慣某事（現在仍持續）。另與 would 區別：would 表過去重複動作但無「現在改變」含義。used to 適合談習慣、狀態、職業等過去特徵。",
+    "tip": "判斷關鍵：be used to 強調現在已有的習慣狀態，動詞用現在式；get used to 強調習慣化的過程，通常搭配時間詞如 gradually、after、within 等。記住 to 後必須加 V-ing，不能加原形動詞。used to + V 只指過去習慣，已不存在。",
     "examples": [
       {
-        "test": "I used to smoke.",
-        "result": "→ 我曾經抽菸（現在不抽了）"
+        "test": "錯誤：I am used to go to school early.",
+        "result": "→ 正確：I am used to going to school early.（to 是介系詞，後接 V-ing）"
       },
       {
-        "test": "I am used to smoking.",
-        "result": "→ 我習慣於抽菸（現在仍在抽）"
+        "test": "區別：He used to smoke.（過去習慣，已戒）",
+        "result": "→ He is used to smoking.（現在習慣，仍在進行）"
       },
       {
-        "test": "He would visit me every weekend.",
-        "result": "→ 他過去每週末來訪（無現在對比意涵）"
+        "test": "錯誤：She gets used to work here.",
+        "result": "→ 正確：She is getting used to working here.（進行式表逐漸適應過程）"
       }
     ],
-    "note": "記住：used to = 過去的習慣或狀態，重點在「現在已改變」；be used to = 已習慣，強調「現在適應」。"
+    "note": "記住：be/get used to 後接 V-ing；used to 後接原形動詞。前者講現在習慣，後者講過去習慣。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "I ",
+        "My brother ",
         null,
-        " go to the library every Saturday, but now I prefer studying at home."
+        " taking public transportation since he moved to Taipei."
       ],
       "blanks": [
-        "used to"
+        "is used to"
       ],
-      "sentence": "I used to go to the library every Saturday, but now I prefer studying at home.",
-      "translation": "我曾經每週六去圖書館，但現在我更喜歡在家裡讀書。",
+      "sentence": "My brother is used to taking public transportation since he moved to Taipei.",
+      "translation": "我哥哥自從搬到台北後，已經習慣於搭乘大眾運輸。",
       "keywords": [
-        "used to",
-        "過去習慣",
-        "時間對比"
+        "be used to",
+        "taking",
+        "已成習慣"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "",
+        "The workers are gradually ",
         null,
-        " you ",
-        null,
-        " drink coffee before sleeping?"
+        " the new production system."
       ],
       "blanks": [
-        "Did",
-        "use to"
+        "getting used to"
       ],
-      "sentence": "Did you use to drink coffee before sleeping?",
-      "translation": "你曾經睡前喝咖啡嗎？",
+      "sentence": "The workers are gradually getting used to the new production system.",
+      "translation": "工人們正在逐漸習慣新的生產系統。",
       "keywords": [
-        "Did...use to",
-        "疑問句",
-        "過去習慣"
+        "get used to",
+        "逐漸適應",
+        "gradually"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "My mother ",
+        "After living abroad for two years, she ",
         null,
-        " make homemade bread, but she is too busy now."
+        " communicating in English."
       ],
       "blanks": [
-        "used to"
+        "got used to"
       ],
-      "sentence": "My mother used to make homemade bread, but she is too busy now.",
-      "translation": "我媽媽曾經做自製麵包，但她現在太忙了。",
+      "sentence": "After living abroad for two years, she got used to communicating in English.",
+      "translation": "在國外住了兩年後，她習慣於用英文溝通。",
       "keywords": [
-        "used to",
-        "過去習慣",
-        "現在改變"
+        "get used to",
+        "communicating",
+        "過程完成"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "They ",
+        "Athletes ",
         null,
-        " not ",
-        null,
-        " eat meat, but they are vegetarian now."
+        " training hard and dealing with pressure every day."
       ],
       "blanks": [
-        "did",
-        "use to"
+        "are used to"
       ],
-      "sentence": "They did not use to eat meat, but they are vegetarian now.",
-      "translation": "他們過去不吃肉，但他們現在是素食者。",
+      "sentence": "Athletes are used to training hard and dealing with pressure every day.",
+      "translation": "運動員已經習慣於每天努力訓練和承受壓力。",
       "keywords": [
-        "didn't use to",
-        "否定",
-        "狀態改變"
+        "be used to",
+        "training",
+        "現在習慣狀態"
       ]
     }
   ],
   "vocab_table": [
     {
-      "adj": "when I was young",
-      "zh": "當我年輕時"
+      "adj": "accustomed",
+      "zh": "習慣的、適應的"
     },
     {
-      "adj": "in my childhood",
-      "zh": "在我的童年"
+      "adj": "familiar",
+      "zh": "熟悉的"
     },
     {
-      "adj": "a long time ago",
-      "zh": "很久以前"
+      "adj": "comfortable",
+      "zh": "舒適的、習慣的"
     },
     {
-      "adj": "every day / week",
-      "zh": "每天/每週"
+      "adj": "adjusted",
+      "zh": "調適好的"
     },
     {
-      "adj": "frequently",
-      "zh": "經常地"
+      "adj": "adapted",
+      "zh": "適應的"
     },
     {
-      "adj": "often",
-      "zh": "常常"
+      "adj": "settled",
+      "zh": "安定的、習慣的"
     },
     {
-      "adj": "always",
-      "zh": "總是"
+      "adj": "accustom",
+      "zh": "使習慣"
     },
     {
-      "adj": "rarely",
-      "zh": "很少"
+      "adj": "gradually",
+      "zh": "逐漸地"
     },
     {
-      "adj": "seldom",
-      "zh": "難得"
+      "adj": "already",
+      "zh": "已經"
     },
     {
-      "adj": "regularly",
-      "zh": "規律地"
+      "adj": "eventually",
+      "zh": "最終、逐漸地"
     },
     {
-      "adj": "habitually",
-      "zh": "習慣性地"
+      "adj": "finally",
+      "zh": "最後、終於"
     },
     {
-      "adj": "in those days",
-      "zh": "在那些日子裡"
+      "adj": "routine",
+      "zh": "日常的、習慣的"
     }
   ],
-  "vocab_table_label": "常用時間表達",
+  "vocab_table_label": "常用形容詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇正確的過去習慣表達方式",
-      "question_eng": "When I was a child, I _______ go to the beach every summer with my family.",
+      "question_chi": "選擇正確的習慣表達方式",
+      "question_eng": "After living in Japan for two years, she _______ speaking Japanese every day.",
       "options": [
         {
           "key": "A",
+          "text": "is used to"
+        },
+        {
+          "key": "B",
           "text": "used to"
         },
         {
-          "key": "B",
-          "text": "am used to"
-        },
-        {
           "key": "C",
-          "text": "use to"
+          "text": "is used"
         },
         {
           "key": "D",
-          "text": "was used to"
+          "text": "uses to"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。used to + 原形動詞表示過去習慣性動作，現在已改變。B 項 am used to 是現在式被動，表示「習慣於」，語意不符。C 項 use to 缺少 d，文法錯誤。D 項 was used to 為過去被動，亦不符合過去習慣的表達。",
+      "explanation": "正確答案是 A（is used to）。句子表示「兩年後她已經習慣每天說日語」，強調現在的習慣狀態，需用 be used to + V-ing。B 項 used to 表過去習慣性動作（已停止），不符合語境。C 項缺介系詞 to。D 項 uses to 文法錯誤。",
       "id": 1
     },
     {
-      "question_chi": "判斷過去習慣的疑問句正確形式",
-      "question_eng": "_______ you use to study in the library when you were in college?",
+      "question_chi": "區分現在習慣與過去習慣的用法",
+      "question_eng": "When he was a child, Tom _______ play in the park every afternoon, but now he _______ working late at the office.",
       "options": [
         {
           "key": "A",
-          "text": "Are"
-        },
-        {
-          "key": "B",
-          "text": "Were"
-        },
-        {
-          "key": "C",
-          "text": "Did"
-        },
-        {
-          "key": "D",
-          "text": "Do"
-        }
-      ],
-      "answer": "C",
-      "explanation": "正確答案是 C。過去習慣的疑問句結構為 Did + S + use to + V（原形）。A 與 D 為現在式，B 為 be 動詞過去式但不用於此句型。只有 Did 才能正確構成 used to 的疑問句，後接原形 use to。",
-      "id": 2
-    },
-    {
-      "question_chi": "區別 used to 與 be used to 的語法用法",
-      "question_eng": "My grandfather _______ drink coffee every morning, but now he's _______ tea instead.",
-      "options": [
-        {
-          "key": "A",
-          "text": "used to / used to drinking"
+          "text": "used to / is used to"
         },
         {
           "key": "B",
@@ -271,99 +240,125 @@
         },
         {
           "key": "C",
-          "text": "used to / used to"
+          "text": "gets used to / is used to"
         },
         {
           "key": "D",
-          "text": "used to / used to drinking"
-        }
-      ],
-      "answer": "D",
-      "explanation": "正確答案是 D。前半句用 used to + 動詞原形表過去習慣已改變；後半句用 be used to + -ing 表現在已習慣某事。A 項第二空漏掉 be 動詞。B 項前半句文法錯誤。C 項第二空缺少 be 動詞，無法表達「已習慣」之意。",
-      "id": 3
-    },
-    {
-      "question_chi": "綜合判斷過去習慣的否定與意義區分",
-      "question_eng": "He _______ smoking, so he was able to quit easily. However, his brother _______ smoking every day, but he's trying to break the habit now.",
-      "options": [
-        {
-          "key": "A",
-          "text": "didn't use to / used to"
-        },
-        {
-          "key": "B",
-          "text": "used to / didn't use to"
-        },
-        {
-          "key": "C",
-          "text": "wasn't used to / is used to"
-        },
-        {
-          "key": "D",
-          "text": "didn't use to / is used to"
+          "text": "used to / gets used to"
         }
       ],
       "answer": "A",
-      "explanation": "正確答案是 A。第一句強調他過去「沒有」抽煙習慣，所以戒煙容易，需用 didn't use to。第二句表其兄弟過去有抽煙習慣但現在想戒，需用 used to。B 項邏輯相反。C 與 D 混用了 be used to 的現在式，無法表達過去習慣語義。",
+      "explanation": "第一空需用 used to（過去習慣，已停止）表「他小時候常常在公園玩」；第二空需用 is used to（現在習慣）表「現在已習慣在辦公室工作晚到」。B 項順序顛倒。C、D 項 gets used to 強調適應過程，不符第二空的「已習慣」含義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當的動作進行式搭配習慣表達",
+      "question_eng": "The new employees are gradually _______ the company's strict schedule, though they haven't _______ it yet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "getting used to / been used to"
+        },
+        {
+          "key": "B",
+          "text": "being used to / got used to"
+        },
+        {
+          "key": "C",
+          "text": "used to / being used to"
+        },
+        {
+          "key": "D",
+          "text": "getting used / used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空用 getting used to（正在逐漸適應）搭配 gradually，表進行中的適應過程。第二空用 been used to（還未形成習慣）表完成狀態。B 項 being used to 錯誤。C 項 used to 表過去習慣。D 項 getting used 缺少介系詞 to。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜語境中的習慣與過去習慣區分與時態搭配",
+      "question_eng": "Although he _______ work as a teacher for fifteen years before retirement, he _______ every aspect of dealing with difficult students, and _______ the stress that comes with the job.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used to / is accustomed to / has gotten used to"
+        },
+        {
+          "key": "B",
+          "text": "is used to / used to / being used to"
+        },
+        {
+          "key": "C",
+          "text": "had used to / has been used to / gets used to"
+        },
+        {
+          "key": "D",
+          "text": "was used to / is getting used to / used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空 used to 表「退休前曾經當過老師」（過去習慣，已停止）。第二空 is accustomed to（= is used to）表「現在習慣於處理困難學生的各個層面」。第三空 has gotten used to 表「已經逐漸適應工作壓力」。B 項順序錯誤。C、D 項時態搭配不當。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "我小時候經常看卡通，但現在不看了。",
-      "answer": "I used to watch cartoons when I was a child, but I don't watch them anymore.",
+      "sentence_chi": "我已經習慣每天早上六點起床。",
+      "answer": "I am used to getting up at 6 o'clock every morning.",
       "key_points": [
-        "used to + watch（原形動詞）",
-        "when I was a child（時間對比）",
-        "but I don't watch them anymore（突顯現在已改變）"
+        "am used to",
+        "getting up（動名詞）",
+        "every morning"
       ],
       "hints": [
-        "提示1：used to 後接原形動詞，表示過去經常做但現在不做的事",
-        "提示2：避免寫成 I used to watching cartoons；需搭配過去時間副詞強調對比"
+        "句型框架：S + am/is/are used to + V-ing，表示已經習慣的現在狀態",
+        "注意：to 是介系詞，後面接動名詞 getting，不是 get（動詞原形）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "你以前每天都運動嗎？",
-      "answer": "Did you use to exercise every day?",
+      "sentence_chi": "我弟弟正在適應在新學校的生活。",
+      "answer": "My younger brother is getting used to living in a new school.",
       "key_points": [
-        "Did + S + use to + V（疑問句結構）",
-        "exercise（動詞原形）",
-        "every day（頻率副詞）"
+        "getting used to",
+        "living（動名詞）",
+        "in a new school"
       ],
       "hints": [
-        "提示1：疑問句使用 Did you use to...，用 did 輔助動詞，use to 後接原形動詞",
-        "提示2：注意不能寫成 Did you used to...，use 不加-d"
+        "句型框架：S + am/is/are getting used to + V-ing，強調逐漸適應的過程",
+        "注意：get used to 表示正在習慣化，be used to 已完全習慣；兩者都接 V-ing"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "他上國中時經常和朋友在公園玩，可是現在因為功課忙就很少去了。",
-      "answer": "He used to play with his friends in the park when he was in junior high school, but he rarely goes there now because he is busy with schoolwork.",
+      "sentence_chi": "臺灣人習慣於在炎熱的天氣裡使用冷氣，但這樣會浪費能源。",
+      "answer": "Taiwanese people are used to using air conditioning in hot weather, but this wastes energy.",
       "key_points": [
-        "used to + play（過去習慣）",
-        "when he was in junior high school（明確時間背景）",
-        "but he rarely goes there now（現在已改變的狀態）",
-        "because 子句（改變原因）"
+        "are used to",
+        "using（動名詞）",
+        "in hot weather",
+        "but 連接對比"
       ],
       "hints": [
-        "提示1：used to 表達已停止的過去習慣，後面用 but 對比現在的改變",
-        "提示2：避免寫成 he used to play...and now he doesn't go；要用 but 明確對比，突顯習慣的改變"
+        "句型框架：S + are used to + V-ing，主詞是複數 people；to 後面接動名詞 using",
+        "注意：不要寫成 used to use（過去習慣），也不要寫成 use 或 to use（都是錯誤）"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "以前我媽媽不允許我玩電動，但現在她理解我更多了，所以我可以在週末適度遊玩。",
-      "answer": "My mother used not to allow me to play video games, but now she understands me better, so I can play them moderately on weekends.",
+      "sentence_chi": "經過一個月的練習後，學生們已經習慣於用英文在課堂上回答問題，而不再感到害羞。",
+      "answer": "After one month of practice, the students are used to answering questions in English in class and no longer feel shy.",
       "key_points": [
-        "used not to allow（否定形式，較正式用法）",
-        "allow + 人 + to V（容許結構）",
-        "but now...（時間對比與態度轉變）"
+        "are used to",
+        "answering（動名詞）",
+        "in English / in class",
+        "複合句結構"
       ],
       "hints": [
-        "提示1：used to 的否定可用 used not to（較正式）或 didn't use to，後接原形動詞；allow 後需加 to V",
-        "提示2：避免混淆 used to 與 be used to；此處強調過去習慣的改變，不是指現在已習慣某事物"
+        "句型框架：S + are used to + V-ing；注意 to 後接動名詞 answering，而非不定詞 to answer",
+        "易錯點：不要混淆『used to + V』（過去習慣性動作，已停止）與『be used to + V-ing』（現在的習慣狀態）；此句強調現在已經習慣，用 are used to"
       ]
     }
   ]

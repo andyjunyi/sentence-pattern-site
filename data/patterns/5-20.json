@@ -1,369 +1,371 @@
 {
   "code": "5-20",
   "chapter": 5,
-  "title": "S + help + O + (to) V（help 用法）",
+  "title": "S + keep/leave + O + V-ing/adj.（保持狀態）",
   "formulas": [
     {
-      "formula": "S + help + O + (to) V",
-      "zh": "主詞幫助受詞做某事（to可省略）"
+      "formula": "keep/leave + O + V-ing / adj.",
+      "zh": "讓某人或物保持（某狀態）；也可表示持續做某事"
     },
     {
-      "formula": "S + help + (to) V",
-      "zh": "主詞幫忙做某事（不及物用法）"
-    },
-    {
-      "formula": "cannot help + V-ing",
-      "zh": "忍不住做某事（特殊用法，表被動意涵）"
+      "formula": "keep + V-ing",
+      "zh": "持續進行某動作，不間斷地做某事"
     }
   ],
-  "explanation": "help後可直接接受詞加原形動詞或加to的不定詞，兩種形式意義相同。當help為及物動詞時，句型為「S + help + O + (to) V」，to可省略；當help為不及物動詞時，用「S + help + (to) V」。特殊用法「cannot help + V-ing」表示「忍不住、無法抗拒」，常用於表達被迫的反應或情感。注意此時help後跟動名詞，意思與普通用法截然不同。",
+  "explanation": "此句型用於表達保持狀態或持續動作。keep/leave後接受詞（名詞或代詞），再加現在分詞或形容詞，表讓某人或物維持特定狀態。如「keep the door open」。當keep單獨後接V-ing時，表示持續或反覆進行某動作，無受詞。易混淆處：形容詞與現在分詞的選擇需依狀態或動作性質判斷；「leave O adj.」強調靜態狀態。",
   "examples": [
     {
       "id": 1,
-      "eng": "I helped my younger brother (to) finish his homework yesterday.",
-      "chi": "我昨天幫助弟弟完成作業。",
+      "eng": "Please keep the windows open during the day to let fresh air in.",
+      "chi": "請在白天保持窗戶開著以讓新鮮空氣進入。",
       "keywords": [
-        "help",
-        "受詞",
-        "不定詞",
-        "to可省"
+        "keep",
+        "open",
+        "狀態保持"
       ]
     },
     {
       "id": 2,
-      "eng": "The teacher helped the struggling student understand the difficult concept.",
-      "chi": "老師幫助那位困難的學生理解這個困難的概念。",
+      "eng": "The teacher left the classroom empty after the final exam ended.",
+      "chi": "期末考結束後，老師讓教室保持空著。",
       "keywords": [
-        "help",
-        "及物用法",
-        "目的",
-        "動詞原形"
+        "leave",
+        "empty",
+        "靜態狀態"
       ]
     },
     {
       "id": 3,
-      "eng": "We all helped prepare for the upcoming school festival.",
-      "chi": "我們都幫忙準備即將到來的校園慶典。",
+      "eng": "He kept calling his friend until someone finally answered the phone.",
+      "chi": "他持續打電話給他的朋友直到有人終於接聽。",
       "keywords": [
-        "help",
-        "不及物用法",
-        "共同參與"
+        "keep",
+        "calling",
+        "持續動作"
       ]
     },
     {
       "id": 4,
-      "eng": "I cannot help laughing when I saw that funny video.",
-      "chi": "當我看到那支有趣的影片時，忍不住笑了。",
+      "eng": "Don't keep the light on when you leave the office at night.",
+      "chi": "你晚上離開辦公室時不要讓燈保持開著。",
       "keywords": [
-        "cannot help",
-        "V-ing",
-        "忍不住",
-        "特殊用法"
+        "keep",
+        "on",
+        "動詞片語搭配"
       ]
     }
   ],
-  "adj_table_for": [],
+  "adj_table_for": [
+    {
+      "adj": "open",
+      "zh": "開著的"
+    },
+    {
+      "adj": "closed",
+      "zh": "關閉的"
+    },
+    {
+      "adj": "clean",
+      "zh": "乾淨的"
+    },
+    {
+      "adj": "busy",
+      "zh": "忙碌的"
+    },
+    {
+      "adj": "safe",
+      "zh": "安全的"
+    },
+    {
+      "adj": "warm",
+      "zh": "溫暖的"
+    },
+    {
+      "adj": "dry",
+      "zh": "乾的"
+    },
+    {
+      "adj": "silent",
+      "zh": "沉默的"
+    },
+    {
+      "adj": "secret",
+      "zh": "秘密的"
+    },
+    {
+      "adj": "waiting",
+      "zh": "等待中的（現在分詞作形容詞）"
+    },
+    {
+      "adj": "running",
+      "zh": "運行中的（現在分詞作形容詞）"
+    },
+    {
+      "adj": "locked",
+      "zh": "上鎖的（過去分詞作形容詞）"
+    }
+  ],
   "adj_table_of": [],
   "extension": {
-    "tip": "判斷help用法的關鍵：看後面是否直接有受詞。有受詞用「help + O + (to) V」；無受詞用「help + (to) V」。「cannot help + V-ing」是固定片語，專表「忍不住」，語意上通常代表無法控制的行為反應。",
+    "tip": "判斷技巧：若表「靜態狀況」用形容詞（如open, closed, clean）；若表「動態進行」用現在分詞（如calling, working, playing）。keep V-ing不需受詞，表持續反覆；keep O adj./V-ing則需受詞。注意leave O adj.強調狀態留下。",
     "examples": [
       {
-        "test": "I helped him finish the project. vs. I helped finish the project.",
-        "result": "→ 前者有受詞him，後者無受詞。兩句皆正確，只是及物與不及物的區別。"
+        "test": "Keep the door _____ (open/opening) for the guests.",
+        "result": "→ Keep the door open（形容詞，保持開啟狀態）"
       },
       {
-        "test": "I cannot help but laugh. vs. I cannot help laughing.",
-        "result": "→ 兩種形式皆可接受，皆表「忍不住笑」，但cannot help + V-ing最為常用。"
+        "test": "He kept _____ (talk/talking) about the same topic.",
+        "result": "→ He kept talking（V-ing，持續進行的動作）"
       },
       {
-        "test": "錯誤：I helped him to go there. 正確：I helped him go there.",
-        "result": "→ 在help句型中，to可省略。省略to會更自然且更常見。"
+        "test": "Don't leave the children _____ (alone/aloning) in the house.",
+        "result": "→ Don't leave the children alone（形容詞，靜態狀態）"
       }
     ],
-    "note": "help後有受詞時to可省；cannot help固定搭配V-ing；記住「幫助」與「忍不住」兩大用法分野。"
+    "note": "形容詞→靜態狀態；V-ing→動態進行；keep O adj./V-ing有受詞，keep V-ing無受詞。"
   },
   "exercises": [
     {
       "id": 1,
       "parts": [
-        "The coach helped the young athletes ",
+        "You should ",
         null,
-        " their skills and techniques."
+        " your room clean and organized.",
+        null
       ],
       "blanks": [
-        "(to) improve"
+        "keep",
+        "/"
       ],
-      "sentence": "The coach helped the young athletes (to) improve their skills and techniques.",
-      "translation": "教練幫助年輕運動員改進他們的技巧和技術。",
+      "sentence": "You should keep your room clean and organized.",
+      "translation": "你應該保持你的房間乾淨且有序。",
       "keywords": [
-        "help",
-        "及物用法",
-        "to可省"
+        "keep",
+        "clean",
+        "形容詞"
       ]
     },
     {
       "id": 2,
       "parts": [
-        "We all helped ",
+        "The mother left her baby ",
         null,
-        " the classroom before the principal's visit."
+        " in the crib while she prepared dinner.",
+        null
       ],
       "blanks": [
-        "(to) clean"
+        "sleeping",
+        "/"
       ],
-      "sentence": "We all helped (to) clean the classroom before the principal's visit.",
-      "translation": "在校長視察前，我們都幫忙打掃教室。",
+      "sentence": "The mother left her baby sleeping in the crib while she prepared dinner.",
+      "translation": "媽媽在準備晚餐時讓她的嬰兒在嬰兒床裡睡著。",
       "keywords": [
-        "help",
-        "不及物用法",
-        "共同動作"
+        "leave",
+        "sleeping",
+        "現在分詞"
       ]
     },
     {
       "id": 3,
       "parts": [
-        "She cannot help ",
+        "If you ",
         null,
-        " when her favorite song plays on the radio."
+        " trying hard, you will eventually succeed in this project.",
+        null
       ],
       "blanks": [
-        "dancing"
+        "keep",
+        "/"
       ],
-      "sentence": "She cannot help dancing when her favorite song plays on the radio.",
-      "translation": "當她最喜歡的歌曲在廣播中播放時，她忍不住跳舞。",
+      "sentence": "If you keep trying hard, you will eventually succeed in this project.",
+      "translation": "如果你持續努力，你最終會在這個專案中成功。",
       "keywords": [
-        "cannot help",
-        "V-ing",
-        "忍不住"
+        "keep",
+        "trying",
+        "持續動作"
       ]
     },
     {
       "id": 4,
       "parts": [
-        "The doctor helped the elderly patient ",
+        "Please ",
         null,
-        " the medication correctly."
+        " the windows ",
+        null,
+        " to prevent the rain from coming in.",
+        null
       ],
       "blanks": [
-        "(to) take"
+        "keep",
+        "closed",
+        "/"
       ],
-      "sentence": "The doctor helped the elderly patient (to) take the medication correctly.",
-      "translation": "醫生幫助老年患者正確服用藥物。",
+      "sentence": "Please keep the windows closed to prevent the rain from coming in.",
+      "translation": "請保持窗戶關閉以防止雨水進來。",
       "keywords": [
-        "help",
-        "受詞",
-        "不定詞"
+        "keep",
+        "closed",
+        "形容詞"
       ]
     }
   ],
-  "vocab_table": [
-    {
-      "adj": "finish",
-      "zh": "完成"
-    },
-    {
-      "adj": "understand",
-      "zh": "理解"
-    },
-    {
-      "adj": "prepare",
-      "zh": "準備"
-    },
-    {
-      "adj": "solve",
-      "zh": "解決"
-    },
-    {
-      "adj": "improve",
-      "zh": "改善"
-    },
-    {
-      "adj": "succeed",
-      "zh": "成功"
-    },
-    {
-      "adj": "laugh",
-      "zh": "笑"
-    },
-    {
-      "adj": "cry",
-      "zh": "哭"
-    },
-    {
-      "adj": "think",
-      "zh": "認為"
-    },
-    {
-      "adj": "remember",
-      "zh": "記得"
-    },
-    {
-      "adj": "feel",
-      "zh": "感受"
-    },
-    {
-      "adj": "wonder",
-      "zh": "想知道"
-    }
-  ],
-  "vocab_table_label": "常用動詞",
   "mc_exercises": [
     {
-      "question_chi": "選擇最適當的句子完成此句：媽媽幫助孩子完成功課。",
-      "question_eng": "My mother helped her child _______ his homework.",
+      "question_chi": "選擇正確的詞彙完成句子，表示保持門開著的狀態。",
+      "question_eng": "Please keep the door _______ so the fresh air can come in.",
       "options": [
         {
           "key": "A",
-          "text": "to finish"
+          "text": "opening"
         },
         {
           "key": "B",
-          "text": "finishing"
+          "text": "open"
         },
         {
           "key": "C",
-          "text": "finished"
+          "text": "opens"
         },
         {
           "key": "D",
-          "text": "finish"
+          "text": "to open"
         }
       ],
-      "answer": "D",
-      "explanation": "help後接受詞加原形動詞時，to可省略。A和D都正確，但D更符合現代英文用法。B「finishing」為動名詞，不適用於此句型。C「finished」為過去分詞，用法錯誤。本題測試help的基本用法，正確答案為D。",
+      "answer": "B",
+      "explanation": "正確答案是 B (open)。keep + O + adj. 表示保持某物處於特定靜態狀態，open 是形容詞。A (opening) 是現在分詞，但此處表狀態而非動作；C (opens) 是動詞第三人稱，用法錯誤；D (to open) 是不定詞，不符合此句型結構。",
       "id": 1
     },
     {
-      "question_chi": "選擇正確答案完成句子：老師幫助學生理解這個概念。",
-      "question_eng": "The teacher helped the student _______ the concept.",
+      "question_chi": "選擇正確詞彙，表示老師使教室保持安靜的狀態。",
+      "question_eng": "The teacher kept the classroom _______ during the exam so students could concentrate.",
       "options": [
         {
           "key": "A",
-          "text": "understanding"
+          "text": "silent"
         },
         {
           "key": "B",
-          "text": "to understand"
+          "text": "silencing"
         },
         {
           "key": "C",
-          "text": "understood"
+          "text": "being silent"
         },
         {
           "key": "D",
-          "text": "understand"
-        }
-      ],
-      "answer": "B",
-      "explanation": "help後跟受詞時，可用「to + V」或「V原形」，兩種皆正確。B和D都可接受，但此題強調「to understand」的正式寫法。A「understanding」不符合help的用法。C「understood」為過去分詞，錯誤。題目選B以測試學生對to不定詞的認識。",
-      "id": 2
-    },
-    {
-      "question_chi": "選擇最適當的選項完成此句，注意語境差異。",
-      "question_eng": "I couldn't help _______ when I saw the funny video.",
-      "options": [
-        {
-          "key": "A",
-          "text": "to laugh"
-        },
-        {
-          "key": "B",
-          "text": "laughing"
-        },
-        {
-          "key": "C",
-          "text": "laugh"
-        },
-        {
-          "key": "D",
-          "text": "to laughing"
-        }
-      ],
-      "answer": "B",
-      "explanation": "「cannot/couldn't help + V-ing」是特殊用法，表示「忍不住、無法抗拒」，後面必須跟動名詞。B「laughing」正確。A「to laugh」不符此特殊用法。C「laugh」為原形，用法錯誤。D「to laughing」為文法錯誤，不能同時有to和ing。此題測試學生對cannot help的特殊用法認識。",
-      "id": 3
-    },
-    {
-      "question_chi": "判斷句子意思，選擇最適當的動詞形式完成此句。",
-      "question_eng": "She helped her friend _______ for the exam and couldn't help _______ nervous when the results came out.",
-      "options": [
-        {
-          "key": "A",
-          "text": "prepare; feeling"
-        },
-        {
-          "key": "B",
-          "text": "to prepare; to feel"
-        },
-        {
-          "key": "C",
-          "text": "preparing; to feel"
-        },
-        {
-          "key": "D",
-          "text": "prepare; feel"
+          "text": "to be silent"
         }
       ],
       "answer": "A",
-      "explanation": "第一個help為及物動詞「幫助~準備」，後接受詞加V原形或to+V，此處用「prepare」。第二個「couldn't help」為特殊用法「忍不住~」，必須跟V-ing，故為「feeling」。A正確結合兩個不同的help用法。B和C未正確區分兩種help的用法。D第二個help用法錯誤，應為動名詞。",
+      "explanation": "正確答案是 A (silent)。keep + O + adj. 表示保持靜態狀態，silent 為形容詞。B (silencing) 是現在分詞，強調動作進行中而非狀態保持；C (being silent) 語法冗余；D (to open) 不符合句型結構。此句型著重於狀態維持，需用形容詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確選項，區別 keep 和 leave 搭配動詞或形容詞的用法差異。",
+      "question_eng": "He left the window _______ all night, but I kept the lights _______ to save electricity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "open; off"
+        },
+        {
+          "key": "B",
+          "text": "opening; turning off"
+        },
+        {
+          "key": "C",
+          "text": "opened; turned off"
+        },
+        {
+          "key": "D",
+          "text": "to open; to turn off"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (open; off)。leave/keep + O + adj. 都表示保持靜態狀態。open 和 off 都是形容詞，描述窗戶和燈的狀態。B 用現在分詞強調動作而非狀態；C 用過去分詞表被動而非狀態保持；D 用不定詞結構錯誤。此句型強調保持狀態，應使用形容詞。",
+      "id": 3
+    },
+    {
+      "question_chi": "區別 keep + V-ing（持續動作）和 keep + O + adj.（保持狀態）的用法。",
+      "question_eng": "Mary _______ complaining about the noise, so I decided to leave her alone. Meanwhile, I kept my bedroom door _______ to block the sound.",
+      "options": [
+        {
+          "key": "A",
+          "text": "kept; closing"
+        },
+        {
+          "key": "B",
+          "text": "keeps; closed"
+        },
+        {
+          "key": "C",
+          "text": "kept; closed"
+        },
+        {
+          "key": "D",
+          "text": "keeps; closing"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (kept; closed)。第一空為過去式 kept + V-ing，表示瑪麗持續反覆抱怨。第二空為 keep + O + adj.，kept my door closed 表保持房門處於關閉狀態。A 的 closing 誤用為狀態；B 時態不符（當前文用過去式）；D 混淆兩種用法，第二空應用形容詞，不能用現在分詞。",
       "id": 4
     }
   ],
   "translation_exercises": [
     {
       "id": 1,
-      "sentence_chi": "媽媽幫我複習英文功課。",
-      "answer": "My mother helps me (to) review English homework.",
+      "sentence_chi": "媽媽叫我保持房間整潔。",
+      "answer": "My mother asks me to keep my room clean.",
       "key_points": [
-        "help + O + (to) V 結構",
-        "to 可省略",
-        "review（複習）"
+        "keep + O + adj.",
+        "room（房間）",
+        "clean（整潔的形容詞）"
       ],
       "hints": [
-        "提示1：help 為及物動詞，後接受詞 me，再接原形或 to 不定詞",
-        "提示2：常見錯誤是寫成『helps me reviewing』，動詞應用原形或 to 不定詞，不用 V-ing"
+        "句型框架：keep + O + 形容詞，表保持某物處於特定狀態",
+        "注意：clean 是形容詞，不是動詞；若要用動詞應改為 cleaning（現在分詞）"
       ]
     },
     {
       "id": 2,
-      "sentence_chi": "老師幫助學生們理解這個複雜的文法概念。",
-      "answer": "The teacher helps the students (to) understand this complicated grammar concept.",
+      "sentence_chi": "老師要求學生在考試期間保持安靜。",
+      "answer": "The teacher requires students to keep quiet during the exam.",
       "key_points": [
-        "help + O + (to) V 結構",
-        "complicated grammar concept（複雜的文法概念）",
-        "to 省略後仍正確"
+        "keep + O + adj.",
+        "quiet（安靜的）",
+        "during the exam（在考試期間）"
       ],
       "hints": [
-        "提示1：『幫助某人做某事』的標準句型是 help sb. (to) do sth.，to 在此位置可加可不加",
-        "提示2：注意『理解』用 understand，不要用 comprehend；『概念』用 concept 較為恰當"
+        "句型框架：keep + O + 形容詞，此處 quiet 形容詞修飾 students 的狀態",
+        "常見錯誤：誤用 keeping quiet 或 be quiet，應用 keep + adj. 結構"
       ]
     },
     {
       "id": 3,
-      "sentence_chi": "我無法抗拒想要檢查手機裡的新訊息。",
-      "answer": "I cannot help (but) checking my phone for new messages.",
+      "sentence_chi": "不要讓食物放在外面太久而變壞。",
+      "answer": "Don't leave the food sitting out for too long.",
       "key_points": [
-        "cannot help + V-ing 特殊句型",
-        "check one's phone（檢查手機）",
-        "新訊息 new messages"
+        "leave + O + V-ing",
+        "food（食物）",
+        "sitting out（放在外面，現在分詞表動作）"
       ],
       "hints": [
-        "提示1：『無法抗拒、忍不住』要用『cannot help + V-ing』，此時 help 後必須接動名詞，意思與普通用法完全不同",
-        "提示2：常見錯誤是寫『cannot help to check』或『cannot help check』，這兩種都不對；正確形式是『cannot help + V-ing』或『cannot help but + V』"
+        "句型框架：leave + O + V-ing，表讓某物處於持續的動作狀態；leave 強調「放任不管」",
+        "注意：sitting out 是現在分詞短語，描述食物被放在外面的狀態"
       ]
     },
     {
       "id": 4,
-      "sentence_chi": "看到班上同學失敗的表現，我忍不住感到難過，所以主動幫他複習準備重考。",
-      "answer": "Seeing my classmate's failed performance, I could not help but feel sad, so I actively helped him (to) prepare for the makeup exam.",
+      "sentence_chi": "他整天持續玩手機，這讓他的視力保持惡化的狀態。",
+      "answer": "He keeps playing with his phone all day, which leaves his eyesight getting worse.",
       "key_points": [
-        "cannot help but + V 表達無法抗拒的情感",
-        "help + O + (to) V 表達主動幫助",
-        "failed performance 與 makeup exam 的詞彙"
+        "keep + V-ing（無受詞，表持續反覆）",
+        "leave + O + V-ing",
+        "eyesight getting worse（視力惡化的現在分詞片語）"
       ],
       "hints": [
-        "提示1：前半句用『cannot help but + V』表達忍不住的悲傷；後半句用『help + O + (to) V』表達主動幫助，兩種 help 用法需區分清楚",
-        "提示2：『重考』用 makeup exam；『準備』用 prepare for；注意第一個 help 後接動名詞/動詞原形（情感反應），第二個 help 後接受詞+動詞原形（實際幫助動作）"
+        "句型框架有兩種：keep playing（持續玩）是 keep + V-ing；leave his eyesight getting worse 是 leave + O + V-ing",
+        "易混淆：keep + V-ing 無受詞表反覆動作；keep + O + V-ing/adj. 有受詞表保持狀態；leave + O + V-ing 強調放任導致的消極狀態"
       ]
     }
   ]
