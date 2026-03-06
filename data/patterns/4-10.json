@@ -199,5 +199,107 @@
       "zh": "情況名詞，可與why或when搭配"
     }
   ],
-  "vocab_table_label": "關係副詞"
+  "vocab_table_label": "關係副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係副詞填空，修飾地點名詞",
+      "question_eng": "The café _______ we had lunch yesterday serves delicious coffee and pastries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "空格前為 café（地點名詞），需用關係副詞 where（= in which）修飾。選項 B 的 when 修飾時間；C 的 which 為關係代名詞，在子句中需占位置，此處不符；D 的 that 不能用於關係副詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的關係副詞填空，修飾時間名詞",
+      "question_eng": "The day _______ she received the scholarship offer was the happiest moment of her life.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "空格前為 day（時間名詞），需用關係副詞 when（= on which）修飾。選項 A 的 where 修飾地點；C 的 in which 雖意思接近但不夠簡潔，習慣上直接用 when；D 的 what 為疑問詞，用法不同。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的關係副詞填空，修飾原因名詞",
+      "question_eng": "The reason _______ he decided to study abroad was to pursue better educational opportunities.",
+      "options": [
+        {
+          "key": "A",
+          "text": "why"
+        },
+        {
+          "key": "B",
+          "text": "where"
+        },
+        {
+          "key": "C",
+          "text": "when"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "空格前為 reason（原因名詞），需用關係副詞 why（= for which）修飾。選項 B 的 where 修飾地點；C 的 when 修飾時間；D 的 which 為關係代名詞，用於 reason 時應搭配 for 或改用 why。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的關係副詞填空，考察多個名詞的辨析",
+      "question_eng": "The moment _______ we arrived at the beach was unforgettable, and the beach _______ we played volleyball all day long was absolutely beautiful.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when; where"
+        },
+        {
+          "key": "B",
+          "text": "where; when"
+        },
+        {
+          "key": "C",
+          "text": "when; that"
+        },
+        {
+          "key": "D",
+          "text": "where; which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空的 moment 是時間名詞，用 when；第二空的 beach 是地點名詞，用 where。選項 B 交換錯誤；C 的 that 無法作關係副詞修飾地點；D 的 which 為代名詞，需在子句中占位置，此處應用關係副詞。",
+      "id": 4
+    }
+  ]
 }

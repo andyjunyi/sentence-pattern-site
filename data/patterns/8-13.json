@@ -199,5 +199,107 @@
       "zh": "防止"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的目的子句形式，完成句子",
+      "question_eng": "He wakes up early every day _______ he can catch the first bus to work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "because"
+        },
+        {
+          "key": "D",
+          "text": "therefore"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「so that」。此句表示目的（為了能趕上公車），需用「so that + S + can + V」的完整子句形式。B「so」是連接詞但不能引導目的子句；C「because」表原因而非目的；D「therefore」是副詞無法引導子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷目的子句中的助動詞選用是否正確",
+      "question_eng": "The teacher explained the grammar rule slowly in order that all students _______ understand it clearly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "would"
+        },
+        {
+          "key": "C",
+          "text": "can"
+        },
+        {
+          "key": "D",
+          "text": "could"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「can」。「in order that + S + can + V」表示現在或一般性的目的，should use 「can」表可能性。A「will」用於未來確定事件；B「would」和D「could」為過去或假設用法，不適合此正式教學情境。",
+      "id": 2
+    },
+    {
+      "question_chi": "比較完整子句和簡化形式的目的表達",
+      "question_eng": "The company invested in new technology _______ to improve productivity and reduce costs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order that it can"
+        },
+        {
+          "key": "B",
+          "text": "so that it will"
+        },
+        {
+          "key": "C",
+          "text": "so as"
+        },
+        {
+          "key": "D",
+          "text": "in order"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「so as」。句子結構為「投資新技術以便改進生產力」，主詞相同可用簡化形式「so as to + V」。A和B為完整子句形式但不符簡化結構；D「in order」不完整，必須是「in order to」才正確。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷「so that」是表目的還是結果，並選擇正確助動詞",
+      "question_eng": "He studied all night so that he _______ pass the difficult exam the next morning, and he eventually succeeded.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would"
+        },
+        {
+          "key": "B",
+          "text": "will"
+        },
+        {
+          "key": "C",
+          "text": "might"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「would」。由於後句「he eventually succeeded」表實際結果已發生，此「so that」應理解為結果子句，過去式背景下用「would」表當時的未來。B「will」為現在式；C「might」表可能性；D「can」為現在式，皆不符過去敘事的時態一致性要求。",
+      "id": 4
+    }
+  ]
 }

@@ -199,5 +199,107 @@
       "zh": "發現"
     }
   ],
-  "vocab_table_label": "常用分詞構句形式"
+  "vocab_table_label": "常用分詞構句形式",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的分詞構句形式，表示時間順序。",
+      "question_eng": "_______ his work, he left the office and went home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Finishing"
+        },
+        {
+          "key": "B",
+          "text": "Finished"
+        },
+        {
+          "key": "C",
+          "text": "Having finished"
+        },
+        {
+          "key": "D",
+          "text": "To finish"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Finishing)。分詞構句用現在分詞表示與主句同時發生的動作。分詞邏輯主詞 (he) 與主句主詞相同，應使用簡單現在分詞。B 項 (Finished) 是過去分詞，不符合主動意義。C 項 (Having finished) 強調先後順序但不必要。D 項 (To finish) 是不定詞，無法作分詞構句。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的分詞構句，表示原因關係。",
+      "question_eng": "_______ the heavy traffic, Sarah arrived at the meeting late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Being caught in"
+        },
+        {
+          "key": "B",
+          "text": "Caught in"
+        },
+        {
+          "key": "C",
+          "text": "To be caught in"
+        },
+        {
+          "key": "D",
+          "text": "Having been caught in"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Being caught in)。分詞構句表原因時，若動詞是被動意義，應使用「being + 過去分詞」形式。Sarah 被困在車陣中（被動），所以用 being caught in。B 項 (Caught in) 省略 being，在標準文法中不正確。C 項 (To be caught in) 是不定詞。D 項 (Having been caught in) 強調完成，但無必要。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式，注意分詞邏輯主詞與主句主詞是否一致。",
+      "question_eng": "_______ the alarm clock, the family woke up immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hearing the sound of"
+        },
+        {
+          "key": "B",
+          "text": "Heard the sound of"
+        },
+        {
+          "key": "C",
+          "text": "Having the sound of"
+        },
+        {
+          "key": "D",
+          "text": "The alarm clock ringing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Hearing the sound of)。分詞邏輯主詞 (the family) 與主句主詞相同，用現在分詞表原因。B 項 (Heard) 是過去式動詞，不是分詞構句。C 項 (Having) 用法錯誤。D 項 (The alarm clock ringing) 是獨立分詞構句形式，邏輯主詞不同，但這裡邏輯主詞應該相同。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨識獨立分詞構句，邏輯主詞與主句主詞不同時的用法。",
+      "question_eng": "_______ the weather becoming colder, the animals began to prepare for winter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "With"
+        },
+        {
+          "key": "B",
+          "text": "Because of"
+        },
+        {
+          "key": "C",
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "During"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (With)。當分詞構句的邏輯主詞 (weather) 與主句主詞 (animals) 不同時，應使用獨立分詞構句，前置 With。完整形式：With the weather becoming colder。B 項 (Because of) 後接名詞，不接分詞。C 項 (Since) 是連接詞，不符形式。D 項 (During) 後接名詞，無法連接分詞構句。",
+      "id": 4
+    }
+  ]
 }

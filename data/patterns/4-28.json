@@ -218,5 +218,107 @@
         "that"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛受詞句型，完成句子。",
+      "question_eng": "Many students find it _______ to memorize all the vocabulary for the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "challenge"
+        },
+        {
+          "key": "B",
+          "text": "challenging"
+        },
+        {
+          "key": "C",
+          "text": "challenge to"
+        },
+        {
+          "key": "D",
+          "text": "being challenged"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。虛受詞句型 find it + adj. + to V 中，it 後必須接形容詞，所以用 challenging（具挑戰性的）。A 是名詞，文法錯誤；C 重複 to，結構不對；D 是分詞短語，不符合句型要求。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據虛受詞句型，選擇最適合的選項。",
+      "question_eng": "I think it _______ that you should apologize to your friend immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "necessary"
+        },
+        {
+          "key": "B",
+          "text": "is necessary"
+        },
+        {
+          "key": "C",
+          "text": "necessarily"
+        },
+        {
+          "key": "D",
+          "text": "to be necessary"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。虛受詞句型 think it + adj. + that 子句中，it 後需直接接形容詞 necessary（必需的），無須加 is。B 多了助動詞，破壞句型；C 是副詞，修飾動詞不符；D 結構錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇能完成句子的正確虛受詞結構。",
+      "question_eng": "She considers it _______ to maintain a work-life balance in order to achieve long-term success.",
+      "options": [
+        {
+          "key": "A",
+          "text": "essential undertaking"
+        },
+        {
+          "key": "B",
+          "text": "essential to undertake"
+        },
+        {
+          "key": "C",
+          "text": "essential undertaking"
+        },
+        {
+          "key": "D",
+          "text": "essentially undertake"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。虛受詞句型為 consider it + adj. + to V，所以應為 it essential to maintain。A 和 C 缺少 to 且句型不完整；D 使用副詞且無 to 不定詞，文法錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：辨別虛受詞 it 與真正受詞的差異。",
+      "question_eng": "The professor made it clear to all students _______ the deadline for submitting research papers would not be extended under any circumstances.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "how"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。虛受詞句型 make it + adj. + to 受詞 (that 子句) 中，真正受詞由 that 子句承接，說明具體內容。B 是關係代詞，無法引導名詞子句；C 引導方式子句；D 引導疑問子句，皆不符。此句 it 是形式受詞，that 子句才是真實受詞。",
+      "id": 4
+    }
   ]
 }

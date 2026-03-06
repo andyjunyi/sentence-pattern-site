@@ -210,5 +210,107 @@
       "zh": "上鎖的；關上的"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的受詞補語，完成句子。",
+      "question_eng": "The coach keeps his players _______ before every game.",
+      "options": [
+        {
+          "key": "A",
+          "text": "motivated"
+        },
+        {
+          "key": "B",
+          "text": "motivating"
+        },
+        {
+          "key": "C",
+          "text": "to motivate"
+        },
+        {
+          "key": "D",
+          "text": "having motivated"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。keep + O + OC 中，補語應為形容詞，表示「保持...的狀態」。motivated 是形容詞，表示「被激勵的狀態」。B 選項 motivating 是現在分詞，不符合此句型；C 選項不定式不作補語；D 選項為完成分詞形式，不適用此句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇最適合的選項來完成句子。",
+      "question_eng": "We found the conference room _______when we arrived at the office.",
+      "options": [
+        {
+          "key": "A",
+          "text": "being locked"
+        },
+        {
+          "key": "B",
+          "text": "locked"
+        },
+        {
+          "key": "C",
+          "text": "locking"
+        },
+        {
+          "key": "D",
+          "text": "to be locked"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。find + O + OC 中，過去分詞 locked 作補語，表示「發現房間被鎖的狀態」。A 選項 being locked 為進行被動，語意過於複雜；C 選項 locking 為現在分詞，表主動；D 選項不定式搭配不當。過去分詞可直接作補語，無需 being。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的補語形式，完成句子。",
+      "question_eng": "The committee _______ her _______ the most suitable candidate for the position.",
+      "options": [
+        {
+          "key": "A",
+          "text": "considered / as"
+        },
+        {
+          "key": "B",
+          "text": "considered / being"
+        },
+        {
+          "key": "C",
+          "text": "made / as"
+        },
+        {
+          "key": "D",
+          "text": "found / to be"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。consider + O + OC 時，名詞補語需搭配介詞 as，表「認為...為...」。句型為 consider + O + as + N。B 選項 being 不符；C 選項 make 與 as 搭配不當；D 選項 found to be 較冗餘，且不如 A 簡潔。此題強調 consider 與 as 的搭配關係。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據語意，選擇最恰當的動詞和補語形式。",
+      "question_eng": "The scandal _______ the politician's reputation _______, forcing him to resign.",
+      "options": [
+        {
+          "key": "A",
+          "text": "made / ruin"
+        },
+        {
+          "key": "B",
+          "text": "kept / ruined"
+        },
+        {
+          "key": "C",
+          "text": "found / ruining"
+        },
+        {
+          "key": "D",
+          "text": "considered / to be ruined"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。keep + O + OC 表「使...保持某狀態」，過去分詞 ruined 作補語，表「持續處於被破壞狀態」。A 選項 make + ruin（原形動詞）不當，make 後應接形容詞或過去分詞；C 選項 found 語意不符（「發現」不適當）；D 選項 considered + to be ruined 過於冗長，且動詞搭配不當。",
+      "id": 4
+    }
+  ]
 }

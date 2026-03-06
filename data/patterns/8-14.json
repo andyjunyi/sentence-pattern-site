@@ -203,5 +203,107 @@
       "zh": "如承諾"
     }
   ],
-  "vocab_table_label": "常用副詞"
+  "vocab_table_label": "常用副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的方式子句，表達「如同……一樣」的比較意義",
+      "question_eng": "The children played in the park _______ their parents watched from the bench.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as"
+        },
+        {
+          "key": "B",
+          "text": "like"
+        },
+        {
+          "key": "C",
+          "text": "such as"
+        },
+        {
+          "key": "D",
+          "text": "the same as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（as）。此句表達兩個同時進行的動作，需用 as 引導方式副詞子句，後接完整主賓結構「their parents watched」。B 項 like 是介詞，後接名詞片語而非子句。C 項 such as 用於列舉例子。D 項 the same as 是比較結構，不引導子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當詞彙，完成方式子句表達「恰如……一樣」",
+      "question_eng": "The students studied hard _______ they had done before the previous exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "just as"
+        },
+        {
+          "key": "B",
+          "text": "just like"
+        },
+        {
+          "key": "C",
+          "text": "as if"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（just as）。句子強調學生像之前一樣用功，需用 just as 引導方式子句，表達「恰如……一樣」的比較意義，後接完整子句「they had done」。B 項 just like 為介詞片語，後應接名詞而非動詞。C 項 as if 表假設語氣。D 項 as long as 表條件。",
+      "id": 2
+    },
+    {
+      "question_chi": "識別正確的方式子句結構，區分 as 與 like 的語法差異",
+      "question_eng": "She managed the project _______ her mentor had instructed her, implementing each strategy with precision.",
+      "options": [
+        {
+          "key": "A",
+          "text": "like"
+        },
+        {
+          "key": "B",
+          "text": "as"
+        },
+        {
+          "key": "C",
+          "text": "in the same way like"
+        },
+        {
+          "key": "D",
+          "text": "similar to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（as）。句子需表達「按照導師的指示方式去管理」，as 後接完整子句「her mentor had instructed her」。A 項 like 為介詞，後只能接名詞片語。C 項結構冗餘且語法錯誤。D 項 similar to 為介詞片語，無法引導子句。as 與 like 的關鍵差異在於 as 可引導子句。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型，同時涉及時間與方式子句，須正確運用 as 引導子句",
+      "question_eng": "The orchestra performed the symphony with passion _______ the conductor led them through each movement, and the audience responded _______ they had on opening night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "like / as"
+        },
+        {
+          "key": "B",
+          "text": "as / just as"
+        },
+        {
+          "key": "C",
+          "text": "just as / like"
+        },
+        {
+          "key": "D",
+          "text": "as / like"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（as / just as）。第一空需表達音樂家與指揮同時進行的動作，用 as 引導方式子句「the conductor led them」。第二空表達「恰如」開幕夜一樣的觀眾反應，用 just as 引導方式子句「they had on opening night」。其他選項混淆了介詞 like 與子句連接詞 as 的用法區別。",
+      "id": 4
+    }
+  ]
 }

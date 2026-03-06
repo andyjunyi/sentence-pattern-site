@@ -197,5 +197,107 @@
         "故障要素"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的例外表達方式，完成句子。",
+      "question_eng": "The meal was delicious _______ the dessert was too sweet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "except for"
+        },
+        {
+          "key": "B",
+          "text": "except that"
+        },
+        {
+          "key": "C",
+          "text": "besides"
+        },
+        {
+          "key": "D",
+          "text": "except of"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。except that 後接完整子句（主詞 + 動詞），用於說明具體狀況。句子結構為「主餐很好吃，除了甜點太甜這個情況」。A 項 except for 後需接名詞，不能接子句。C 項 besides 表「另外加上」（累加意義），不符合例外排除的邏輯。D 項 except of 用法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句義選擇適當的例外詞組，表達缺少的物品。",
+      "question_eng": "Everything is prepared for the wedding _______ the guest list.",
+      "options": [
+        {
+          "key": "A",
+          "text": "besides"
+        },
+        {
+          "key": "B",
+          "text": "except that"
+        },
+        {
+          "key": "C",
+          "text": "except for"
+        },
+        {
+          "key": "D",
+          "text": "except with"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。except for 後接名詞或名詞片語，用於指出特定事物的缺失。「除了賓客名單外，婚禮一切準備就緒」是排除性表達。A 項 besides 表累加，邏輯相反。B 項 except that 後需完整子句，不適用於單一名詞。D 項 except with 用法不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別 except that 與 except for 的用法區別，完成複雜句式。",
+      "question_eng": "The presentation went smoothly _______ there was a technical glitch halfway through, and _______ that glitch, the audience was completely engaged.",
+      "options": [
+        {
+          "key": "A",
+          "text": "except for; except that"
+        },
+        {
+          "key": "B",
+          "text": "except that; except for"
+        },
+        {
+          "key": "C",
+          "text": "except for; except for"
+        },
+        {
+          "key": "D",
+          "text": "besides; except that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。第一空：except that 引導完整子句「there was a technical glitch halfway through」。第二空：except for 後接名詞 that glitch。句意：「簡報進行順利，除了中途有技術故障，除了那個故障外，聽眾完全投入」。A 項順序相反。C 項都用 except for 導致第一空語法錯誤。D 項 besides 不表例外。",
+      "id": 3
+    },
+    {
+      "question_chi": "在複合句中正確運用 except that 與 except for，辨別細微差異。",
+      "question_eng": "The research project has achieved all its objectives _______ the funding committee's requirements weren't fully met, and _______ the time constraints, the team still managed to produce comprehensive results.",
+      "options": [
+        {
+          "key": "A",
+          "text": "except that; except for"
+        },
+        {
+          "key": "B",
+          "text": "except for; except that"
+        },
+        {
+          "key": "C",
+          "text": "except that; except that"
+        },
+        {
+          "key": "D",
+          "text": "except for; except for"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空：except that 引導完整子句「the funding committee's requirements weren't fully met」，說明具體狀況。第二空：except for 後接名詞片語 the time constraints，指出特定的限制條件。整句邏輯：「研究計畫達成所有目標，除了委員會要求未完全滿足；除了時間限制外，團隊仍產出完整成果」。B 項順序錯誤。C、D 項混淆兩種結構用法。",
+      "id": 4
+    }
   ]
 }

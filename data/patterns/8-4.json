@@ -197,5 +197,107 @@
       "zh": "與……相反"
     }
   ],
-  "vocab_table_label": "常用讓步連接詞"
+  "vocab_table_label": "常用讓步連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的讓步連接詞完成句子",
+      "question_eng": "_______ he was very tired, he continued working on the project.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Because"
+        },
+        {
+          "key": "C",
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "While"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 Although。句子表達「儘管他很累，他仍然繼續工作」，這是讓步關係。Although 正確表達兩個相對立的事實。B 項 Because 表因果關係不符；C 項 Since 表原因或時間；D 項 While 通常表時間對比，不如 Although 強調讓步。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷句子中讓步子句與主句的搭配是否正確",
+      "question_eng": "Even though the ticket price was expensive, but many people bought them _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "immediately"
+        },
+        {
+          "key": "B",
+          "text": "anyway"
+        },
+        {
+          "key": "C",
+          "text": "instead"
+        },
+        {
+          "key": "D",
+          "text": "however"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 anyway（B）。但題目句結構有誤，不能同時使用 even though 與 but。應修改為「Even though the ticket price was expensive, many people bought them anyway.」或「Because the ticket price was expensive, but many people bought them anyway.」A/C/D 雖都是副詞但不符語境。需要 anyway 來補充讓步意味。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當選項，並考量 although 與 even though 語氣的差異",
+      "question_eng": "_______ the heavy rain, the construction work was not delayed at all.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Even though"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Despite of"
+        },
+        {
+          "key": "D",
+          "text": "In spite though"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 Even though（A）。句子強調「儘管下大雨這個相當不利的情況，工程仍未延誤」，even though 語氣最強，強調對比性。Although 也可用但語氣較弱。C 項 Despite of 錯誤（應為 Despite）；D 項 In spite though 非正確搭配。句型需要連接詞引導完整子句。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合應用：正確使用讓步子句，辨別複句結構與語法",
+      "question_eng": "Though he had received several job offers from prestigious companies, he decided to _______ for further education instead of starting work immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "apply because of his strong academic background"
+        },
+        {
+          "key": "B",
+          "text": "pursue his master's degree"
+        },
+        {
+          "key": "C",
+          "text": "although his family disagreed with this choice"
+        },
+        {
+          "key": "D",
+          "text": "so that he could gain more experience"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。Though 引導的讓步子句「Though he had received several job offers...」應搭配邏輯清晰的主句動詞及受詞，「pursue his master's degree」完整表達主句意思。A 項不適合作動詞受詞；C 項錯誤（不能加另一個 although 子句）；D 項引入目的但破壞句子原意。題目測試複句結構的完整性與邏輯一致性。",
+      "id": 4
+    }
+  ]
 }

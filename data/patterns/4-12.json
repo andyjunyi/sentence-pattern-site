@@ -203,5 +203,107 @@
       "zh": "不幸地"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的關係代詞，補充說明主詞的額外資訊",
+      "question_eng": "My best friend, _______ lives in Taipei, invited me to her birthday party last weekend.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "answer": "A",
+      "explanation": "非限定關係子句（由逗號分隔）補充說明人物名詞 friend，應用 who。選項 B「that」不可用於非限定子句；C「which」用於事物或整個前句；D「where」為地點關係副詞，語法不當。",
+      "id": 1
+    },
+    {
+      "question_chi": "識別非限定子句，正確補充事物的額外資訊",
+      "question_eng": "The smartphone, _______ has advanced camera features, became very popular among teenagers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "who"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "非限定子句補充說明事物名詞 smartphone，應用 which。選項 A「that」不可用於非限定子句；C「who」代替人物；D「what」為複合關係代詞，不適合此結構。逗號是判斷非限定子句的關鍵標記。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷非限定子句修飾對象，正確使用關係代詞",
+      "question_eng": "The project was completed ahead of schedule, _______ impressed all the team members and executives.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "C",
+      "explanation": "非限定子句修飾整個前句（完成提前的事實），應用 which。選項 A「who」代替人物；B「that」不可用於非限定子句；D「whose」為所有格，用法不當。which 可代替整個前述子句提供補充說明。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句式中識別非限定子句，正確補充多重資訊",
+      "question_eng": "Professor Chen, _______ has published numerous papers in international journals, will deliver a lecture on climate science next month, _______ is expected to attract hundreds of researchers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who / which"
+        },
+        {
+          "key": "B",
+          "text": "that / that"
+        },
+        {
+          "key": "C",
+          "text": "which / who"
+        },
+        {
+          "key": "D",
+          "text": "who / that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空補充人物名詞 Professor Chen 用 who；第二空補充整個前句（演講活動）用 which。兩處均為非限定子句（由逗號分隔）。選項 B「that」不可用於非限定子句；C 順序相反；D 第二空錯用「that」。此題考驗對非限定子句結構的整體理解。",
+      "id": 4
+    }
+  ]
 }

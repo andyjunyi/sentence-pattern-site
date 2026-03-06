@@ -199,5 +199,107 @@
       "zh": "迅速的"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合填空的連接詞，表達兩動作的立即先後關係",
+      "question_eng": "_______ you finish your homework, you can go out and play with your friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As soon as"
+        },
+        {
+          "key": "B",
+          "text": "Because"
+        },
+        {
+          "key": "C",
+          "text": "Although"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「As soon as」，表示「一...就...」，強調兩動作的立即先後關係。選項B「Because」（因為）表因果關係；選項C「Although」（雖然）表讓步；選項D「Unless」（除非）表條件否定。文意需要表達完成功課後就可外出，只有A符合。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的時態，注意時間子句的時態規則",
+      "question_eng": "The moment he _______ the news, he immediately called his parents to share the good news.",
+      "options": [
+        {
+          "key": "A",
+          "text": "heard"
+        },
+        {
+          "key": "B",
+          "text": "will hear"
+        },
+        {
+          "key": "C",
+          "text": "has heard"
+        },
+        {
+          "key": "D",
+          "text": "would hear"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「heard」。雖然主要子句「called」用過去式表達已發生的事件，時間子句中的「The moment」後仍須用過去簡單式對應。選項B「will hear」違反時間子句不用將來式的規則；選項C「has heard」與過去敘事背景不符；選項D「would hear」為條件虛擬語氣，不適用於此。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確句子，強調第一次發生的條件含義",
+      "question_eng": "Which sentence is correct? A. Once you will submit the application, it cannot be changed. B. Once you submit the application, it cannot be changed. C. Once you submitted the application, it cannot be changed. D. Once you have submitted the application, it cannot be changed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Once you will submit the application, it cannot be changed."
+        },
+        {
+          "key": "B",
+          "text": "Once you submit the application, it cannot be changed."
+        },
+        {
+          "key": "C",
+          "text": "Once you submitted the application, it cannot be changed."
+        },
+        {
+          "key": "D",
+          "text": "Once you have submitted the application, it cannot be changed."
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為B。「Once」引導的時間子句須用現在簡單式表達未來事件「submit」，主要子句才能用「cannot be changed」表達後續結果。選項A「will submit」違反時間子句時態規則；選項C「submitted」為過去式，與主要子句現在狀態不符；選項D「have submitted」為完成式，改變原意為已完成的事實而非條件敘述。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考查連接詞選擇、時態運用及立即性強調",
+      "question_eng": "_______ the project manager _______ the final report, all team members _______ to celebrate the successful completion of their work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As soon as / submits / gather"
+        },
+        {
+          "key": "B",
+          "text": "The moment / will submit / will gather"
+        },
+        {
+          "key": "C",
+          "text": "Once / submitting / have gathered"
+        },
+        {
+          "key": "D",
+          "text": "When / has submitted / gathers"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「As soon as / submits / gather」。時間子句「As soon as the project manager submits」用現在簡單式表未來，強調立即性；主要子句「all team members gather」用現在簡單式描述隨後發生的動作。選項B「will submit」違反時間子句時態規則；選項C「submitting」為動名詞，不能作時間子句動詞；選項D「has submitted」為完成式，不符合簡潔敘事風格，且「when」的立即性不如「as soon as」。",
+      "id": 4
+    }
+  ]
 }

@@ -201,5 +201,107 @@
         "establish"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句型完成句子，表達學習英文的重要性。",
+      "question_eng": "_______ English is important for international communication.",
+      "options": [
+        {
+          "key": "A",
+          "text": "To learn"
+        },
+        {
+          "key": "B",
+          "text": "Learning"
+        },
+        {
+          "key": "C",
+          "text": "To learning"
+        },
+        {
+          "key": "D",
+          "text": "Learn"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「To learn」。不定詞或動名詞皆可作主詞，此句強調具體單一動作「學習英文」，用不定詞to learn更自然。C選項「To learning」為文法錯誤，to後接原型動詞；D選項「Learn」為原型動詞，不能直接作主詞；B選項「Learning」雖也可作主詞，但此句用to learn更恰當。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，表達閱讀書籍是一項習慣性活動帶來的益處。",
+      "question_eng": "_______ books regularly helps develop critical thinking skills.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Read"
+        },
+        {
+          "key": "B",
+          "text": "To read"
+        },
+        {
+          "key": "C",
+          "text": "Reading"
+        },
+        {
+          "key": "D",
+          "text": "Being read"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「Reading」。動名詞emphasize習慣性、重複性的動作，「定期閱讀」是一種生活習慣，用動名詞reading更合適。A選項「Read」為原型動詞，不能作主詞；B選項「To read」偏向單一具體動作，不符合此句習慣性用法；D選項「Being read」為被動動名詞，語意不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "改寫句子使其更簡潔，用虛主詞it重新表達。",
+      "question_eng": "To balance work and family responsibilities _______ challenging for many professionals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "being"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「is」。不定詞to balance為單數主詞，需用單數動詞is。此句採「To V + is + adjective」結構，不定詞作邏輯主詞，is為連綴動詞。B選項「are」為複數形式不符；C選項「being」為進行式分詞，與主詞搭配不合；D選項「have been」為完成進行式，不符句型結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "完成句子，需判斷虛主詞it結構與動名詞作主詞的差異應用。",
+      "question_eng": "It is essential _______ regular exercise to maintain good health, and _______ consistently can significantly reduce disease risk.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to do / exercising"
+        },
+        {
+          "key": "B",
+          "text": "doing / to exercise"
+        },
+        {
+          "key": "C",
+          "text": "to doing / exercise"
+        },
+        {
+          "key": "D",
+          "text": "do / exercised"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「to do / exercising」。第一空用it虛主詞結構「It is essential to do」，不定詞作真正主詞；第二空「exercising consistently」為獨立的動名詞片語作主詞，表習慣性動作。B選項前後顛倒；C選項to doing文法錯誤；D選項do與exercised詞性搭配不當。此題考查虛主詞與動名詞主詞的靈活運用。",
+      "id": 4
+    }
   ]
 }

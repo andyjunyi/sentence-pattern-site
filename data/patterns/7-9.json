@@ -199,5 +199,107 @@
       "zh": "未來不確定"
     }
   ],
-  "vocab_table_label": "常用 with 獨立結構"
+  "vocab_table_label": "常用 with 獨立結構",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的with獨立分詞構句，表達伴隨狀態",
+      "question_eng": "_______ the door open, fresh air flowed into the room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "With the door opening"
+        },
+        {
+          "key": "B",
+          "text": "With the door opened"
+        },
+        {
+          "key": "C",
+          "text": "With the door to open"
+        },
+        {
+          "key": "D",
+          "text": "With the door being open"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。door與open為被動關係（門被打開），應使用過去分詞p.p.。A選項opening表主動，邏輯不符；C選項to open為不定式，不適用於with獨立分詞構句；D選項being open過於冗長，此情境不需要。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷分詞形式：她在唱歌時臉上帶著微笑",
+      "question_eng": "_______, she walked gracefully across the stage.",
+      "options": [
+        {
+          "key": "A",
+          "text": "With her chin raised high"
+        },
+        {
+          "key": "B",
+          "text": "With her chin raising high"
+        },
+        {
+          "key": "C",
+          "text": "With her chin being raised high"
+        },
+        {
+          "key": "D",
+          "text": "With her chin to raise high"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。chin與raise為被動關係（下巴被抬高），應使用過去分詞raised。B選項raising表主動執行動作，邏輯錯誤；C選項being raised過於冗長；D選項to raise為不定式，不符with獨立分詞構句結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷主動被動關係：孩子邊唱歌邊走來",
+      "question_eng": "The child came toward us _______, his face beaming with joy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "with his hands holding a flower"
+        },
+        {
+          "key": "B",
+          "text": "with a flower holding in his hands"
+        },
+        {
+          "key": "C",
+          "text": "with his hands being held a flower"
+        },
+        {
+          "key": "D",
+          "text": "with a flower to be held in his hands"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。hands與holding為主動關係（手主動拿著），應使用現在分詞holding。B選項holding放在被動語境但不符合with結構；C選項being held造成邏輯混亂；D選項不定式to be held不適用此構句。with的受詞（hands）為主動執行者。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜情境：選擇正確分詞形式表達伴隨條件",
+      "question_eng": "_______, the conference proceeded smoothly despite the challenging circumstances.",
+      "options": [
+        {
+          "key": "A",
+          "text": "With all participants attending actively and taking notes carefully"
+        },
+        {
+          "key": "B",
+          "text": "With all participants attended actively and taken notes carefully"
+        },
+        {
+          "key": "C",
+          "text": "With all participants having attended actively and having taken notes carefully"
+        },
+        {
+          "key": "D",
+          "text": "With all participants to attend actively and to take notes carefully"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。participants與attend、take為主動關係，應使用現在分詞attending和taking形成平行結構。B選項混用了過去分詞，邏輯錯誤；C選項完成式having attended/taken過於複雜，此情境不需；D選項不定式to attend/take不符with獨立分詞構句的語法要求。需保持主動分詞的平行結構。",
+      "id": 4
+    }
+  ]
 }

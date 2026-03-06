@@ -199,5 +199,107 @@
       "zh": "被組織的"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的過去被動語態形式，完成關於信件的句子。",
+      "question_eng": "The letter _______ to me by my friend yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was sent"
+        },
+        {
+          "key": "B",
+          "text": "were sent"
+        },
+        {
+          "key": "C",
+          "text": "is sent"
+        },
+        {
+          "key": "D",
+          "text": "has been sent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (was sent)。單數主詞 'the letter' 搭配 'was'，過去分詞 'sent' 表示過去動作已完成。B 項 'were' 用於複數主詞，不符。C 項 'is sent' 為現在簡單式，不符 'yesterday' 的時間。D 項 'has been sent' 為現在完成被動，時態不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確形式，完成關於建築物在地震中遭毀的句子。",
+      "question_eng": "Many buildings _______ damaged during the earthquake that struck the city in 2022.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were being"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "had been"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (had been)。複數主詞 'buildings' 需要 'were' 搭配過去分詞。但此處強調動作在過去事件（地震）發生前已完成，應用過去完成被動 'had been + p.p.'。A 項 'were being' 為過去進行被動，不符情境。B 項 'were' 為簡單過去被動，時態層次不足。D 項 'are' 為現在式，時態錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適當的過去被動形式，完成關於古老遺跡的句子。",
+      "question_eng": "The ancient temple _______ by archaeologists for several months before its historical significance _______ finally recognized.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was being excavated; was"
+        },
+        {
+          "key": "B",
+          "text": "had been excavated; was"
+        },
+        {
+          "key": "C",
+          "text": "was excavated; had been"
+        },
+        {
+          "key": "D",
+          "text": "has been excavated; was"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (had been excavated; was)。第一空需過去完成被動 'had been excavated'，表示挖掘在「歷史意義被認可」之前已進行數月。第二空用簡單過去被動 'was recognized'，表示被認可是一次性過去事件。A 項第一空的過去進行被動不強調持續期間。C 項第一空時態正確但第二空 'had been' 不符。D 項 'has been' 為現在完成式，不符過去時間框架。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最恰當的過去被動形式，表達複雜的時間關係。",
+      "question_eng": "By the time the investigation _______ completed, three former executives _______ already _______ charged with embezzlement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was; were; being"
+        },
+        {
+          "key": "B",
+          "text": "was; had; been"
+        },
+        {
+          "key": "C",
+          "text": "had been; were; been"
+        },
+        {
+          "key": "D",
+          "text": "was being; had been; been"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (had been; were; been)。第一空需過去完成被動 'had been completed'，表示調查在「高管被控」之前已完成。'by the time' 常跟過去完成式。第二空用簡單過去被動 'were charged'，與 'had been' 形成時序對比。A 項第一空 'was' 時態層次不足。B 項句構不完整，缺過去分詞。D 項 'was being' 和 'had been been' 皆不符語法。",
+      "id": 4
+    }
+  ]
 }

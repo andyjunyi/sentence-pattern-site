@@ -204,5 +204,107 @@
         "感官動詞"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的連綴動詞補語形式，完成句子",
+      "question_eng": "After a long day at work, Sarah felt _______ and needed to rest.",
+      "options": [
+        {
+          "key": "A",
+          "text": "tired"
+        },
+        {
+          "key": "B",
+          "text": "tiredly"
+        },
+        {
+          "key": "C",
+          "text": "tiring"
+        },
+        {
+          "key": "D",
+          "text": "tire"
+        }
+      ],
+      "answer": "A",
+      "explanation": "連綴動詞 felt 後面需要形容詞作主詞補語，描述主詞的狀態。A「tired」是形容詞，正確。B「tiredly」是副詞，無法作補語。C「tiring」是現在分詞，不符合補語位置的用法。D「tire」是動詞，不適合此位置。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據連綴動詞句型，選擇合適的補語詞",
+      "question_eng": "The soup smells _______ and tastes even better than it looks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "deliciously"
+        },
+        {
+          "key": "B",
+          "text": "delicate"
+        },
+        {
+          "key": "C",
+          "text": "delicious"
+        },
+        {
+          "key": "D",
+          "text": "delicacy"
+        }
+      ],
+      "answer": "C",
+      "explanation": "連綴動詞 smells 後需要形容詞作主詞補語。C「delicious」是形容詞，正確。A「deliciously」是副詞，不能作補語。B「delicate」雖是形容詞但語意不合（指精緻，不是好吃）。D「delicacy」是名詞（美食），不符合此語境。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別連綴動詞與補語的正確用法",
+      "question_eng": "The CEO _______ more confident after receiving positive feedback from the board meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "became suddenly"
+        },
+        {
+          "key": "B",
+          "text": "became suddenly confident"
+        },
+        {
+          "key": "C",
+          "text": "became suddenly very confident"
+        },
+        {
+          "key": "D",
+          "text": "became suddenly confidently"
+        }
+      ],
+      "answer": "C",
+      "explanation": "連綴動詞 became 後面需要形容詞或形容詞片語作主詞補語。C「suddenly very confident」中，suddenly 修飾 became（副詞），very confident 是補語（形容詞片語），結構正確。A 缺少補語。B 中 suddenly 置於補語前不夠自然。D 中 confidently 是副詞，不能作補語。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：判斷連綴動詞與補語的複雜搭配",
+      "question_eng": "While some students found the exam challenging, others considered it _______ and walked out feeling quite pleased.",
+      "options": [
+        {
+          "key": "A",
+          "text": "manageable"
+        },
+        {
+          "key": "B",
+          "text": "manageably"
+        },
+        {
+          "key": "C",
+          "text": "being manageable"
+        },
+        {
+          "key": "D",
+          "text": "to be manageable"
+        }
+      ],
+      "answer": "A",
+      "explanation": "動詞 considered 後的賓語補語位置需要形容詞。A「manageable」是形容詞，正確表達「認為考試容易控制」。B「manageably」是副詞，無法作賓語補語。C「being manageable」冗贅，此位置不需進行式。D「to be manageable」改變語義為被動，且結構不當。",
+      "id": 4
+    }
   ]
 }

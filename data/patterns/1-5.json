@@ -191,5 +191,107 @@
       "zh": "據傳聞"
     }
   ],
-  "vocab_table_label": "常用被動動詞"
+  "vocab_table_label": "常用被動動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的被動語態片語完成句子",
+      "question_eng": "It _______ that the famous actor will appear at the film festival next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is said"
+        },
+        {
+          "key": "B",
+          "text": "has said"
+        },
+        {
+          "key": "C",
+          "text": "is saying"
+        },
+        {
+          "key": "D",
+          "text": "was saying"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「is said」。此句型使用「It is said that + S + V」結構，需要被動語態「is said」來表達「據說」之意。B 項「has said」是完成式主動語態，不符合虛主詞句型；C 項「is saying」是進行式，語態與語意不當；D 項「was saying」是過去進行式，時態不符合。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的句型轉換，意思應與原句相同",
+      "question_eng": "It is reported that the new vaccine has been approved by the government. = The new vaccine _______ approved by the government.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is reported to be"
+        },
+        {
+          "key": "B",
+          "text": "is reported being"
+        },
+        {
+          "key": "C",
+          "text": "reported to be"
+        },
+        {
+          "key": "D",
+          "text": "is reporting to be"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「is reported to be」。此為「S + is reported + to V」的主詞句型轉換，與原「It is reported that S + V」意義相同。B 項「being」為動名詞，不符合不定詞結構；C 項缺少助動詞「is」，不完整；D 項「reporting」用法錯誤，應為被動語態「reported」。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的被動結構，須注意時態一致性",
+      "question_eng": "It is believed _______ over two million people attended the concert last Saturday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "to attend"
+        },
+        {
+          "key": "C",
+          "text": "attending"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「that」。此句使用「It is believed that + S + V」結構，that 為從屬連詞，引導名詞子句。B 項「to attend」為不定詞，與該句型不符；C 項「attending」為動名詞，無法引導完整子句；D 項「which」為關係代詞，不適用於此結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "須判斷正確的被動語態形式與主詞一致性",
+      "question_eng": "It is said that the ancient artifacts _______ to the museum for public exhibition next month, and the artifacts _______ to be of great historical value.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be donated; are believed"
+        },
+        {
+          "key": "B",
+          "text": "will donate; is believed"
+        },
+        {
+          "key": "C",
+          "text": "will be donated; is believed"
+        },
+        {
+          "key": "D",
+          "text": "are donated; are said"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「will be donated; are believed」。第一空應使被動語態「will be donated」表示文物將被捐贈；第二空主詞為複數「artifacts」，需用「are believed」與主詞一致。B 項第一空用主動語態錯誤，第二空主詞不一致；C 項第二空主詞不一致；D 項第一空時態不符，第二空無法呼應原句「said」的內容。",
+      "id": 4
+    }
+  ]
 }

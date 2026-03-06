@@ -209,5 +209,107 @@
       "zh": "微薄的、不足的"
     }
   ],
-  "vocab_table_label": "常用時間與數量表達"
+  "vocab_table_label": "常用時間與數量表達",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的spend句型，表示花費時間做某事",
+      "question_eng": "Tom _______ two hours playing video games last night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spent"
+        },
+        {
+          "key": "B",
+          "text": "spends"
+        },
+        {
+          "key": "C",
+          "text": "spend"
+        },
+        {
+          "key": "D",
+          "text": "spending"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「spent」。spend的過去式形式，與時間點「last night」相符。句型為S + spent + 時間 + V-ing。B項spends為第三人稱單數現在式，但主詞Tom與時間「last night」不符。C項spend為原型，缺少時態標記。D項spending為動名詞，無法作為主要動詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選擇spend的正確搭配方式",
+      "question_eng": "She spent $200 _______ a new laptop for her online classes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "buying"
+        },
+        {
+          "key": "B",
+          "text": "on buying"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "for buying"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「on」。spend後接金錢時，可用「spend + 金錢 + on + N」結構，on後直接接名詞laptop。A項buying為V-ing但前面缺on，破壞句型結構。B項「on buying」屬於double preposition，用法錯誤。D項for用法不符spend搭配習慣。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分spend與it takes的用法差異，選擇適當句型",
+      "question_eng": "_______ him three days to finish the project, but he enjoyed every moment of work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He spent"
+        },
+        {
+          "key": "B",
+          "text": "It took"
+        },
+        {
+          "key": "C",
+          "text": "He takes"
+        },
+        {
+          "key": "D",
+          "text": "There spends"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「It took」。此句強調「耗費三天時間」的事實陳述，用虛主詞it takes結構。A項「He spent」後應接V-ing或on+N，不能直接跟時間詞。C項takes為現在式，與「finished」的過去時態不符。D項為創造的錯誤結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考驗spend句型與時態搭配，辨識最適當的完整表達",
+      "question_eng": "Although Mark _______ considerable effort _______ the presentation, the result did not meet the expectations of the committee.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has spent / on preparing"
+        },
+        {
+          "key": "B",
+          "text": "spends / preparing"
+        },
+        {
+          "key": "C",
+          "text": "spent / in preparing"
+        },
+        {
+          "key": "D",
+          "text": "is spending / on preparing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「has spent / on preparing」。Although後接完成式has spent表過去動作延續至現在，與後句「did not meet」形成對比。「on preparing」為spend的標準搭配(spend + 時間/金錢 + on + V-ing名詞)。B項spends現在式不符語境。C項in為錯誤介詞，spend不與in搭配。D項is spending現在進行式與過去事件不符。",
+      "id": 4
+    }
+  ]
 }

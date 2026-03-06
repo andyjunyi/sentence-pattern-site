@@ -203,5 +203,107 @@
         "to follow"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確填空，完成關於足夠能力的英文句子。",
+      "question_eng": "The box is _______ for one person to carry alone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "light enough"
+        },
+        {
+          "key": "B",
+          "text": "enough light"
+        },
+        {
+          "key": "C",
+          "text": "light so"
+        },
+        {
+          "key": "D",
+          "text": "so light"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。enough 必須置於形容詞之後，形成「adj. + enough」結構。B 選項 enough light 詞序錯誤；C 選項 light so 不符合任何英文句型；D 選項 so light 後需接 that 子句，此處無法使用。",
+      "id": 1
+    },
+    {
+      "question_chi": "填空使句子表達「對某人來說足夠的能力」之意。",
+      "question_eng": "She runs fast _______ for her teammates to keep up with her.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so enough"
+        },
+        {
+          "key": "B",
+          "text": "enough"
+        },
+        {
+          "key": "C",
+          "text": "very enough"
+        },
+        {
+          "key": "D",
+          "text": "too enough"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。adv. + enough 用於表示「足夠地...使得」，符合「跑得夠快以至於隊友能跟上」的邏輯。A 選項搭配錯誤；C 選項 very enough 不適當（enough 不與 very 搭配）；D 選項 too 表相反含義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇合適詞彙，完成關於充分條件的句子。",
+      "question_eng": "The apartment is spacious _______ for a family of five to live comfortably.",
+      "options": [
+        {
+          "key": "A",
+          "text": "enough"
+        },
+        {
+          "key": "B",
+          "text": "that enough"
+        },
+        {
+          "key": "C",
+          "text": "enough that"
+        },
+        {
+          "key": "D",
+          "text": "so that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「adj. + enough + for sb. + to V」是標準句型，表示「足夠寬敞讓五口家庭舒適生活」。B 選項 that enough 順序錯誤；C 選項 enough that 後需完整子句；D 選項 so that 需要 so adj./adv. that 的完整形式。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：選擇正確選項，完成複雜的充分條件句。",
+      "question_eng": "The young pianist played brilliantly _______ that even the most critical judges were impressed by his technical mastery.",
+      "options": [
+        {
+          "key": "A",
+          "text": "enough"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "enough so"
+        },
+        {
+          "key": "D",
+          "text": "very so"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。此句需要「so + adv. + that + S + can/V」結構，表「演奏得如此精彩以至於...」。A 選項 enough 後無 that 子句不適當；C 選項 enough so 搭配錯誤；D 選項 very so 不符合英文句法。此題測試 so...that 與 enough...to 的區別。",
+      "id": 4
+    }
   ]
 }

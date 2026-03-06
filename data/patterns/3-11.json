@@ -197,5 +197,107 @@
         "結果子句"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的結果句型完成句子。",
+      "question_eng": "The weather was _______ that the picnic had to be cancelled.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so bad"
+        },
+        {
+          "key": "B",
+          "text": "such bad"
+        },
+        {
+          "key": "C",
+          "text": "so badly"
+        },
+        {
+          "key": "D",
+          "text": "such a bad"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「so bad」。此處 bad 是形容詞，修飾 weather（名詞），應用 so + 形容詞。B 項「such bad」錯誤，such 後需接名詞片語（形容詞+名詞），不能直接接形容詞。C 項「so badly」為副詞，不適合修飾名詞 weather。D 項「such a bad」雖文法上可用，但此處缺少名詞，不完整。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的結果句型，表達重物導致的後果。",
+      "question_eng": "The box was _______ heavy that he couldn't lift it by himself.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "very"
+        },
+        {
+          "key": "D",
+          "text": "too much"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「so」。此處需要 so + 形容詞（heavy）+ that 結構。A 項「such」後需接名詞片語，不能直接接形容詞。C 項「very」無法引導結果子句。D 項「too much」詞性錯誤且不能引導 that 子句。只有 so 能正確搭配形容詞並引導結果意義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當的結果句型，表達有趣的故事導致結果。",
+      "question_eng": "It was _______ interesting story that everyone in the class wanted to hear the ending.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so an"
+        },
+        {
+          "key": "B",
+          "text": "such an"
+        },
+        {
+          "key": "C",
+          "text": "so interesting"
+        },
+        {
+          "key": "D",
+          "text": "very"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「such an」。此處需要 such + 不定冠詞（an）+ 形容詞（interesting）+ 名詞（story）+ that 結構。A 項「so an」詞序錯誤，so 不搭配冠詞。C 項「so interesting」缺少名詞片語（story），只有形容詞。D 項「very」無法引導結果子句。只有 such 能引導含有名詞片語的結果句型。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的結果句型，表達講話速度快導致的理解困難。",
+      "question_eng": "She spoke _______ fast that we had to ask her to slow down and repeat.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "such a"
+        },
+        {
+          "key": "D",
+          "text": "very so"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「so」。此處 fast 是副詞修飾動詞 spoke，應用 so + 副詞 + that 結構。A 項「such」用於名詞片語，不適合副詞。C 項「such a」後接可數名詞，此處無名詞。D 項「very so」組合不當，two intensifiers 不能並用。副詞用 so，名詞片語用 such，此題為副詞情況。",
+      "id": 4
+    }
   ]
 }

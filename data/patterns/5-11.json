@@ -199,5 +199,107 @@
       "zh": "假定"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "學生需要在星期五前提交作業，選擇正確的被動句型",
+      "question_eng": "Students are _______ to submit their assignments by Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "required"
+        },
+        {
+          "key": "B",
+          "text": "require"
+        },
+        {
+          "key": "C",
+          "text": "requiring"
+        },
+        {
+          "key": "D",
+          "text": "to require"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「required」。此句型為 S + be + p.p. + to V，『be required to V』表示「被要求做某事」。B 項「require」是原形動詞，不符合被動語態結構。C 項「requiring」是現在分詞，無法與 be 搭配形成被動。D 項「to require」在此位置文法錯誤，to 不定詞不能直接跟在 be 後面。",
+      "id": 1
+    },
+    {
+      "question_chi": "兒童被禁止獨自進入博物館，選擇正確的被動結構",
+      "question_eng": "Children are not _______ to enter the museum without parental supervision.",
+      "options": [
+        {
+          "key": "A",
+          "text": "allowing"
+        },
+        {
+          "key": "B",
+          "text": "allowed"
+        },
+        {
+          "key": "C",
+          "text": "allow"
+        },
+        {
+          "key": "D",
+          "text": "allows"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「allowed」。句型為 be + p.p. + to V，『be allowed to V』表示「被允許做某事」。A 項「allowing」是現在分詞，與 be 搭配應為進行式，不符本句意思。C 項「allow」是原形動詞，需要過去分詞形式。D 項「allows」是三單形式，無法用於被動語態結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "員工被期望達到高績效標準，選擇符合被動結構的選項",
+      "question_eng": "Employees are _______ to meet high performance standards in the quarterly review.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expected to meet"
+        },
+        {
+          "key": "B",
+          "text": "expecting meeting"
+        },
+        {
+          "key": "C",
+          "text": "expect to meet"
+        },
+        {
+          "key": "D",
+          "text": "expected meet"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「expected to meet」。此句型要求『be + p.p. + to 不定詞』，『be expected to V』表示「被期望做某事」，to 不定詞不能省略。B 項混合了進行式與動名詞，文法錯誤。C 項「expect」是主動形式，違反被動語態結構。D 項缺少 to 不定詞中的 to，屬於關鍵詞漏置錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "運動員被激勵在國際比賽中代表國家，完成此複雜被動句型",
+      "question_eng": "The athletes were _______ by their coach to represent the country at the international competition, and they promised _______ their best.",
+      "options": [
+        {
+          "key": "A",
+          "text": "encouraged to perform / doing"
+        },
+        {
+          "key": "B",
+          "text": "encouraging to perform / to do"
+        },
+        {
+          "key": "C",
+          "text": "encouraged to perform / to do"
+        },
+        {
+          "key": "D",
+          "text": "encouraged performing / to do"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「encouraged to perform / to do」。第一空需『be encouraged to V』表被動鼓勵；第二空『promise to V』是不定詞結構。A 項第二空「doing」為動名詞，與 promise 搭配錯誤。B 項「encouraging」非過去分詞，違反被動語態規則。D 項「encouraged performing」中不定詞改為動名詞，違反 encourage to V 的正確搭配。",
+      "id": 4
+    }
+  ]
 }

@@ -199,5 +199,107 @@
       "zh": "看電影"
     }
   ],
-  "vocab_table_label": "常用動詞片語"
+  "vocab_table_label": "常用動詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "完成句子，表達對居家的偏好",
+      "question_eng": "After a long week of work, I _______ stay at home than go to the party.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would rather"
+        },
+        {
+          "key": "B",
+          "text": "would prefer"
+        },
+        {
+          "key": "C",
+          "text": "would like"
+        },
+        {
+          "key": "D",
+          "text": "would enjoy"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。would rather 後接原形動詞 stay，表示「寧願居家」。B 項 would prefer 需接 to（would prefer to stay），用法不符；C 項 would like 後也需 to；D 項 would enjoy 後需接動名詞 ing 形。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的 would rather 結構，表達個人選擇",
+      "question_eng": "She would rather _______ a quiet dinner with friends than _______ to a noisy club.",
+      "options": [
+        {
+          "key": "A",
+          "text": "having / go"
+        },
+        {
+          "key": "B",
+          "text": "have / going"
+        },
+        {
+          "key": "C",
+          "text": "have / go"
+        },
+        {
+          "key": "D",
+          "text": "having / going"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。would rather 後接兩個原形動詞：have 和 go，中間以 than 連接。A、B、D 均混用了動名詞或不定詞形式，違反 would rather 的語法規則，該句型兩動詞必須都用原形。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，使用 would rather that 假設語氣",
+      "question_eng": "I would rather that you _______ here earlier, but I understand you were stuck in traffic.",
+      "options": [
+        {
+          "key": "A",
+          "text": "arrive"
+        },
+        {
+          "key": "B",
+          "text": "arrived"
+        },
+        {
+          "key": "C",
+          "text": "had arrived"
+        },
+        {
+          "key": "D",
+          "text": "would arrive"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。would rather that 子句需用過去式假設語氣，表示與現在事實相反的假設。A 項 arrive 是現在式，違反假設語氣；C 項 had arrived 是過去完成式，用於更早的過去；D 項 would arrive 則多餘了 would。B 項 arrived 的簡單過去式正確。",
+      "id": 3
+    },
+    {
+      "question_chi": "區分 would rather 與 would prefer，完成複雜句子",
+      "question_eng": "My parents would rather _______ I _______ medicine, but they respect my decision to study engineering instead.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that / studied"
+        },
+        {
+          "key": "B",
+          "text": "that / study"
+        },
+        {
+          "key": "C",
+          "text": "/ studying"
+        },
+        {
+          "key": "D",
+          "text": "to / have studied"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。would rather 後接 that 子句時，該子句須用過去式假設語氣 studied，表示對他人行為的期望或假設。B 項 study 是現在式，違反假設語氣規則；C 項缺少 that 和動詞形式混亂；D 項 would prefer 才需 to，且 have studied 時態錯誤。A 項結構完整正確。",
+      "id": 4
+    }
+  ]
 }

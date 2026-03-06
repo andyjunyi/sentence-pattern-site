@@ -206,5 +206,107 @@
       "zh": "想知道"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的句子完成此句：媽媽幫助孩子完成功課。",
+      "question_eng": "My mother helped her child _______ his homework.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to finish"
+        },
+        {
+          "key": "B",
+          "text": "finishing"
+        },
+        {
+          "key": "C",
+          "text": "finished"
+        },
+        {
+          "key": "D",
+          "text": "finish"
+        }
+      ],
+      "answer": "D",
+      "explanation": "help後接受詞加原形動詞時，to可省略。A和D都正確，但D更符合現代英文用法。B「finishing」為動名詞，不適用於此句型。C「finished」為過去分詞，用法錯誤。本題測試help的基本用法，正確答案為D。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確答案完成句子：老師幫助學生理解這個概念。",
+      "question_eng": "The teacher helped the student _______ the concept.",
+      "options": [
+        {
+          "key": "A",
+          "text": "understanding"
+        },
+        {
+          "key": "B",
+          "text": "to understand"
+        },
+        {
+          "key": "C",
+          "text": "understood"
+        },
+        {
+          "key": "D",
+          "text": "understand"
+        }
+      ],
+      "answer": "B",
+      "explanation": "help後跟受詞時，可用「to + V」或「V原形」，兩種皆正確。B和D都可接受，但此題強調「to understand」的正式寫法。A「understanding」不符合help的用法。C「understood」為過去分詞，錯誤。題目選B以測試學生對to不定詞的認識。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適當的選項完成此句，注意語境差異。",
+      "question_eng": "I couldn't help _______ when I saw the funny video.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to laugh"
+        },
+        {
+          "key": "B",
+          "text": "laughing"
+        },
+        {
+          "key": "C",
+          "text": "laugh"
+        },
+        {
+          "key": "D",
+          "text": "to laughing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「cannot/couldn't help + V-ing」是特殊用法，表示「忍不住、無法抗拒」，後面必須跟動名詞。B「laughing」正確。A「to laugh」不符此特殊用法。C「laugh」為原形，用法錯誤。D「to laughing」為文法錯誤，不能同時有to和ing。此題測試學生對cannot help的特殊用法認識。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷句子意思，選擇最適當的動詞形式完成此句。",
+      "question_eng": "She helped her friend _______ for the exam and couldn't help _______ nervous when the results came out.",
+      "options": [
+        {
+          "key": "A",
+          "text": "prepare; feeling"
+        },
+        {
+          "key": "B",
+          "text": "to prepare; to feel"
+        },
+        {
+          "key": "C",
+          "text": "preparing; to feel"
+        },
+        {
+          "key": "D",
+          "text": "prepare; feel"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一個help為及物動詞「幫助~準備」，後接受詞加V原形或to+V，此處用「prepare」。第二個「couldn't help」為特殊用法「忍不住~」，必須跟V-ing，故為「feeling」。A正確結合兩個不同的help用法。B和C未正確區分兩種help的用法。D第二個help用法錯誤，應為動名詞。",
+      "id": 4
+    }
+  ]
 }

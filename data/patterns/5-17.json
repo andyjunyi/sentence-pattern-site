@@ -210,5 +210,107 @@
       "zh": "被出版的"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的使役被動句型，表示她在沙龍剪頭髮。",
+      "question_eng": "She _______ her hair cut at the salon yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had"
+        },
+        {
+          "key": "B",
+          "text": "made"
+        },
+        {
+          "key": "C",
+          "text": "let"
+        },
+        {
+          "key": "D",
+          "text": "asked"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（had）。使役被動句型『have + O + p.p.』表示主詞安排讓受詞被動接受某動作。B 項『make』後接原形動詞，不接過去分詞。C 項『let』表允許，不符語意。D 項『asked』需接不定詞，不能接過去分詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的詞彙完成使役被動句，表示他修理了汽車。",
+      "question_eng": "He _______ his car repaired by a professional mechanic last month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "got"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "caused"
+        },
+        {
+          "key": "D",
+          "text": "arranged"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（had）。『have + O + p.p.』為較正式的使役被動表達。A 項『got』也可接 O + p.p.（較口語），但題目用 last month 暗示正式語境。C 項『caused』需接原形或不定詞。D 項『arranged』後通常接不定詞或 for，不接過去分詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分使役被動與被動語態，選擇正確句型表達遭遇不幸。",
+      "question_eng": "They _______ their house damaged during the storm, which was devastating to them.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were having"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "have been"
+        },
+        {
+          "key": "D",
+          "text": "were made"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（had）。『have + O + p.p.』可表『遭遇不幸或經歷某事』，語意為『房子在暴風雨中遭損毀』。A 項『were having』文法不當。C 項『have been』為現在完成進行式，不符。D 項『were made』需接原形動詞，語意錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "難題：區分『have + O + p.p.』與『make + O + 原形』的細微差異。",
+      "question_eng": "The manager _______ the employee _______ the report by Friday, showing his authority in the workplace.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had / completed"
+        },
+        {
+          "key": "B",
+          "text": "made / complete"
+        },
+        {
+          "key": "C",
+          "text": "got / completing"
+        },
+        {
+          "key": "D",
+          "text": "caused / completed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（made / complete）。『make + O + 原形動詞』表管理者強制員工做事，強調強迫與權威。『have + O + p.p.』表安排他人被動完成，較為溫和。A 項『had』搭配過去分詞較不強調強制。C 項『got』後接現在分詞不當。D 項『caused』用法不當。",
+      "id": 4
+    }
+  ]
 }

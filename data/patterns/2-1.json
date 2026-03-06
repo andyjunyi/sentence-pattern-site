@@ -210,5 +210,107 @@
       "zh": "吃健康食物"
     }
   ],
-  "vocab_table_label": "常用動詞片語"
+  "vocab_table_label": "常用動詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的條件句助動詞，表示確定的結果",
+      "question_eng": "If you don't eat breakfast, you _______ feel tired all day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "would"
+        },
+        {
+          "key": "C",
+          "text": "may"
+        },
+        {
+          "key": "D",
+          "text": "might"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一條件句（現在式 → 未來）主句應使用 will 表達必然結果。would 用於第二條件句；may/might 表可能性較弱。此句強調不吃早餐必然導致疲憊，故用 will。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷條件句時態，if子句應使用現在式",
+      "question_eng": "Unless the weather _______ nice tomorrow, we cannot go to the beach.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "will be"
+        },
+        {
+          "key": "C",
+          "text": "would be"
+        },
+        {
+          "key": "D",
+          "text": "has been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Unless 為條件句，子句必須用現在式表未來，故用 is。will be 為未來式（錯誤）；would be 為第二條件句形式；has been 為現在完成式，皆不符第一條件句結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別 if/unless 互換及助動詞選擇表不確定性",
+      "question_eng": "_______ you study consistently, you may not understand the material completely. = Unless you study consistently, you _______ understand the material completely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If / will"
+        },
+        {
+          "key": "B",
+          "text": "Unless / may"
+        },
+        {
+          "key": "C",
+          "text": "If / can"
+        },
+        {
+          "key": "D",
+          "text": "Unless / will"
+        }
+      ],
+      "answer": "B",
+      "explanation": "If...not = Unless，兩句意義相同。主句用 may 表可能性（不完全確定）較適切。A 項邏輯反亂；C 項 can 表能力不符；D 項 will 過於確定，與原句表達的不確定性不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考查條件句句序、時態與邏輯表達的複雜運用",
+      "question_eng": "The project will proceed on schedule if the budget _______ approved by next Friday, unless there _______ unforeseen circumstances that _______ delay the process.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is / are / might"
+        },
+        {
+          "key": "B",
+          "text": "will be / would be / can"
+        },
+        {
+          "key": "C",
+          "text": "is / be / will"
+        },
+        {
+          "key": "D",
+          "text": "will be / are / may"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此句含兩個條件子句：if 子句用 is（現在式表未來）；unless 子句用 are（現在式表可能性）；最後用 might 表示可能延遲。B項第一個為未來式錯誤；C項第三個為未來式不符邏輯；D項第一個為未來式錯誤。",
+      "id": 4
+    }
+  ]
 }

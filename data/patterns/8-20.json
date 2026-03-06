@@ -199,5 +199,107 @@
       "zh": "連接詞"
     }
   ],
-  "vocab_table_label": "常用連接詞"
+  "vocab_table_label": "常用連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的動詞形式，表示兩者中只有一人負責",
+      "question_eng": "Either you or your brother _______ responsible for cleaning the house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "am"
+        },
+        {
+          "key": "D",
+          "text": "be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "either...or遵循近似一致原則，動詞與最接近的主詞保持一致。此句最接近的主詞為單數your brother，故用is。A項are為複數動詞錯誤；C項am用法不符；D項be為動詞原型不適用。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷neither...nor結構中的正確動詞時態和形式",
+      "question_eng": "Neither the manager nor the employees _______ satisfied with the new company policy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "were"
+        }
+      ],
+      "answer": "B",
+      "explanation": "neither...nor遵循近似一致原則，動詞應與最接近的主詞employees（複數）一致，故用are。A項is為單數形式錯誤；C、D項為過去式，但句子無時態標記應為現在式。",
+      "id": 2
+    },
+    {
+      "question_chi": "在either...or結構中判斷主詞與動詞的一致性，涉及人稱變化",
+      "question_eng": "Either John and his colleagues or she _______ going to attend the conference next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "am"
+        },
+        {
+          "key": "D",
+          "text": "be"
+        }
+      ],
+      "answer": "A",
+      "explanation": "either...or遵循近似一致原則，動詞與最接近的主詞she（單數第三人稱）一致，故用is。選項B的are為複數；C項am與she不符；D項be為原型。雖然or前有複數主詞，但or後的單數主詞決定動詞形式。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型考查，neither...nor連結多層主詞且涉及倒裝結構",
+      "question_eng": "Neither the students' poor preparation nor the teacher's unclear explanation _______ for the disappointing exam results, and neither _______ they willing to take responsibility.",
+      "options": [
+        {
+          "key": "A",
+          "text": "account; were"
+        },
+        {
+          "key": "B",
+          "text": "accounts; was"
+        },
+        {
+          "key": "C",
+          "text": "account; was"
+        },
+        {
+          "key": "D",
+          "text": "accounts; were"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空：neither...nor遵循近似一致原則，最接近的主詞為explanation（單數），應用account，但account for為片語，主詞為複數概念（兩個否定概念合併），故用account。第二空：neither...they表倒裝，neither引導倒裝句時主詞為they（複數），故用were。B項accounts錯誤；C、D項動詞選擇均有誤。",
+      "id": 4
+    }
+  ]
 }

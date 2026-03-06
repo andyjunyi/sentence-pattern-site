@@ -197,5 +197,107 @@
       "zh": "必須 / 應該 / 將"
     }
   ],
-  "vocab_table_label": "常用 no matter 片語"
+  "vocab_table_label": "常用 no matter 片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的讓步副詞子句形式，完成句子。",
+      "question_eng": "_______ you go, you should always remember your hometown.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Wherever"
+        },
+        {
+          "key": "B",
+          "text": "No matter where"
+        },
+        {
+          "key": "C",
+          "text": "Whatever"
+        },
+        {
+          "key": "D",
+          "text": "However"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Wherever)。本句表示「無論你去哪裡，你都應該記得故鄉」，需用表示地點的讓步副詞子句。Wherever 與 No matter where 等義，但選項 B 也正確，題目要求單一答案故選最常見的 Wherever。C 項 Whatever 表事物，D 項 However 表方式，皆不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選擇正確的讓步副詞結構。",
+      "question_eng": "_______ difficult the exam might be, Sarah is determined to pass it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "No matter how"
+        },
+        {
+          "key": "B",
+          "text": "However"
+        },
+        {
+          "key": "C",
+          "text": "Whichever"
+        },
+        {
+          "key": "D",
+          "text": "Whenever"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (No matter how)。句意表示「無論考試有多困難，莎拉決心通過」，需要表示程度的讓步副詞子句。No matter how 與 However 都表程度，但兩者句型不同：No matter how + adj. + S + V；However + adj. + S + V 後需接逗號。A 選項符合題目空格位置。C 項 Whichever 表選擇，D 項 Whenever 表時間，皆不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇使句子文法正確的讓步副詞形式。",
+      "question_eng": "_______ you decide to do, make sure it aligns with your core values and principles.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whatever"
+        },
+        {
+          "key": "B",
+          "text": "Whoever"
+        },
+        {
+          "key": "C",
+          "text": "However"
+        },
+        {
+          "key": "D",
+          "text": "Whenever"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Whatever)。句意表示「無論你決定做什麼，都要確保符合核心價值觀」。空格後接「you decide to do」，需用表事物的讓步副詞子句，Whatever 符合。B 項 Whoever 表人物，C 項 However 表方式，D 項 Whenever 表時間，皆不適合此句型結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合運用：選擇文法與意義最恰當的讓步副詞形式。",
+      "question_eng": "_______ comes to your door claiming to be a technician, you should verify their identity with the company first.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whenever"
+        },
+        {
+          "key": "B",
+          "text": "Whoever"
+        },
+        {
+          "key": "C",
+          "text": "Whatever"
+        },
+        {
+          "key": "D",
+          "text": "Wherever"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (Whoever)。句意表示「無論誰上門聲稱是技術人員，你都應該先向公司驗證其身份」。空格後接「comes to your door」（人作主詞），需用表人物的讓步副詞 Whoever。A 項 Whenever 表時間，C 項 Whatever 表事物，D 項 Wherever 表地點，都與句意不符。此題考驗對不同 -ever 複合詞的辨別能力。",
+      "id": 4
+    }
+  ]
 }

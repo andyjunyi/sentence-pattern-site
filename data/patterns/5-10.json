@@ -203,5 +203,107 @@
       "zh": "正在被記錄"
     }
   ],
-  "vocab_table_label": "常用進行被動片語"
+  "vocab_table_label": "常用進行被動片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的進行被動語態形式，完成句子。",
+      "question_eng": "The new shopping mall _______ by the city right now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is being built"
+        },
+        {
+          "key": "B",
+          "text": "is being build"
+        },
+        {
+          "key": "C",
+          "text": "is built"
+        },
+        {
+          "key": "D",
+          "text": "is building"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。進行被動語態需要『is/are + being + 過去分詞』的結構，built是build的過去分詞。B選項build不是過去分詞形式，錯誤。C選項omits『being』，表示簡單被動而非進行被動。D選項『is building』是主動進行式，不符合被動語態。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據時態要求，選擇適當的過去進行被動語態。",
+      "question_eng": "While the documents _______ carefully, the manager noticed a serious error.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were being examined"
+        },
+        {
+          "key": "B",
+          "text": "were examined"
+        },
+        {
+          "key": "C",
+          "text": "are being examined"
+        },
+        {
+          "key": "D",
+          "text": "have been examined"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。句中『While』表示過去某時點的持續動作，需用過去進行被動『were being + 過去分詞』。B選項『were examined』是簡單過去被動，未表達進行中的過程。C選項時態錯誤，應為過去式。D選項『have been examined』是現在完成被動，時態不符合過去情境。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷句子時態搭配，進行被動語態應與何時態相應。",
+      "question_eng": "The experimental results _______ by the research team when the power suddenly went off.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are being analyzed"
+        },
+        {
+          "key": "B",
+          "text": "have been analyzed"
+        },
+        {
+          "key": "C",
+          "text": "were being analyzed"
+        },
+        {
+          "key": "D",
+          "text": "had been analyzed"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。『when』引導的句子用簡單過去式『went off』，主句應用過去進行被動『were being analyzed』表示被打斷的進行過程。A選項時態為現在，與過去時景不符。B選項『have been analyzed』為現在完成被動。D選項『had been analyzed』為過去完成被動，強調完成而非進行。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜時態搭配：選擇最適切的進行被動語態形式。",
+      "question_eng": "The confidential files _______ by the unauthorized person when the IT department detected the suspicious activity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been being accessed"
+        },
+        {
+          "key": "B",
+          "text": "were being accessed"
+        },
+        {
+          "key": "C",
+          "text": "have been being accessed"
+        },
+        {
+          "key": "D",
+          "text": "are being accessed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。句子描述過去某時刻的進行狀況，『when』子句用簡單過去式『detected』，主句應用過去進行被動『were being accessed』。A選項『had been being accessed』為過去完成進行被動，語法過於複雜且此處不必要。C選項時態錯誤（現在完成）。D選項為現在進行，與過去時景不符。進行被動通常不與完成式結合。",
+      "id": 4
+    }
+  ]
 }

@@ -199,5 +199,107 @@
       "zh": "才能；天賦"
     }
   ],
-  "vocab_table_label": "常用名詞"
+  "vocab_table_label": "常用名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選出正確的關係代名詞片語，完成有關作者與作品的句子",
+      "question_eng": "The writer _______ books have sold millions of copies is giving a lecture tomorrow.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "who's"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose是所有格關係代名詞，可修飾人或物，後接名詞books。B選項who's是「who is」的縮寫，不符合語法。C和D無法表達所有權關係。句子意思：「這位作品銷售數百萬冊的作家明天要舉辦講座。」",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選出正確的所有格關係代名詞與其搭配",
+      "question_eng": "I visited the museum _______ collection includes rare artifacts from ancient Egypt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "whose's"
+        },
+        {
+          "key": "C",
+          "text": "of which"
+        },
+        {
+          "key": "D",
+          "text": "that's"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose直接修飾後面的名詞collection，表示「該博物館的收藏」。B選項whose's形成雙重所有格，文法錯誤。C選項「of which」雖然可表所有權但結構不同。D選項that's是「that is」，無法表達所有權。whose + N結構簡潔有力。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷複合句中whose子句的主詞與動詞數字一致性",
+      "question_eng": "The companies _______ CEO attended the conference presented their innovative strategies.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "whose's"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose修飾CEO（單數），後接單數動詞attended，符合數字一致性。B選項who用於人的主格，但此處需要所有格。C選項which用於物，不能修飾CEO屬於企業的概念。D選項whose's形成雙重所有格錯誤。句意：「出席會議的這些公司的執行長展示了創新策略。」",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的所有格關係代名詞，並注意whose後名詞的數與子句動詞的配合",
+      "question_eng": "The students _______ research projects were selected for the national competition have been working diligently for months.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "whose's"
+        },
+        {
+          "key": "C",
+          "text": "of whom"
+        },
+        {
+          "key": "D",
+          "text": "their"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose修飾複數名詞projects，配合複數動詞were selected。注意whose直接跟名詞，不需冠詞。B選項whose's為雙重所有格錯誤。C選項「of whom」無法指涉projects（物），且結構不符。D選項their是代名詞，無法引導關係子句。此句whose + N（projects）作受詞被動詞selected修飾。",
+      "id": 4
+    }
+  ]
 }

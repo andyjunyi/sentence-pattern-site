@@ -202,5 +202,107 @@
       "zh": "溝通、傳達"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的片語完成句子，表示目的",
+      "question_eng": "He wakes up early every morning _______ to catch the first bus to work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order"
+        },
+        {
+          "key": "B",
+          "text": "so as"
+        },
+        {
+          "key": "C",
+          "text": "for the purpose"
+        },
+        {
+          "key": "D",
+          "text": "with the intention"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。『in order to』是表示目的的標準片語，後接動詞原形。B 項『so as』後必須接『to』才能成立（so as to）。C、D 選項雖表目的但需要不同的文法結構，不符合此句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的否定形式完成句子",
+      "question_eng": "She turned off her phone _______ be disturbed during the meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order to not"
+        },
+        {
+          "key": "B",
+          "text": "so as to not"
+        },
+        {
+          "key": "C",
+          "text": "in order not to"
+        },
+        {
+          "key": "D",
+          "text": "so not to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案為 C。『in order not to』是表示否定目的的正確形式，否定詞 not 置於 to 之前。A 項文法錯誤；B 項應為『so as not to』；D 項『so not to』不是正確的英文表達。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別句首置放時的正確形式及主詞",
+      "question_eng": "_______ improve their English skills, many students attend conversation clubs after school.",
+      "options": [
+        {
+          "key": "A",
+          "text": "So as to"
+        },
+        {
+          "key": "B",
+          "text": "In order to"
+        },
+        {
+          "key": "C",
+          "text": "So as"
+        },
+        {
+          "key": "D",
+          "text": "To the purpose of"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B。『In order to』置於句首後須接原形動詞，再加主詞及主要動詞。A 項『So as to』雖然文法可接受，但『in order to』更常用於此位置。C 項『So as』缺少『to』。D 項為非標準用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合題：判斷正確形式、位置及上下文邏輯",
+      "question_eng": "The government has implemented stricter environmental policies _______ reduce carbon emissions and _______ environmental degradation for future generations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so as to; in order not to prevent"
+        },
+        {
+          "key": "B",
+          "text": "in order to; so as not to allow"
+        },
+        {
+          "key": "C",
+          "text": "so as to; so as to prevent"
+        },
+        {
+          "key": "D",
+          "text": "in order to; for preventing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B。第一空需『in order to reduce』表達正面目的；第二空需『so as not to allow』表達否定目的。A 項『prevent』與『not to』語義重複；C 項第二部分邏輯錯誤（應為『not to』而非『to prevent』）；D 項『for preventing』不符合不定詞目的用法。",
+      "id": 4
+    }
+  ]
 }

@@ -197,5 +197,107 @@
         "必然結果"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的結果子句結構，完成句子。",
+      "question_eng": "The weather was so beautiful _______ we decided to have a picnic in the park.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that everyone was happy"
+        },
+        {
+          "key": "B",
+          "text": "such that we decided to go"
+        },
+        {
+          "key": "C",
+          "text": "which made us go"
+        },
+        {
+          "key": "D",
+          "text": "because of the sunshine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。本題使用『so + 形容詞 + that + 子句』結構表達結果。so 後接形容詞 beautiful，that 引導結果子句。B 項用 such that 結構錯誤，such 應接名詞片語；C 項用 which 引導非限制性關係子句，語法不當；D 項用 because of 表示原因，非結果。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的副詞和結果子句，表達說話速度導致的結果。",
+      "question_eng": "She spoke _______ that I couldn't follow her explanation during the meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so quickly"
+        },
+        {
+          "key": "B",
+          "text": "such quick"
+        },
+        {
+          "key": "C",
+          "text": "so quick"
+        },
+        {
+          "key": "D",
+          "text": "such quickly"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『so + 副詞 + that』結構用於修飾動詞。so 後須接副詞 quickly（修飾 spoke），才能表達『說得如此快以至於』。B 項 such quick 搭配錯誤；C 項 so quick 應用副詞形式；D 項 such quickly 詞序顛倒且搭配錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的數量表達方式，填入空格。",
+      "question_eng": "There were _______ people at the concert _______ the venue couldn't accommodate everyone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so many / that"
+        },
+        {
+          "key": "B",
+          "text": "such many / that"
+        },
+        {
+          "key": "C",
+          "text": "so much / which"
+        },
+        {
+          "key": "D",
+          "text": "such a lot of / so"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『so many + 可數名詞 + that』用於表達眾多導致的結果。people 是可數名詞複數，故用 so many；that 引導結果子句。B 項 such many 用法不當，such 不與 many 直接搭用；C 項 so much 用於不可數名詞；D 項結構錯誤，且後接 so 不合邏輯。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨識正確結構，區分 so...that 與 such...that 的差異用法。",
+      "question_eng": "The documentary was _______ informative _______ it changed the way people viewed the environmental crisis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such / that"
+        },
+        {
+          "key": "B",
+          "text": "so / that"
+        },
+        {
+          "key": "C",
+          "text": "such an / so"
+        },
+        {
+          "key": "D",
+          "text": "so much / which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。本題強調程度，使用『so + 形容詞 + that』結構。informative 是形容詞，so 修飾形容詞表達『如此...以至於』。A 項 such 應接名詞片語，不能直接修飾形容詞；C 項 such an 搭配錯誤且邏輯不通；D 項 so much 用於不可數名詞，which 非結果子句。",
+      "id": 4
+    }
   ]
 }

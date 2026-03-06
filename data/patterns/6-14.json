@@ -199,5 +199,107 @@
       "zh": "不確定的"
     }
   ],
-  "vocab_table_label": "表期待的形容詞"
+  "vocab_table_label": "表期待的形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確答案完成句子，表達期待暑假到來",
+      "question_eng": "The students are looking forward to _______ summer vacation next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "having"
+        },
+        {
+          "key": "C",
+          "text": "to have"
+        },
+        {
+          "key": "D",
+          "text": "to having"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「look forward to」中的 to 為介系詞而非不定詞標記符，後接動名詞 V-ing 形式。正確答案為 having。A 選項缺少 -ing；C 和 D 選項將 to 誤認為不定詞標記符，導致文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確答案，填入同義的句型結構",
+      "question_eng": "I am looking forward to _______ your reply as soon as possible.",
+      "options": [
+        {
+          "key": "A",
+          "text": "receive"
+        },
+        {
+          "key": "B",
+          "text": "receiving"
+        },
+        {
+          "key": "C",
+          "text": "be receiving"
+        },
+        {
+          "key": "D",
+          "text": "have received"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「look forward to」後需接動名詞形式。receiving 為正確答案。A 選項為原形動詞；C 選項為進行式動詞片語；D 選項為完成式，皆不符合「to + V-ing」的語法規則。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確答案，表達對比賽的期待與習慣",
+      "question_eng": "She has been looking forward to _______ in the competition, and she is used to _______ under pressure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "participate; working"
+        },
+        {
+          "key": "B",
+          "text": "participate; work"
+        },
+        {
+          "key": "C",
+          "text": "participating; working"
+        },
+        {
+          "key": "D",
+          "text": "participating; to work"
+        }
+      ],
+      "answer": "C",
+      "explanation": "「look forward to」和「be used to」中的 to 皆為介系詞，後均接動名詞。正確答案為 participating; working。A 選項第一個空缺 -ing；B 選項兩個空都缺 -ing；D 選項誤將「be used to」後的 to 視為不定詞標記符。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確答案，表達對招聘過程的期待與承諾",
+      "question_eng": "Candidates are looking forward to _______ the interview results, while the company is committed to _______ fair evaluation for all applicants.",
+      "options": [
+        {
+          "key": "A",
+          "text": "hearing; providing"
+        },
+        {
+          "key": "B",
+          "text": "hear; provide"
+        },
+        {
+          "key": "C",
+          "text": "hearing; provide"
+        },
+        {
+          "key": "D",
+          "text": "hear; providing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "「look forward to」和「be committed to」中的 to 均為介系詞，後接動名詞。正確答案為 hearing; providing。B、C、D 選項各有一個空填入原形動詞或動名詞，違反介系詞後接動名詞的規則。此題結合兩個同類片語，加深難度。",
+      "id": 4
+    }
+  ]
 }

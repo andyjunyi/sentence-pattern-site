@@ -199,5 +199,107 @@
       "zh": "被指派的"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的分詞構句完成句子",
+      "question_eng": "_______ by the noise, the student couldn't concentrate on studying.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Disturbing"
+        },
+        {
+          "key": "B",
+          "text": "Disturbed"
+        },
+        {
+          "key": "C",
+          "text": "Being disturbed"
+        },
+        {
+          "key": "D",
+          "text": "To be disturbed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "被動分詞構句用過去分詞（Disturbed）表示主詞所受的狀態，相當於「Because the student was disturbed...」。選項A（現在分詞）表主動，與句意不符；C雖正確但冗長不合慣用；D為不定式用法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷被動分詞構句的正確形式",
+      "question_eng": "_______ from the meeting, the employee felt relieved and decided to take the rest of the day off.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Being dismissed"
+        },
+        {
+          "key": "B",
+          "text": "Dismissed"
+        },
+        {
+          "key": "C",
+          "text": "Having dismissed"
+        },
+        {
+          "key": "D",
+          "text": "Dismiss"
+        }
+      ],
+      "answer": "B",
+      "explanation": "過去分詞（Dismissed）是標準的被動分詞構句形式，省略了「being」。選項A過於冗長；C為主動且邏輯錯誤（員工不能dismiss自己）；D為動詞原形，不符文法。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇強調先發生動作的被動分詞構句",
+      "question_eng": "_______ multiple times by investors, the startup founder refused to give up on her project.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rejecting"
+        },
+        {
+          "key": "B",
+          "text": "Rejected"
+        },
+        {
+          "key": "C",
+          "text": "Having been rejected"
+        },
+        {
+          "key": "D",
+          "text": "Being rejected"
+        }
+      ],
+      "answer": "C",
+      "explanation": "「Having been rejected」強調在「refuse」之前已經完成的被動動作。選項B只表同時狀態，不合句意的「多次拒絕後」的邏輯關係；A為主動形；D表進行中的被動狀態，時間邏輯不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜語境中選擇正確的被動分詞構句形式",
+      "question_eng": "_______ in poverty for generations, yet _______ the opportunity to receive education, the village finally began to develop economically.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Having lived; having given"
+        },
+        {
+          "key": "B",
+          "text": "Lived; given"
+        },
+        {
+          "key": "C",
+          "text": "Living; being given"
+        },
+        {
+          "key": "D",
+          "text": "Having been trapped; given"
+        }
+      ],
+      "answer": "D",
+      "explanation": "第一空用「Having been trapped」強調在發展之前長期陷於貧困的完成被動狀態；第二空用「given」表同時狀態（獲得教育機會）。選項A「having given」邏輯錯誤（村莊不能給予機會）；B時間邏輯不清；C第一空主動形不當。",
+      "id": 4
+    }
+  ]
 }

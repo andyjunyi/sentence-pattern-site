@@ -205,5 +205,107 @@
       "zh": "被卡住、陷入困境"
     }
   ],
-  "vocab_table_label": "常用 get 被動片語"
+  "vocab_table_label": "常用 get 被動片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的get被動句型，完成句子",
+      "question_eng": "I _______ lost in the city and couldn't find my way home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "got"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "became"
+        },
+        {
+          "key": "D",
+          "text": "turned"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「got」。此句使用get被動句型「get + p.p.」，表示「迷路」這個偶發事件。B「was lost」為be被動，較正式但不夠口語；C「became」後接形容詞表示「變成」，不是被動；D「turned」無此用法。get被動更能強調偶發事件和動作過程。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入正確的get被動形式，表達被開除的情況",
+      "question_eng": "Tom was late to work three times, so he _______ fired by his boss.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was get"
+        },
+        {
+          "key": "B",
+          "text": "got"
+        },
+        {
+          "key": "C",
+          "text": "gets"
+        },
+        {
+          "key": "D",
+          "text": "will be gotten"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「got」。根據前文「was late」的過去式，需用過去式「got fired」。A「was get」文法錯誤，get被動不可與be並用；C「gets」為現在式，與前文時態不符；D「will be gotten」形式不當，get被動無此形式。got fired表達「被開除」的口語說法。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，表示在籃球比賽中受傷的情況",
+      "question_eng": "Sarah _______ hurt while playing basketball and had to go to the hospital immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was injured"
+        },
+        {
+          "key": "B",
+          "text": "got hurt"
+        },
+        {
+          "key": "C",
+          "text": "was hurt"
+        },
+        {
+          "key": "D",
+          "text": "had injured"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「got hurt」。get被動「get + p.p.」特別適合表達偶發傷害事件，強調過程性和主詞的直接經歷。A「was injured」雖正確但較正式；C「was hurt」亦可但較客觀，不如get被動生動；D「had injured」為主動態，且時態不當。在非正式語境中，get hurt比be injured更常用。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最恰當的被動表達，完成關於偷竊被發現的句子",
+      "question_eng": "The suspect _______ caught stealing money from the bank, and the police arrested him on the spot.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was being caught"
+        },
+        {
+          "key": "B",
+          "text": "got caught"
+        },
+        {
+          "key": "C",
+          "text": "was caught"
+        },
+        {
+          "key": "D",
+          "text": "had caught"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「got caught」。此句描述突然被抓住的偶發事件，get被動「get caught」強調事件的突發性和暗示主詞自身有責任（因偷竊被抓），更符合情境。A「was being caught」為過去進行被動，表達持續過程不當；C「was caught」雖文法正確但較客觀、正式；D「had caught」為主動態，邏輯錯誤。get被動在此更能表達那瞬間被發現的戲劇感。",
+      "id": 4
+    }
+  ]
 }

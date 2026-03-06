@@ -195,5 +195,107 @@
         "to finish"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的答案完成句子，表達某事物太困難而無法做到",
+      "question_eng": "The suitcase is _______ heavy for me to carry upstairs alone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "too"
+        },
+        {
+          "key": "C",
+          "text": "very"
+        },
+        {
+          "key": "D",
+          "text": "quite"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (too)。此題考 too...to V 句型，表示「太重以至於無法搬動」。A 選項 so 需搭配 that 子句；C 和 D 的 very 和 quite 只表程度，無法表達「太過導致無法完成」的否定意涵。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確選項完成句子，表達年紀太小而無法參與某活動",
+      "question_eng": "Children are _______ young _______ understand the movie's plot.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so / that they can't"
+        },
+        {
+          "key": "B",
+          "text": "too / to"
+        },
+        {
+          "key": "C",
+          "text": "too / that"
+        },
+        {
+          "key": "D",
+          "text": "so / for"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (too / to)。too...to V 結構中，too 後直接接不定詞 to。A 雖也可表達，但題目空格應填 too 與 to；C 的 that 是 so...that 句型用詞；D 搭配不當。此題考核心句型結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適當的答案完成句子，表達語速太快導致難以理解",
+      "question_eng": "The speaker talked _______ fast _______ the audience to follow his lecture.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so / that they couldn't"
+        },
+        {
+          "key": "B",
+          "text": "very / to"
+        },
+        {
+          "key": "C",
+          "text": "too / for"
+        },
+        {
+          "key": "D",
+          "text": "too / that"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (too / for)。此句表達「語速太快使得聽眾無法跟上」，需用 too...for sb. to V 結構。A 是 so...that 句型但表述冗長；B 的 very 無法表達「太過」的否定含義；D 混淆了兩種句型。考點是 for sb. 的用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當答案完成句子，區分 too/so 句型及 for sb. 用法細節",
+      "question_eng": "The questions were _______ complicated for the beginners _______ answer them correctly within the time limit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so / that they couldn't"
+        },
+        {
+          "key": "B",
+          "text": "too / to"
+        },
+        {
+          "key": "C",
+          "text": "too / so that"
+        },
+        {
+          "key": "D",
+          "text": "very / for them"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (too / to)。標準的 too...for sb. to V 句型應為「too complicated for the beginners to answer」。A 的 so...that 結構冗余；C 混淆 too 和 so；D 的 very 無法表達否定含義。此題考 for sb. 後直接接 to V 的省略用法。",
+      "id": 4
+    }
   ]
 }

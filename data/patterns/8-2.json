@@ -194,5 +194,107 @@
       "zh": "解釋、說明（動詞，說明原因）"
     }
   ],
-  "vocab_table_label": "常用原因連接詞"
+  "vocab_table_label": "常用原因連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的原因連接詞填入空格，表示直接明確的原因",
+      "question_eng": "_______ she missed the bus, she arrived at school late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "Since"
+        },
+        {
+          "key": "C",
+          "text": "As"
+        },
+        {
+          "key": "D",
+          "text": "So"
+        }
+      ],
+      "answer": "A",
+      "explanation": "因為題目要求表示直接明確的原因（她遲到的主要原因是錯過公車），應用 because 語氣最強。Since 表已知理由，as 表附帶理由，語氣較弱，不符。So 是結果連接詞，不能用於原因子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的原因連接詞和語序，完成因果句",
+      "question_eng": "_______ you have already finished your homework, you can go out to play with your friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "Since"
+        },
+        {
+          "key": "C",
+          "text": "So"
+        },
+        {
+          "key": "D",
+          "text": "Therefore"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此句表達已知或顯而易知的原因（你已完成功課是眾所周知的事實），應用 since。Because 語氣太強不適合已知事實，so 和 therefore 是結果連接詞，不能引導原因子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適合的原因連接詞，表示附帶或伴隨的理由",
+      "question_eng": "_______ winter is approaching, many animals are preparing to hibernate for the season.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "As"
+        },
+        {
+          "key": "C",
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "For"
+        }
+      ],
+      "answer": "B",
+      "explanation": "句子表達隨著冬天到來而發生的現象，語氣較溫和，應用 as 表附帶或伴隨理由。Because 語氣過強，since 多用於已知事實，for 為介詞或連接詞但此處用法不當。As 最能表達事物自然發展的附隨關係。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷句型錯誤並選擇改正方案（考慮因果關係邏輯與連接詞搭配）",
+      "question_eng": "Because she was talented in music, so she became a professional pianist. _______ version is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because she was talented in music, she became a professional pianist."
+        },
+        {
+          "key": "B",
+          "text": "Since she was talented in music, so she became a professional pianist."
+        },
+        {
+          "key": "C",
+          "text": "She was talented in music, because so she became a professional pianist."
+        },
+        {
+          "key": "D",
+          "text": "As she was talented in music, so she became a professional pianist."
+        }
+      ],
+      "answer": "A",
+      "explanation": "原句因 because 與 so 同時出現而錯誤，因兩者語意重複。正確做法是刪除 so，只保留 because 子句加主句。選項 B、D 仍保留 so，犯相同錯誤。選項 C 句型結構混亂。因此只有 A 正確。",
+      "id": 4
+    }
+  ]
 }

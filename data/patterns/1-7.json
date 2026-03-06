@@ -199,5 +199,107 @@
       "zh": "詢問"
     }
   ],
-  "vocab_table_label": "常用片語"
+  "vocab_table_label": "常用片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的句型補充，表示做某事沒有用處",
+      "question_eng": "It is no use _______ to change his mind because he is very determined.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to try"
+        },
+        {
+          "key": "B",
+          "text": "trying"
+        },
+        {
+          "key": "C",
+          "text": "try"
+        },
+        {
+          "key": "D",
+          "text": "to trying"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（trying）。此句型為「It is no use + 動名詞」，表達某動作缺乏效益。A 項用不定詞錯誤，違反句型結構；C 項缺少 to，不完整；D 項 to trying 混合了不定詞與動名詞，文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據語境選擇正確的否定表達，表示某事無益",
+      "question_eng": "It is no good _______ you the truth if you refuse to listen to me.",
+      "options": [
+        {
+          "key": "A",
+          "text": "telling"
+        },
+        {
+          "key": "B",
+          "text": "to tell"
+        },
+        {
+          "key": "C",
+          "text": "tell"
+        },
+        {
+          "key": "D",
+          "text": "being told"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（telling）。「It is no good + 動名詞」用來表達某動作無效果。B 項不定詞違反句型；C 項缺 to，非完整不定詞；D 項被動動名詞改變了意思邏輯。句子主語應為 telling 的執行者。",
+      "id": 2
+    },
+    {
+      "question_chi": "補充合適動詞形式，表達無謂的嘗試",
+      "question_eng": "It is no use _______ about the past because we cannot change what has already happened.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worry"
+        },
+        {
+          "key": "B",
+          "text": "to worry"
+        },
+        {
+          "key": "C",
+          "text": "worrying"
+        },
+        {
+          "key": "D",
+          "text": "being worried"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C（worrying）。「It is no use + 動名詞」是固定句型，表示做某事沒有益處。A 項原形動詞不符文法；B 項不定詞違反句型結構；D 項被動語態改變邏輯且不合此句型。只有動名詞符合此表達方式。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據句義選擇正確形式，理解此句型與類似表達的差異",
+      "question_eng": "It is no good _______ him that he should quit smoking; there is no use _______ to make him understand.",
+      "options": [
+        {
+          "key": "A",
+          "text": "telling / trying"
+        },
+        {
+          "key": "B",
+          "text": "to tell / trying"
+        },
+        {
+          "key": "C",
+          "text": "telling / to try"
+        },
+        {
+          "key": "D",
+          "text": "to tell / to try"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（telling / trying）。兩個空格都應填入動名詞。第一空「It is no good + telling」；第二空「There is no use + V-ing」（「in trying」的簡化形式）。B、C、D 項都混入不定詞，違反「It is no use/good + 動名詞」的結構，且「There is no use in V-ing」也須用動名詞。",
+      "id": 4
+    }
+  ]
 }

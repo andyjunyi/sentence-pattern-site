@@ -203,5 +203,107 @@
       "zh": "冠軍、擁護者"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的受詞補語結構，完成關於人物身分的句子",
+      "question_eng": "The company _______ him manager of the sales department.",
+      "options": [
+        {
+          "key": "A",
+          "text": "named"
+        },
+        {
+          "key": "B",
+          "text": "was named"
+        },
+        {
+          "key": "C",
+          "text": "had named"
+        },
+        {
+          "key": "D",
+          "text": "naming"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句使用 name 搭配受詞補語結構：S + name + O + N（職位）。主詞 the company、動詞 named、受詞 him、補語 manager 依序排列，職位名詞不加冠詞。B 是被動式（he was named manager），改變了句子主詞。C 過去完成式不符文意。D 分詞形式無法作主要動詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷被動式中受詞補語的正確位置和形式",
+      "question_eng": "She was _______ the first female president of the university in 2020.",
+      "options": [
+        {
+          "key": "A",
+          "text": "elected"
+        },
+        {
+          "key": "B",
+          "text": "being elected"
+        },
+        {
+          "key": "C",
+          "text": "electing"
+        },
+        {
+          "key": "D",
+          "text": "elect"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。被動式結構：S + be + elected + N（身分）。She was elected 後接身分補語 the first female president，補語為一般身分需加定冠詞 the。B 進行式不符。C 主動分詞用法錯誤。D 原形動詞無法搭配 was。此句型強調被選者的身分角色。",
+      "id": 2
+    },
+    {
+      "question_chi": "識別包含受詞補語的完整句子，注意職位名詞是否加冠詞",
+      "question_eng": "The board of directors will _______ him _______ of the newly established research institute.",
+      "options": [
+        {
+          "key": "A",
+          "text": "appoint / a director"
+        },
+        {
+          "key": "B",
+          "text": "appoint / director"
+        },
+        {
+          "key": "C",
+          "text": "have appointed / the director"
+        },
+        {
+          "key": "D",
+          "text": "appointed / director"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。appoint 搭配受詞補語：S + appoint + O + N。職位名詞作補語時通常不加冠詞（director）。A 加了不定冠詞，表非特定身分，但此處強調職位任命應無冠詞。C 時態應為 will appoint（未來式），不是完成式。D 動詞形式不符，需要 will appoint。",
+      "id": 3
+    },
+    {
+      "question_chi": "比較含受詞補語的主動與被動結構，判斷邏輯完整性",
+      "question_eng": "Although critics initially dismissed him as a mere entertainer, the public eventually _______ him _______ of modern theatre, a recognition that even academic institutions could not ignore.",
+      "options": [
+        {
+          "key": "A",
+          "text": "called / a pioneer"
+        },
+        {
+          "key": "B",
+          "text": "calling / pioneer"
+        },
+        {
+          "key": "C",
+          "text": "were calling / the pioneer"
+        },
+        {
+          "key": "D",
+          "text": "have called / pioneer"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句使用 call 搭配受詞補語：S + call + O + N。主詞 the public、動詞 called、受詞 him、補語 a pioneer。因強調『一個先驅者』的身分（非特定或首次認可），需加不定冠詞 a。B 分詞無法作主動詞。C 複數主詞應為 were，但邏輯不符。D 定冠詞 the 用法不當，應為不定冠詞。",
+      "id": 4
+    }
+  ]
 }

@@ -202,5 +202,107 @@
       "zh": "一輩子"
     }
   ],
-  "vocab_table_label": "常用時間表達"
+  "vocab_table_label": "常用時間表達",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛主詞句型，表達完成某事所需的時間",
+      "question_eng": "It _______ about two hours for us to finish this project.",
+      "options": [
+        {
+          "key": "A",
+          "text": "takes"
+        },
+        {
+          "key": "B",
+          "text": "spends"
+        },
+        {
+          "key": "C",
+          "text": "costs"
+        },
+        {
+          "key": "D",
+          "text": "uses"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (takes)。「It takes + 時間 + for sb. + to V」是表達完成某事所需時間的標準句型。B 項 spends 需要人作主詞，不能用虛主詞 It；C 項 costs 表示金錢花費但後接金額，不搭配時間；D 項 uses 不適合此句型結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "過去式句型變化，表達已完成的時間花費",
+      "question_eng": "It _______ the engineer three days to repair the damaged bridge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "took"
+        },
+        {
+          "key": "B",
+          "text": "has taken"
+        },
+        {
+          "key": "C",
+          "text": "will take"
+        },
+        {
+          "key": "D",
+          "text": "takes"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (took)。句子敘述過去發生的事件，應使用過去簡單式 took。B 項現在完成式和 D 項現在式都不符合過去時態的語境；C 項 will take 為未來式，與句意不符。此句型中 It 為虛主詞，真正的動作執行者是 the engineer。",
+      "id": 2
+    },
+    {
+      "question_chi": "完形填空，判斷虛主詞句型或及物動詞用法的差異",
+      "question_eng": "It _______ me two weeks and five hundred dollars to _______ my computer fixed completely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "took; spend"
+        },
+        {
+          "key": "B",
+          "text": "took; get"
+        },
+        {
+          "key": "C",
+          "text": "spent; have"
+        },
+        {
+          "key": "D",
+          "text": "costs; make"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (took; get)。第一空用虛主詞句型 It took + 時間 + to V，不能用 spend；第二空應填 get，形成「get + O + VpP」結構表「使...被修好」。A 項第一空正確但第二空 spend 無此用法；C 項 spent 需人作主詞，不符；D 項 costs 與前文 two weeks 時間搭配不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型與時態綜合考查，判斷正確的虛主詞結構",
+      "question_eng": "Although it will take considerable effort and resources, the government has announced that it _______ approximately six months and 200 million yuan to complete the infrastructure project.",
+      "options": [
+        {
+          "key": "A",
+          "text": "took"
+        },
+        {
+          "key": "B",
+          "text": "will take"
+        },
+        {
+          "key": "C",
+          "text": "takes"
+        },
+        {
+          "key": "D",
+          "text": "has taken"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (will take)。主要句 announced 後面的 that 子句應使用未來式 will take，因為是宣布未來計畫。A 項 took 與語境不符；C 項 takes 現在式不符合「未來計畫」；D 項現在完成式表達已完成之事，與「6 個月完成」的未來意圖矛盾。虛主詞 It 的時態須配合實際動作發生的時間。",
+      "id": 4
+    }
+  ]
 }

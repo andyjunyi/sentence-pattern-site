@@ -199,5 +199,107 @@
       "zh": "成功的"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係代名詞，完成下列句子",
+      "question_eng": "The teacher _______ helps us with homework is very patient.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A (who)。先行詞為 teacher（人），限定關係子句中應用 who 作主詞。B項 which 用於修飾事物；C項 whose 表所有格；D項 whom 為受格，不適合作主詞。此為基礎題，考查 who 修飾人的用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的關係代名詞，完成下列句子",
+      "question_eng": "We interviewed several candidates _______ had relevant work experience.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "how"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B (that)。先行詞為 candidates（人），該限定關係子句用來縮小候選人範圍，應用 that 作主詞。A項 which 修飾物；C項 what 非關係代名詞；D項 how 為疑問副詞。that 在非正式口語中常用於修飾人。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的關係代名詞，完成下列句子",
+      "question_eng": "The director _______ film won the international award is coming to our school.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "who"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B (whose)。先行詞為 director（人），空格後為 film（名詞），需要所有格 whose 來修飾。句意：「其電影獲得國際獎的導演」。A項 that 作主詞但後無動詞；C項 who 後缺連接詞；D項 which 修飾物而非人。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的關係代名詞，完成下列句子",
+      "question_eng": "The volunteers _______ we contacted yesterday agreed to help with the charity event.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "whom"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C (that)。先行詞為 volunteers（人），限定關係子句中 we 為主詞，空格處應填受格，可用 that（通常省略）或 whom。但 that 在口語中更常見，B項 whom 正式但較少用；A項 who 為主格；D項 which 修飾物。此題考查實際使用習慣。",
+      "id": 4
+    }
+  ]
 }

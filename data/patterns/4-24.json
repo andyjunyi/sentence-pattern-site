@@ -197,5 +197,107 @@
       "zh": "絕對的"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的複合關係代名詞完成句子",
+      "question_eng": "_______ comes to the party is welcome to bring a friend along.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whoever"
+        },
+        {
+          "key": "B",
+          "text": "Whatever"
+        },
+        {
+          "key": "C",
+          "text": "Whichever"
+        },
+        {
+          "key": "D",
+          "text": "Who"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。句子主詞缺少複合關係代名詞，「Whoever」(任何人) 相當於 anyone who，用來指人且兼具先行詞與關係代名詞功能。B 項 whatever 指物；C 項 whichever 用於兩者或多者中選擇；D 項 who 為普通關係代名詞，必須有明確先行詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據語境選擇正確的複合關係代名詞",
+      "question_eng": "_______ you decide to do with your career, make sure it aligns with your personal values.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Who"
+        },
+        {
+          "key": "B",
+          "text": "Whatever"
+        },
+        {
+          "key": "C",
+          "text": "Whoever"
+        },
+        {
+          "key": "D",
+          "text": "Whichever"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「Whatever you decide to do」意為「無論你決定做什麼」，whatever 指事物或行為，相當於 anything that。A 項 who 指人且需先行詞；C 項 whoever 指人；D 項 whichever 用於特定範圍內選擇，此處語境不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇合適的複合關係代名詞，表達從兩者中選一",
+      "question_eng": "You can wear _______ dress you prefer; both styles look elegant on you.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whatever"
+        },
+        {
+          "key": "B",
+          "text": "whichever"
+        },
+        {
+          "key": "C",
+          "text": "whoever"
+        },
+        {
+          "key": "D",
+          "text": "that which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「whichever dress」表示「兩件洋裝中的任一件」，whichever 用於有限範圍內的選擇。A 項 whatever 無特定選擇範圍；C 項 whoever 指人；D 項 that which 為普通關係代名詞結構，不符合此語境的自然表達。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合應用複合關係代名詞，選擇語法正確的選項",
+      "question_eng": "_______ evidence you present must be backed by credible sources, and _______ experts you consult should have relevant credentials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whoever... whoever"
+        },
+        {
+          "key": "B",
+          "text": "Whatever... whichever"
+        },
+        {
+          "key": "C",
+          "text": "Whichever... whatever"
+        },
+        {
+          "key": "D",
+          "text": "Whatever... whoever"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。第一空應用 whatever (無論什麼證據)，指事物；第二空應用 whichever (任何一位專家)，表示從多位專家中選擇。A 項兩空皆指人不符；C 項首空意義不當；D 項尾空用 whoever 指人，但應指「哪一類專家」需用 whichever。",
+      "id": 4
+    }
+  ]
 }

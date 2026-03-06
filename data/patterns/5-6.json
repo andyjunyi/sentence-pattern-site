@@ -205,5 +205,107 @@
       "zh": "認識、承認"
     }
   ],
-  "vocab_table_label": "常用被動動詞"
+  "vocab_table_label": "常用被動動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的現在式被動語態形式",
+      "question_eng": "This documentary _______ by a famous filmmaker last year.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is made"
+        },
+        {
+          "key": "B",
+          "text": "was made"
+        },
+        {
+          "key": "C",
+          "text": "is being made"
+        },
+        {
+          "key": "D",
+          "text": "has been made"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（was made）。句子含時間副詞『last year』表過去時間，應使用過去式被動語態。A 項是現在式被動，與時間不符；C 項為現在進行被動，表現在進行中；D 項為現在完成被動，適用於過去完成的動作對現在的影響，但句型明確指過去時間點。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷何時省略 by 子句的被動句",
+      "question_eng": "Coffee _______ in this café every morning for its customers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is served"
+        },
+        {
+          "key": "B",
+          "text": "is served by staff"
+        },
+        {
+          "key": "C",
+          "text": "serves"
+        },
+        {
+          "key": "D",
+          "text": "is being served"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is served）。句子表述日常習慣性動作，應用現在式被動語態。執行動作的人（店員）明顯不重要，可省略 by 子句。B 項雖文法正確但不如 A 簡潔；C 項為主動式，改變句意；D 項為現在進行被動，表示此刻正進行，與『every morning』習慣性表述不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別現在式被動與進行被動的語境區別",
+      "question_eng": "New regulations _______ to improve workplace safety, and employees are attending mandatory training sessions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are implemented"
+        },
+        {
+          "key": "B",
+          "text": "are being implemented"
+        },
+        {
+          "key": "C",
+          "text": "have been implemented"
+        },
+        {
+          "key": "D",
+          "text": "will be implemented"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（are being implemented）。後半句『employees are attending』使用現在進行式，表當前正在進行的動作。前半句應與其時間概念一致，使用現在進行被動語態表示『新規定正在推行中』。A 項表普遍事實或完成狀態；C 項為現在完成被動；D 項為將來被動，均與句意不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句境：區分被動語態與主動語態的正確用法",
+      "question_eng": "Although the project _______ by multiple teams simultaneously, the final report will still be reviewed by the director before publication.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is being developed"
+        },
+        {
+          "key": "B",
+          "text": "is developed"
+        },
+        {
+          "key": "C",
+          "text": "develops"
+        },
+        {
+          "key": "D",
+          "text": "has developed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is being developed）。『simultaneously』表同時進行，『multiple teams』為執行者，句意應為『專案正在由多個團隊同時開發』，需用現在進行被動語態表示目前進行中的動作。B 項表普遍事實；C 項為主動式，主詞無法執行『被開發』；D 項為完成式，與『同時進行』的時間邏輯不符。",
+      "id": 4
+    }
+  ]
 }

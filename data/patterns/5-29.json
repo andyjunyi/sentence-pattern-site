@@ -198,5 +198,107 @@
       "zh": "被期望的"
     }
   ],
-  "vocab_table_label": "常用副詞片語"
+  "vocab_table_label": "常用副詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "描述學生應該完成的作業截止日期",
+      "question_eng": "You _______ to submit your homework by Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are supposed"
+        },
+        {
+          "key": "B",
+          "text": "are suppose"
+        },
+        {
+          "key": "C",
+          "text": "suppose to be"
+        },
+        {
+          "key": "D",
+          "text": "are supposing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「are supposed」。be supposed to 為固定片語，表示「應該」的義務。選項 B 缺少過去分詞 supposed，文法錯誤。選項 C 改變了片語結構，意思不符。選項 D supposing 為現在分詞，無法搭配 are 形成此句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "說明會議本應但未能準時開始的情況",
+      "question_eng": "The meeting _______ to start at 9 AM, but it was delayed by an hour.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was supposed"
+        },
+        {
+          "key": "B",
+          "text": "is supposed"
+        },
+        {
+          "key": "C",
+          "text": "has been supposed"
+        },
+        {
+          "key": "D",
+          "text": "would be supposed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「was supposed」。過去式 was supposed to 表示「本應但未能」的遺憾感，搭配後文「延遲」的事實。選項 B 現在式不符合已發生的過去事件。選項 C 現在完成式與後文過去時態不搭配。選項 D would be 帶有假設意味，不適合陳述事實。",
+      "id": 2
+    },
+    {
+      "question_chi": "表達對某人應該知道某事的期望",
+      "question_eng": "As a professional accountant, you _______ to be familiar with the latest tax regulations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are expected"
+        },
+        {
+          "key": "B",
+          "text": "are supposed"
+        },
+        {
+          "key": "C",
+          "text": "should be"
+        },
+        {
+          "key": "D",
+          "text": "ought to be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「are supposed」。be supposed to 表達基於職業角色的期望和規範。選項 A expect 意思相近但搭配不同，通常用「be expected to」。選項 C D 雖文法正確，但題目強調規範性期望時，be supposed to 最恰當，語氣更正式。",
+      "id": 3
+    },
+    {
+      "question_chi": "推測過去應該發生但未確認的事件",
+      "question_eng": "According to the itinerary, they _______ to have arrived in Tokyo by yesterday evening, yet we haven't heard from them.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were supposed"
+        },
+        {
+          "key": "B",
+          "text": "were supposing"
+        },
+        {
+          "key": "C",
+          "text": "had supposed"
+        },
+        {
+          "key": "D",
+          "text": "are being supposed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「were supposed」。be supposed to + have + 過去分詞表示「本應已完成但未確認」的推測。選項 B supposing 為現在分詞，無法表達此意。選項 C had supposed 為過去完成式但非 be supposed to 結構。選項 D 進行式不適合此語境，且文意不符。",
+      "id": 4
+    }
+  ]
 }

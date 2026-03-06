@@ -199,5 +199,107 @@
       "zh": "認真聽"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "警告朋友不要遲到，語氣較強。",
+      "question_eng": "You _______ be late for the meeting, or the boss will be angry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had better not"
+        },
+        {
+          "key": "B",
+          "text": "ought not to"
+        },
+        {
+          "key": "C",
+          "text": "should not"
+        },
+        {
+          "key": "D",
+          "text": "had not better"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「had better not」。had better 語氣強烈且帶有警告意味，表示不照做會有負面後果（老闆會生氣），符合題意。B 項「ought not to」語氣較溫和，用於道德責任；C 項「should not」語氣也溫和；D 項「had not better」文法錯誤，had better 的否定形式是 had better not，not 不能置於 had 之後。",
+      "id": 1
+    },
+    {
+      "question_chi": "表達對學生的期望與道德責任。",
+      "question_eng": "Students _______ arrive on time and listen carefully in class.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had better"
+        },
+        {
+          "key": "B",
+          "text": "ought to"
+        },
+        {
+          "key": "C",
+          "text": "had to"
+        },
+        {
+          "key": "D",
+          "text": "should to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「ought to」。ought to 表示道德義務、應然責任或期望，語氣溫和，適合表達對學生的期望與要求。A 項「had better」語氣過強且帶有警告；C 項「had to」表強制義務，語氣不適；D 項「should to」文法錯誤，should 後直接加原形動詞，不加 to。",
+      "id": 2
+    },
+    {
+      "question_chi": "表示必須立即行動，否則會有嚴重後果。",
+      "question_eng": "The patient _______ take this medicine immediately, or his condition will worsen.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should"
+        },
+        {
+          "key": "B",
+          "text": "ought to"
+        },
+        {
+          "key": "C",
+          "text": "had better"
+        },
+        {
+          "key": "D",
+          "text": "is supposed to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「had better」。句中強調必須立即行動且帶有警告（condition will worsen），had better 語氣最強且暗示負面後果，最符合此情境。A 項「should」語氣較溫和；B 項「ought to」表責任而非緊急警告；D 項「is supposed to」表被期望，但語氣不如 had better 強烈。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷兩個句子中 had better 與 ought to 的區別用法。",
+      "question_eng": "Which pair of sentences correctly uses both 'had better' and 'ought to'? (1) You _______ study hard, or you'll fail the exam. (2) Citizens _______ follow traffic rules for everyone's safety.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1) ought to (2) had better"
+        },
+        {
+          "key": "B",
+          "text": "(1) had better (2) ought to"
+        },
+        {
+          "key": "C",
+          "text": "(1) had better (2) had better"
+        },
+        {
+          "key": "D",
+          "text": "(1) ought to (2) ought to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。句(1)「You _______ study hard, or you'll fail」帶有警告（否則會不及格），需用 had better，語氣強烈。句(2)「Citizens _______ follow traffic rules for everyone's safety」表社會責任與義務，用 ought to 較適合。A 項反向；C、D 項皆為同一用法，無法區分兩者語氣差異，不符學測考點。",
+      "id": 4
+    }
+  ]
 }

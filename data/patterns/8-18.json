@@ -199,5 +199,107 @@
       "zh": "透過倒裝結構加強語氣和說服力"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的倒裝結構，完成Not only句型",
+      "question_eng": "Not only _______ he enjoy reading, but also he writes novels.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "he does"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "he is"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Not only置於句首時，主句需倒裝，助動詞does須置於主詞he之前。B項重複主詞，破壞倒裝結構。C項時態與but also部分不符（he writes現在式）。D項be動詞無法表達enjoy的意義。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷正確的but also部分語序和助動詞搭配",
+      "question_eng": "Not only will the government invest in education, but also _______ support local communities.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will it"
+        },
+        {
+          "key": "B",
+          "text": "it will"
+        },
+        {
+          "key": "C",
+          "text": "it does"
+        },
+        {
+          "key": "D",
+          "text": "does it"
+        }
+      ],
+      "answer": "B",
+      "explanation": "but also後保持正常語序（主詞+動詞），不需倒裝。it will搭配will投資形成平行結構。A項錯誤倒裝於but also部分。C項時態與not only的will future不符。D項在but also後不應倒裝。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇符合平行結構的完整Not only...but also句型",
+      "question_eng": "Not only _______ she improve her grades, but also she gained confidence in herself.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "she did"
+        },
+        {
+          "key": "D",
+          "text": "will"
+        }
+      ],
+      "answer": "B",
+      "explanation": "but also部分用過去式gained，故not only也應為過去式。助動詞did置於主詞she前完成倒裝。A項現在式與but also過去式時態不符。C項未倒裝。D項將時態改為未來式，與gained不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型：辨別not only倒裝、but also正常語序及動詞時態",
+      "question_eng": "Not only _______ this policy reduce carbon emissions, but also it _______ create thousands of green jobs across the nation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does; will"
+        },
+        {
+          "key": "B",
+          "text": "will; does"
+        },
+        {
+          "key": "C",
+          "text": "does; does"
+        },
+        {
+          "key": "D",
+          "text": "will; will"
+        }
+      ],
+      "answer": "D",
+      "explanation": "both子句敘述未來效果，應使用will future體現並行時態。Not only + will(倒裝)...but also + will(正常語序)形成完整平行結構。A項時態不一致。B項但also後不應用does。C項does無法表達未來含義。",
+      "id": 4
+    }
+  ]
 }

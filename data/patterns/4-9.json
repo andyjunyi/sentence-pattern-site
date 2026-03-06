@@ -199,5 +199,107 @@
       "zh": "期間（介系詞短語）"
     }
   ],
-  "vocab_table_label": "常用形容詞"
+  "vocab_table_label": "常用形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的關係副詞填空，修飾表地點的先行詞。",
+      "question_eng": "The library _______ we studied yesterday has a large collection of science books.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "why"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "先行詞 \"the library\" 是地點名詞，應使用關係副詞 \"where\" 引導形容詞子句。\"when\" 用於時間先行詞，\"why\" 用於原因先行詞，\"which\" 是關係代名詞，需搭配介系詞或直接當受詞。此句 \"where\" 可改寫為 \"in which we studied\"。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的關係副詞，修飾時間名詞先行詞。",
+      "question_eng": "The winter _______ we experienced heavy snowfall was the coldest in twenty years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "in which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "先行詞 \"the winter\" 是時間名詞，應使用關係副詞 \"when\" 引導形容詞子句。\"where\" 修飾地點，\"that\" 雖可用於非限定用法但此處不如 \"when\" 適當，\"in which\" 是介系詞+關係代名詞的形式，文法上也對但用法較正式。\"when\" 是最自然的選擇。",
+      "id": 2
+    },
+    {
+      "question_chi": "識別正確的關係副詞用法，修飾原因名詞。",
+      "question_eng": "The reason _______ he quit his job was that he wanted to pursue his dream of becoming a musician.",
+      "options": [
+        {
+          "key": "A",
+          "text": "why"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "because"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "先行詞 \"the reason\" 是原因名詞，應使用關係副詞 \"why\" 引導形容詞子句。\"that\" 作為關係代名詞不適用於原因先行詞，\"because\" 是從屬連接詞不能作關係副詞，\"which\" 是關係代名詞，需搭配介系詞 \"for\" 才能表達原因。\"why\" 可改寫為 \"for which\"。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據先行詞性質選擇適當的關係副詞或介系詞+關係代名詞形式。",
+      "question_eng": "The conference room _______ we held the important meeting last Monday was recently renovated and equipped with the latest technology.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "at which"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "in which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "先行詞 \"the conference room\" 是地點名詞，使用關係副詞 \"where\" 最自然簡潔。\"when\" 用於時間先行詞錯誤，\"at which\" 與 \"in which\" 文法上可接受（改寫形式），但 \"where\" 是最標準簡潔的表達。雖然 \"in which\" 也對，但題目選擇中 \"where\" 是最佳答案。",
+      "id": 4
+    }
+  ]
 }

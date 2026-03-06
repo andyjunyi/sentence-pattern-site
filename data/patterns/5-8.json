@@ -200,5 +200,107 @@
       "zh": "可能被改進"
     }
   ],
-  "vocab_table_label": "常用未來被動句型"
+  "vocab_table_label": "常用未來被動句型",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的未來被動式填空，描述明年的計畫",
+      "question_eng": "The new library _______ next year in our city.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be built"
+        },
+        {
+          "key": "B",
+          "text": "will build"
+        },
+        {
+          "key": "C",
+          "text": "is building"
+        },
+        {
+          "key": "D",
+          "text": "builds"
+        }
+      ],
+      "answer": "A",
+      "explanation": "主詞 The new library 是動作的承受者（被建造），故使用未來被動 will be + p.p.。B 項為主動態，違反句意；C、D 項為現在式，時間不符。正確答案：will be built。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據情態動詞判斷，完成表示可能性的被動句",
+      "question_eng": "This important document _______ to everyone before the meeting starts.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should distribute"
+        },
+        {
+          "key": "B",
+          "text": "should be distributed"
+        },
+        {
+          "key": "C",
+          "text": "should be distribute"
+        },
+        {
+          "key": "D",
+          "text": "will distribute"
+        }
+      ],
+      "answer": "B",
+      "explanation": "主詞 document 為動作承受者，需用被動語態。情態動詞 should 後接 be + p.p.，形成「should be distributed」。A 項缺少 be；C 項 distribute 應為過去分詞 distributed；D 項為主動態，不符句意。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分 will be 與 is going to be，選擇最適當的未來被動式",
+      "question_eng": "Look at those dark clouds! It _______ to rain heavily, so the outdoor event _______ to be postponed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is going; will be decided"
+        },
+        {
+          "key": "B",
+          "text": "will; is going to be decided"
+        },
+        {
+          "key": "C",
+          "text": "is going; is going to be decided"
+        },
+        {
+          "key": "D",
+          "text": "will; will be decided"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一空：根據 dark clouds 這立即的徵兆，用 is going to rain（即將發生）更恰當。第二空：作為邏輯結果的決定，同樣用 is going to be decided 表示將要發生。A、B 項時態搭配不一致；D 項忽視視覺證據的即時性，採 will 不夠貼切。",
+      "id": 3
+    },
+    {
+      "question_chi": "複合句中多重被動形式，判斷時態與語態的正確搭配",
+      "question_eng": "The CEO announced that the merger _______ completed by next quarter, and all employees _______ be informed through official channels once the process _______ finalized.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be; must; is"
+        },
+        {
+          "key": "B",
+          "text": "will be; should; will be"
+        },
+        {
+          "key": "C",
+          "text": "would be; must; is"
+        },
+        {
+          "key": "D",
+          "text": "will be; can; has been"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第一空：主詞 merger 為承受者，時間為 next quarter，用 will be completed（未來被動）。第二空：義務性通知用情態動詞被動 should be informed（應當被告知）。第三空：時間副詞 once 引導時間條件，用現在式 will be finalized 表示未來確定事項。A 項第三空誤用現在式；C 項主時態錯誤；D 項情態搭配與時態不符。",
+      "id": 4
+    }
+  ]
 }

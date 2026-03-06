@@ -199,5 +199,107 @@
       "zh": "感謝、感恩"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的受格關係代名詞，完成句子",
+      "question_eng": "The author _______ I interviewed last week has won a prestigious award.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "關係代名詞在子句中作動詞interview的受詞，須用受格whom。B項who為主格，用於關係代名詞作主詞時；C項that雖可代人但在正式書面語中作受詞時whom更佳；D項which用於代物。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據文意選擇適當的受格關係代名詞形式",
+      "question_eng": "The businessman with _______ she collaborated on this project is a renowned entrepreneur.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "whom"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "介系詞with後應接受格形式whom，與先行詞businessman搭配。句式為：with + whom + 主詞she + 動詞。A項who為主格不可用於介系詞後；C項what為疑問代詞；D項whose為所有格。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷關係代名詞的正確用法與省略可能性",
+      "question_eng": "The students _______ Professor Chen taught five years ago are now working in various industries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whom或省略"
+        },
+        {
+          "key": "D",
+          "text": "who或省略"
+        }
+      ],
+      "answer": "C",
+      "explanation": "taught為及物動詞，students作其受詞，應用受格whom。口語中常省略受格關係代名詞，故whom或完全省略皆可接受，為C。B、D選項的who為主格，不適合作及物動詞的受詞。",
+      "id": 3
+    },
+    {
+      "question_chi": "複合句中多重關係代名詞與介系詞位置的應用",
+      "question_eng": "She introduced me to her colleagues, many of _______ I had worked with in previous projects and _______ were impressed by my portfolio.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom; who"
+        },
+        {
+          "key": "B",
+          "text": "who; whom"
+        },
+        {
+          "key": "C",
+          "text": "whom; whom"
+        },
+        {
+          "key": "D",
+          "text": "who; who"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空：介系詞of後需受格whom（of whom I had worked with）。第二空：who作were的主詞，須用主格who。此題考查同一子句中多個關係代名詞的正確搭配，以及介系詞與受格的配合原則。B、C、D選項皆混淆了主受格的用法。",
+      "id": 4
+    }
+  ]
 }

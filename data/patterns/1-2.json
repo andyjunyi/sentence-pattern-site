@@ -217,5 +217,107 @@
       }
     ],
     "note": "口訣：形容詞若能直接描述「人」的特質，用 of；若描述的是「事情」的性質，用 for。"
-  }
+  },
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句型填空，表示做某事的必要性",
+      "question_eng": "It is necessary _______ students to submit their assignments on time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "of"
+        },
+        {
+          "key": "C",
+          "text": "to"
+        },
+        {
+          "key": "D",
+          "text": "with"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「for」。當形容詞修飾事物的必要性、困難度等客觀特徵時，使用「It is + adj. + for + sb.」。本句「對學生來說提交作業很必要」，用「necessary for students」。B項「of」用於描述人的品質（如honest of you），不符合。C、D項不合文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷應使用 for 或 of 來完成句子",
+      "question_eng": "It was kind _______ you to help me move to my new apartment yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "of"
+        },
+        {
+          "key": "C",
+          "text": "from"
+        },
+        {
+          "key": "D",
+          "text": "about"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「of」。當形容詞描述人的品質特徵（如kind、nice、foolish、brave）時，使用「It is + adj. + of + sb.」。本句「你很親切地幫我」，強調你的人格特質，應用「kind of you」。A項「for」用於客觀條件，不符合此情境。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當介詞並理解 for/of 的使用區別",
+      "question_eng": "It is difficult _______ him to concentrate on his work when there is so much noise in the office.",
+      "options": [
+        {
+          "key": "A",
+          "text": "of"
+        },
+        {
+          "key": "B",
+          "text": "for"
+        },
+        {
+          "key": "C",
+          "text": "in"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「for」。形容詞「difficult」描述事情的客觀困難程度，而非人的品質，應使用「It is + adj. + for + sb.」。句意「對他來說在嘈雜辦公室集中注意力很困難」，用「difficult for him」。A項「of」用於人的品質，不適合此語境。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合題：判斷多個選項並理解複雜句式結構",
+      "question_eng": "It would be foolish _______ anyone to ignore the environmental warnings, yet it is also unrealistic _______ us to expect immediate change from all industries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "of; for"
+        },
+        {
+          "key": "B",
+          "text": "for; of"
+        },
+        {
+          "key": "C",
+          "text": "of; of"
+        },
+        {
+          "key": "D",
+          "text": "for; for"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「of; for」。第一句「foolish of anyone」描述人的行為特性（愚蠢是人的品質），用「of」。第二句「unrealistic for us」描述期待這件事的客觀不現實性（條件特徵），用「for」。此題考查考生對兩個介詞細微差別的理解能力，難度較高。",
+      "id": 4
+    }
+  ]
 }

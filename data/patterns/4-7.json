@@ -199,5 +199,107 @@
       "zh": "完成、完畢"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係代名詞用法，完成句子",
+      "question_eng": "The book _______ I borrowed from the library is very interesting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "whom"
+        },
+        {
+          "key": "D",
+          "text": "可省略"
+        }
+      ],
+      "answer": "D",
+      "explanation": "受格關係代名詞（which/that）在關係子句作受詞時可以省略。此句中 borrowed 的受詞是關係代名詞，故可省略，直接寫 \"The book I borrowed\" 即可。A、B、C 皆為具體代名詞，但此題正確答案是省略形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷關係代名詞省略的正確性",
+      "question_eng": "The students _______ the teacher assigned homework to are complaining about the workload.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "可以省略"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "\"assign homework to\" 中，to 是介詞，受詞為關係代名詞。此時關係代名詞在受格位置作受詞，可以省略，句子改為 \"The students the teacher assigned homework to are complaining...\"。A 和 B 雖為受格形式，但題目要求選擇省略形式。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別受格與主格關係代名詞的差異",
+      "question_eng": "The scientist _______ discovered this new element came from Germany, while the research _______ he conducted was funded by the government.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who; that可省略"
+        },
+        {
+          "key": "B",
+          "text": "that可省略; which"
+        },
+        {
+          "key": "C",
+          "text": "which; whom可省略"
+        },
+        {
+          "key": "D",
+          "text": "who; which可省略"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空：discovered 的主詞是關係代名詞（主格），不可省略，用 who。第二空：conducted 的受詞是關係代名詞（受格），可以省略，用 that 或省略。B 錯誤，第一空不可省略；C、D 對主格代名詞的判斷有誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型：判斷多個子句中的代名詞用法",
+      "question_eng": "The proposal _______ the committee discussed and _______ finally approved has significantly improved the company's efficiency, despite the criticism _______ some board members raised.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that可省略; which; which可省略"
+        },
+        {
+          "key": "B",
+          "text": "which; that可省略; which"
+        },
+        {
+          "key": "C",
+          "text": "that; which; that可省略"
+        },
+        {
+          "key": "D",
+          "text": "which可省略; that; which可省略"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空：discussed 的受詞是關係代名詞（受格），可省略，用 that。第二空：approved 的主詞是關係代名詞（主格），不可省略，用 which。第三空：raised 的受詞是關係代名詞（受格），可省略，用 which。B、C、D 都有主客顛倒或省略判斷錯誤的問題。",
+      "id": 4
+    }
+  ]
 }

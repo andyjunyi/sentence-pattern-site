@@ -199,5 +199,107 @@
       "zh": "更大"
     }
   ],
-  "vocab_table_label": "常用形容詞／副詞"
+  "vocab_table_label": "常用形容詞／副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的比較級句型，完成「越努力越成功」的表達",
+      "question_eng": "_______ you study, _______ grades you will get.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The harder; the better"
+        },
+        {
+          "key": "B",
+          "text": "A harder; a better"
+        },
+        {
+          "key": "C",
+          "text": "The more hard; the more good"
+        },
+        {
+          "key": "D",
+          "text": "More hard; more good"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'the harder...the better' 是標準的「the + 比較級...the + 比較級」句型，表達「越...就越...」的因果關係。B項用 a 修飾比較級錯誤；C項 'more hard' 和 'more good' 是疊用比較級形式，應改為 'harder' 和 'better'；D項完全省略冠詞 the，不符合句型規則。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的句型結構，強調練習與流暢度的關係",
+      "question_eng": "The more you practice English, _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the more fluent you become"
+        },
+        {
+          "key": "B",
+          "text": "you become more fluent"
+        },
+        {
+          "key": "C",
+          "text": "the more fluent you will become"
+        },
+        {
+          "key": "D",
+          "text": "more and more fluent you become"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第二子句應遵循『the + 比較級 + S + V』結構。B項缺少 'the'，破壞句型對稱性；C項雖然語法可接受，但過度使用助動詞 'will'，在此省略結構中不夠簡潔；D項『more and more』是另一種比較級形式，不符合『the + 比較級』的固定搭配。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，注意相同元素的省略和句型完整性",
+      "question_eng": "The earlier you arrive at the meeting, _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the better impression you will make"
+        },
+        {
+          "key": "B",
+          "text": "the better will you make impression"
+        },
+        {
+          "key": "C",
+          "text": "you will make the better impression"
+        },
+        {
+          "key": "D",
+          "text": "the more better impression you make"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第二子句保持『the + 比較級 + S + V + O』的完整結構，符合『the...the』句型。B項倒裝語序不當，改變了句子重心；C項順序錯亂，'the' 應置於比較級前；D項『the more better』重複比較級標記，用法錯誤，因為 'better' 已是比較級。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最恰當的表達，注意邏輯關係和句型靈活運用",
+      "question_eng": "The _______ the air quality becomes, the _______ respiratory problems people suffer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worse; more"
+        },
+        {
+          "key": "B",
+          "text": "worst; most"
+        },
+        {
+          "key": "C",
+          "text": "worse; worse"
+        },
+        {
+          "key": "D",
+          "text": "bad; bad"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。空格需填入『the + 比較級』形式；第一空應用 'worse'（比較級），第二空應用 'more'（修飾名詞 respiratory problems）。B項用最高級，不符合平行比較的結構；C項兩個 'worse' 邏輯混亂，且第二空應是增量詞而非形容詞；D項原級形式無法表達比較關係。",
+      "id": 4
+    }
+  ]
 }

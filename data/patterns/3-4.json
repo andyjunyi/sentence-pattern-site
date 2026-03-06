@@ -199,5 +199,107 @@
       "zh": "comfortably（舒適地）"
     }
   ],
-  "vocab_table_label": "常用副詞"
+  "vocab_table_label": "常用副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填空：要求儘快完成報告，應選哪個選項？",
+      "question_eng": "Please finish the report _______ before Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as quick as possible"
+        },
+        {
+          "key": "B",
+          "text": "as quickly as possible"
+        },
+        {
+          "key": "C",
+          "text": "as quick possible"
+        },
+        {
+          "key": "D",
+          "text": "as quickly possible"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。此句型需用副詞修飾動詞finish，而非形容詞。quickly是quickly的正確副詞形式。A錯在用形容詞quick；C、D都缺少第二個as，破壞「as...as...」的完整結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "填空：表達運動員盡可能努力訓練，應選哪個選項？",
+      "question_eng": "The athlete trained _______ to prepare for the competition.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as hard as she could"
+        },
+        {
+          "key": "B",
+          "text": "as hard as possible she could"
+        },
+        {
+          "key": "C",
+          "text": "as hardly as possible"
+        },
+        {
+          "key": "D",
+          "text": "as hard as possible"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A，運用「as...as + S + can/could」結構強調個人能力限度。B的結構錯誤，混合了兩種形式；C的hardly（幾乎不）與hard（努力）意思不同；D雖文法正確但無法表達「她個人能力範圍內」的深層涵義。",
+      "id": 2
+    },
+    {
+      "question_chi": "填空：外科醫生操作時需謹慎，選擇最合適的表達方式。",
+      "question_eng": "The surgeon operated _______, knowing that any mistake could be fatal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as carefully as possible"
+        },
+        {
+          "key": "B",
+          "text": "as careful as she could"
+        },
+        {
+          "key": "C",
+          "text": "as carefully as she could"
+        },
+        {
+          "key": "D",
+          "text": "as careful as possible"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。修飾動詞operated需用副詞carefully，且本句強調「她個人盡力範圍內」的謹慎程度，應使用「as...as + S + could」結構。A、D雖然文法可接受但無法完整表達句子隱含的個人努力意涵；B用形容詞careful修飾動詞是文法錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "填空：經理指示員工要盡可能保密專案細節，選最恰當表達。",
+      "question_eng": "The manager instructed all staff to keep the project details _______ confidential.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as secretly as they could"
+        },
+        {
+          "key": "B",
+          "text": "as secret as possible"
+        },
+        {
+          "key": "C",
+          "text": "as confidentially as possible"
+        },
+        {
+          "key": "D",
+          "text": "as confidentially as they can"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。keep（保持）後接形容詞補語，需用形容詞secret而非副詞形式。as secret as possible適合表達「盡可能保密」的程度要求。A用副詞形式錯誤；C用副詞修飾keep為誤；D雖文法可接受，但confidentially（機密地）作副詞較不自然，secret作形容詞補語更道地。",
+      "id": 4
+    }
+  ]
 }

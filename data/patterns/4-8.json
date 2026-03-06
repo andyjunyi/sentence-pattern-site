@@ -205,5 +205,107 @@
         "proud of 搭配"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的介系詞加關係代名詞形式，修飾物體",
+      "question_eng": "The research project _______ she is working is very important for environmental protection.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on which"
+        },
+        {
+          "key": "B",
+          "text": "on that"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "about which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「on which」。「work on」是片語動詞，表示「從事/進行某項工作」，因此介系詞應為 on。介系詞必須置於關係代名詞 which 前方，形成「prep. + which」的正式結構。B 項「that」不能與介系詞搭配；C 項「in which」與 work 片語搭配不當；D 項「about which」雖為正式用法，但與此句的動詞片語不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷先行詞為人，選擇正確的介系詞加關係代名詞",
+      "question_eng": "The scientist _______ I collaborated on this study has won numerous awards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "with whom"
+        },
+        {
+          "key": "B",
+          "text": "with which"
+        },
+        {
+          "key": "C",
+          "text": "to whom"
+        },
+        {
+          "key": "D",
+          "text": "in whom"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「with whom」。先行詞 scientist 是人，應使用 whom 而非 which。「collaborate with」是片語動詞，表示「與...合作」，搭配介系詞 with。因此形成「with whom」的正式書面英文結構。B 項錯在用 which 修飾人物；C 項介系詞搭配不當；D 項「in whom」語意不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "複雜句型，需辨別介系詞搭配與先行詞性質",
+      "question_eng": "The controversial policy _______ the government is still struggling to defend has sparked heated debates among the citizens.",
+      "options": [
+        {
+          "key": "A",
+          "text": "about which"
+        },
+        {
+          "key": "B",
+          "text": "with which"
+        },
+        {
+          "key": "C",
+          "text": "for which"
+        },
+        {
+          "key": "D",
+          "text": "in what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「about which」。先行詞 policy 為物體，用 which。「struggle to defend」需補充說明為何困難，「about」表達「關於某政策」的含義最恰當。此句結構為「prep. + which + S + V」的標準正式書面英文。B 項「with which」搭配不當；C 項「for which」改變原意；D 項「in what」為非正式口語結構，不符題目要求的正式書面英文。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別多個介系詞選項，需掌握片語動詞與先行詞的精確搭配",
+      "question_eng": "The ethical dilemmas _______ the medical team had to grapple throughout the pandemic raised fundamental questions about healthcare responsibility.",
+      "options": [
+        {
+          "key": "A",
+          "text": "with which"
+        },
+        {
+          "key": "B",
+          "text": "about which"
+        },
+        {
+          "key": "C",
+          "text": "for which"
+        },
+        {
+          "key": "D",
+          "text": "toward which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「with which」。片語動詞「grapple with」意為「艱難地應對/與...搏鬥」，介系詞必須是 with。先行詞「dilemmas」為物體，使用 which。此為「prep. + which + S + V」的標準形式，表達醫療團隊與道德困境的對抗過程。B 項「about which」改變動詞片語之意；C 項「for which」與片語不符；D 項「toward which」雖為正式結構，但與 grapple 搭配不當，無法準確表達「與...對抗」之意。",
+      "id": 4
+    }
   ]
 }

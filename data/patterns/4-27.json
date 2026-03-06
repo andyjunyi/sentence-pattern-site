@@ -197,5 +197,107 @@
       "zh": "嘗試、努力"
     }
   ],
-  "vocab_table_label": "常用形容詞／副詞"
+  "vocab_table_label": "常用形容詞／副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的讓步副詞子句，表達無論如何都要堅持的概念",
+      "question_eng": "_______ you decide, I will always support your choice.",
+      "options": [
+        {
+          "key": "A",
+          "text": "No matter what"
+        },
+        {
+          "key": "B",
+          "text": "Whatever"
+        },
+        {
+          "key": "C",
+          "text": "No matter how"
+        },
+        {
+          "key": "D",
+          "text": "However"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「Whatever」。此處需要讓步副詞子句表達「無論你決定什麼」。Whatever和No matter what都可使用，但在空格後直接接「you decide」（無賓語重述），Whatever作連接詞最佳。A項「No matter what」需在空格後接完整句構。C項「No matter how」和D項「However」皆表示方式，不符合「決定什麼」的語義。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入讓步副詞子句，表示無論多努力都達不到目標",
+      "question_eng": "No matter _______ hard she works, she cannot reach the top position in the company.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how"
+        },
+        {
+          "key": "B",
+          "text": "what"
+        },
+        {
+          "key": "C",
+          "text": "why"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「how」。「No matter how hard」表達「無論多努力」，how搭配形容詞hard修飾動詞works。B項「what」用於「無論什麼事物」，與句義不符。C項「why」表「為什麼」，D項「whether」表「是否」，皆不適合此語境。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的讓步副詞結構，表達無論在何處都適用",
+      "question_eng": "Wherever you go, _______ you will find people who appreciate your talent.",
+      "options": [
+        {
+          "key": "A",
+          "text": "no matter where"
+        },
+        {
+          "key": "B",
+          "text": "I believe that"
+        },
+        {
+          "key": "C",
+          "text": "however"
+        },
+        {
+          "key": "D",
+          "text": "no matter how"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「I believe that」。此句已使用「Wherever」開頭的讓步副詞子句，主句應為完整句構，需加入主語和動詞。A項重複讓步子句結構不符。C項「however」和D項「no matter how」皆為讓步副詞，與已有的「Wherever」結構重疊衝突。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷which句型中，應使用哪個讓步副詞結構使句義連貫",
+      "question_eng": "The project will proceed as planned, _______ opinions you may have about it, because the deadline is immovable.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whatever"
+        },
+        {
+          "key": "B",
+          "text": "no matter what"
+        },
+        {
+          "key": "C",
+          "text": "however"
+        },
+        {
+          "key": "D",
+          "text": "no matter however"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「whatever」。空格後接「opinions you may have」（名詞片語），whatever可直接作連接詞且兼作「opinions」的賓語，用法最緊湊。B項「no matter what」句法較冗長但亦可。C項「however」表方式，不符。D項「no matter however」為文法錯誤，-ever詞與no matter不可並用。",
+      "id": 4
+    }
+  ]
 }

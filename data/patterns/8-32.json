@@ -199,5 +199,107 @@
       "zh": "當...時；這時"
     }
   ],
-  "vocab_table_label": "常用頻率副詞"
+  "vocab_table_label": "常用頻率副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填入最適當的選項，完成這句關於她很少參加派對的句子",
+      "question_eng": "Seldom _______ she attend parties without bringing a gift.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "she does"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "will"
+        }
+      ],
+      "answer": "A",
+      "explanation": "否定副詞Seldom置於句首時，須引發助動詞倒裝。正確形式為：Seldom + does + she + attend。選項B重複主詞造成句子錯誤；C使用be動詞不符合此句結構；D用未來式不當，應用一般現在式表習慣性動作。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的倒裝形式，表示他從未見過如此美麗的景象",
+      "question_eng": "Never _______ such a magnificent view in my entire life.",
+      "options": [
+        {
+          "key": "A",
+          "text": "I have seen"
+        },
+        {
+          "key": "B",
+          "text": "have I seen"
+        },
+        {
+          "key": "C",
+          "text": "I saw"
+        },
+        {
+          "key": "D",
+          "text": "did I see"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Never置於句首引發完全倒裝，助動詞have提前於主詞I前。正確形式：Never have I seen...。選項A缺乏倒裝；C過去簡單式不符合現在完成的意義；D用did表示過去，但此句應強調從未經歷過的經驗，需用現在完成式。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式，表示很少有人知道這個秘密已經被揭露",
+      "question_eng": "Rarely _______ the secret _______ before today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been revealed"
+        },
+        {
+          "key": "B",
+          "text": "had the secret been revealed"
+        },
+        {
+          "key": "C",
+          "text": "has the secret been revealed"
+        },
+        {
+          "key": "D",
+          "text": "have been revealed"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Rarely置於句首引發倒裝：Rarely + has + the secret + been revealed。被動語態需用現在完成式表示至今未發生。選項A缺助動詞has；B多餘重複the secret；D主詞動詞不符（have應配複數主詞）。此題強調助動詞倒裝與被動語態結合。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適切的選項，表示他剛踏入辦公室就立即被指派任務",
+      "question_eng": "No sooner _______ the office _______ he was assigned a task.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did he enter than"
+        },
+        {
+          "key": "B",
+          "text": "had he entered than"
+        },
+        {
+          "key": "C",
+          "text": "he entered when"
+        },
+        {
+          "key": "D",
+          "text": "had he entered when"
+        }
+      ],
+      "answer": "B",
+      "explanation": "No sooner...than結構中，No sooner後須用過去完成式had + pp，than後用過去簡單式。正確形式：No sooner had he entered the office than he was assigned a task。選項A用did不符時態要求；C/D用when不符此固定搭配，No sooner必須搭配than而非when。",
+      "id": 4
+    }
+  ]
 }

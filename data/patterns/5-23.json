@@ -199,5 +199,107 @@
       "zh": "日常的、習慣的"
     }
   ],
-  "vocab_table_label": "常用形容詞"
+  "vocab_table_label": "常用形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的習慣表達方式",
+      "question_eng": "After living in Japan for two years, she _______ speaking Japanese every day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "is used"
+        },
+        {
+          "key": "D",
+          "text": "uses to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is used to）。句子表示「兩年後她已經習慣每天說日語」，強調現在的習慣狀態，需用 be used to + V-ing。B 項 used to 表過去習慣性動作（已停止），不符合語境。C 項缺介系詞 to。D 項 uses to 文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "區分現在習慣與過去習慣的用法",
+      "question_eng": "When he was a child, Tom _______ play in the park every afternoon, but now he _______ working late at the office.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used to / is used to"
+        },
+        {
+          "key": "B",
+          "text": "is used to / used to"
+        },
+        {
+          "key": "C",
+          "text": "gets used to / is used to"
+        },
+        {
+          "key": "D",
+          "text": "used to / gets used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空需用 used to（過去習慣，已停止）表「他小時候常常在公園玩」；第二空需用 is used to（現在習慣）表「現在已習慣在辦公室工作晚到」。B 項順序顛倒。C、D 項 gets used to 強調適應過程，不符第二空的「已習慣」含義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當的動作進行式搭配習慣表達",
+      "question_eng": "The new employees are gradually _______ the company's strict schedule, though they haven't _______ it yet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "getting used to / been used to"
+        },
+        {
+          "key": "B",
+          "text": "being used to / got used to"
+        },
+        {
+          "key": "C",
+          "text": "used to / being used to"
+        },
+        {
+          "key": "D",
+          "text": "getting used / used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空用 getting used to（正在逐漸適應）搭配 gradually，表進行中的適應過程。第二空用 been used to（還未形成習慣）表完成狀態。B 項 being used to 錯誤。C 項 used to 表過去習慣。D 項 getting used 缺少介系詞 to。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜語境中的習慣與過去習慣區分與時態搭配",
+      "question_eng": "Although he _______ work as a teacher for fifteen years before retirement, he _______ every aspect of dealing with difficult students, and _______ the stress that comes with the job.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used to / is accustomed to / has gotten used to"
+        },
+        {
+          "key": "B",
+          "text": "is used to / used to / being used to"
+        },
+        {
+          "key": "C",
+          "text": "had used to / has been used to / gets used to"
+        },
+        {
+          "key": "D",
+          "text": "was used to / is getting used to / used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空 used to 表「退休前曾經當過老師」（過去習慣，已停止）。第二空 is accustomed to（= is used to）表「現在習慣於處理困難學生的各個層面」。第三空 has gotten used to 表「已經逐漸適應工作壓力」。B 項順序錯誤。C、D 項時態搭配不當。",
+      "id": 4
+    }
+  ]
 }

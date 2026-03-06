@@ -198,5 +198,107 @@
       "zh": "已警告；曾警告"
     }
   ],
-  "vocab_table_label": "假設語氣關鍵詞"
+  "vocab_table_label": "假設語氣關鍵詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的第三條件句形式，表達與過去相反的假設",
+      "question_eng": "If he _______ the warning, he would not have made that mistake.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had heard"
+        },
+        {
+          "key": "B",
+          "text": "heard"
+        },
+        {
+          "key": "C",
+          "text": "has heard"
+        },
+        {
+          "key": "D",
+          "text": "would hear"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第三條件句的 if 子句需用過去完成式 had + p.p.。A 正確。B 為簡單過去式，表示簡單事實；C 為現在完成式，時態不符；D 為助動詞 would，不能用於 if 子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成第三條件句主句，使用正確的助動詞形式",
+      "question_eng": "If you had arrived on time, you _______ the important announcement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not miss"
+        },
+        {
+          "key": "B",
+          "text": "would not have missed"
+        },
+        {
+          "key": "C",
+          "text": "will not have missed"
+        },
+        {
+          "key": "D",
+          "text": "would miss"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第三條件句主句應使用 would/could/might + have + p.p. 表過去本可發生但未發生。B 正確。A 缺少 have；C 使用 will have，不符第三條件句；D 為簡單未來式，時態錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "使用倒裝語序改寫第三條件句，選擇正確形式",
+      "question_eng": "_______ known about the accident earlier, we could have helped them immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If we had"
+        },
+        {
+          "key": "B",
+          "text": "Had we"
+        },
+        {
+          "key": "C",
+          "text": "If we have"
+        },
+        {
+          "key": "D",
+          "text": "Have we"
+        }
+      ],
+      "answer": "B",
+      "explanation": "省略 if 時需使用倒裝語序 Had + S + p.p.。B 正確。A 保留了 if，不是倒裝；C 使用現在完成式，不符；D 為一般倒裝疑問句形式，不符文意。",
+      "id": 3
+    },
+    {
+      "question_chi": "識別並修正混合條件句中，表達多層次假設的正確形式",
+      "question_eng": "If she had not been afraid of failure back then, she _______ her own business by now and _______ more successful.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would have started; would be"
+        },
+        {
+          "key": "B",
+          "text": "would start; would be"
+        },
+        {
+          "key": "C",
+          "text": "will have started; would have been"
+        },
+        {
+          "key": "D",
+          "text": "would have started; would have been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "混合條件句：前半部對過去相反（if had...），需要 would have started；後半部表現在結果（by now），需要 would be（第二條件句形式）。A 正確地結合兩個不同時間點。B、C、D 時態搭配都不恰當。",
+      "id": 4
+    }
+  ]
 }

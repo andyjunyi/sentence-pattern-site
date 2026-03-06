@@ -199,5 +199,107 @@
       "zh": "記住"
     }
   ],
-  "vocab_table_label": "常用動名詞"
+  "vocab_table_label": "常用動名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句子完成方式，表達無法控制的行為。",
+      "question_eng": "When she saw the adorable puppy, she _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cannot help but smile"
+        },
+        {
+          "key": "B",
+          "text": "cannot help to smile"
+        },
+        {
+          "key": "C",
+          "text": "cannot help smiling"
+        },
+        {
+          "key": "D",
+          "text": "cannot help smile"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。『cannot help + V-ing』是標準用法，表示「忍不住做某事」。A項『cannot help but + 原形』雖也正確但較口語；B項『help to do』結構錯誤；D項缺少助動詞或動名詞，句法不完整。C和A都對，但依題意選最常用的V-ing形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，表示無法控制地出現某種情感反應。",
+      "question_eng": "Facing the sad ending of the movie, the audience could not help _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "crying"
+        },
+        {
+          "key": "B",
+          "text": "but cry"
+        },
+        {
+          "key": "C",
+          "text": "to cry"
+        },
+        {
+          "key": "D",
+          "text": "from crying"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。『could not help + V-ing』表示「忍不住哭」。B項『but cry』搭配『could not help』時需要be動詞（could not help but cry），在此句中不適用；C項『help to do』用法錯誤；D項『help from doing』不是正確搭配。只有A項符合『cannot help + 動名詞』的句型。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最恰當的句型，描述對他人言論的無法控制反應。",
+      "question_eng": "His rude comments were so offensive that I could not help _______ my frustration with him.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expressing"
+        },
+        {
+          "key": "B",
+          "text": "to express"
+        },
+        {
+          "key": "C",
+          "text": "but to express"
+        },
+        {
+          "key": "D",
+          "text": "express"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。『could not help + V-ing』用於表示控制不住的反應。A項『expressing』為動名詞形式，符合句型要求。B項『to express』為不定詞，與『help』搭配需要『help to do』結構但不符此句型；C項『but to express』結構冗贅且不當；D項缺少動名詞標記，句法不完整。",
+      "id": 3
+    },
+    {
+      "question_chi": "從四個選項選出最合適的表達，描述對過去事件的無法控制的回憶反應。",
+      "question_eng": "Every time she thinks about that embarrassing incident from her childhood, she cannot help _______ at how foolish she was back then.",
+      "options": [
+        {
+          "key": "A",
+          "text": "but laughing"
+        },
+        {
+          "key": "B",
+          "text": "laughing"
+        },
+        {
+          "key": "C",
+          "text": "having laughed"
+        },
+        {
+          "key": "D",
+          "text": "to have laughed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。『cannot help + V-ing』是最標準且常見的句型。A項『but laughing』在『cannot help』後應為『but laugh』（原形），『cannot help but + V-ing』為非標準用法；C項『having laughed』為完成式動名詞，表達不符邏輯；D項『to have laughed』為完成不定詞，與『help』搭配錯誤。B項『laughing』正確表達「忍不住笑」的意思。",
+      "id": 4
+    }
+  ]
 }

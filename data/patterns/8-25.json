@@ -198,5 +198,107 @@
       "zh": "立即"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的連詞和動詞時態組合",
+      "question_eng": "_______ you have finished your homework, you can go out to play with your friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Now that"
+        },
+        {
+          "key": "B",
+          "text": "Because of"
+        },
+        {
+          "key": "C",
+          "text": "Although"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Now that』是從屬連詞，引導原因狀語從句，表示「既然現在已完成的事實」，強調當下已成立的情況。B 項『Because of』後需接名詞，不能接完成式句子。C 項『Although』表「雖然」，邏輯不符。D 項『Unless』表「除非」，語義相反。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的句型結構和主句動詞",
+      "question_eng": "Now that the company has received the investment, it _______ expand its business operations next year.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be able to"
+        },
+        {
+          "key": "B",
+          "text": "has been able to"
+        },
+        {
+          "key": "C",
+          "text": "would be able to"
+        },
+        {
+          "key": "D",
+          "text": "is being able to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Now that』從句用完成式表示已確立的事實，主句應用未來式『will be able to』表示隨之而來的結果。B 項現在完成式不符合「次年擴展」的未來時間。C 項『would』帶有虛擬或推測意味，不適合確定的推論。D 項『is being able to』用法不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷從句時態和連詞搭配的正確性",
+      "question_eng": "_______ the government has implemented the new environmental policy, citizens _______ take more responsibility for protecting nature.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Since / should"
+        },
+        {
+          "key": "B",
+          "text": "Now that / should"
+        },
+        {
+          "key": "C",
+          "text": "Although / will"
+        },
+        {
+          "key": "D",
+          "text": "Because / might"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。『Now that』強調「既然政策已推行這個新情況」，搭配『should』表示應有的責任反應，更符合「立即反應新情況」的語氣。A 項『Since』較中立，不如『Now that』強調新情況的即時感。C 項『Although』表讓步，邏輯錯誤。D 項『Because』後不應接完成式。",
+      "id": 3
+    },
+    {
+      "question_chi": "在複雜句式中正確應用 now that 句型",
+      "question_eng": "Now that we have secured funding for the research project, _______ we should focus on recruiting experienced scientists and establishing a proper timeline for each phase of the study.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it is crucial that"
+        },
+        {
+          "key": "B",
+          "text": "there is no doubt that"
+        },
+        {
+          "key": "C",
+          "text": "it remains uncertain whether"
+        },
+        {
+          "key": "D",
+          "text": "we cannot ignore the fact that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Now that』引導已確立的新情況（獲得資金），主句應表達基於此情況的必要行動。『it is crucial that』（關鍵是）最能表達隨之而來的重要結果。B 項『no doubt』過於肯定且冗餘。C 項『uncertain』與『Now that』的確定性衝突。D 項『cannot ignore』用法生硬，不如 A 項自然流暢。",
+      "id": 4
+    }
+  ]
 }

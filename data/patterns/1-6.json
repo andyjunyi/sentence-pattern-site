@@ -195,5 +195,107 @@
       "zh": "重要的、關鍵的"
     }
   ],
-  "vocab_table_label": "常用被動動詞"
+  "vocab_table_label": "常用被動動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛主詞句型，表達一個眾所周知的事實。",
+      "question_eng": "_______ is known that the Earth revolves around the Sun.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It"
+        },
+        {
+          "key": "B",
+          "text": "That"
+        },
+        {
+          "key": "C",
+          "text": "This"
+        },
+        {
+          "key": "D",
+          "text": "What"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（It）。此句型使用虛主詞 it，將真正主詞的 that 子句後移。\"It is known that...\" 是標準被動語態的虛主詞句型。選項 B（That）若置於句首需搭配 be 動詞形成 \"That...is known\"，但題目已有 is，文法錯誤。選項 C（This）和 D（What）都無法與此結構搭配。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇合適的動詞，完成虛主詞句型表達推測。",
+      "question_eng": "It _______ that the new product will be launched next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is believed"
+        },
+        {
+          "key": "B",
+          "text": "believes"
+        },
+        {
+          "key": "C",
+          "text": "is believing"
+        },
+        {
+          "key": "D",
+          "text": "believed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is believed）。虛主詞句型需使用被動語態 \"It + is + 過去分詞 + that...\"，表達傳聞或推測。\"is believed that...\" 意為「據信...」。選項 B（believes）主動語態在此結構不適用。選項 C（is believing）時態錯誤，該句不用進行式。選項 D（believed）缺少 is，文法不完整。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當的詞彙與時態，完成虛主詞句型表達報導。",
+      "question_eng": "It is reported that the famous actress _______ in a luxury car accident last night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was involved"
+        },
+        {
+          "key": "B",
+          "text": "has been involved"
+        },
+        {
+          "key": "C",
+          "text": "is involving"
+        },
+        {
+          "key": "D",
+          "text": "involves"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（was involved）。由於主句時態是現在式（is reported），而 \"last night\" 表過去特定時間，that 子句應用過去時態。\"was involved in...\" 表達「捲入...」的被動事件。選項 B（has been involved）強調持續影響，但 \"last night\" 特指過去時刻，不適用完成式。選項 C 和 D 為主動語態，與虛主詞被動句型的表達習慣不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別虛主詞句型與直接主語句型的差異，選擇最正式表達。",
+      "question_eng": "In the official report, _______ it appears that the company has concealed significant financial irregularities for several years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It appears that the company"
+        },
+        {
+          "key": "B",
+          "text": "that the company appears"
+        },
+        {
+          "key": "C",
+          "text": "the company appears to"
+        },
+        {
+          "key": "D",
+          "text": "appearing that the company"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（It appears that the company）。虛主詞句型 \"It appears that...\" 較直接用 \"The company appears to...\" 更形式正式、中立，適合官方報告語境。此句型強調說話人的客觀推測。選項 B 語序錯誤，\"that\" 不應在句首。選項 C 雖文法正確，但不如虛主詞句型正式有力。選項 D（appearing）非動詞用法，文法錯誤。",
+      "id": 4
+    }
+  ]
 }

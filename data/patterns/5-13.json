@@ -199,5 +199,107 @@
       "zh": "等待；等候"
     }
   ],
-  "vocab_table_label": "常用使役動詞"
+  "vocab_table_label": "常用使役動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "老師讓學生每天練習英文句子，選擇正確的使役動詞搭配。",
+      "question_eng": "The teacher _______ the students practice English sentences every day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "made"
+        },
+        {
+          "key": "B",
+          "text": "let"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（made）。題目強調「讓學生練習」具有要求或強制性質，make 表示強制或迫使，後接原形動詞 practice。B（let）表許可，語境不符。C（had）需搭配過去分詞或原形，但此處為簡單過去式。D（has）為現在完成式，與 every day 搭配不當。",
+      "id": 1
+    },
+    {
+      "question_chi": "父母允許她自由選擇大學科系，使役動詞用法正確的是哪一個。",
+      "question_eng": "Her parents _______ her choose her own university major freely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "let"
+        },
+        {
+          "key": "C",
+          "text": "made"
+        },
+        {
+          "key": "D",
+          "text": "get"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（let）。題目強調「允許」的概念，let 表許可或允許，後接原形動詞 choose。A（have）表要求或安排，語境不符。C（made）表強制迫使，與允許之意相反。D（get）不是標準使役動詞，無法搭配原形動詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "工程師要求技術人員檢查所有機器，選擇正確的使役動詞形式。",
+      "question_eng": "The engineer _______ the technicians check all the machines before the deadline.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have to"
+        },
+        {
+          "key": "B",
+          "text": "have checked"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "letting"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C（had）。have 作為使役動詞表示「要求或安排某人做某事」，後接原形動詞 check。A（have to）表示必須，不是使役動詞。B（have checked）為現在完成式，無法作使役動詞。D（letting）是動名詞形式，與句子結構不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "被動語態中，make 的用法特殊，需要加 to。識別下列正確的被動句。",
+      "question_eng": "The workers _______ to work overtime by the company last month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were made"
+        },
+        {
+          "key": "B",
+          "text": "were let"
+        },
+        {
+          "key": "C",
+          "text": "had made"
+        },
+        {
+          "key": "D",
+          "text": "were having"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（were made）。make 在被動語態中需使用「be made + to V」結構，to work overtime 為不定詞。B（were let）被動形式少見且不自然。C（had made）為主動過去完成式，不符被動語態。D（were having）與 to work overtime 搭配邏輯不通。",
+      "id": 4
+    }
+  ]
 }

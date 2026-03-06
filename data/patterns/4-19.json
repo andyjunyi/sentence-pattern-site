@@ -218,5 +218,107 @@
       "zh": "調查"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "完成句子：選擇正確的間接問句形式",
+      "question_eng": "I wonder _______ the new shopping mall opens next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when does it"
+        },
+        {
+          "key": "B",
+          "text": "when it does"
+        },
+        {
+          "key": "C",
+          "text": "when it opens"
+        },
+        {
+          "key": "D",
+          "text": "does it when open"
+        }
+      ],
+      "answer": "C",
+      "explanation": "間接問句使用直述句語序，須用『疑問詞+S+V』，不倒裝。C項『when it opens』正確。A項倒裝了，B項語序錯誤，D項語序完全混亂。間接問句後接子句應保持直述順序。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇最適當的間接問句，補完空格",
+      "question_eng": "Can you tell me _______ to get to the train station from here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "how should I"
+        },
+        {
+          "key": "B",
+          "text": "how I should"
+        },
+        {
+          "key": "C",
+          "text": "how do I"
+        },
+        {
+          "key": "D",
+          "text": "how I can"
+        }
+      ],
+      "answer": "D",
+      "explanation": "間接問句『how I can』使用直述句語序(S+V+O)。A項『how should I』為倒裝形式，C項『how do I』也是倒裝。B項『how I should』語序正確但意思不自然，D項最自然流暢。tell me後需接名詞子句，保持直述語序。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別正確的間接問句，填入空格",
+      "question_eng": "She asked me _______ I had completed the project on schedule.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "是非疑問的間接問句用『whether』或『if』。此句已用直述語序『I had completed』，需填是非疑問詞。A項『whether』最正式適當。B項『if』雖可用但不如whether恰當，C項『that』用於肯定句，D項『what』為特殊疑問詞，不符合是非問句。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適切的間接問句，且考量時態和語氣",
+      "question_eng": "The manager wants to know _______ the quarterly sales report before the board meeting next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether will the team submit"
+        },
+        {
+          "key": "B",
+          "text": "if the team will submit"
+        },
+        {
+          "key": "C",
+          "text": "whether the team submits"
+        },
+        {
+          "key": "D",
+          "text": "if will the team submit"
+        }
+      ],
+      "answer": "B",
+      "explanation": "間接問句需直述語序『S+V』。B項『if the team will submit』正確：whether/if均可，但needs助動詞will表未來。A項倒裝『will the team』錯誤，C項用現在式不符邏輯（應用未來式），D項倒裝且時態混亂。在正式文體中whether比if更佳，但B項if搭配直述語序已可接受。",
+      "id": 4
+    }
+  ]
 }

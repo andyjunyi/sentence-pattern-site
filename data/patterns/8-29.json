@@ -199,5 +199,107 @@
       "zh": "打破沉默"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的倒裝結構，表達「剛完成就……」的意思",
+      "question_eng": "Hardly had he finished breakfast _______ the doorbell rang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "before he"
+        },
+        {
+          "key": "D",
+          "text": "and then"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。此句型為「Hardly/Scarcely + had + S + p.p. + when + S + V」，表達兩個動作幾乎同時發生。when 後接簡單過去時從句，不倒裝。B 項 than 用於比較級結構；C 項 before he 產生句子結構錯誤；D 項 and then 為連接詞而非時間連接詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，使用 Scarcely 倒裝結構表達緊密時間關係",
+      "question_eng": "Scarcely had the train left the station _______ a passenger realized he had left his luggage behind.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "before"
+        },
+        {
+          "key": "D",
+          "text": "as soon as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。此句為「Scarcely + had + S + p.p. + when + S + V」的標準用法。when 引導時間從句，從句使用簡單過去時。B 項 than 用於「Scarcely...than」結構，但本題前面已有 Scarcely 倒裝；C 項 before 用法不同；D 項 as soon as 雖可表時間但不符此句型。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷哪個選項正確完成倒裝句，注意時態與連接詞搭配",
+      "question_eng": "Hardly had she announced her resignation _______ employees began circulating rumors about her departure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than she had"
+        },
+        {
+          "key": "C",
+          "text": "before they had"
+        },
+        {
+          "key": "D",
+          "text": "when had"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。此句型中，when 後接的從句須使用簡單過去時，不倒裝。B 項錯誤因為 than 後不應接 she had；C 項 before they had 使用過去完成時，違反句型規則；D 項 when had 在 when 從句中產生不必要的倒裝。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確選項完成倒裝句，並注意與「before」的差異用法",
+      "question_eng": "Scarcely had the director finished explaining the new project _______ someone raised an objection that changed the entire direction of the meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "before"
+        },
+        {
+          "key": "D",
+          "text": "when a colleague had"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（when）。標準「Scarcely + had + S + p.p. + when + S + V」句型中，when 連接時間從句。B 項 than 可用於「Scarcely...than」但通常用於比較；C 項 before 也可用但語意上 when 表示「正好就在那時」更符合劇情；D 項在 when 從句中倒裝為誤用。本題需掌握 when 的標準用法。",
+      "id": 4
+    }
+  ]
 }

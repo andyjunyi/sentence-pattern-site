@@ -199,5 +199,107 @@
       "zh": "身體的/心理的"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係代名詞引導限定子句，修飾先行詞",
+      "question_eng": "The movie _______ won the Oscar last year is now available on streaming platforms.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A (that)。that 和 which 均可引導限定關係子句修飾事物 movie，但 that 為常用選項。where 是地點關係副詞，when 是時間關係副詞，都不符合此結構需要關係代名詞作主詞的用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷關係代名詞的正確用法與逗號使用",
+      "question_eng": "The documents _______ you submitted yesterday are still under review by the committee.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": ", which,"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": ", that,"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A (that)。此為限定用法，無逗號，關係代名詞作受詞可省略，但選項中 that 為最適當。B、D 含逗號表非限定用法（補充訊息），改變句意且不符文脈。C 的 which 在限定用法通常不省略，使文法上不自然。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分限定與非限定關係子句的差異及正確關係代名詞",
+      "question_eng": "The research project _______ was conducted over five years has revealed significant findings about climate change.",
+      "options": [
+        {
+          "key": "A",
+          "text": ", that,"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": ", which,"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是D (that)。此為限定用法無逗號，that/which 作主詞均可但 that 更自然。A 含逗號且用 that 違反非限定用法通常不用 that 的原則。B 的 which 無逗號時為限定用法，文法上可接受但 that 更恰當。C 為非限定用法，改變句意，歷時五年已作補充訊息。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考察複雜句構中的限定關係子句用法與語意連貫",
+      "question_eng": "The innovative technology _______ revolutionized the industry and the skilled engineers _______ developed it deserve recognition for their groundbreaking work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that / which"
+        },
+        {
+          "key": "B",
+          "text": "which / that"
+        },
+        {
+          "key": "C",
+          "text": "that / that"
+        },
+        {
+          "key": "D",
+          "text": "which / which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C (that / that)。兩處均為限定用法，that 在限定關係子句中為首選，語法上更簡潔。第一空修飾 technology（事物），第二空修飾 engineers（人），兩者都可用 that。A、B、D 混用 which，在限定用法中不若 that 恰當，且 which 在非正式限定用法中不如 that 自然。",
+      "id": 4
+    }
+  ]
 }

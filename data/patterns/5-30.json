@@ -199,5 +199,107 @@
       "zh": "而不是、反而"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填入適當的情態動詞完成式，表達對過去行為的遺憾",
+      "question_eng": "I _______ more time preparing for the interview instead of procrastinating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should have spent"
+        },
+        {
+          "key": "B",
+          "text": "should spend"
+        },
+        {
+          "key": "C",
+          "text": "ought spend"
+        },
+        {
+          "key": "D",
+          "text": "should have spending"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句型需用 'should have + 過去分詞' 表達對過去行為的悔恨。B 項用現在簡單式，時態錯誤。C 項 'ought spend' 缺少 have，結構不完整。D 項用動名詞 spending，與情態動詞搭配錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的過去完成表達，責備他人未盡責任",
+      "question_eng": "Tom _______ the project deadline; he was irresponsible.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ought to miss"
+        },
+        {
+          "key": "B",
+          "text": "ought to have missed"
+        },
+        {
+          "key": "C",
+          "text": "should not have missed"
+        },
+        {
+          "key": "D",
+          "text": "should be missing"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。根據句意（責備未盡責），應用 'should not have + p.p.' 表示「不應該在過去做某事」。A 項時態錯誤，B 項意思相反，D 項進行式時態不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷哪個句子正確表達了對過去決定的批評",
+      "question_eng": "Her parents believed she _______ the scholarship offer; it was a tremendous opportunity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should have accepted"
+        },
+        {
+          "key": "B",
+          "text": "should accept"
+        },
+        {
+          "key": "C",
+          "text": "ought be accepting"
+        },
+        {
+          "key": "D",
+          "text": "should have been accepting"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『should have + p.p.』表達對過去行為的遺憾或批評。B 項現在式不符合過去情境。C 項結構錯誤，ought 後需要 to。D 項進行式完成式造成語意混淆，不適合此文脈。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型：選擇最合適的完成式，說明被動語態下的應該做某事",
+      "question_eng": "The safety report _______ submitted to the authorities last month, but management ignored it completely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should have been"
+        },
+        {
+          "key": "B",
+          "text": "should be"
+        },
+        {
+          "key": "C",
+          "text": "ought to have being"
+        },
+        {
+          "key": "D",
+          "text": "should have had been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。被動語態的過去應該做需用 'should have been + p.p.'。B 項現在式不符合過去時間點。C 項 'being' 用法錯誤，應是 'been'。D 項重複 'had been'，語法結構錯誤。此題結合被動語態與完成式增加難度。",
+      "id": 4
+    }
+  ]
 }

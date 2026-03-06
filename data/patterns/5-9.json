@@ -199,5 +199,107 @@
       "zh": "改善、改進"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的現在完成被動式，完成句子。",
+      "question_eng": "This website _______ by thousands of users since it launched last year.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been visited"
+        },
+        {
+          "key": "B",
+          "text": "has visited"
+        },
+        {
+          "key": "C",
+          "text": "have been visited"
+        },
+        {
+          "key": "D",
+          "text": "have visited"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。主詞 'This website' 是單數，搭配 has been + 過去分詞 'visited'，表示該網站從去年推出後至今一直被使用者訪問。B項是主動式不符；C和D項主詞為單數不用 have，應用 has。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意，選擇最適當的現在完成被動式。",
+      "question_eng": "The documents _______ for two weeks, so we need to follow up with the client.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have not been reviewed"
+        },
+        {
+          "key": "B",
+          "text": "have not reviewed"
+        },
+        {
+          "key": "C",
+          "text": "has not been reviewed"
+        },
+        {
+          "key": "D",
+          "text": "are not being reviewed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。主詞 'documents' 為複數，需用 have been + 過去分詞。'have not been reviewed' 表示這些文件在過去兩週內未被審查。B項是主動式；C項主詞複數不用 has；D項是現在進行被動式，無法表達「兩週內」的完成意義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當形式，完成關於工程進度的句子。",
+      "question_eng": "The bridge _______ since 2015 and has become a major landmark in the city.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has built"
+        },
+        {
+          "key": "B",
+          "text": "has been building"
+        },
+        {
+          "key": "C",
+          "text": "has been built"
+        },
+        {
+          "key": "D",
+          "text": "was built"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。主詞 'bridge' 為單數，須用 has been + 過去分詞 'built'，表示大橋從2015年起被建造完成至今。A項主動式且不符合語意；B項進行式不合邏輯；D項過去簡單式無法表達「從2015年至今」的持續影響。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據上文邏輯，選擇最恰當的現在完成被動式及時間搭配。",
+      "question_eng": "The research findings _______ extensively by international experts, and several peer-reviewed journals _______ their findings in recent publications.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have been discussed; have published"
+        },
+        {
+          "key": "B",
+          "text": "have been discussed; have been published"
+        },
+        {
+          "key": "C",
+          "text": "have discussed; have published"
+        },
+        {
+          "key": "D",
+          "text": "have discussed; have been published"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。第一空『研究發現被國際專家廣泛討論』應用被動式 have been discussed；第二空『期刊發表他們的研究結果』中，journals 主動發表，應用被動式 have been published（強調發現結果被發表）。A項第二空主動式不符；C項兩空皆為主動式，無法表達『被討論』和『被發表』的被動意義；D項第一空為主動式。",
+      "id": 4
+    }
+  ]
 }

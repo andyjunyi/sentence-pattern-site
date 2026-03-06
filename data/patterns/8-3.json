@@ -199,5 +199,107 @@
       "zh": "儘管（正式用法）"
     }
   ],
-  "vocab_table_label": "常用讓步連接詞"
+  "vocab_table_label": "常用讓步連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的讓步連接詞完成句子",
+      "question_eng": "_______ she didn't have much experience, she performed very well in the interview.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Even if"
+        },
+        {
+          "key": "C",
+          "text": "Because"
+        },
+        {
+          "key": "D",
+          "text": "Since"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Although)。句子表達「雖然她缺乏經驗，但她在面試中表現很好」，這是陳述已知事實的讓步關係，應使用 although。B (even if) 表假設，不適合；C (because) 和 D (since) 表原因，與句意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "辨別讓步副詞子句中的連接詞選擇",
+      "question_eng": "_______ you study hard, you still need good rest to perform well on the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Even though"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "Even if"
+        },
+        {
+          "key": "D",
+          "text": "However"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (Although)。句子表達「雖然你努力學習，但仍需要充分休息才能在考試中表現好」，這陳述已知事實。A、B 皆可表陳述事實，但 B 更正式；C (even if) 表假設；D (however) 是副詞，不能引導子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "識別讓步副詞子句與假設情景的區分",
+      "question_eng": "_______ it rains tomorrow, the sports day will not be cancelled. The event will proceed indoors if necessary.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Even though"
+        },
+        {
+          "key": "C",
+          "text": "Even if"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (even if)。後句說明運動會仍會進行，表示不關心「下雨」是否真實發生，這是假設情景，應用 even if。A、B 表陳述已知事實；D (unless) 表「除非」，不符讓步意義。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜讓步句型辨析與句法正確性判斷",
+      "question_eng": "_______ the project faced numerous obstacles and delays, the team's determination never wavered, and they eventually delivered results that exceeded expectations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Even though"
+        },
+        {
+          "key": "B",
+          "text": "Even if"
+        },
+        {
+          "key": "C",
+          "text": "Although because"
+        },
+        {
+          "key": "D",
+          "text": "Though"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Even though)。句子敘述已發生的實際困境，強調這些困難未能動搖團隊決心，需用 even though 表陳述事實的讓步。B (even if) 表假設不適；C (although because) 混用讓步與因果會造成重複，文法錯誤；D (though) 較口語，通常置於句尾，句首較少用。",
+      "id": 4
+    }
+  ]
 }

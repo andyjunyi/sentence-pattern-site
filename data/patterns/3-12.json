@@ -203,5 +203,107 @@
       "zh": "更糟的"
     }
   ],
-  "vocab_table_label": "常用比較級"
+  "vocab_table_label": "常用比較級",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的比較級句型，表達「越努力就越成功」。",
+      "question_eng": "The _______ you work, the _______ you will succeed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "harder / more successful"
+        },
+        {
+          "key": "B",
+          "text": "more hard / successful"
+        },
+        {
+          "key": "C",
+          "text": "hardest / most successful"
+        },
+        {
+          "key": "D",
+          "text": "hard / more successful"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「hard」是單音節副詞，比較級為 harder；「successful」是多音節形容詞，比較級為 more successful。此結構用 「the + 比較級」表示同步變化。B 項 more hard 錯誤（hard 為單音節應直接加 -er）；C 項使用最高級（hardest / most successful），不符合此句型；D 項 hard 不是比較級形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句型結構，選擇適當的比較級形式完成句子。",
+      "question_eng": "The _______ you practise, the _______ your English will become.",
+      "options": [
+        {
+          "key": "A",
+          "text": "more / more fluent"
+        },
+        {
+          "key": "B",
+          "text": "more / fluenter"
+        },
+        {
+          "key": "C",
+          "text": "most / more fluent"
+        },
+        {
+          "key": "D",
+          "text": "more you / more fluent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「practise」前需用 more（多音節動詞），形成「the more you practise」；「fluent」是多音節形容詞，比較級為 more fluent。B 項 fluenter 錯誤（多音節詞不能直接加 -er，應用 more）；C 項使用最高級 most，不符合句型；D 項結構破壞，「the more you」重複且不符合倒裝語序。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的句型結構，表達時間與效率的正相關關係。",
+      "question_eng": "_______ you spend on the project, _______ the results will be.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The more time / the more impressive"
+        },
+        {
+          "key": "B",
+          "text": "More time / more impressive"
+        },
+        {
+          "key": "C",
+          "text": "The more time / the most impressive"
+        },
+        {
+          "key": "D",
+          "text": "The most time / the more impressive"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句型必須以「the + 比較級」開頭，前句是條件，後句是結果。「The more time」表花費越多時間；「the more impressive」表結果越令人印象深刻。B 項缺少 the，不符合句型結構；C 項後句用最高級 most impressive，應使用比較級；D 項前句用最高級 most time，語法錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據語境完成複雜的比較級同步變化句型，涉及反比關係。",
+      "question_eng": "The _______ the noise level in the classroom, the _______ students can concentrate on their studies.",
+      "options": [
+        {
+          "key": "A",
+          "text": "higher / less able"
+        },
+        {
+          "key": "B",
+          "text": "more high / able less"
+        },
+        {
+          "key": "C",
+          "text": "higher / less"
+        },
+        {
+          "key": "D",
+          "text": "more higher / unable"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句表反比關係（噪音越高，學生越難專心）。「high」是單音節形容詞，比較級為 higher；「able」是多音節形容詞，反向比較用 less able（較不能）。正確結構為「the higher...the less able」。B 項 more high 錯誤（單音節用 -er）且語序混亂；C 項 less 不完整，應為 less able；D 項 more higher 為雙重比較級，unable 為單詞無法使用。",
+      "id": 4
+    }
+  ]
 }

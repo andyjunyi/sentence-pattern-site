@@ -201,5 +201,107 @@
         "is"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的名詞子句結構作句子主詞",
+      "question_eng": "_______ matters most in a relationship is trust and communication.",
+      "options": [
+        {
+          "key": "A",
+          "text": "What"
+        },
+        {
+          "key": "B",
+          "text": "Which"
+        },
+        {
+          "key": "C",
+          "text": "That"
+        },
+        {
+          "key": "D",
+          "text": "Whatever"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。What引導名詞子句作主詞，what本身在子句中扮演主詞角色。B項which用於限制性或非限制性關係子句，不用於名詞子句。C項that不能單獨引導名詞子句作主詞。D項whatever雖也引導名詞子句，但語義為「無論什麼」，不符合此句意思。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入合適的動詞與連繫詞，完成複合述語",
+      "question_eng": "What the manager _______ most is how to retain talented employees in the company.",
+      "options": [
+        {
+          "key": "A",
+          "text": "concerns is"
+        },
+        {
+          "key": "B",
+          "text": "concern are"
+        },
+        {
+          "key": "C",
+          "text": "is concerned"
+        },
+        {
+          "key": "D",
+          "text": "concerning"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。What-子句作主詞，謂語應為第三人稱單數形式，故用「concerns is」。B項concern為複數形式，與單數主詞不符。C項is concerned改變了語意結構。D項concerning為分詞，不能作謂語。what-子句與is之間的謂語須用單數。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷正確的複雜句型結構，含appears to be",
+      "question_eng": "What _______ in his speech yesterday was a lack of genuine concern for social issues, which disappointed many listeners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "appeared most obvious"
+        },
+        {
+          "key": "B",
+          "text": "appears to be most obvious"
+        },
+        {
+          "key": "C",
+          "text": "appearing obviously"
+        },
+        {
+          "key": "D",
+          "text": "appear to be most obvious"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。What-子句作主詞（單數），搭配複合述語「appears to be + 形容詞」。A項omit了to be。C項appearing為分詞，無法作謂語。D項appear為複數形式，與單數主詞不符。appears to be是標準的複合述語結構，強調推測意義。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型題：判斷正確的nested子句與謂語一致性",
+      "question_eng": "What really _______ to many environmental scientists is that governments _______ not taking sufficient action to combat climate change seriously enough.",
+      "options": [
+        {
+          "key": "A",
+          "text": "concerns; is"
+        },
+        {
+          "key": "B",
+          "text": "concern; are"
+        },
+        {
+          "key": "C",
+          "text": "concerns; are"
+        },
+        {
+          "key": "D",
+          "text": "concern; is"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。第一空：What-子句作主詞（單數），謂語用「concerns」（第三人稱單數）。第二空：governments為複數主詞，後接「are not taking」。A項第一空正確但第二空錯誤。B項第一空錯誤。D項兩空都錯誤。此題測試考生在複合句中維持主詞-動詞一致性的能力。",
+      "id": 4
+    }
   ]
 }

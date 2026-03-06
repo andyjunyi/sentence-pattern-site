@@ -199,5 +199,107 @@
       "zh": "理解"
     }
   ],
-  "vocab_table_label": "常用時間連接詞"
+  "vocab_table_label": "常用時間連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的時間連接詞，完成句子",
+      "question_eng": "_______ you finish your homework, you can play video games.",
+      "options": [
+        {
+          "key": "A",
+          "text": "After"
+        },
+        {
+          "key": "B",
+          "text": "Before"
+        },
+        {
+          "key": "C",
+          "text": "Until"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanation": "答案是 A。句意為「完成功課後，你可以玩電動」，表示主句動作（可以玩）在從句動作（完成功課）之後，應用 after。B選項 before 意思相反（功課完成前就能玩，不合理）；C選項 until 表「持續到...為止」（直到完成才能玩，過於嚴格）；D選項 unless 是「除非」，用法與上下文不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的時間連接詞和時態搭配",
+      "question_eng": "The children were playing happily _______ their mother came home from work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "until"
+        },
+        {
+          "key": "B",
+          "text": "before"
+        },
+        {
+          "key": "C",
+          "text": "after"
+        },
+        {
+          "key": "D",
+          "text": "unless"
+        }
+      ],
+      "answer": "B",
+      "explanation": "答案是 B。句意為「母親下班回家前，孩子們玩得很開心」，主句動作（玩）在從句動作（回家）之前持續進行，應用 before。A選項 until 表「直到...為止」會變成「玩到媽媽回家為止」，與下文邏輯不符；C選項 after 表時間關係相反；D選項 unless 是條件句，用法不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "理解 not...until 的延遲關係，選擇適當完成",
+      "question_eng": "She did not realize how important the project was _______ she had completed half of it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "before"
+        },
+        {
+          "key": "B",
+          "text": "until"
+        },
+        {
+          "key": "C",
+          "text": "after"
+        },
+        {
+          "key": "D",
+          "text": "while"
+        }
+      ],
+      "answer": "B",
+      "explanation": "答案是 B。句意為「直到完成一半，她才意識到該項目的重要性」，這是 not...until 的典型用法，表示延遲或對比。A選項 before 會造成時態邏輯混亂；C選項 after 改變句意為「完成後才意識到」，失去 not 的強調效果；D選項 while 表同時進行，不符合延遲關係。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型：判斷時間從句的位置和時態搭配",
+      "question_eng": "_______ the company had reviewed all applications, the HR department _______ the final candidates for the interview next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "After / would announce"
+        },
+        {
+          "key": "B",
+          "text": "Before / announced"
+        },
+        {
+          "key": "C",
+          "text": "After / announced"
+        },
+        {
+          "key": "D",
+          "text": "Until / would announce"
+        }
+      ],
+      "answer": "C",
+      "explanation": "答案是 C。前半句用 after 表示主句動作（公佈）在從句動作（審查完成）之後；從句用過去完成式 had reviewed（動作已完成），主句用簡單過去式 announced（表敘述過去事實）。A選項 would announce 用於未來不當；B選項 before 時間關係錯誤；D選項 until 表「持續到...為止」，邏輯不符。",
+      "id": 4
+    }
+  ]
 }

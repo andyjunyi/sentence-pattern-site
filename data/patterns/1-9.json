@@ -197,5 +197,107 @@
       "zh": "讓……特別的事"
     }
   ],
-  "vocab_table_label": "核心句型結構"
+  "vocab_table_label": "核心句型結構",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，強調最重要的需求。",
+      "question_eng": "What the patient needs most right now _______ a healthy diet and regular exercise.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "What 引導的名詞子句作主詞，視為第三人稱單數，需用 is。補語為 a healthy diet and regular exercise（名詞片語）。A 選項 are 為複數動詞，與單數主詞不符；C 選項 were 為過去式，時態不符；D 選項 be 為原形動詞，缺乏時態標記。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的動詞形式完成句子，表達強調的意思。",
+      "question_eng": "What the director emphasized in the meeting _______ that all team members should improve their communication skills.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were"
+        },
+        {
+          "key": "B",
+          "text": "has been"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "C",
+      "explanation": "What 子句為主詞，用第三人稱單數形式，現在式用 is。補語為 that 引導的名詞子句（director emphasized something）。A 選項 were 為複數過去式；B 選項 has been 為現在完成式，不適合此強調結構；D 選項 have been 為複數現在完成式，皆不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，表達強調學生最缺乏的技能是什麼。",
+      "question_eng": "What many high school students lack _______ the ability to think critically and solve problems independently in complex situations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "were being"
+        }
+      ],
+      "answer": "C",
+      "explanation": "What 名詞子句為單數主詞，搭配現在式 is。補語為 the ability to think critically and solve problems independently（名詞片語）。A 選項 have 為複數現在式；B 選項 are 為複數式；D 選項 were being 為過去進行式，皆不符單數現在式的要求。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當的選項，完成強調環境保護重要性的句子。",
+      "question_eng": "What our generation should prioritize _______ not just economic growth, but sustainable development that preserves natural resources for future generations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "being"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "B",
+      "explanation": "What 引導的名詞子句為單數主詞，需用現在式單數 is。補語為複雜名詞片語 not just economic growth, but sustainable development...（並列結構但整體視為單數概念）。A 選項 are 為複數；C 選項 being 為進行式；D 選項 have been 為現在完成複數式，均不符此結構要求。",
+      "id": 4
+    }
+  ]
 }

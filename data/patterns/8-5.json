@@ -196,5 +196,107 @@
         "區域比較"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的對比連接詞，完成句子",
+      "question_eng": "_______ some people are early risers, others prefer to sleep late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "While"
+        },
+        {
+          "key": "B",
+          "text": "During"
+        },
+        {
+          "key": "C",
+          "text": "Because"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanation": "While 在此表「相比之下」，用於對比兩個相反的情況。During 表時間段，不適合。Because 表因果關係，不表對比。Unless 表條件，用法不當。此題考對比連接詞的基本認識。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇最適當的詞語完成對比子句",
+      "question_eng": "Whereas traditional stores require customers to visit in person, online shopping _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "offers convenience from home"
+        },
+        {
+          "key": "B",
+          "text": "while offers convenience from home"
+        },
+        {
+          "key": "C",
+          "text": "whereas offers convenience from home"
+        },
+        {
+          "key": "D",
+          "text": "during offers convenience from home"
+        }
+      ],
+      "answer": "A",
+      "explanation": "對比句型中，Whereas 引導第一個子句後，第二個子句無需再加連接詞，直接呈現完整主述語即可。選項 B、C 重複使用連接詞，文法錯誤。選項 D 語義不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷空格應填入之對比連接詞，注意正式程度",
+      "question_eng": "_______ the younger generation values digital innovation and speed, the older generation treasures proven methods and stability.",
+      "options": [
+        {
+          "key": "A",
+          "text": "While"
+        },
+        {
+          "key": "B",
+          "text": "Whereas"
+        },
+        {
+          "key": "C",
+          "text": "Although"
+        },
+        {
+          "key": "D",
+          "text": "Because"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此句具有學術論述風格，比較兩代人的價值觀。Whereas 較正式，適用於論述或對比性的學術寫作。While 也可表對比但較不正式。Although 表讓步非對比。Because 表因果不表對比。Whereas 最符合語境。",
+      "id": 3
+    },
+    {
+      "question_chi": "完成對比子句，需判斷連接詞位置和主述語完整性",
+      "question_eng": "While manufacturing jobs have declined in developed nations, _______ in emerging economies continue to expand rapidly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "they"
+        },
+        {
+          "key": "B",
+          "text": "whereas they"
+        },
+        {
+          "key": "C",
+          "text": "such jobs"
+        },
+        {
+          "key": "D",
+          "text": "while they"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一個子句由 While 引導，第二個子句應獨立成主述結構，無需重複連接詞。「Such jobs」作主詞明確指稱製造業工作，避免代詞模糊。選項 B、D 在句子中段不適合再用連接詞。選項 A 的代詞缺乏明確先行詞。選項 C 語意清晰、邏輯嚴密。",
+      "id": 4
+    }
   ]
 }

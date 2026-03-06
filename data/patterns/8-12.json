@@ -199,5 +199,107 @@
       "zh": "有效管理時間"
     }
   ],
-  "vocab_table_label": "常用動詞片語"
+  "vocab_table_label": "常用動詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，表達目的",
+      "question_eng": "He wakes up early every morning _______ he can catch the first bus to work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that"
+        },
+        {
+          "key": "B",
+          "text": "so as to"
+        },
+        {
+          "key": "C",
+          "text": "in order to"
+        },
+        {
+          "key": "D",
+          "text": "because"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。句子主詞「He」為單數，空格後接「he can catch」（含主詞與助動詞），必須用「so that + S + can/will + V」的結構。B 項 so as to 和 C 項 in order to 後接不定詞，且不需要主詞。D 項 because 表原因而非目的，語意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的目的副詞子句形式，主詞相同",
+      "question_eng": "The company invested heavily in technology _______ improve their production efficiency.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that they can"
+        },
+        {
+          "key": "B",
+          "text": "in order that they will"
+        },
+        {
+          "key": "C",
+          "text": "so as to"
+        },
+        {
+          "key": "D",
+          "text": "so that to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。因為主詞相同（都是 company/they），可使用不定詞形式 so as to + V。A 項雖文法正確但不夠簡潔。B 項 in order that 後應用 can 而非 will。D 項「so that to V」為常見錯誤，so that 後必須接助動詞，不能直接接不定詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別目的子句與結果子句的差異，選擇適切表達",
+      "question_eng": "The government implemented stricter environmental policies _______ reduce air pollution in major cities.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that it can"
+        },
+        {
+          "key": "B",
+          "text": "in order that industries will"
+        },
+        {
+          "key": "C",
+          "text": "in order to"
+        },
+        {
+          "key": "D",
+          "text": "so that to be able to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。主詞相同（政府實施政策→為了減少污染），應改寫為 in order to 或 so as to 搭配不定詞，更簡潔有力。A 項 so that 後主詞應與前句一致。B 項改變了主詞，造成邏輯混亂。D 項「so that to be able to」混合了兩種句型，為錯誤用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型判斷，考慮主詞變更與時態搭配",
+      "question_eng": "They distributed free masks throughout the neighborhood _______ vulnerable populations would have access to protective equipment during the health crisis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order to"
+        },
+        {
+          "key": "B",
+          "text": "so as to make sure"
+        },
+        {
+          "key": "C",
+          "text": "in order that"
+        },
+        {
+          "key": "D",
+          "text": "in order that they can provide"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。主詞變更（they → populations），目的子句有自己的主詞時，須用「in order that + S + would/can + V」的完整從句結構；空格後「vulnerable populations would have」符合此需求。A 項 in order to 和 B 項 so as to 皆為不定詞形，主詞必須相同。D 項改變了原句邏輯結構。",
+      "id": 4
+    }
+  ]
 }

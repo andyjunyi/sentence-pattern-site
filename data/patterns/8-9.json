@@ -199,5 +199,107 @@
       "zh": "定期地"
     }
   ],
-  "vocab_table_label": "常用時間連接詞"
+  "vocab_table_label": "常用時間連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的時間連接詞完成句子，說明事件發生順序。",
+      "question_eng": "_______ I arrived at the station, the train had already left.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Before"
+        },
+        {
+          "key": "B",
+          "text": "After"
+        },
+        {
+          "key": "C",
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "Until"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (After)。句子表示「在我到達車站之後，火車已經離開」，時間順序是：火車先離開，然後我才到達。After 引導的時間子句表示先發生的事件。選項 A (Before) 邏輯相反；C (Since) 用於持續性狀態不符；D (Until) 表示「直到...為止」邏輯不當。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句子時態判斷正確的時間連接詞，強調持續狀態。",
+      "question_eng": "_______ she graduated from university, she has been working as an engineer for five years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Before"
+        },
+        {
+          "key": "B",
+          "text": "After"
+        },
+        {
+          "key": "C",
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "Until"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (Since)。主句使用現在完成式 (has been working) 表示持續狀態，搭配 Since 引導的過去簡單式 (graduated)，表示「自從她大學畢業以來」的持續性。Before/After 用於單一時間點；Until 表示時間的終點，時態搭配不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "填入適當連接詞，主句使用完成式表達已完成的動作。",
+      "question_eng": "_______ we had finished our project, we celebrated with our team members at a nearby restaurant.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Since"
+        },
+        {
+          "key": "B",
+          "text": "Until"
+        },
+        {
+          "key": "C",
+          "text": "After"
+        },
+        {
+          "key": "D",
+          "text": "Before"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (After)。主句使用過去簡單式 (celebrated)，表示在完成項目之後進行慶祝活動。After 引導時間子句說明先完成的事件 (had finished)。Since 需搭配現在完成式；Until 表終點不符；Before 邏輯相反。句子結構為：After + 過去完成式，+ 過去簡單式。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨析 until 與 before 的區別，判斷合適的連接詞。",
+      "question_eng": "The company will continue to operate this factory _______ the new environmental regulations are implemented, which is expected to take another two years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "before"
+        },
+        {
+          "key": "B",
+          "text": "until"
+        },
+        {
+          "key": "C",
+          "text": "since"
+        },
+        {
+          "key": "D",
+          "text": "after"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (until)。句意為「在新環保法規實施之前，公司會繼續運營這座工廠」。Until 表示持續狀態直到某時間點終止，符合「繼續運營直到新法規實施」的邏輯。Before 表示時間點，不強調持續；Since 強調自某點開始的持續狀態；After 表先後順序。Future continuous 搭配 until 表示某狀態在未來持續到某時間點停止。",
+      "id": 4
+    }
+  ]
 }

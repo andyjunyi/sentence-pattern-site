@@ -199,5 +199,107 @@
       "zh": "重要的"
     }
   ],
-  "vocab_table_label": "常用形容詞"
+  "vocab_table_label": "常用形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係代名詞完成句子",
+      "question_eng": "The girl _______ parents are doctors wants to study medicine.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (whose)。Whose 為所有格關係代名詞，用來表示所有關係。句子意為「父母是醫生的女孩想學醫」，whose parents 表示「她的父母」。選項 A (who) 為主格，C (which) 修飾物而非人，D (that) 不可用於非限制性或含所有格之情況。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的關係代名詞完成句子",
+      "question_eng": "I have a neighbor _______ house was damaged in the recent storm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (whose)。Whose 可修飾人或物，此處修飾人 neighbor，whose house 表示「他/她的房子」。句子意為「我有一個鄰居，他/她的房子在最近的暴風雨中被損毀」。選項 A (who) 為主格，B (which) 須修飾 house 但不能表所有關係，D (whom) 為受格。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的關係代名詞及其後續形式",
+      "question_eng": "The company _______ CEO recently retired has been operating for fifty years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "who"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (whose)。Whose 後必須接名詞，whose CEO 表示「該公司的執行長」。句子意為「執行長最近退休的那家公司已營運五十年」。選項 A (that) 不可用於所有格表達，B (which) 後須接完整動詞但不表所有關係，D (who) 為主格無法表所有格。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷適當的關係代名詞及其在複雜句中的應用",
+      "question_eng": "The researcher _______ innovative methods have revolutionized the field received numerous international awards, _______ made her colleagues deeply envious.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose... which"
+        },
+        {
+          "key": "B",
+          "text": "who... that"
+        },
+        {
+          "key": "C",
+          "text": "whom... which"
+        },
+        {
+          "key": "D",
+          "text": "whose... that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (whose... which)。第一空用 whose 表「她的創新方法」修飾名詞 methods；第二空用 which 引導非限制性關係子句，修飾前面整個主要子句「獲得眾多國際獎項」。選項 B (who... that) 中 who 無法表所有格，that 不可引導非限制性子句；C (whom... which) 中 whom 不表所有格；D (whose... that) 中 that 不可引導非限制性子句。",
+      "id": 4
+    }
+  ]
 }

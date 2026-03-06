@@ -199,5 +199,107 @@
       "zh": "建議、表明"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係代名詞，指涉整個前句內容",
+      "question_eng": "The government announced a new tax policy, _______ upset many small business owners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "it"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（which）。which 引導非限定關係子句，用於指涉前整句內容，相當於「and this」。A 項 that 不能引導非限定子句；C 項 what 為疑問/關係代名詞，不適於此結構；D 項 it 無法連接兩個獨立子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "補全句子，表達前句結果或延伸涵義",
+      "question_eng": "She worked overtime for three months to complete the project, _______ earned her a promotion.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（which）。which 引導非限定子句，指涉前面整個行動，表達其結果。B 項 that 不用於非限定子句；C 項 where 為地點關係代名詞；D 項 when 為時間關係代名詞，皆不符合指涉整句的用法。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別限定與非限定子句，選擇適當的關係代名詞",
+      "question_eng": "The company decided to cut its workforce by 20%, _______ led to widespread protests from unions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "who"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C（which）。句中逗號表示非限定關係子句，which 指涉前句整個裁員決定。A 項 what 為疑問代名詞；B 項 that 不用於非限定子句；D 項 who 指人物，不適於指涉事件。只有 which 能指涉整句內容。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：辨別相似結構中 which 與 that 的區別用法",
+      "question_eng": "The research team published findings showing a link between social media use and depression, _______ contradicted previous studies on the topic.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "the finding that"
+        },
+        {
+          "key": "D",
+          "text": "findings which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（which）。逗號後接 which 引導非限定子句，指涉整個前句研究成果。A 項 that 不能引導非限定子句；C 項重複先行詞且用法不當；D 項用複數 findings 改變句意結構。which 前的逗號是關鍵，表示指涉整句而非特定名詞。",
+      "id": 4
+    }
+  ]
 }

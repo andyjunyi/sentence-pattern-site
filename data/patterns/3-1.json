@@ -198,5 +198,107 @@
         "比喻"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的同等比較句型，說明兩物外觀相似",
+      "question_eng": "This dress is _______ beautiful as the one you wore last week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "more"
+        },
+        {
+          "key": "D",
+          "text": "very"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (as)。肯定的同等比較使用 as...as 句型，表「和...一樣」。B 選項 so 只能用於否定句 (not so...as)。C 選項 more 用於比較級 (more beautiful than)。D 選項 very 是強調詞，不符合比較句型結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的否定比較形式，說明某人表現不如他人",
+      "question_eng": "My brother is not _______ tall as my father, so he still hopes to grow taller.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as...as"
+        },
+        {
+          "key": "B",
+          "text": "so...as"
+        },
+        {
+          "key": "C",
+          "text": "more...than"
+        },
+        {
+          "key": "D",
+          "text": "very"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (so...as)。否定比較句中，not so/as...as 皆可接受，但 so...as 更常見於否定句。句子應填 not so...as。A 選項 as...as 用於肯定句。C 選項為比較級結構。D 選項 very 無法形成比較句。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確句型，使用倍數詞表達兩物數量關係",
+      "question_eng": "This project requires twice _______ much effort as the previous one did.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "so"
+        },
+        {
+          "key": "D",
+          "text": "more"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (as)。倍數表達使用 倍數詞 + as + adj./adv. + as 結構，如 twice as much as、three times as many as。B 選項 than 用於比較級。C 選項 so 只能用於否定句。D 選項 more 為比較級用法，與倍數詞搭配不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "完成複雜的同等比較句子，涉及副詞修飾的動詞",
+      "question_eng": "The Olympic athlete runs _______ swiftly _______ her coach demonstrated during the training session, which impressed all spectators.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as...as"
+        },
+        {
+          "key": "B",
+          "text": "so...than"
+        },
+        {
+          "key": "C",
+          "text": "more...than"
+        },
+        {
+          "key": "D",
+          "text": "as...than"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (as...as)。副詞 swiftly 用於肯定的同等比較，需用 as swiftly as 結構，表「跑得和教練示範時一樣快」。B 選項混用 so 與 than。C 選項為比較級。D 選項混用 as 與 than，違反句型規則。",
+      "id": 4
+    }
   ]
 }

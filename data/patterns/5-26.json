@@ -199,5 +199,107 @@
       "zh": "絕對地"
     }
   ],
-  "vocab_table_label": "常用形容詞"
+  "vocab_table_label": "常用形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "學校規定學生必須穿制服，填空應選擇哪個選項？",
+      "question_eng": "All students _______ wear uniforms to school according to the school regulations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "have to"
+        },
+        {
+          "key": "C",
+          "text": "should"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「have to」。因為句中「according to the school regulations」表示這是客觀的學校規則要求，不是說話者主觀判斷，所以用 have to。A 選項 must 強調主觀必須感，但此句強調的是客觀規則。C 選項 should 表示建議或應該，語氣太弱。D 選項 can 表示能力或許可，完全不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "醫生基於專業判斷告訴病人必須戒菸，應填空哪個選項？",
+      "question_eng": "The doctor says you _______ quit smoking immediately for your health.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have to"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "may"
+        },
+        {
+          "key": "D",
+          "text": "might"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「must」。醫生基於專業判斷認為患者強烈需要戒菸，這是說話者的主觀判斷和強烈建議，所以用 must。A 選項 have to 強調客觀環境或規則要求，但這裡是專業判斷。C、D 選項表示可能性，不符合義務強制的語境。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分 must not 和 don't have to 的否定意思，填空應選哪個？",
+      "question_eng": "Employees _______ enter the laboratory without protective gear. It is strictly forbidden.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't have to"
+        },
+        {
+          "key": "B",
+          "text": "must not"
+        },
+        {
+          "key": "C",
+          "text": "have not to"
+        },
+        {
+          "key": "D",
+          "text": "mustn't have"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「must not」。句尾「strictly forbidden」表示禁止、不允許，所以用 must not（禁止）。A 選項 don't have to 表示「不必、無義務」，意思是可以選擇不做，不是禁止。C 選項「have not to」文法錯誤。D 選項「mustn't have」是過去推測用法，不符合本句。",
+      "id": 3
+    },
+    {
+      "question_chi": "考生無義務參加補習班，但若參加就必須遵守規則，填空應選何者？",
+      "question_eng": "You _______ attend cram schools, but if you do, you _______ follow their rules strictly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not; have to"
+        },
+        {
+          "key": "B",
+          "text": "don't have to; must"
+        },
+        {
+          "key": "C",
+          "text": "have to; must not"
+        },
+        {
+          "key": "D",
+          "text": "don't have to; have to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「don't have to; must」。第一空：「無義務參加補習班」用 don't have to（不必、無強制義務）。第二空：「必須遵守規則」是說話者根據邏輯判斷的強烈要求，用 must。A 選項第一空 must not 表禁止，不符合「無義務」。C 選項順序反覆。D 選項第二空用 have to 強調客觀規則，但此處是主觀判斷。",
+      "id": 4
+    }
+  ]
 }

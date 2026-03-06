@@ -199,5 +199,107 @@
       "zh": "聚集的（被動狀態）"
     }
   ],
-  "vocab_table_label": "常用分詞"
+  "vocab_table_label": "常用分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的分詞形式補完句子",
+      "question_eng": "With the door _______, the cold air rushed into the room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "opening"
+        },
+        {
+          "key": "B",
+          "text": "opened"
+        },
+        {
+          "key": "C",
+          "text": "opens"
+        },
+        {
+          "key": "D",
+          "text": "being open"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B (opened)。door 與 open 構成被動關係（門被打開），應使用過去分詞 p.p.。A 項 opening 表主動，文意不符。C 項 opens 為現在式動詞，不適用於 with 獨立分詞構句。D 項 being open 冗長且不符合此句型用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷分詞與受詞的邏輯關係，選擇正確形式",
+      "question_eng": "With his friends _______ him encouragement, he felt confident enough to take the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "giving"
+        },
+        {
+          "key": "B",
+          "text": "given"
+        },
+        {
+          "key": "C",
+          "text": "to give"
+        },
+        {
+          "key": "D",
+          "text": "gave"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A (giving)。his friends 與 give 構成主動關係（朋友們給予鼓勵），應使用現在分詞 V-ing。B 項 given 為被動，文意相反。C 項 to give 為不定詞，不符合 with 獨立分詞構句結構。D 項 gave 為過去式，不適合此句型。",
+      "id": 2
+    },
+    {
+      "question_chi": "在複雜情境中識別正確的分詞形式和邏輯關係",
+      "question_eng": "With the project _______ on schedule and the budget _______ within limits, the team can now focus on quality improvement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "completed; being kept"
+        },
+        {
+          "key": "B",
+          "text": "completing; keeping"
+        },
+        {
+          "key": "C",
+          "text": "completed; kept"
+        },
+        {
+          "key": "D",
+          "text": "completing; kept"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案為 C (completed; kept)。project 與 complete 為被動關係（項目已完成），budget 與 keep 為被動關係（預算被控制住），均應使用過去分詞。A 項第二空過度使用 being 顯得冗長。B 項兩空皆為主動，邏輯關係錯誤。D 項第一空錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "在多重修飾和抽象含義中正確應用 with 獨立分詞構句",
+      "question_eng": "With technological advancements _______ at an unprecedented pace and consumers' expectations _______ constantly, businesses must innovate to remain competitive in an increasingly volatile market.",
+      "options": [
+        {
+          "key": "A",
+          "text": "occurring; rising"
+        },
+        {
+          "key": "B",
+          "text": "occurred; rising"
+        },
+        {
+          "key": "C",
+          "text": "occurring; risen"
+        },
+        {
+          "key": "D",
+          "text": "occurred; risen"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A (occurring; rising)。technological advancements 與 occur 為主動關係（技術進步正在發生），consumers' expectations 與 rise 為主動關係（期望不斷提升），均應使用現在分詞 V-ing 表示進行中的狀態。B、C、D 項使用過去分詞或單數形式，無法恰當表達動態發展的含義。",
+      "id": 4
+    }
+  ]
 }

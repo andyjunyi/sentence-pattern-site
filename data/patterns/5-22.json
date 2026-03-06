@@ -205,5 +205,107 @@
       "zh": "在那些日子裡"
     }
   ],
-  "vocab_table_label": "常用時間表達"
+  "vocab_table_label": "常用時間表達",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的過去習慣表達方式",
+      "question_eng": "When I was a child, I _______ go to the beach every summer with my family.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used to"
+        },
+        {
+          "key": "B",
+          "text": "am used to"
+        },
+        {
+          "key": "C",
+          "text": "use to"
+        },
+        {
+          "key": "D",
+          "text": "was used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。used to + 原形動詞表示過去習慣性動作，現在已改變。B 項 am used to 是現在式被動，表示「習慣於」，語意不符。C 項 use to 缺少 d，文法錯誤。D 項 was used to 為過去被動，亦不符合過去習慣的表達。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷過去習慣的疑問句正確形式",
+      "question_eng": "_______ you use to study in the library when you were in college?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are"
+        },
+        {
+          "key": "B",
+          "text": "Were"
+        },
+        {
+          "key": "C",
+          "text": "Did"
+        },
+        {
+          "key": "D",
+          "text": "Do"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。過去習慣的疑問句結構為 Did + S + use to + V（原形）。A 與 D 為現在式，B 為 be 動詞過去式但不用於此句型。只有 Did 才能正確構成 used to 的疑問句，後接原形 use to。",
+      "id": 2
+    },
+    {
+      "question_chi": "區別 used to 與 be used to 的語法用法",
+      "question_eng": "My grandfather _______ drink coffee every morning, but now he's _______ tea instead.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used to / used to drinking"
+        },
+        {
+          "key": "B",
+          "text": "is used to / used to"
+        },
+        {
+          "key": "C",
+          "text": "used to / used to"
+        },
+        {
+          "key": "D",
+          "text": "used to / used to drinking"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是 D。前半句用 used to + 動詞原形表過去習慣已改變；後半句用 be used to + -ing 表現在已習慣某事。A 項第二空漏掉 be 動詞。B 項前半句文法錯誤。C 項第二空缺少 be 動詞，無法表達「已習慣」之意。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合判斷過去習慣的否定與意義區分",
+      "question_eng": "He _______ smoking, so he was able to quit easily. However, his brother _______ smoking every day, but he's trying to break the habit now.",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn't use to / used to"
+        },
+        {
+          "key": "B",
+          "text": "used to / didn't use to"
+        },
+        {
+          "key": "C",
+          "text": "wasn't used to / is used to"
+        },
+        {
+          "key": "D",
+          "text": "didn't use to / is used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一句強調他過去「沒有」抽煙習慣，所以戒煙容易，需用 didn't use to。第二句表其兄弟過去有抽煙習慣但現在想戒，需用 used to。B 項邏輯相反。C 與 D 混用了 be used to 的現在式，無法表達過去習慣語義。",
+      "id": 4
+    }
+  ]
 }

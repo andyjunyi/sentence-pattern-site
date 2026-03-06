@@ -199,5 +199,107 @@
       "zh": "考慮；思考"
     }
   ],
-  "vocab_table_label": "常用 V-ing 形式"
+  "vocab_table_label": "常用 V-ing 形式",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的分詞構句形式，表示兩個同時發生的動作",
+      "question_eng": "_______ the instructions carefully, Tom completed the task without any mistakes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Reading"
+        },
+        {
+          "key": "B",
+          "text": "Read"
+        },
+        {
+          "key": "C",
+          "text": "Having read"
+        },
+        {
+          "key": "D",
+          "text": "To read"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「Reading」。現在分詞 Reading 表示與主句 completed 同時發生的動作，邏輯主詞均為 Tom。B 項 Read 為原形動詞不符文法；C 項 Having read（完成式分詞）表先行動作，但題意為同時進行；D 項 To read 為不定詞，不符分詞構句用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，表示一連串的連續動作",
+      "question_eng": "The runner crossed the finish line, _______ her arms in triumph and celebrating her victory.",
+      "options": [
+        {
+          "key": "A",
+          "text": "raising"
+        },
+        {
+          "key": "B",
+          "text": "raises"
+        },
+        {
+          "key": "C",
+          "text": "to raise"
+        },
+        {
+          "key": "D",
+          "text": "raised"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「raising」。現在分詞 raising 與後面的 celebrating 並列，表示跨越終點線後的一連串連續動作，邏輯主詞均為 The runner。B 項 raises 改變了句子結構且時態不符；C 項 to raise 為不定詞用法錯誤；D 項 raised 為過去式，不符分詞構句結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇合適的分詞形式，表示原因或背景說明",
+      "question_eng": "_______ that the project deadline was approaching, the team decided to work overtime during the weekend.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Knowing"
+        },
+        {
+          "key": "B",
+          "text": "Having known"
+        },
+        {
+          "key": "C",
+          "text": "To know"
+        },
+        {
+          "key": "D",
+          "text": "Known"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「Knowing」。現在分詞 Knowing 用於表示原因，相當於「Because they knew that...」，邏輯主詞為 the team。B 項 Having known 表先行完成動作，與後句邏輯關係不符；C 項 To know 為不定詞，表目的而非原因；D 項 Known 為過去分詞，表被動意義不符題意。",
+      "id": 3
+    },
+    {
+      "question_chi": "分析句子結構，選擇邏輯主詞正確的分詞構句",
+      "question_eng": "_______ the novel last night, _______ it was already midnight, Sarah still couldn't put it down and finished reading all 300 pages.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Reading / knowing"
+        },
+        {
+          "key": "B",
+          "text": "Having read / knowing"
+        },
+        {
+          "key": "C",
+          "text": "Reading / having known"
+        },
+        {
+          "key": "D",
+          "text": "Having read / having known"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「Having read / knowing」。第一空用 Having read（完成式分詞）表示先於主句的動作「她前晚讀過小說」；第二空用 knowing（現在分詞）與主句動詞並時，表示「儘管知道已是午夜」的狀況說明，邏輯主詞均為 Sarah。A 項第一空時態關係錯誤；C、D 項第二空都不符合邏輯關係。",
+      "id": 4
+    }
+  ]
 }

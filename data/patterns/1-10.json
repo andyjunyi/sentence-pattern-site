@@ -202,5 +202,107 @@
       "zh": "從……（強調來源）"
     }
   ],
-  "vocab_table_label": "常用強調結構"
+  "vocab_table_label": "常用強調結構",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的強調句形式，填入空格",
+      "question_eng": "_______ my best friend who helped me through the difficult time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It was"
+        },
+        {
+          "key": "B",
+          "text": "It is"
+        },
+        {
+          "key": "C",
+          "text": "It were"
+        },
+        {
+          "key": "D",
+          "text": "It has been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「It was」。句子強調的是「my best friend」（人），用過去時 was，搭配 who 引導剩餘部分。這是標準的人物強調句。B 項用現在式不符時態；C 項 were 文法錯誤；D 項完成式不適當。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當詞語完成強調句，強調時間副詞",
+      "question_eng": "It was during the summer vacation _______ we decided to travel abroad.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「that」。強調時間副詞「during the summer vacation」時，必須用 that 連接（不能用 when）。A 項 who 用於強調人；B 項 when 是時間從屬連詞，不是強調句用法；D 項 which 不能用於強調句。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的強調句，強調地點副詞",
+      "question_eng": "_______ in this small village _______ the old tradition has been preserved for centuries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is / when"
+        },
+        {
+          "key": "B",
+          "text": "It is / where"
+        },
+        {
+          "key": "C",
+          "text": "It is / that"
+        },
+        {
+          "key": "D",
+          "text": "It was / which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「It is / that」。強調地點副詞「in this small village」時，用 It is 搭配 that（不能用 where）。where 是相關詞，不是強調句用法。A 項 when 用於時間；B 項 where 用於相關詞；D 項 was 時態不符，which 不用於強調句。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷強調句的正確形式，強調複合主詞和受詞",
+      "question_eng": "_______ the combination of talent, hard work, and perseverance _______ enables ordinary people to achieve extraordinary success.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is / that"
+        },
+        {
+          "key": "B",
+          "text": "It was / who"
+        },
+        {
+          "key": "C",
+          "text": "It is / which"
+        },
+        {
+          "key": "D",
+          "text": "It is that / that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「It is / that」。強調複雜名詞片語主詞時，用 It is 搭配 that，後接動詞。去掉 It is...that 後應還原為「The combination of talent, hard work, and perseverance enables...」。B 項 who 只用於強調人；C 項 which 不用於強調句；D 項結構重複錯誤。",
+      "id": 4
+    }
+  ]
 }

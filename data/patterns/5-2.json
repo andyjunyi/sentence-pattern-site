@@ -215,5 +215,107 @@
       "zh": "承諾"
     }
   ],
-  "vocab_table_label": "常用授與動詞"
+  "vocab_table_label": "常用授與動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的雙賓語結構，表示老師給學生們一份詳細的說明。",
+      "question_eng": "The teacher gave _______ a detailed explanation about the chemistry experiment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the students"
+        },
+        {
+          "key": "B",
+          "text": "to the students"
+        },
+        {
+          "key": "C",
+          "text": "for the students"
+        },
+        {
+          "key": "D",
+          "text": "the students to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。授與動詞 give 後接雙賓語結構時，間接受詞（IO）直接跟在動詞後，不需任何介詞。B 項的 to 與 give 搭配時應改寫形式才用；C 項的 for 用於 make/buy/cook；D 項詞序錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的介詞改寫該雙賓語句子，維持相同意思。",
+      "question_eng": "The teacher gave the students a detailed explanation about the chemistry experiment. = The teacher gave a detailed explanation about the chemistry experiment _______ the students.",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "to"
+        },
+        {
+          "key": "D",
+          "text": "with"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。授與動詞 give 改寫為『DO + to + IO』形式時，需用介詞 to。A 項的 for 用於 make/buy/cook；B 項 at 無此用法；D 項 with 表伴隨不表授與。",
+      "id": 2
+    },
+    {
+      "question_chi": "從四個選項中選出最恰當的授與動詞及介詞組合，完成句子。",
+      "question_eng": "She _______ her grandmother a handmade card _______ Mother's Day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sent / at"
+        },
+        {
+          "key": "B",
+          "text": "sent / on"
+        },
+        {
+          "key": "C",
+          "text": "gave / at"
+        },
+        {
+          "key": "D",
+          "text": "made / to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。sent 是合適的授與動詞，表『寄送』；on 用於特定日期的習語『on Mother's Day』。A 項時間介詞錯誤；C 項的 gave 語境不如 sent 自然；D 項 made...to 應改為 made...for，且語義不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷下列哪個句子正確使用授與動詞的雙賓語結構及其改寫形式。",
+      "question_eng": "Which sentence is grammatically correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The baker cooked his family a delicious cake for the celebration."
+        },
+        {
+          "key": "B",
+          "text": "The coach taught the players the new strategy to the game."
+        },
+        {
+          "key": "C",
+          "text": "The professor showed the class an interesting discovery on the research."
+        },
+        {
+          "key": "D",
+          "text": "The musician bought his friend a ticket to the concert for the show."
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。cook 搭配雙賓語時應用 for，句子正確。B 項 taught 應為『taught the players to 或 taught the game to the players』，介詞用法錯誤；C 項 showed 應用 to，『on the research』詞序不當；D 項『to the concert for the show』重複冗余，介詞搭配不當。",
+      "id": 4
+    }
+  ]
 }

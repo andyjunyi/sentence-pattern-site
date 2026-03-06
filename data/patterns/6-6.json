@@ -199,5 +199,107 @@
       "zh": "記憶"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "他開車時停下來接電話，選擇正確的動詞形式",
+      "question_eng": "He stopped _______ the phone while driving.",
+      "options": [
+        {
+          "key": "A",
+          "text": "answering"
+        },
+        {
+          "key": "B",
+          "text": "to answer"
+        },
+        {
+          "key": "C",
+          "text": "answer"
+        },
+        {
+          "key": "D",
+          "text": "answered"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (to answer)。stop + to V 表示「停止正在做的事，去做另一件事」。句子意思是他停下開車去接電話。A 項 (answering) 表示終止接電話這個動作，語義不符。C、D 項文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "他努力多年後終於戒煙，選擇正確的動詞形式",
+      "question_eng": "He finally stopped _______ after years of struggling with the habit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to smoke"
+        },
+        {
+          "key": "B",
+          "text": "smoking"
+        },
+        {
+          "key": "C",
+          "text": "smoke"
+        },
+        {
+          "key": "D",
+          "text": "smoked"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (smoking)。stop + V-ing 表示「終止、放棄某個習慣或動作」。片語 \"struggling with the habit\" 暗示過去長期的習慣行為。A 項 (to smoke) 表示停下來去做另一件事，語義不符。C、D 項文法錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "她記得在巴黎見過這位藝術家，選擇正確的動詞形式",
+      "question_eng": "She remembered _______ this artist in Paris years ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to meet"
+        },
+        {
+          "key": "B",
+          "text": "meeting"
+        },
+        {
+          "key": "C",
+          "text": "met"
+        },
+        {
+          "key": "D",
+          "text": "to have met"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (meeting)。remember + V-ing 表示「回想起過去發生過的事」。句末 \"years ago\" 表示過去經驗，應用 V-ing。A 項 (to meet) 表示未來的任務或意圖，不符語境。C 項文法不完整，D 項表達過於正式且不是常用搭配。",
+      "id": 3
+    },
+    {
+      "question_chi": "他忘記了他曾經答應要幫她修電腦，但後來想起來了",
+      "question_eng": "He forgot _______ to fix her computer, but later he remembered _______ that promise.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to promise; making"
+        },
+        {
+          "key": "B",
+          "text": "promising; to make"
+        },
+        {
+          "key": "C",
+          "text": "to promise; making"
+        },
+        {
+          "key": "D",
+          "text": "promising; to make"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (to promise; making)。第一空：forget + to V 表示「忘記要去做的事」（未來任務），所以用 to promise。第二空：remember + V-ing 表示「回想起過去做過的事」，所以用 making。A、C 的組合都用 to promise，但 making 才對。B、D 都誤用 promising，表示忘記停止許諾的行為，語義錯誤。",
+      "id": 4
+    }
+  ]
 }

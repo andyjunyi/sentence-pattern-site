@@ -199,5 +199,107 @@
       "zh": "害怕的"
     }
   ],
-  "vocab_table_label": "dare 的常見用法"
+  "vocab_table_label": "dare 的常見用法",
+  "mc_exercises": [
+    {
+      "question_chi": "補充適當的動詞形式，表達「他不敢向老闆說話」",
+      "question_eng": "He _______ speak up in front of his boss.",
+      "options": [
+        {
+          "key": "A",
+          "text": "doesn't dare to"
+        },
+        {
+          "key": "B",
+          "text": "dare not"
+        },
+        {
+          "key": "C",
+          "text": "doesn't dare"
+        },
+        {
+          "key": "D",
+          "text": "dares not to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。否定句中，dare 作一般動詞時用「doesn't dare to + V」，為現代英文標準用法。B 項「dare not」是情態動詞用法，多見於疑問或文言句；C 項缺少不定詞 to；D 項「dares not to」為錯誤組合，情態動詞不加 to。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當形式填空，表達驚奇或挑戰的語氣",
+      "question_eng": "_______ you speak to me in that tone of voice!",
+      "options": [
+        {
+          "key": "A",
+          "text": "You dare"
+        },
+        {
+          "key": "B",
+          "text": "How dare"
+        },
+        {
+          "key": "C",
+          "text": "Dare you"
+        },
+        {
+          "key": "D",
+          "text": "Don't you dare"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「How dare you...?」是固定表達，用於表達強烈的驚奇、憤怒或指責，構成反問句。A 項語序不對；C 項是簡單疑問，語氣不符；D 項為警告/命令，不是表達驚奇。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據上下文選擇合適選項，表達「她敢嘗試新事物」",
+      "question_eng": "Although she was nervous, she _______ try the new challenge.",
+      "options": [
+        {
+          "key": "A",
+          "text": "dared to"
+        },
+        {
+          "key": "B",
+          "text": "dare to"
+        },
+        {
+          "key": "C",
+          "text": "dares to"
+        },
+        {
+          "key": "D",
+          "text": "dared not"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。句子時態為過去式（was nervous），需用「dared to」表過去的勇氣或決定。B 項時態與上下文不符；C 項為現在式；D 項意思相反，表「不敢」。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨析 dare 的情態與一般動詞用法，選擇最自然的表達",
+      "question_eng": "In the formal interrogation, the witness _______ deny the evidence presented by the prosecution, and the judge seemed impressed by his honesty.",
+      "options": [
+        {
+          "key": "A",
+          "text": "dared not"
+        },
+        {
+          "key": "B",
+          "text": "didn't dare to"
+        },
+        {
+          "key": "C",
+          "text": "dare not"
+        },
+        {
+          "key": "D",
+          "text": "dares not to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。現代英文中，否定句用「didn't dare to + V」最為常見自然。A 項「dared not」為舊式情態動詞用法，在現代英文中罕見；C 項缺時態；D 項結構錯誤。根據上下文判斷需用過去式，B 項最符合現代英文習慣。",
+      "id": 4
+    }
+  ]
 }

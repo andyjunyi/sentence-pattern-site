@@ -197,5 +197,107 @@
         "結果"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的 such...that 句型補充，說明天氣惡劣導致的結果。",
+      "question_eng": "It was _______ bad weather that the outdoor event was cancelled.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "such a"
+        },
+        {
+          "key": "D",
+          "text": "so a"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。不可數名詞 weather 前用 such，無需加冠詞。B 項 so 後接形容詞不接名詞，違反句型；C 項 such a 用於可數單數名詞，weather 是不可數名詞，故錯誤；D 項 so 不與冠詞搭配，用法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "補充空格，用 such...that 表達他的想法非常有創意的結果。",
+      "question_eng": "Tom had _______ creative idea that it impressed all the judges.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such an"
+        },
+        {
+          "key": "B",
+          "text": "such a"
+        },
+        {
+          "key": "C",
+          "text": "so an"
+        },
+        {
+          "key": "D",
+          "text": "so creative"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。可數單數名詞 idea 前用 such 加冠詞，由於 creative 以子音音素開頭的輔音音素開始，需用 an。B 項用 a 不符音標規則；C 項 so 不接名詞片語；D 項 so creative that 後應接子句而非名詞，用法錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的 such...that 句型，強調她給了非常有用的建議。",
+      "question_eng": "She gave _______ useful advice that everyone in the meeting benefited greatly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such useful"
+        },
+        {
+          "key": "B",
+          "text": "such a useful"
+        },
+        {
+          "key": "C",
+          "text": "such"
+        },
+        {
+          "key": "D",
+          "text": "so useful"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。不可數名詞 advice 前直接用 such，不加冠詞或重複形容詞。A 項重複了形容詞；B 項不可數名詞前不加冠詞；D 項 so 後接形容詞時，整個構句應為 so...that 而非 such...that 句型，且缺少名詞。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇合適的選項，強調他們買的房子價格極高，導致債務問題。",
+      "question_eng": "They bought _______ expensive houses that they fell into serious debt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such expensive"
+        },
+        {
+          "key": "B",
+          "text": "such"
+        },
+        {
+          "key": "C",
+          "text": "so expensive"
+        },
+        {
+          "key": "D",
+          "text": "such an expensive"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。複數名詞 houses 前用 such 加形容詞，無需加冠詞。B 項省略形容詞，不符原意；C 項 so...that 句型時應為「so expensive that houses」，詞序不對；D 項 an 用於單數名詞，但此處是複數形 houses，用法錯誤。",
+      "id": 4
+    }
   ]
 }

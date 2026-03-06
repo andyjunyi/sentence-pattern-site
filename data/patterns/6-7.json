@@ -205,5 +205,107 @@
       "zh": "考慮、思考"
     }
   ],
-  "vocab_table_label": "常用疑問詞"
+  "vocab_table_label": "常用疑問詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填入最適當的片語，完成句子意思。",
+      "question_eng": "After the accident, Tom learned _______ to prevent similar incidents in the future.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what to do"
+        },
+        {
+          "key": "B",
+          "text": "how to prevent"
+        },
+        {
+          "key": "C",
+          "text": "when preventing"
+        },
+        {
+          "key": "D",
+          "text": "where to be careful"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。\"learn what to do\" 表「學會要做什麼」，疑問詞what與不定詞構成受詞，符合句型結構。B項「how to prevent」改變了句子意思，句末已有to prevent造成重複。C項preventing使用動名詞，破壞句型結構。D項where to be careful文意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇最符合句意的選項填空。",
+      "question_eng": "I haven't decided _______ to the concert yet, even though it's next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether go"
+        },
+        {
+          "key": "B",
+          "text": "whether to go"
+        },
+        {
+          "key": "C",
+          "text": "if to go"
+        },
+        {
+          "key": "D",
+          "text": "that I should go"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。\"decide whether to go\" 符合句型 S + decide + wh- + to V，表「決定是否去」。A項whether go缺少不定詞to，文法錯誤。C項if to go中if不能用於疑問詞+不定詞結構。D項that I should go改為名詞子句，句型不同，且lose掉了疑問詞的功能。",
+      "id": 2
+    },
+    {
+      "question_chi": "填入適當片語，使句子完整且符合文意。",
+      "question_eng": "The tourists wondered _______ to find authentic local cuisine without getting lost in the narrow streets.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where going"
+        },
+        {
+          "key": "B",
+          "text": "where to go"
+        },
+        {
+          "key": "C",
+          "text": "which place they could go"
+        },
+        {
+          "key": "D",
+          "text": "how can they go"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。\"wonder where to go\" 符合句型 S + wonder + wh- + to V，表「想知道去哪裡」。A項where going使用動名詞，破壞不定詞結構。C項which place they could go改為名詞子句，雖然合法但不是所要求的句型。D項how can they go是疑問句結構且含助動詞，不符合 wh- + to V 的不定詞用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當的選項，完成該學術語境句子。",
+      "question_eng": "Before implementing the new research methodology, the team needed to understand _______ to eliminate potential biases while ensuring the validity of the experimental results.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to balance rigor with feasibility"
+        },
+        {
+          "key": "B",
+          "text": "what should balance rigor with feasibility"
+        },
+        {
+          "key": "C",
+          "text": "how balancing rigor with feasibility"
+        },
+        {
+          "key": "D",
+          "text": "whether the need to balance rigor with feasibility"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。\"understand how to balance...\" 符合句型 S + understand + wh- + to V，其中how為疑問詞，to balance為不定詞，表「了解如何平衡」。B項「what should balance」將不定詞改為應然結構，破壞句型。C項「how balancing」使用動名詞，不符不定詞要求。D項「whether the need to balance」為名詞子句結構，且whether後接完整子句，不是 wh- + to V 句型。",
+      "id": 4
+    }
+  ]
 }

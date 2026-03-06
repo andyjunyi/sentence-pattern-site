@@ -203,5 +203,107 @@
       "zh": "告訴、說明"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的不定詞名詞片語完成句子",
+      "question_eng": "The student didn't know _______ for the exam, so he asked his teacher for help.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what to prepare"
+        },
+        {
+          "key": "B",
+          "text": "what preparing"
+        },
+        {
+          "key": "C",
+          "text": "how prepare"
+        },
+        {
+          "key": "D",
+          "text": "which to studying"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「疑問詞 + to V」構成名詞片語作動詞 know 的受詞，what to prepare 表「準備什麼」。B 項用動名詞形式錯誤；C 項缺少 to；D 項 studying 是動名詞，不符合「疑問詞 + to V」結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選擇正確的不定詞名詞片語形式",
+      "question_eng": "The coach explained _______ to improve their basketball skills effectively.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to practice"
+        },
+        {
+          "key": "B",
+          "text": "what practicing"
+        },
+        {
+          "key": "C",
+          "text": "how practicing"
+        },
+        {
+          "key": "D",
+          "text": "whether practice"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。explain 後接「疑問詞 + to V」的名詞片語，how to practice 表「如何練習」。B、C 項用動名詞而非不定詞；D 項 whether 後應接 to V（whether to practice），且缺少 to。",
+      "id": 2
+    },
+    {
+      "question_chi": "在複雜情境中選擇「是否要做某事」的適當表達",
+      "question_eng": "After weeks of negotiation, the company finally decided _______ the old factory or invest in building a new one.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether to renovate"
+        },
+        {
+          "key": "B",
+          "text": "what to renovate"
+        },
+        {
+          "key": "C",
+          "text": "how to renovate"
+        },
+        {
+          "key": "D",
+          "text": "which renovating"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。whether to renovate 表「是否要翻新」，常用於表示在兩個選擇間做決定的情況，符合「renovate or invest」的二選一含義。B 項 what to renovate 表「翻新什麼」；C 項 how to renovate 表「如何翻新」；D 項結構錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "在高難度句子中分辨疑問詞不定詞與其他結構的差異",
+      "question_eng": "Despite her years of experience, she still struggled with _______ the delicate balance between being a devoted mother and pursuing her ambitious career aspirations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to maintain"
+        },
+        {
+          "key": "B",
+          "text": "how maintaining"
+        },
+        {
+          "key": "C",
+          "text": "what to maintain"
+        },
+        {
+          "key": "D",
+          "text": "whether maintaining"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。struggle with 後接「疑問詞 + to V」的名詞片語，how to maintain 表「如何維持」。B 項介詞 with 後通常接動名詞，但原句結構要求不定詞名詞片語；C 項 what to maintain「維持什麼」意思不符；D 項 whether maintaining 結構不當，whether 後應接 to V。",
+      "id": 4
+    }
+  ]
 }

@@ -189,5 +189,107 @@
         "the way"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛主詞句型，表達看起來似乎會下雨",
+      "question_eng": "_______ that it will rain this afternoon based on the dark clouds.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It seems"
+        },
+        {
+          "key": "B",
+          "text": "It is seeming"
+        },
+        {
+          "key": "C",
+          "text": "It seems as"
+        },
+        {
+          "key": "D",
+          "text": "Seems that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It seems (that)』是標準虛主詞句型，that 可省略，後接完整子句。B 選項『is seeming』錯誤，seem 不用進行式。C 選項『seems as』缺少 if/though，用法不當。D 選項『Seems that』缺少虛主詞 It，不符文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入合適選項，表達外表看起來很疲勞的情況",
+      "question_eng": "_______ that the manager has been working too hard lately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It appears"
+        },
+        {
+          "key": "B",
+          "text": "It appearing"
+        },
+        {
+          "key": "C",
+          "text": "It will appear"
+        },
+        {
+          "key": "D",
+          "text": "It has appeared"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It appears (that)』為標準虛主詞句型，用於根據現象進行推測，此處用現在式表示現在的觀察。B 選項『appearing』為分詞形式，不能充當動詞。C 選項『will appear』改變了句意為未來的表現。D 選項『has appeared』暗示出現完成，與原意不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據上下文選擇正確句型，表達新措施似乎有正面效果",
+      "question_eng": "_______ as if the new education reform has benefited thousands of students nationwide.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It appears"
+        },
+        {
+          "key": "B",
+          "text": "That appears"
+        },
+        {
+          "key": "C",
+          "text": "It seems likely"
+        },
+        {
+          "key": "D",
+          "text": "It is appearing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It appears as if』用於虛主詞句型搭配假設語氣，強調『彷彿、好像』的推測。B 選項『That appears』缺少虛主詞 It。C 選項『seems likely』改變了結構，後應接不定詞或 that 子句而非 as if。D 選項『is appearing』為進行式，seem/appear 不用進行式表示推測。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當選項完成句子，關於學生對新課程的反應",
+      "question_eng": "It _______ that despite initial resistance, the majority of students have gradually adapted to the revised curriculum.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is seeming"
+        },
+        {
+          "key": "B",
+          "text": "appears"
+        },
+        {
+          "key": "C",
+          "text": "seems as though it"
+        },
+        {
+          "key": "D",
+          "text": "has been appearing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。『It appears (that)』為虛主詞句型，用現在式搭配完成式子句表達基於現象的推測。A 選項『is seeming』錯誤，seem/appear 不用進行式。C 選項『seems as though it』多加了虛主詞 it，造成重複。D 選項『has been appearing』錯誤，appear 不用現在完成進行式表達推測含義。",
+      "id": 4
+    }
   ]
 }

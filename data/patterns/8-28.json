@@ -208,5 +208,107 @@
       "zh": "立即地"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的選項完成句子，表示兩個過去動作的緊密銜接。",
+      "question_eng": "No sooner had the bell rung _______ the students rushed out of the classroom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "as"
+        },
+        {
+          "key": "D",
+          "text": "while"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題考查『No sooner...than』句型的核心結構。No sooner 開頭引發倒裝，過去完成式『had rung』後須用『than』連接過去簡單式『rushed』，表『剛...就...』。when 與 hardly 搭配；as 和 while 皆不符此句型結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的動詞形式，完成此倒裝強調句。",
+      "question_eng": "No sooner had the contract been signed _______ the company announced the merger to the public.",
+      "options": [
+        {
+          "key": "A",
+          "text": "than"
+        },
+        {
+          "key": "B",
+          "text": "when the company announced"
+        },
+        {
+          "key": "C",
+          "text": "than the company announced"
+        },
+        {
+          "key": "D",
+          "text": "before the company announced"
+        }
+      ],
+      "answer": "C",
+      "explanation": "此題測試『No sooner...than』的完整結構。than 後需接過去簡單式『announced』，不能用 when（搭配 hardly）。選項 B 的 when 與 no sooner 搭配錯誤；選項 D 的 before 無法表達『剛就』的立即性，只表『之前』。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據時態邏輯，選擇正確的倒裝句改寫。",
+      "question_eng": "_______ the museum closed its doors than we realized we had left our camera inside.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hardly had"
+        },
+        {
+          "key": "B",
+          "text": "No sooner had"
+        },
+        {
+          "key": "C",
+          "text": "Scarcely had"
+        },
+        {
+          "key": "D",
+          "text": "Just as had"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題考查『No sooner...than』與『Hardly...when』的區別。句中用 than 連接，應選『No sooner had』。Hardly 搭配 when；Scarcely 雖可倒裝但通常與 when 搭配；Just as 無此倒裝用法。句子表『博物館一關門，我們就發現』的立即性。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最符合語境的選項，完成複雜的倒裝句結構。",
+      "question_eng": "No sooner had the renowned conductor raised his baton _______ the orchestra launched into a magnificent performance, captivating every member of the audience with its powerful crescendo.",
+      "options": [
+        {
+          "key": "A",
+          "text": "than the orchestra launched"
+        },
+        {
+          "key": "B",
+          "text": "when the orchestra launched"
+        },
+        {
+          "key": "C",
+          "text": "than did the orchestra launch"
+        },
+        {
+          "key": "D",
+          "text": "before the orchestra launching"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此題綜合考查『No sooner...than』的語法精確性。標準結構為『No sooner had...than S + V（過去簡單式）』，選項 A 符合。選項 B 的 when 與 hardly 搭配；選項 C 多餘倒裝助動詞 did；選項 D 動名詞形式錯誤。句子描述指揮家一舉起指揮棒就掀起樂團演奏的立即效應。",
+      "id": 4
+    }
+  ]
 }

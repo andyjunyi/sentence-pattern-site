@@ -208,5 +208,107 @@
         "形容詞"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的詞彙完成句子，表示保持門開著的狀態。",
+      "question_eng": "Please keep the door _______ so the fresh air can come in.",
+      "options": [
+        {
+          "key": "A",
+          "text": "opening"
+        },
+        {
+          "key": "B",
+          "text": "open"
+        },
+        {
+          "key": "C",
+          "text": "opens"
+        },
+        {
+          "key": "D",
+          "text": "to open"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (open)。keep + O + adj. 表示保持某物處於特定靜態狀態，open 是形容詞。A (opening) 是現在分詞，但此處表狀態而非動作；C (opens) 是動詞第三人稱，用法錯誤；D (to open) 是不定詞，不符合此句型結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確詞彙，表示老師使教室保持安靜的狀態。",
+      "question_eng": "The teacher kept the classroom _______ during the exam so students could concentrate.",
+      "options": [
+        {
+          "key": "A",
+          "text": "silent"
+        },
+        {
+          "key": "B",
+          "text": "silencing"
+        },
+        {
+          "key": "C",
+          "text": "being silent"
+        },
+        {
+          "key": "D",
+          "text": "to be silent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (silent)。keep + O + adj. 表示保持靜態狀態，silent 為形容詞。B (silencing) 是現在分詞，強調動作進行中而非狀態保持；C (being silent) 語法冗余；D (to open) 不符合句型結構。此句型著重於狀態維持，需用形容詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確選項，區別 keep 和 leave 搭配動詞或形容詞的用法差異。",
+      "question_eng": "He left the window _______ all night, but I kept the lights _______ to save electricity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "open; off"
+        },
+        {
+          "key": "B",
+          "text": "opening; turning off"
+        },
+        {
+          "key": "C",
+          "text": "opened; turned off"
+        },
+        {
+          "key": "D",
+          "text": "to open; to turn off"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (open; off)。leave/keep + O + adj. 都表示保持靜態狀態。open 和 off 都是形容詞，描述窗戶和燈的狀態。B 用現在分詞強調動作而非狀態；C 用過去分詞表被動而非狀態保持；D 用不定詞結構錯誤。此句型強調保持狀態，應使用形容詞。",
+      "id": 3
+    },
+    {
+      "question_chi": "區別 keep + V-ing（持續動作）和 keep + O + adj.（保持狀態）的用法。",
+      "question_eng": "Mary _______ complaining about the noise, so I decided to leave her alone. Meanwhile, I kept my bedroom door _______ to block the sound.",
+      "options": [
+        {
+          "key": "A",
+          "text": "kept; closing"
+        },
+        {
+          "key": "B",
+          "text": "keeps; closed"
+        },
+        {
+          "key": "C",
+          "text": "kept; closed"
+        },
+        {
+          "key": "D",
+          "text": "keeps; closing"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (kept; closed)。第一空為過去式 kept + V-ing，表示瑪麗持續反覆抱怨。第二空為 keep + O + adj.，kept my door closed 表保持房門處於關閉狀態。A 的 closing 誤用為狀態；B 時態不符（當前文用過去式）；D 混淆兩種用法，第二空應用形容詞，不能用現在分詞。",
+      "id": 4
+    }
   ]
 }

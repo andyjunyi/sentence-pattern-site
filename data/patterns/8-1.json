@@ -199,5 +199,107 @@
       "zh": "重要原因"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的原因連接詞填空，句子表示直接充分的理由",
+      "question_eng": "_______ the weather was terrible, we decided to cancel the outdoor concert.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "Although"
+        },
+        {
+          "key": "C",
+          "text": "However"
+        },
+        {
+          "key": "D",
+          "text": "Therefore"
+        }
+      ],
+      "answer": "A",
+      "explanation": "本題需填入原因副詞子句的連接詞。Because 語氣最直接，提供充分理由，適合回答「為什麼要取消演唱會」的問題。B 項 Although 表讓步，C 項 However 為副詞/連接副詞，D 項 Therefore 為結果，均不符題意。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷句子結構是否正確，選出有錯誤的選項",
+      "question_eng": "Which sentence is INCORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Since you have finished your homework, you can play video games now."
+        },
+        {
+          "key": "B",
+          "text": "We stayed home because the snow was heavy so we couldn't drive safely."
+        },
+        {
+          "key": "C",
+          "text": "As the company faced financial difficulties, it decided to reduce its workforce."
+        },
+        {
+          "key": "D",
+          "text": "Because she wasn't feeling well, she went to see a doctor immediately."
+        }
+      ],
+      "answer": "B",
+      "explanation": "B 項犯了「雙連接詞錯誤」，同時使用了 because 和 so，違反句型規則。Because 和 so 不能同時出現在一句話中。A、C、D 三項句構正確，because/since/as 均正確使用於原因子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據語境選擇合適的原因連接詞，注意語氣差異",
+      "question_eng": "_______ most employees already know the company's new policy, I won't explain it in detail during today's meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because"
+        },
+        {
+          "key": "B",
+          "text": "Since"
+        },
+        {
+          "key": "C",
+          "text": "As"
+        },
+        {
+          "key": "D",
+          "text": "For"
+        }
+      ],
+      "answer": "B",
+      "explanation": "本題語境中，「員工已知新政策」是既定事實（已知原因），故應用 Since 或 As，語氣較弱。B 項 Since 最佳。A 項 Because 語氣過強，過度強調理由。D 項 For 為介詞，不能直接接 S + V 結構。C 項 As 亦可，但 Since 在此語境更常用。",
+      "id": 3
+    },
+    {
+      "question_chi": "複合考題：判斷句子結構並選擇語法最正確的版本",
+      "question_eng": "Which sentence demonstrates CORRECT usage of a causal clause?",
+      "options": [
+        {
+          "key": "A",
+          "text": "From the economic recession being severe, the government implemented emergency measures."
+        },
+        {
+          "key": "B",
+          "text": "As we arrived late at the conference, because the traffic was congested, we missed the opening speech."
+        },
+        {
+          "key": "C",
+          "text": "Since the research data proved inconclusive, the scientists decided to conduct further experiments."
+        },
+        {
+          "key": "D",
+          "text": "Due to the new technology, so the production efficiency increased significantly."
+        }
+      ],
+      "answer": "C",
+      "explanation": "C 項正確，Since 引導原因子句，句構合法。A 項錯誤，From 為介詞，不能接 S + V 結構，應改為 Because/Since。B 項錯誤，重複使用連接詞（As + because），屬結構重疊。D 項錯誤，Due to 後接名詞，不能同時用 so，產生雙連接詞錯誤。",
+      "id": 4
+    }
+  ]
 }

@@ -197,5 +197,107 @@
         "that 省略可接受"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的選項完成句子，使用 that 名詞子句。",
+      "question_eng": "_______ that he passed the difficult exam surprised everyone in the class.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is"
+        },
+        {
+          "key": "B",
+          "text": "That is"
+        },
+        {
+          "key": "C",
+          "text": "What is"
+        },
+        {
+          "key": "D",
+          "text": "This is"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It is + adj. + that 子句』為虛主詞句型，It 為虛主詞，真正的主詞是 that 後面的子句。B 項『That is』改變了句意；C 項『What is』為關係代名詞，文法錯誤；D 項『This is』為指示詞，不符合此句型結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的選項完成句子，強調重要事實。",
+      "question_eng": "It is essential _______ all employees understand the new company policy before next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。『It is + adj. + that + S + V』句型中，that 為名詞子句的連接詞，不可省略。A 項『when』為時間副詞；C 項『which』為關係代名詞，後需有逗號；D 項『where』為地點副詞，都不符合此句型。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當的連接詞完成句子，區別主詞和受詞子句用法。",
+      "question_eng": "The scientist announced _______ her team had discovered a new species, and it was remarkable _______ nobody had identified it before.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that; that"
+        },
+        {
+          "key": "B",
+          "text": "which; that"
+        },
+        {
+          "key": "C",
+          "text": "that; which"
+        },
+        {
+          "key": "D",
+          "text": "what; that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一個空為受詞子句『announced that...』，that 可省略但常保留；第二個空為『It is + adj. + that + S + V』主詞子句，that 不可省略。B 項『which』為關係代名詞，第二空錯誤；C 項第二空『which』不符合主詞子句結構；D 項『what』為關係代名詞，第一空文法錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷最複雜的句型應用，需理解虛主詞與真正主詞的關係。",
+      "question_eng": "It is undeniable _______ the pandemic has significantly impacted global economy, yet some argue _______ technological innovation will eventually offset these losses, which is debatable _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that; that; that"
+        },
+        {
+          "key": "B",
+          "text": "that; what; whether"
+        },
+        {
+          "key": "C",
+          "text": "what; that; what"
+        },
+        {
+          "key": "D",
+          "text": "that; whether; that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空為『It is + adj. + that + S + V』主詞子句，that 必用；第二空為『argue that...』受詞子句，該用 that；第三空為『is debatable that...』的省略形式，亦應用 that。B 項第二、三空錯誤；C 項『what』為關係代名詞，文法不符；D 項『whether』表選擇性，第二空應為 that 敘述性，第三空亦應為 that。",
+      "id": 4
+    }
   ]
 }

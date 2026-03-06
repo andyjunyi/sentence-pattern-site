@@ -199,5 +199,107 @@
       "zh": "整個關係子句可視為插入主句的補充說明"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的非限定關係子句形式，補充人物背景資訊",
+      "question_eng": "My friend Sarah, _______ graduated from Oxford University, now works as a lawyer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answer": "A",
+      "explanation": "非限定關係子句修飾人物應用 who。B 項 that 只能用於限定關係子句，不能用逗號分隔。C 項 which 用於物或事物。D 項 whom 作受詞，但此句 graduated 為不及物動詞需主詞，故不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "辨別非限定關係子句與限定關係子句的差異",
+      "question_eng": "The museum, _______ opened last year, has attracted thousands of visitors from around the world.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "it"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "非限定關係子句（前有逗號）修飾事物用 which。A 項 that 用於限定關係子句，不能接逗號。C 項 it 為代詞，無法引導子句。D 項 what 為疑問詞或連接詞，不用於非限定關係子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷關係代名詞並確保動詞與先行詞數一致",
+      "question_eng": "Einstein, _______ developed the theory of relativity, revolutionized our understanding of physics and space.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "whom"
+        },
+        {
+          "key": "C",
+          "text": "who"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "C",
+      "explanation": "非限定關係子句修飾人物 Einstein，需用 who 作主詞。A 項 which 用於物。B 項 whom 作受詞不符。D 項 that 不能用於非限定子句（有逗號分隔）。developed 需主詞，所以 who 正確。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句式：辨別多個關係子句的正確形式與標點",
+      "question_eng": "Dr. Chen, _______ has published numerous research papers and won several international awards, _______ conducts groundbreaking studies in genetic engineering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who / that"
+        },
+        {
+          "key": "B",
+          "text": "which / who"
+        },
+        {
+          "key": "C",
+          "text": "who / which"
+        },
+        {
+          "key": "D",
+          "text": "that / which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空為非限定關係子句修飾人物 Dr. Chen，用 who；第二空為主要動詞 conducts 的主詞應為 who，但此處可用 that 作限定用法補充前述資訊。標準答案是 who 配 that 以區別子句性質，或改用 who / and she。A 項最符合此非限定+限定的複合結構邏輯。",
+      "id": 4
+    }
+  ]
 }

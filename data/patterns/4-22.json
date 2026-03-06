@@ -203,5 +203,107 @@
       "zh": "關切、擔憂"
     }
   ],
-  "vocab_table_label": "常用同位語名詞"
+  "vocab_table_label": "常用同位語名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的選項來完成句子",
+      "question_eng": "The fact _______ he succeeded in his career made his parents very proud.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "B",
+      "explanation": "同位語子句必須用 that 引導，用來說明前面的抽象名詞 fact。選項 A（which）用於非限制性關係子句，不能引導同位語子句；C（what）為複合關係代名詞，與本句結構不符；D（when）為時間副詞，不適用。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇能正確補充前面名詞的選項",
+      "question_eng": "The news _______ the company will expand to five new markets next year excited all the employees.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "answer": "A",
+      "explanation": "news 是抽象名詞，其後的同位語子句應用 that 引導。該子句「the company will expand to five new markets next year」直接說明新聞的內容。B（which）、C（in which）和 D（where）都用於定語從句，不符合同位語子句的用法。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適當的詞彙完成句子",
+      "question_eng": "The belief _______ education is the key to breaking the cycle of poverty has driven her to establish schools in rural areas.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "as"
+        }
+      ],
+      "answer": "C",
+      "explanation": "belief 後接同位語子句需用 that。該子句「education is the key to breaking the cycle of poverty」直接說明該信念的具體內容。A（what）為複合相對代名詞，若使用應改構句；B（which）用於定語從句；D（as）為連接詞但不用於同位語子句。",
+      "id": 3
+    },
+    {
+      "question_chi": "從文法和邏輯判斷，選擇正確的引導詞",
+      "question_eng": "The possibility _______ artificial intelligence will surpass human intelligence in specific domains is no longer merely theoretical; it is a reality we must prepare for in our educational systems.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "whereby"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "B",
+      "explanation": "possibility 為抽象名詞，其同位語子句用 that 引導。子句「artificial intelligence will surpass human intelligence in specific domains」說明該可能性的具體內容。A（which）為定語關係代詞；C（whereby）為介系詞式關係副詞，用於說明方式；D（whether）引導疑問子句，不用於同位語結構。",
+      "id": 4
+    }
+  ]
 }

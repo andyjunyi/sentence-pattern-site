@@ -196,5 +196,107 @@
       "zh": "每日通勤"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確形式：他過去經常去健身房，但現在不去了。",
+      "question_eng": "He _______ go to the gym every day, but he doesn't anymore.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "is getting used to"
+        },
+        {
+          "key": "D",
+          "text": "uses to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。'used to + 原動詞' 表示過去經常做某事但現在已停止，句中 'but he doesn't anymore' 表示時間對比。A 項 'is used to' 後需動名詞，表現在習慣；C 項表適應過程；D 項 'uses to' 為非正式用法且無此時間對比意涵。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確形式：她已習慣在嘈雜環境中工作多年。",
+      "question_eng": "She _______ working in a noisy environment for many years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "is using to"
+        },
+        {
+          "key": "D",
+          "text": "has used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'be used to + V-ing' 表現在已習慣某事物，為習慣狀態，後接動名詞 'working'。B 項 'used to' 無現在式，用法錯誤；C 項非正式用法；D 項 'has used to' 文法不正確。",
+      "id": 2
+    },
+    {
+      "question_chi": "填空：他正在逐漸適應紐約的快速生活步調。",
+      "question_eng": "He is _______ the fast-paced lifestyle in New York.",
+      "options": [
+        {
+          "key": "A",
+          "text": "getting used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "being used to"
+        },
+        {
+          "key": "D",
+          "text": "getting use to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'get used to + V-ing/N' 表逐漸適應過程，強調動態變化。'getting used to' 符合句意 '正在適應'。B 項無現在進行式；C 項 'being used to' 用法不當；D 項拼寫錯誤，應為 'to' 而非 'use'。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確形式：他曾住在農村，習慣早起；現在在城市住習慣了熬夜。",
+      "question_eng": "He _______ wake up early when he lived in the countryside, and now he _______ staying up late since moving to the city.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to / used to"
+        },
+        {
+          "key": "B",
+          "text": "used to / is used to"
+        },
+        {
+          "key": "C",
+          "text": "gets used to / used to"
+        },
+        {
+          "key": "D",
+          "text": "uses to / is getting used to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。第一空需 'used to wake up'，表過去習慣（已停止）；第二空需 'is used to staying'，表現在習慣狀態。C 項 'gets used to' 強調動態變化不符語境；A、D 項順序顛倒或文法錯誤，無法表達過去與現在的對比。",
+      "id": 4
+    }
+  ]
 }

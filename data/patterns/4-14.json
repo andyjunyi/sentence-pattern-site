@@ -206,5 +206,107 @@
         "稀有性"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的關係代名詞，完成句子",
+      "question_eng": "Such problems _______ you mentioned in the meeting require immediate attention.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (as)。在 such...as 結構中，as 作關係代名詞指代前面的 problems，表示「像你提到的那些問題」。B 項 that 與 such 搭配時常用，但此句已有 such，應用 as 強調相似性；C 項 which 無法與 such 搭配；D 項 what 為疑問或關係代名詞，用法不當。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的關係代名詞，表達相同意義",
+      "question_eng": "She has the same dedication to her career _______ her father demonstrated throughout his life.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "as"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (as)。在 the same...as 結構中，as 作關係代名詞，表示「與…相同的」，表達完全一致性。此句意為「她對事業的投入與父親一生所展現的相同」。A 項 that 雖可與 the same 搭配，但此處應用 as 更能表達比較對照的意義；B、D 項不適合此結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據句意選擇正確的連接詞，注意讓步子句的用法",
+      "question_eng": "_______ exhausted _______ he was after the long journey, John still managed to help his friend move house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As / as"
+        },
+        {
+          "key": "B",
+          "text": "Although / as"
+        },
+        {
+          "key": "C",
+          "text": "As / though"
+        },
+        {
+          "key": "D",
+          "text": "Because / as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (As...as)。此句為倒裝的讓步子句，As 作從屬連接詞引導讓步狀況。句式為「As + 形容詞 + as + S + V」，表「儘管…」，意為「儘管他旅途勞累」。B 項 Although 後不可用 as；C 項 though 也可，但前空應為 Though 而非 As；D 項 Because 不表讓步。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的結構，完成複雜的比較句。難度最高",
+      "question_eng": "Such innovative technologies _______ are being developed in Silicon Valley have transformed industries in ways _______ few could have predicted a decade ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as / as"
+        },
+        {
+          "key": "B",
+          "text": "that / that"
+        },
+        {
+          "key": "C",
+          "text": "as / that"
+        },
+        {
+          "key": "D",
+          "text": "which / as"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (as/that)。第一空：在 such...as 結構中，as 作關係代名詞指代 technologies，引導定義性子句。第二空：ways 後接 that 形成 ways that...(定義性子句)，表達「人們無法預測的方式」。A 項兩個 as 會造成結構混亂；B 項兩個 that 違反 such 的搭配規則；D 項 which 不能與 such 搭配。",
+      "id": 4
+    }
   ]
 }

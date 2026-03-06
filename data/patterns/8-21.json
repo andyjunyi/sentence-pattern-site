@@ -199,5 +199,107 @@
       "zh": "過渡詞的特性"
     }
   ],
-  "vocab_table_label": "常用連接副詞"
+  "vocab_table_label": "常用連接副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的連接副詞用法，完成句子",
+      "question_eng": "The weather was terrible; _______, the outdoor concert was cancelled.",
+      "options": [
+        {
+          "key": "A",
+          "text": "however"
+        },
+        {
+          "key": "B",
+          "text": "therefore"
+        },
+        {
+          "key": "C",
+          "text": "moreover"
+        },
+        {
+          "key": "D",
+          "text": "furthermore"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題測試連接副詞的邏輯關係。前句說天氣很糟，後句說音樂會被取消，兩句有因果關係，因此 therefore（因此）最恰當。however 表對比（不符邏輯），moreover/furthermore 表添加（不符邏輯）。分號+連接副詞+逗號是正確用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷標點符號和連接副詞的正確搭配",
+      "question_eng": "She worked overtime for weeks _______ she was promoted to senior manager.",
+      "options": [
+        {
+          "key": "A",
+          "text": ", therefore"
+        },
+        {
+          "key": "B",
+          "text": "; therefore,"
+        },
+        {
+          "key": "C",
+          "text": ", however"
+        },
+        {
+          "key": "D",
+          "text": "; moreover,"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題測試連接副詞的正確標點用法。「她加班幾週」與「她被升職」有因果關係，應用 therefore。連接兩個獨立子句時，連接副詞前必須用分號，後必須用逗號（; therefore,）。選項 A 用逗號連接會造成逗號接合錯誤；選項 C/D 的邏輯關係不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "在正式寫作中，選擇適當的連接副詞和標點",
+      "question_eng": "The new policy has increased efficiency in the warehouse. _______, employee satisfaction has also improved significantly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "However,"
+        },
+        {
+          "key": "B",
+          "text": "Moreover,"
+        },
+        {
+          "key": "C",
+          "text": "Therefore,"
+        },
+        {
+          "key": "D",
+          "text": "Nevertheless,"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題考查句號後新起一句時的連接副詞用法。前句提效率提升，後句補充員工滿意度也提升，兩者是相加關係。應用 moreover（而且、此外）表示添加資訊。however/nevertheless 表對比（不符），therefore 表因果（此處不適合，因兩句是平行關係非嚴格因果）。句號後新句開始時，連接副詞後接逗號。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜語境中辨別連接副詞的邏輯關係和標點正確性",
+      "question_eng": "The research team discovered significant flaws in the original methodology; _______, they decided to completely redesign the experiment from scratch, which inevitably delayed the project timeline by several months.",
+      "options": [
+        {
+          "key": "A",
+          "text": "however, this finding was valuable"
+        },
+        {
+          "key": "B",
+          "text": "therefore, conducting new tests"
+        },
+        {
+          "key": "C",
+          "text": "furthermore, the budget constraints"
+        },
+        {
+          "key": "D",
+          "text": "as a result, they had to revise"
+        }
+      ],
+      "answer": "D",
+      "explanation": "此題考查複合句中連接副詞的邏輯關係、搭配詞性和完整性。前句述發現缺陷，後句述決定重新設計實驗，具因果關係。應選能完整表達因果的連接副詞短語「as a result」。選項 A 引入新主題（違反邏輯），B 動名詞形式不完整，C 引入預算話題（偏離主題）。分號用法正確。",
+      "id": 4
+    }
+  ]
 }

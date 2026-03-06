@@ -203,5 +203,107 @@
       "zh": "告訴"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填入適當的疑問詞和不定詞組合，完成句子。",
+      "question_eng": "I don't know _______ the computer. Can you help me?",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to use"
+        },
+        {
+          "key": "B",
+          "text": "how use"
+        },
+        {
+          "key": "C",
+          "text": "to how use"
+        },
+        {
+          "key": "D",
+          "text": "what to use"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。疑問詞how與不定詞to use結合作為know的受詞，表示「不知道如何使用」。B項缺少不定詞to，文法錯誤。C項詞序錯誤，疑問詞應在不定詞前。D項what意思不符，what to use表示選擇何物使用，不符語境。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的疑問詞加不定詞結構，表達不確定性。",
+      "question_eng": "The students wondered _______ to the museum after school.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether go"
+        },
+        {
+          "key": "B",
+          "text": "if to go"
+        },
+        {
+          "key": "C",
+          "text": "whether to go"
+        },
+        {
+          "key": "D",
+          "text": "to whether go"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。疑問詞whether與不定詞to go結合表「是否去」的含義。A項缺少不定詞to。B項用if替代whether，但在此句型中應用whether。D項詞序錯誤。注意：whether to V（是否…）是常見表達，表達兩者選擇或不確定性。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適合的疑問詞加不定詞，表示時間選擇的不確定。",
+      "question_eng": "She hasn't decided _______ to submit her application for the scholarship program.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which to submit"
+        },
+        {
+          "key": "B",
+          "text": "when to submit"
+        },
+        {
+          "key": "C",
+          "text": "how to submit"
+        },
+        {
+          "key": "D",
+          "text": "what to submit"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。句子語境涉及時間選擇（「何時提交申請」），故應用when to submit。A項which適用於在多項選擇中挑選。C項how用於方式，不符語境。D項what表選擇物品，此處已知提交的是application，不需what。只有when符合「決定時間」的語義。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確結構，表達完成任務所需步驟的不確定。",
+      "question_eng": "The manual clearly explains _______ the software correctly, including _______ to install the necessary drivers first.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to use; what"
+        },
+        {
+          "key": "B",
+          "text": "how to use; whether"
+        },
+        {
+          "key": "C",
+          "text": "how to use; which"
+        },
+        {
+          "key": "D",
+          "text": "what to use; how"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。第一空「如何正確使用軟體」應用how to use。第二空需表「是否優先安裝驅動程式」的選擇性，應用whether to install。A項what不符前文語境。C項which用於多選，但安裝驅動程式不是選擇問題。D項前空錯誤，what to use表選物品。only whether to V正確表達「是否…」的不確定性。",
+      "id": 4
+    }
+  ]
 }

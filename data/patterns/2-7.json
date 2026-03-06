@@ -203,5 +203,107 @@
       "zh": "準備（常用動詞）"
     }
   ],
-  "vocab_table_label": "常用時間片語"
+  "vocab_table_label": "常用時間片語",
+  "mc_exercises": [
+    {
+      "question_chi": "填入適當的動詞形式完成句子，表達已到應該採取行動的時刻。",
+      "question_eng": "It is time that you _______ your mind about whether to apply for the university or not.",
+      "options": [
+        {
+          "key": "A",
+          "text": "make"
+        },
+        {
+          "key": "B",
+          "text": "made"
+        },
+        {
+          "key": "C",
+          "text": "makes"
+        },
+        {
+          "key": "D",
+          "text": "making"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (made)。'It is time that + S + V-ed' 是虛擬語氣結構，表示應當做但尚未做的事，動詞用過去式。A 項是現在式，不符合虛擬語氣；C 項是第三人稱單數，文法錯誤；D 項是動名詞，不適合此句型結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的句型表達應該停止浪費時間在不重要的事情上。",
+      "question_eng": "It is high time that we _______ wasting our money on unnecessary purchases.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stop"
+        },
+        {
+          "key": "B",
+          "text": "stopped"
+        },
+        {
+          "key": "C",
+          "text": "have stopped"
+        },
+        {
+          "key": "D",
+          "text": "will stop"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (stopped)。'It is high time that + S + V-ed' 使用虛擬語氣過去式，表迫切性與應當做但未做的含義。A 項是現在式，不符合虛擬語氣；C 項現在完成式不適用此句型；D 項未來式也不符合虛擬語氣的使用規則。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，表達是時候該離開了，採用不定詞形式。",
+      "question_eng": "It is time _______ the office now; the meeting finished an hour ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that we left"
+        },
+        {
+          "key": "B",
+          "text": "we leave"
+        },
+        {
+          "key": "C",
+          "text": "to leave"
+        },
+        {
+          "key": "D",
+          "text": "for leaving"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (to leave)。'It is time + to V' 是不定詞形式，較為中性，不含虛擬意義。A 項 'that we left' 是虛擬語氣形式也可接受，但此題重點在於選擇不定詞；B 項缺少 to；D 項 'for leaving' 介詞搭配錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷兩種句型的使用差異，選出強調迫切性的虛擬語氣形式。",
+      "question_eng": "_______ that the government _______ stricter environmental policies; the pollution problem is getting worse every day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is time; implement"
+        },
+        {
+          "key": "B",
+          "text": "It is about time; implemented"
+        },
+        {
+          "key": "C",
+          "text": "It is time; to implement"
+        },
+        {
+          "key": "D",
+          "text": "It is about time that; implement"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (It is about time; implemented)。'It is about time that + S + V-ed' 用虛擬語氣過去式，強調迫切性與應做但未做的含義。A 項缺少 that 且時態錯誤；C 項是不定詞形式，無法強調迫切性；D 項虛擬語氣後接 implement（現在式）文法錯誤。",
+      "id": 4
+    }
+  ]
 }

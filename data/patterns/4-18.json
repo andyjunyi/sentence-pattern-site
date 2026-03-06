@@ -198,5 +198,107 @@
       "zh": "擔心"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填空選擇：選擇適當的詞彙完成句子",
+      "question_eng": "He asked me _______ I would join the club next semester.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "作受詞位置時，whether 和 if 都可使用，but 題目用 asked me 表示「問某人」的賓語子句，if 和 whether 都適當。此題 B 和 A 皆可，但 if 在口語中更常見於問句語境。C 項 that 引導陳述子句不表示「是否」；D 項 what 為特殊疑問詞。A 為更正式用法亦可接受，但 if 為日常用語的常見選擇。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確選項完成對話，體現不確定性意義",
+      "question_eng": "The manager was uncertain _______ the new marketing strategy would succeed or fail.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此句需強調雙重可能性「成功或失敗」，使用 whether...or not/or 結構，only whether 能與 or 搭配表達兩種對立可能。if 不可與 or 連用表達對立選擇。uncertain 後接賓語子句時，whether 更符合正式文體。B 項 if 無法表達「或」的雙重選擇；C 項 that 為陳述子句；D 項 which 為特疑詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別主詞位置的正確子句引導詞，考察語法限制",
+      "question_eng": "_______ the company will expand into Asian markets remains to be determined by the board of directors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Whether"
+        },
+        {
+          "key": "C",
+          "text": "That"
+        },
+        {
+          "key": "D",
+          "text": "What"
+        }
+      ],
+      "answer": "B",
+      "explanation": "子句位於句子主詞位置（remains 前），must 使用 whether，不能用 if。if 只能作受詞位置（賓語子句）。Whether...or not 隱含可用於表示對立的可能性。A 項 if 作主詞違反文法；C 項 that 引導限制性陳述子句，無法表「是否」不確定；D 項 what 為特疑詞，意義不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句構測試：辨認並列結構中的子句引導詞搭配",
+      "question_eng": "The team discussed two important issues: _______ they should invest more in research and development, and _______ the current budget allocation was sufficient for operational costs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether; if"
+        },
+        {
+          "key": "B",
+          "text": "if; whether"
+        },
+        {
+          "key": "C",
+          "text": "whether; whether"
+        },
+        {
+          "key": "D",
+          "text": "if; if"
+        }
+      ],
+      "answer": "C",
+      "explanation": "兩個並列的賓語子句都作為 discussed 的受詞，表達「是否……」的不確定性。雖然 if 在受詞位置也可用，但在正式文體與並列結構中，為保持平行結構的一致性與正式性，兩者都應使用 whether。A 項混用導致平行不一；B 項順序顛倒；D 項 if 雖文法可接但不如 whether 正式和一致性強。",
+      "id": 4
+    }
+  ]
 }

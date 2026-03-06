@@ -197,5 +197,107 @@
         "否定結果"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選填空白，使句子表達「如此...以至於...」的結果",
+      "question_eng": "The weather was _______ hot that we decided to stay indoors all day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "such"
+        },
+        {
+          "key": "C",
+          "text": "very"
+        },
+        {
+          "key": "D",
+          "text": "too"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（so）。此句型為「so + 形容詞 + that + 結果子句」，so 後接形容詞 hot。B（such）後應接名詞片語，不適用；C（very）無因果結構；D（too）表「過度」但無 that 子句搭配。",
+      "id": 1
+    },
+    {
+      "question_chi": "選填空白，完成「如此快速...以至於...」的句型",
+      "question_eng": "He ran _______ fast that no one could catch up with him.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "rather"
+        },
+        {
+          "key": "D",
+          "text": "quite"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（so）。因為 fast 是副詞，應使用「so + 副詞 + that」結構。A（such）用於名詞片語；C（rather）和 D（quite）為程度副詞但無因果關係結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "選填空白，表達結果的適當詞彙，使句意完整",
+      "question_eng": "The test was _______ difficult that many students _______ pass it on their first attempt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so...could"
+        },
+        {
+          "key": "B",
+          "text": "so...couldn't"
+        },
+        {
+          "key": "C",
+          "text": "such...can't"
+        },
+        {
+          "key": "D",
+          "text": "very...didn't"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「so + difficult + that」為正確句型，結果子句應為 couldn't pass（無法通過），表因難度高而失敗。A 的 could 意思相反；C 的 such 後應接名詞片語；D 的 very 無因果結構，且 didn't 時態使用不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "選填空白，完成複雜因果句，注意句型和時態搭配",
+      "question_eng": "The presentation was _______ well-organized and comprehensive _______ it impressed all the committee members, even those who were initially skeptical.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such...that"
+        },
+        {
+          "key": "B",
+          "text": "so...that"
+        },
+        {
+          "key": "C",
+          "text": "so...as to"
+        },
+        {
+          "key": "D",
+          "text": "such a...that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。well-organized 和 comprehensive 為形容詞複合修飾，應使用「so + adj. + that」結構。A（such...that）用於名詞片語；C（so...as to）為不同句型結構；D（such a）後應接單數可數名詞，但 presentation 前已有冠詞 the，此結構不適用。",
+      "id": 4
+    }
   ]
 }

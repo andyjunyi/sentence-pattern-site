@@ -211,5 +211,107 @@
       "zh": "困難；勉強"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的使役動詞形式來完成句子",
+      "question_eng": "The teacher tried to _______ the students to submit their homework on time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get submit"
+        },
+        {
+          "key": "B",
+          "text": "get to submit"
+        },
+        {
+          "key": "C",
+          "text": "cause submit"
+        },
+        {
+          "key": "D",
+          "text": "cause to submit"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。get 是使役動詞，後接受詞加 to V，因此為 get the students to submit。A 缺少 to，違反 get 的句型規則。C 和 D 中 cause 也需加 to V，但在「說服他人」的語境中應用 get 而非 cause，cause 用於客觀因果關係。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據語境選擇適當的使役動詞及結構",
+      "question_eng": "The doctor managed to _______ her patient to quit smoking through consistent counseling.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cause to quit"
+        },
+        {
+          "key": "B",
+          "text": "cause quit"
+        },
+        {
+          "key": "C",
+          "text": "get to quit"
+        },
+        {
+          "key": "D",
+          "text": "make to quit"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。「透過勸導使他人做某事」應用 get to V（強調說服努力），因此為 get her patient to quit。A 中 cause 用於客觀因果，不適合勸導語境。B 缺少 to。D 中 make 後接原形動詞，不能加 to，違反使役動詞規則。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷哪個選項正確表達客觀因果關係的使役含義",
+      "question_eng": "The scandal _______ several government officials to resign from their positions immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "led cause"
+        },
+        {
+          "key": "B",
+          "text": "caused to resign"
+        },
+        {
+          "key": "C",
+          "text": "got to resign"
+        },
+        {
+          "key": "D",
+          "text": "made to resign"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。表達客觀因果關係（醜聞導致辭職）應用 cause to V，因此為 caused to resign。A 中 led cause 是雙重動詞錯誤。C 中 got 用於勸導而非客觀因果。D 中 made 後接原形動詞，不能加 to。",
+      "id": 3
+    },
+    {
+      "question_chi": "複合句型：區辨 get/cause 在被動語態及語境的運用差異",
+      "question_eng": "Although the manager tried hard to _______ the reluctant employee to accept the transfer, the family circumstances _______ him to decline the offer finally.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get accept; caused"
+        },
+        {
+          "key": "B",
+          "text": "get to accept; caused"
+        },
+        {
+          "key": "C",
+          "text": "cause to accept; got"
+        },
+        {
+          "key": "D",
+          "text": "get to accept; made"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。第一空「說服員工接受」用 get to accept（強調說服努力）；第二空「家庭情況導致拒絕」用 caused（客觀因果關係）。A 中第一個 get accept 缺少 to。C 中 cause to accept 不符合勸導語境。D 中 made 後不能加 to。",
+      "id": 4
+    }
+  ]
 }

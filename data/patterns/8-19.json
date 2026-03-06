@@ -195,5 +195,107 @@
         "平行結構"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的連接詞組，完成句子",
+      "question_eng": "This restaurant is _______ delicious _______ affordable for families.",
+      "options": [
+        {
+          "key": "A",
+          "text": "not only / but also"
+        },
+        {
+          "key": "B",
+          "text": "not only / and"
+        },
+        {
+          "key": "C",
+          "text": "both / and"
+        },
+        {
+          "key": "D",
+          "text": "not only / or"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。not only...but also用於連接相同詞性的成分（此處為形容詞delicious和affordable），強調兩項特點都成立。B錯誤因為but也是必須保留的連接詞；C的both...and雖可連接形容詞，但無法表達「後者更重要」的強調效果；D的or表示選擇關係，語意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "句首倒裝結構，選擇正確的助動詞與語序",
+      "question_eng": "Not only _______ the students understand the concept, _______ the teachers were impressed by their progress.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did / but also"
+        },
+        {
+          "key": "B",
+          "text": "do / but"
+        },
+        {
+          "key": "C",
+          "text": "did / and"
+        },
+        {
+          "key": "D",
+          "text": "do / but also"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。當not only置於句首時，主句須倒裝，助動詞did應提前至主詞students之前，表過去時態。but also是正確的連接詞組。B的do與過去文脈不符；C的and無法連接兩個獨立子句且不符not only句型；D的do時態錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "複雜句型與時態搭配，辨別正確的倒裝與連接",
+      "question_eng": "Not only _______ she completed the assignment ahead of schedule, _______ she also provided innovative solutions that impressed the entire team.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has / but"
+        },
+        {
+          "key": "B",
+          "text": "did / but also"
+        },
+        {
+          "key": "C",
+          "text": "would / but"
+        },
+        {
+          "key": "D",
+          "text": "does / but also"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。句子使用過去式（completed）表過去事件，倒裝時助動詞應為did。連接詞組必須用but also（also可省略為but，但此處保留更完整）。A的has與過去事件不符；C的would表推測，語意不當；D的does時態與前文不一致，且句中已有also不應重複。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：多層次連接與詞性混合的精確應用",
+      "question_eng": "The documentary _______ reveals hidden truths _______ challenges viewers' preconceptions is not only _______ compelling but also _______ thought-provoking.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that / and / extremely / genuinely"
+        },
+        {
+          "key": "B",
+          "text": "which / but / deeply / truly"
+        },
+        {
+          "key": "C",
+          "text": "that / and / quite / absolutely"
+        },
+        {
+          "key": "D",
+          "text": "which / or / highly / rather"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。第一空用that引導限制性關係子句；第二空用and連接兩個並列動詞短語（reveals和challenges）；第三、四空用副詞（extremely和genuinely）修飾形容詞，搭配not only...but also強調兩個特質。B的but無法連接動詞短語；C的quite無法與incredibly級副詞等效搭配；D的or表選擇，which引導非限制性子句皆不符。",
+      "id": 4
+    }
   ]
 }

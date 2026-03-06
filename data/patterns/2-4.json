@@ -198,5 +198,107 @@
       "zh": "否則、不然的話"
     }
   ],
-  "vocab_table_label": "假設語氣關鍵詞"
+  "vocab_table_label": "假設語氣關鍵詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的假設語氣表達，表示與現在事實相反的情況",
+      "question_eng": "If I _______ more time, I would finish this project today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "would have"
+        },
+        {
+          "key": "D",
+          "text": "having"
+        }
+      ],
+      "answer": "B",
+      "explanation": "假設語氣與現在相反，if 子句須用過去式。正確答案為 had（過去簡單式）。A 項現在式用法錯誤；C 項是完成式，適用過去假設；D 項分詞形式不符文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "關於 be 動詞在假設語氣中的用法，選擇最適當的選項",
+      "question_eng": "If she _______ you, she would make a different choice in that situation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "would be"
+        }
+      ],
+      "answer": "C",
+      "explanation": "假設語氣中，be 動詞無論單複數一律用 were。C 項正確。A 項現在式；B 項過去式但應為 were；D 項主句形式，不應出現在 if 子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷主句中表達假設結果的適當助動詞，表示可能性或或然率",
+      "question_eng": "If you studied harder, you _______ pass the exam without any difficulty next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would"
+        },
+        {
+          "key": "B",
+          "text": "could"
+        },
+        {
+          "key": "C",
+          "text": "might"
+        },
+        {
+          "key": "D",
+          "text": "will"
+        }
+      ],
+      "answer": "B",
+      "explanation": "題目強調 \"without any difficulty\"（毫無困難），表達確定的可能性，should 用 could。A 項 would 過於絕對；C 項 might 表或然率不足；D 項 will 為直述語氣，不符假設。",
+      "id": 3
+    },
+    {
+      "question_chi": "運用省略 if 的倒裝假設語氣，完成句子",
+      "question_eng": "_______ I not so busy with my current projects, I _______ volunteer for this charity event.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were / would"
+        },
+        {
+          "key": "B",
+          "text": "If were / could"
+        },
+        {
+          "key": "C",
+          "text": "Had / might"
+        },
+        {
+          "key": "D",
+          "text": "Should / will"
+        }
+      ],
+      "answer": "A",
+      "explanation": "若省略 if，需將 were 倒裝至句首：Were I...。主句應用 would 表確定結果。A 項正確。B 項保留 if 與倒裝矛盾；C 項 Had 用於完成假設；D 項 should 與 will 皆不符。",
+      "id": 4
+    }
+  ]
 }

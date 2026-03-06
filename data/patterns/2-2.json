@@ -212,5 +212,107 @@
       "zh": "未來時間副詞"
     }
   ],
-  "vocab_table_label": "常用條件連接詞"
+  "vocab_table_label": "常用條件連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的條件句，表達「如果你努力學習，你將通過考試」",
+      "question_eng": "_______ you study hard, you will pass the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Unless"
+        },
+        {
+          "key": "C",
+          "text": "Because"
+        },
+        {
+          "key": "D",
+          "text": "Although"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 If，用來表達充分條件。Unless 表「除非」為否定條件；Because 和 Although 都是因果或讓步關係，不適合此句型。條件副詞子句應使用現在式代表未來，主句用 will + V 表結果。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的條件副詞，表達「除非你完成功課，否則不能去派對」",
+      "question_eng": "_______ you finish your homework, you won't go to the party.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As long as"
+        },
+        {
+          "key": "B",
+          "text": "Unless"
+        },
+        {
+          "key": "C",
+          "text": "If"
+        },
+        {
+          "key": "D",
+          "text": "Provided that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Unless 表「除非」，等同「if not」，用於否定條件。As long as 和 Provided that 表「只要」，含有肯定之意，不適合此負面語境。If 搭配肯定動詞時改變句意，此處應用 Unless 配合否定結果。",
+      "id": 2
+    },
+    {
+      "question_chi": "補全句子：「只要你遵守規則，你就能在這裡工作」",
+      "question_eng": "_______ you follow the rules, you _______ work here.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unless / won't"
+        },
+        {
+          "key": "B",
+          "text": "As long as / will"
+        },
+        {
+          "key": "C",
+          "text": "If not / will"
+        },
+        {
+          "key": "D",
+          "text": "Provided that / won't"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As long as 表「只要」，引導肯定條件，搭配主句的肯定未來式 will work。Unless 和 if not 為否定條件，Provided that 在此較不自然。條件子句用現在式 follow，主句用未來式 will work。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷句子正誤：「只要天氣晴朗，我們就去登山。」應如何正確表達",
+      "question_eng": "Which sentence is grammatically correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Provided that the weather will be fine, we will go hiking."
+        },
+        {
+          "key": "B",
+          "text": "As long as the weather is fine, we will go hiking."
+        },
+        {
+          "key": "C",
+          "text": "Unless the weather is fine, we will go hiking."
+        },
+        {
+          "key": "D",
+          "text": "If the weather is fine, we won't go hiking."
+        }
+      ],
+      "answer": "B",
+      "explanation": "B 正確。條件子句用現在式 is fine（代表未來），主句用 will go。A 錯誤因子句用了 will be（應為 is）。C 的 Unless 改變句意為「除非晴朗才去」，邏輯錯誤。D 的 won't 為否定，與句意不符。As long as 和 Provided that 都表「只要」，但 A 的時態錯誤。",
+      "id": 4
+    }
+  ]
 }

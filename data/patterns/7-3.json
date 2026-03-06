@@ -203,5 +203,107 @@
       "zh": "被安排的；已安排的"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的過去分詞完成句子，表達希望車子被修好。",
+      "question_eng": "Mary wants her car _______ before the holiday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to repair"
+        },
+        {
+          "key": "B",
+          "text": "repaired"
+        },
+        {
+          "key": "C",
+          "text": "repairing"
+        },
+        {
+          "key": "D",
+          "text": "repair"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (repaired)。此句型 want + O + p.p.，受詞 her car 與過去分詞 repaired 呈被動關係，表「希望車子被修好」。A 項 to repair 是不定詞，文法錯誤；C 項 repairing 是現在分詞，表主動；D 項 repair 是原形動詞，不符此句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的動詞和過去分詞組合，表達讓文件被翻譯。",
+      "question_eng": "I _______ this important document _______ into English.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get / translated"
+        },
+        {
+          "key": "B",
+          "text": "have / translate"
+        },
+        {
+          "key": "C",
+          "text": "want / translating"
+        },
+        {
+          "key": "D",
+          "text": "need / translating"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (get / translated)。get + O + p.p. 表「使某物被完成」。此句中 document 是受詞，translated 是過去分詞作補語。B 項的 translate 是原形不正確；C 項 translating 是現在分詞，表主動不符；D 項同樣用現在分詞錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當形式完成句子，表達發現車鑰匙遺失的狀態。",
+      "question_eng": "When I arrived home, I found my car keys _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to be lost"
+        },
+        {
+          "key": "B",
+          "text": "losing"
+        },
+        {
+          "key": "C",
+          "text": "lost"
+        },
+        {
+          "key": "D",
+          "text": "being lost"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (lost)。find + O + p.p. 表「發現某物處於被動狀態」，此處 keys 與 lost 呈被動關係。A 項 to be lost 多餘；B 項 losing 是主動分詞不符；D 項 being lost 為進行式，在此結構中不需要。簡潔的過去分詞最適切。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確形式，表達保持秘密不被洩露的狀態。",
+      "question_eng": "We must keep this information _______ to avoid serious consequences.",
+      "options": [
+        {
+          "key": "A",
+          "text": "keeping secret"
+        },
+        {
+          "key": "B",
+          "text": "to keep secret"
+        },
+        {
+          "key": "C",
+          "text": "secret"
+        },
+        {
+          "key": "D",
+          "text": "secreted"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (secret)。keep + O + adj./p.p. 結構中，secret 在此為形容詞而非過去分詞，表「保持某物秘密狀態」。A 項 keeping secret 冗餘；B 項 to keep secret 為不定詞結構，改變了句子意思；D 項 secreted 是過去分詞但語意不當。形容詞 secret 最符合保持狀態的含義。",
+      "id": 4
+    }
+  ]
 }

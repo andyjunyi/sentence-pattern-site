@@ -210,5 +210,107 @@
       "zh": "清楚地"
     }
   ],
-  "vocab_table_label": "常用感官動詞"
+  "vocab_table_label": "常用感官動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的感官動詞用法，表示看到某人離開教室。",
+      "question_eng": "I saw her _______ the classroom yesterday afternoon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "leave"
+        },
+        {
+          "key": "B",
+          "text": "leaving"
+        },
+        {
+          "key": "C",
+          "text": "to leave"
+        },
+        {
+          "key": "D",
+          "text": "left"
+        }
+      ],
+      "answer": "A",
+      "explanation": "感官動詞 see 後接受詞加原形動詞（leave）表示目睹完整的動作。B 項 leaving 表示動作進行中，不符題意；C 項 to leave 為被動語態用法；D 項 left 為過去式，感官動詞結構不用此形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當形式，表示聽到孩子們正在唱歌。",
+      "question_eng": "We heard the children _______ happily in the classroom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sing"
+        },
+        {
+          "key": "B",
+          "text": "singing"
+        },
+        {
+          "key": "C",
+          "text": "sang"
+        },
+        {
+          "key": "D",
+          "text": "to sing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "hear 後接現在分詞 singing 表示動作正在進行中。A 項 sing 表示完整動作，不符「正在唱」之意；C 項 sang 為過去式，不符感官動詞結構；D 項 to sing 為被動語態用法。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確選項，表示被動語態下看到他被帶走。",
+      "question_eng": "He was seen _______ away by several witnesses.",
+      "options": [
+        {
+          "key": "A",
+          "text": "being taken"
+        },
+        {
+          "key": "B",
+          "text": "to be taken"
+        },
+        {
+          "key": "C",
+          "text": "taking"
+        },
+        {
+          "key": "D",
+          "text": "take"
+        }
+      ],
+      "answer": "B",
+      "explanation": "感官動詞的被動語態，原形動詞改為帶 to 的不定詞加被動形式（to be taken）。A 項 being taken 為進行式被動，不符感官動詞被動規則；C 項 taking 為主動分詞；D 項 take 缺少被動形式。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當選項，區辨感官動詞的兩種用法差異。",
+      "question_eng": "The manager noticed the employee _______ tired, so he had her _______ early that day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "looking; leave"
+        },
+        {
+          "key": "B",
+          "text": "to look; leaving"
+        },
+        {
+          "key": "C",
+          "text": "look; leaving"
+        },
+        {
+          "key": "D",
+          "text": "looked; to leave"
+        }
+      ],
+      "answer": "A",
+      "explanation": "notice 後接現在分詞 looking 表示狀態特徵；had her leave 是 have 使役動詞用法，接原形動詞 leave 表示完整動作。B 項 to look 不符 notice 的用法；C 項 look 與 leaving 搭配不當；D 項 looked 和 to leave 都違反感官動詞結構。",
+      "id": 4
+    }
+  ]
 }

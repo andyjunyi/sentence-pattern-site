@@ -197,5 +197,107 @@
         "for+受詞"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句型表達：這件事太複雜了，小孩無法理解。",
+      "question_eng": "This matter is _______ for children to understand.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too complicated"
+        },
+        {
+          "key": "B",
+          "text": "complicated enough"
+        },
+        {
+          "key": "C",
+          "text": "enough complicated"
+        },
+        {
+          "key": "D",
+          "text": "too enough complicated"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「too complicated」。「too + 形容詞 + to V」表示超過限度而無法進行，符合「太複雜了無法理解」的負面情境。B 選項「complicated enough」語意相反，表示足夠複雜（能理解困難）。C 選項 enough 置於形容詞前，用法錯誤。D 選項同時使用 too 和 enough 是雙重否定，文法不合。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確句型：她年紀大到能夠自己做決定。",
+      "question_eng": "She is _______ to make decisions about her own life.",
+      "options": [
+        {
+          "key": "A",
+          "text": "old enough"
+        },
+        {
+          "key": "B",
+          "text": "too old"
+        },
+        {
+          "key": "C",
+          "text": "enough old"
+        },
+        {
+          "key": "D",
+          "text": "too enough old"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「old enough」。「形容詞/副詞 + enough + to V」表示程度達標能進行，符合肯定情境「年紀足夠大，能自己決定」。B 選項「too old」意思錯誤，表年紀太大反而無法決定。C 選項 enough 置於形容詞前，位置錯誤。D 選項雙重修飾，文法不合。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確句型：這個游泳池對初學者來說太深了。",
+      "question_eng": "The swimming pool is _______ for beginners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "deep enough to swim in"
+        },
+        {
+          "key": "B",
+          "text": "too deep to swim safely in"
+        },
+        {
+          "key": "C",
+          "text": "too deep enough"
+        },
+        {
+          "key": "D",
+          "text": "deeply enough to use"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「too deep to swim safely in」。「too + 形容詞 + (for + 受詞) + to V」表超過限度，符合「太深無法安全游泳」的負面情境。A 選項「deep enough」語意相反。C 選項雙重修飾文法錯誤。D 選項用副詞 deeply 和 enough 組合，且與情境不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確句型：這間飯店的服務質量很高，能滿足最挑剔的顧客。",
+      "question_eng": "The hotel's service is _______ even for the most demanding customers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "excellent enough to satisfy"
+        },
+        {
+          "key": "B",
+          "text": "too excellent to satisfy"
+        },
+        {
+          "key": "C",
+          "text": "enough excellent to please"
+        },
+        {
+          "key": "D",
+          "text": "too good enough"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「excellent enough to satisfy」。「形容詞 + enough + to V」表程度達標、能夠達成目標，符合「服務質量高到能滿足」的肯定情境。B 選項「too excellent」語意相反，表太優秀反而無法滿足（邏輯不通）。C 選項 enough 置於形容詞前，位置錯誤。D 選項混用 too 和 enough，文法不合。",
+      "id": 4
+    }
   ]
 }

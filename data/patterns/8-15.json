@@ -206,5 +206,107 @@
       "zh": "平行的；相等的"
     }
   ],
-  "vocab_table_label": "常用連接詞組"
+  "vocab_table_label": "常用連接詞組",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的動詞形式完成句子",
+      "question_eng": "Both swimming and running _______ excellent forms of exercise for maintaining good health.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "has been"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Both...and 連接兩個並列的主詞時，謂語動詞必須用複數形式。Swimming 和 running 雖然都是單數名詞，但 both...and 結構強調「兩者都」，所以需要複數動詞 are。A 項 is 為單數，文法錯誤。C、D 項時態為現在完成式，與句意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的動詞確保與後位主詞一致",
+      "question_eng": "Not only the director but also the actors _______ satisfied with the final version of the film.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "have been"
+        },
+        {
+          "key": "D",
+          "text": "has been"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Not only...but also 結構中，謂語動詞的數必須與 but also 後的主詞一致。此處 but also 後為複數名詞 the actors，故需複數動詞 were。A 項 was 為單數，文法錯誤。C、D 項雖然時態可能也適用，但 have been 配複數，has been 配單數，此處應選 were 的過去簡單式。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷並列結構中的謂語動詞與形容詞搭配",
+      "question_eng": "Both the novel and its adaptation _______ entertaining and thought-provoking, which explains their widespread popularity among audiences.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "seems"
+        },
+        {
+          "key": "D",
+          "text": "appear to be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Both...and 連接兩個名詞短語（the novel 和 its adaptation）作主詞，謂語動詞必須用複數 are。該複數動詞與兩個形容詞 entertaining 和 thought-provoking 並列。A 項 is 為單數，文法錯誤。C 項 seems 為單數，也不符合。D 項雖複數，但 appear to be 結構較冗長且不如 are 簡潔。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：複雜句型中的主詞一致與時態選擇",
+      "question_eng": "Not the financial crisis but the company's poor management decisions _______ _______ responsible for the dramatic decline in market share over the past three years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have been"
+        },
+        {
+          "key": "B",
+          "text": "has been"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "is"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Not...but 結構中，謂語與 but 後的主詞 the company's poor management decisions 一致。雖然 decisions 是複數名詞，但作為集合體指「決策」這一概念時，可視為單數。此句使用現在完成式 has been 表示過去發生至現在的結果。A 項複數不符。C、D 項雖為現在式，但無法表達「過去三年」的持續影響。",
+      "id": 4
+    }
+  ]
 }

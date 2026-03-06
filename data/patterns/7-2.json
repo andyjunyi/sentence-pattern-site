@@ -199,5 +199,107 @@
       "zh": "聚集中的（主動分詞）"
     }
   ],
-  "vocab_table_label": "常用分詞"
+  "vocab_table_label": "常用分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的存在句形式，描述教室外等待的學生",
+      "question_eng": "There are several students _______ outside the classroom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "waited"
+        },
+        {
+          "key": "B",
+          "text": "waiting"
+        },
+        {
+          "key": "C",
+          "text": "to wait"
+        },
+        {
+          "key": "D",
+          "text": "wait"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。在存在句中，名詞後接V-ing形式作分詞片語補語。students是主動執行wait動作，故使用主動形式waiting。A項p.p.表被動，邏輯錯誤；C項不定詞用法不符；D項缺少-ing無法作修飾語。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當分詞形式，描述建築物中損壞的窗戶",
+      "question_eng": "There is a window _______ in the old building that needs repair.",
+      "options": [
+        {
+          "key": "A",
+          "text": "breaking"
+        },
+        {
+          "key": "B",
+          "text": "broke"
+        },
+        {
+          "key": "C",
+          "text": "broken"
+        },
+        {
+          "key": "D",
+          "text": "being broken"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。窗戶是被動接受「破損」的狀態，應使用過去分詞p.p. broken。A項breaking表主動進行中，邏輯錯誤；B項broke是簡單過去式，無法作分詞；D項過於複雜，文意已由p.p.表達完整。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷主被動關係，完成描述餐廳存在物的複雜句型",
+      "question_eng": "There were many dishes _______ on the table, _______ by the chef for the special dinner.",
+      "options": [
+        {
+          "key": "A",
+          "text": "displaying / prepared"
+        },
+        {
+          "key": "B",
+          "text": "displayed / preparing"
+        },
+        {
+          "key": "C",
+          "text": "displaying / preparing"
+        },
+        {
+          "key": "D",
+          "text": "displayed / prepared"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是D。dishes被動地被陳列且被廚師準備，兩個空皆需過去分詞。A項第一個字顯示主動邏輯錯誤；B項preparing表廚師主動進行，與句意不符；C項兩者皆為主動形式，與dishes的被動角色矛盾。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型題：判斷多重分詞的主被動與時態表達",
+      "question_eng": "There are countless problems _______ in the project, _______ constant attention from the management team _______ to solve them efficiently.",
+      "options": [
+        {
+          "key": "A",
+          "text": "existed / requiring / dedicating"
+        },
+        {
+          "key": "B",
+          "text": "existing / requiring / dedicated"
+        },
+        {
+          "key": "C",
+          "text": "existing / required / dedicating"
+        },
+        {
+          "key": "D",
+          "text": "existed / required / dedicated"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。problems主動存在，用existing；這些問題要求管理層注意，requiring為分詞片語作主詞補語；management team被動地被委派（dedicated to），故用過去分詞dedicated。A項existed為過去式無法作分詞；C項required邏輯錯誤（問題不「被要求」）；D項existed同樣不符分詞用法。",
+      "id": 4
+    }
+  ]
 }

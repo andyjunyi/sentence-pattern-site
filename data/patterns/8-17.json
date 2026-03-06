@@ -191,5 +191,107 @@
         "is"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的「不只……而且……」句型填空",
+      "question_eng": "Not only _______ she study hard, but she also helps her classmates.",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "answer": "A",
+      "explanation": "句首使用 not only 需倒裝，助動詞 does 須移至主詞 she 前。B 項 is 與原句動詞 study 不符；C 項 has 為完成式，語義不當；D 項 can 為情態動詞，不符倒裝結構。正確答案是 A。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷句型中連接詞的正確用法",
+      "question_eng": "The book is not only informative _______ also inspiring to read.",
+      "options": [
+        {
+          "key": "A",
+          "text": "yet"
+        },
+        {
+          "key": "B",
+          "text": "but"
+        },
+        {
+          "key": "C",
+          "text": "and"
+        },
+        {
+          "key": "D",
+          "text": "or"
+        }
+      ],
+      "answer": "B",
+      "explanation": "not only...but (also) 句型中，but 為必要連接詞，不可省略。A 項 yet 改變語義為對比；C 項 and 不符該句型結構；D 項 or 表選擇，語意錯誤。正確答案是 B。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨析句首倒裝與非倒裝的差異",
+      "question_eng": "_______ he is talented _______ hardworking, so he achieved great success.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Not only is / but also"
+        },
+        {
+          "key": "B",
+          "text": "Not only / but also is"
+        },
+        {
+          "key": "C",
+          "text": "Not only is / and also"
+        },
+        {
+          "key": "D",
+          "text": "Only not is / but also"
+        }
+      ],
+      "answer": "A",
+      "explanation": "句首 not only 後的子句需倒裝（is he），but also 引導的子句維持正常語序（he is hardworking）。B 項倒裝位置錯誤；C 項用 and 取代 but，違反句型規則；D 項詞序完全錯誤。正確答案是 A。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型中動詞一致性與倒裝的綜合應用",
+      "question_eng": "Not only _______ the students impressed by the teacher's lecture, but the parents _______ satisfied with the school's curriculum.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were / was"
+        },
+        {
+          "key": "B",
+          "text": "was / were"
+        },
+        {
+          "key": "C",
+          "text": "are / are"
+        },
+        {
+          "key": "D",
+          "text": "were / are"
+        }
+      ],
+      "answer": "D",
+      "explanation": "句首倒裝子句主詞為 the students（複數），be 動詞用 were；but also 子句主詞為 the parents（複數），be 動詞用 are。此句型中動詞應與各自的主詞一致，不遵循就近原則。A 項後半錯誤；B、C 項前半錯誤。正確答案是 D。",
+      "id": 4
+    }
   ]
 }

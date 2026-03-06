@@ -195,5 +195,107 @@
       "zh": "結論；結果"
     }
   ],
-  "vocab_table_label": "常用同位語名詞"
+  "vocab_table_label": "常用同位語名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的同位語that子句，完成下列句子",
+      "question_eng": "The news _______ made everyone excited about the upcoming festival.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that the company would sponsor the event"
+        },
+        {
+          "key": "B",
+          "text": "which the company would sponsor the event"
+        },
+        {
+          "key": "C",
+          "text": "what the company would sponsor the event"
+        },
+        {
+          "key": "D",
+          "text": "when the company would sponsor the event"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。同位語that子句用來解釋抽象名詞news的具體內容，that引導說明子句但不代替先行詞。B項which是關係代名詞，代替先行詞，不符合同位語用法。C項what不能引導同位語子句。D項when是時間副詞，無法引導此類子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷哪個選項正確表達同位語that子句",
+      "question_eng": "The possibility _______ attracted many young entrepreneurs to the startup competition.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that they could win a million dollars"
+        },
+        {
+          "key": "B",
+          "text": "which they could win a million dollars"
+        },
+        {
+          "key": "C",
+          "text": "that could they win a million dollars"
+        },
+        {
+          "key": "D",
+          "text": "where they could win a million dollars"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。同位語that子句解釋抽象名詞possibility的內容，採用正常陳述語序。B項which為關係代名詞，會代替先行詞，不符合同位語用法。C項採用倒裝語序，在同位語子句中不適用。D項where為地點副詞，無法引導同位語子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "選出正確的同位語that子句結構，注意抽象名詞的搭配",
+      "question_eng": "We all agreed with the belief _______ cooperation among team members is essential for success.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "whereby"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。同位語that子句用於解釋抽象名詞belief，that不代替先行詞，只引導說明子句。A項what會代替先行詞，變成關係代名詞用法。C項in which為介詞+關係代名詞，通常用於限定關係子句。D項whereby為介詞性關聯詞，無法用於同位語子句結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別同位語that子句與關係子句的差異，選出正確選項",
+      "question_eng": "The assumption _______ inflation would remain stable proved to be incorrect when economic data was released.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "whom"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。同位語that子句解釋抽象名詞assumption，that本身不代替先行詞而是引導說明子句。A項which會代替先行詞成為關係代名詞，若選擇則assumption成為主詞且需邏輯調整，不符合原意。C項whom和D項whose皆為關係代名詞，用於代替先行詞，不符合同位語用法。",
+      "id": 4
+    }
+  ]
 }

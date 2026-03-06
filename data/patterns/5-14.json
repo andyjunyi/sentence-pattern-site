@@ -199,5 +199,107 @@
       "zh": "make被動時的特殊形式"
     }
   ],
-  "vocab_table_label": "常用使役動詞"
+  "vocab_table_label": "常用使役動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "老師讓學生重新檢查他們的作業。選擇最適當的使役動詞形式。",
+      "question_eng": "The teacher _______ the students check their homework again.",
+      "options": [
+        {
+          "key": "A",
+          "text": "made"
+        },
+        {
+          "key": "B",
+          "text": "let"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「had」。此句表示老師吩咐/要求學生檢查作業，具有正式的委託意味，應用have。A的make表強迫，語氣過強；B的let表允許，不符合老師主動要求的語義；D的have為現在式，時態不符（句子使用過去式）。",
+      "id": 1
+    },
+    {
+      "question_chi": "母親允許孩子參加派對。選擇正確的使役動詞及時態。",
+      "question_eng": "The mother _______ her child attend the party last Saturday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "let"
+        },
+        {
+          "key": "B",
+          "text": "made"
+        },
+        {
+          "key": "C",
+          "text": "have"
+        },
+        {
+          "key": "D",
+          "text": "had"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「let」。此句強調母親「允許」孩子參加派對，表示給予自由/許可，should用let。雖然時態是過去，但let的過去式仍為let（不規則動詞）。B的make表強迫不符；C和D的have表委託吩咐不符原意。",
+      "id": 2
+    },
+    {
+      "question_chi": "經理強迫員工加班完成專案。選擇最適當的使役動詞形式。",
+      "question_eng": "The manager _______ the employees work overtime to finish the project.",
+      "options": [
+        {
+          "key": "A",
+          "text": "let"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "made"
+        },
+        {
+          "key": "D",
+          "text": "was made"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「made」。句子強調經理「強迫」員工加班，make表示強制或致使，最符合語境。A的let表允許不符；B的have表委託語氣較溫和；D為被動式且帶to（be made to），改變了主語，不符合此主動結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "被動語態：這名學生被迫重新寫論文。選擇正確的被動式使役動詞。",
+      "question_eng": "The student was _______ rewrite his essay because of the numerous errors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "made to"
+        },
+        {
+          "key": "B",
+          "text": "let to"
+        },
+        {
+          "key": "C",
+          "text": "had to"
+        },
+        {
+          "key": "D",
+          "text": "made"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「made to」。make改為被動式時必須加to變成be made to V，表「被迫做某事」。B的let被動式不加to，應為「was let」（罕見）；C的had to為情態動詞短語，非被動使役結構；D缺少to，被動式make後必須接to才完整。",
+      "id": 4
+    }
+  ]
 }

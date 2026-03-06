@@ -207,5 +207,107 @@
       "zh": "受...約束、易受"
     }
   ],
-  "vocab_table_label": "常用 to + V-ing 片語"
+  "vocab_table_label": "常用 to + V-ing 片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句型完成句子，表達習慣",
+      "question_eng": "After living abroad for five years, she is accustomed _______ in English every day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to speak"
+        },
+        {
+          "key": "B",
+          "text": "to speaking"
+        },
+        {
+          "key": "C",
+          "text": "speaking"
+        },
+        {
+          "key": "D",
+          "text": "to be speaking"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。形容詞 accustomed 後接介系詞 to，to 為介系詞而非不定詞符號，必須接動名詞 V-ing。A 項誤用不定詞；C 項缺少介系詞 to；D 項進行式不適合表達習慣性動作。",
+      "id": 1
+    },
+    {
+      "question_chi": "補充適當的詞彙和句型，表達公司的承諾",
+      "question_eng": "The organization is committed _______ sustainable practices in all its operations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to adopt"
+        },
+        {
+          "key": "B",
+          "text": "to adopting"
+        },
+        {
+          "key": "C",
+          "text": "with adopting"
+        },
+        {
+          "key": "D",
+          "text": "for adopting"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。committed 後接介系詞 to，其後需接動名詞 adopting。A 項誤用不定詞形式；C 項介系詞 with 不符此句型搭配；D 項介系詞 for 用法錯誤，committed 不搭 to+for。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據句型補充空格，表達反對態度",
+      "question_eng": "Despite the majority's support, several council members remained opposed _______ the new zoning proposal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to accepting"
+        },
+        {
+          "key": "B",
+          "text": "to accept"
+        },
+        {
+          "key": "C",
+          "text": "against accepting"
+        },
+        {
+          "key": "D",
+          "text": "to being accepting"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。opposed 為形容詞，後接介系詞 to，其後應接動名詞 accepting。B 項誤用不定詞；C 項 against 非標準搭配；D 項進行式被動形式不符習慣用法，且不適合表達持續的反對立場。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的句型表達長期習慣和態度",
+      "question_eng": "Having worked in this field for decades, the veteran researcher is devoted _______ new methodologies even though they challenge traditional approaches he once championed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to exploring"
+        },
+        {
+          "key": "B",
+          "text": "to explore"
+        },
+        {
+          "key": "C",
+          "text": "exploring"
+        },
+        {
+          "key": "D",
+          "text": "to have explored"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。devoted 為形容詞，後接介系詞 to（固定搭配），to 為介系詞需接動名詞 exploring，表達持久的態度與習慣。B 項誤用不定詞；C 項缺少介系詞 to；D 項完成式不符句意，且不正確的句型組合。",
+      "id": 4
+    }
+  ]
 }

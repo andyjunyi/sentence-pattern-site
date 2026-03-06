@@ -213,5 +213,107 @@
       "zh": "已確認的、肯定的"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的現在進行式表達已確定的未來計畫",
+      "question_eng": "My parents _______ to visit me next weekend, so I need to prepare the guest room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are coming"
+        },
+        {
+          "key": "B",
+          "text": "will come"
+        },
+        {
+          "key": "C",
+          "text": "come"
+        },
+        {
+          "key": "D",
+          "text": "have come"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『are coming』用現在進行式表示已確定的未來計畫。搭配『next weekend』明確的時間副詞，強調父母來訪是已預定的安排。B 項『will come』表純粹未來，缺少確定感；C 項『come』為簡單現在式，用於習慣或事實；D 項『have come』為現在完成式，表過去已發生的動作。",
+      "id": 1
+    },
+    {
+      "question_chi": "辨別現在進行式表未來與進行中動作的差異",
+      "question_eng": "The conference _______ at 2 PM tomorrow, and all departments must attend on time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "starts"
+        },
+        {
+          "key": "B",
+          "text": "is starting"
+        },
+        {
+          "key": "C",
+          "text": "has started"
+        },
+        {
+          "key": "D",
+          "text": "will be starting"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。『is starting』用現在進行式表示明天下午2點已確定的會議時間。搭配『tomorrow at 2 PM』的具體時間點，強調這是已安排好的計畫。A 項『starts』為簡單現在式，無法表達未來確定的計畫；C 項『has started』為現在完成式，表已發生；D 項『will be starting』雖表未來進行，但較為正式且不如現在進行式能表達確定性。",
+      "id": 2
+    },
+    {
+      "question_chi": "現在進行式表未來計畫，需辨認正確時間副詞搭配",
+      "question_eng": "A: When is your flight departing? B: Our plane _______ at 6:30 AM, so we must leave home by 4:30.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will depart"
+        },
+        {
+          "key": "B",
+          "text": "is departing"
+        },
+        {
+          "key": "C",
+          "text": "departs"
+        },
+        {
+          "key": "D",
+          "text": "has been departing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。『is departing at 6:30 AM』用現在進行式表已確定的航班時刻表，是具體、預訂好的計畫。搭配時間點『at 6:30 AM』，強調這是既定的出發時間。A 項『will depart』表純粹未來無確定感；C 項『departs』雖可用於時刻表但缺乏計畫感；D 項『has been departing』為現在完成進行式，用法不當。現在進行式最適合表達此類已預訂的交通安排。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜情境下，現在進行式表未來計畫與其他時態的精確區別",
+      "question_eng": "Although she usually takes the bus, she _______ a car tomorrow because the weather forecast shows heavy rain, and she doesn't want to arrive wet.",
+      "options": [
+        {
+          "key": "A",
+          "text": "takes"
+        },
+        {
+          "key": "B",
+          "text": "will take"
+        },
+        {
+          "key": "C",
+          "text": "is taking"
+        },
+        {
+          "key": "D",
+          "text": "has taken"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。『is taking a car tomorrow』用現在進行式表示明天已安排好的具體計畫——搭車改開車。此句強調已做出決定並準備好（不同於臨時決定）。B 項『will take』雖可表未來，但缺乏『已確定安排』的含義；A 項『takes』為習慣性動作；D 項『has taken』為完成式。現在進行式適合表達已決定的改變計畫，尤其在『because』說明理由時，更顯示此為事先安排而非臨時起意。",
+      "id": 4
+    }
+  ]
 }

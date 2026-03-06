@@ -199,5 +199,107 @@
       "zh": "被困擾的、煩惱的"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的過去分詞構句，補全句子。",
+      "question_eng": "_______ by the heavy rain, the sports event was postponed to next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Affected"
+        },
+        {
+          "key": "B",
+          "text": "Affecting"
+        },
+        {
+          "key": "C",
+          "text": "Being affected"
+        },
+        {
+          "key": "D",
+          "text": "Having affected"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。過去分詞構句用於替代被動語態，此處「運動會」被雨影響而延期，應使用被動的過去分詞 Affected。B 項 Affecting 為主動分詞，邏輯不符。C 項 Being affected 過於冗長，省略 being 是過去分詞構句的簡潔特點。D 項 Having affected 為主動語態，使用錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的分詞形式，使句子意思通順。",
+      "question_eng": "_______ of the danger ahead, the hikers decided to turn back immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Warning"
+        },
+        {
+          "key": "B",
+          "text": "Warned"
+        },
+        {
+          "key": "C",
+          "text": "Being warned"
+        },
+        {
+          "key": "D",
+          "text": "To be warned"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B。登山者被（某人或某物）警告有危險，應使用被動過去分詞 Warned。A 項 Warning 為主動，語意不符。C 項 Being warned 冗餘，過去分詞構句已省略 being。D 項 To be warned 為不定式，不符構句形式。邏輯主詞與主句主詞登山者須一致。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷哪個選項最適合組成正確的過去分詞構句。",
+      "question_eng": "_______ all the necessary documents, the applicant was able to submit her application without delay.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Providing"
+        },
+        {
+          "key": "B",
+          "text": "Provided"
+        },
+        {
+          "key": "C",
+          "text": "Having provided"
+        },
+        {
+          "key": "D",
+          "text": "Being provided"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B。申請人被提供了所有必要文件，應使用被動過去分詞 Provided，表示「獲得了、被提供了」。A 項 Providing 為主動形式，邏輯錯誤。C 項 Having provided 為主動完成式，申請人不是提供者。D 項 Being provided 冗長，違反過去分詞構句的簡潔原則。句義為「因為獲得了文件，申請人能及時提交」。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇合適的過去分詞構句，注意邏輯主詞的一致性。",
+      "question_eng": "_______ in a prestigious university and _______ with excellent grades, he received multiple job offers from top companies.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trained; graduated"
+        },
+        {
+          "key": "B",
+          "text": "Training; graduating"
+        },
+        {
+          "key": "C",
+          "text": "Trained; graduating"
+        },
+        {
+          "key": "D",
+          "text": "Having trained; having graduated"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。此句表示「在名校接受訓練且畢業成績優異」，兩個動作的邏輯主詞都是 he，應使用被動過去分詞 Trained 和 graduated（省略 was）表示被動。B 項主動形式 Training 與 graduating 用法錯誤。C 項混合使用，不一致。D 項 Having trained 與 having graduated 冗長，且 having trained 為主動，邏輯不符。兩分詞應平行對稱結構。",
+      "id": 4
+    }
+  ]
 }

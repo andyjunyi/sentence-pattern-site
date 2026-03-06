@@ -203,5 +203,107 @@
       "zh": "感謝、欣賞"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的動詞形式完成句子",
+      "question_eng": "My father enjoys _______ golf on weekends with his friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "play"
+        },
+        {
+          "key": "B",
+          "text": "playing"
+        },
+        {
+          "key": "C",
+          "text": "to play"
+        },
+        {
+          "key": "D",
+          "text": "plays"
+        }
+      ],
+      "answer": "B",
+      "explanation": "enjoy後接動名詞(V-ing)作受詞，故答案是playing。A項play為原形動詞，C項to play為不定詞，D項plays為第三人稱單數，均不符合enjoy的用法規則。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的動詞形式",
+      "question_eng": "The students finished _______ their homework by 8 PM yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to complete"
+        },
+        {
+          "key": "B",
+          "text": "completing"
+        },
+        {
+          "key": "C",
+          "text": "complete"
+        },
+        {
+          "key": "D",
+          "text": "completed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "finish後接動名詞completing，表示已完成的動作。A項不定詞、C項原形動詞、D項過去式均不符finish的搭配規則。只有動名詞能作finish的受詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式完成句子，表達建議",
+      "question_eng": "The teacher suggested _______ more attention to pronunciation during English class.",
+      "options": [
+        {
+          "key": "A",
+          "text": "paying"
+        },
+        {
+          "key": "B",
+          "text": "to pay"
+        },
+        {
+          "key": "C",
+          "text": "pay"
+        },
+        {
+          "key": "D",
+          "text": "paid"
+        }
+      ],
+      "answer": "A",
+      "explanation": "suggest後接動名詞paying作受詞。B項不定詞to pay雖在suggest後有特殊用法，但此處paying為標準搭配。C項原形、D項過去式均不符。動名詞paying最符合此句型的用法規範。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據句意選擇正確的動詞形式",
+      "question_eng": "The suspect denied _______ at the crime scene at that time, but the witness insisted he was there.",
+      "options": [
+        {
+          "key": "A",
+          "text": "being"
+        },
+        {
+          "key": "B",
+          "text": "to be"
+        },
+        {
+          "key": "C",
+          "text": "be"
+        },
+        {
+          "key": "D",
+          "text": "was"
+        }
+      ],
+      "answer": "A",
+      "explanation": "deny後接動名詞being作受詞，此處being在犯罪現場表進行中的狀態。B項不定詞to be不符deny的搭配；C項原形be無法表達被動或進行意義；D項was為過去式動詞，無法作deny的受詞。只有being能正確表達「被指控在現場」的含義。",
+      "id": 4
+    }
+  ]
 }

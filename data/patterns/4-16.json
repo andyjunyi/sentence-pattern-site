@@ -199,5 +199,107 @@
       "zh": "建議、暗示"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，該空格應填入名詞子句。",
+      "question_eng": "I think _______ you will enjoy the concert tomorrow night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (that)。此句使用「think + that + S + V」結構，that 引導名詞子句作為 think 的受詞。B 選項 which 用於形容詞子句，C 選項 what 引導名詞子句但不能跟在 think 後面表示「認為」之意，D 選項 where 為地點副詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確選項完成句子，注意 that 的使用規則。",
+      "question_eng": "She hopes (______) her brother will pass the driving test on his first attempt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "to"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "if"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (that)。hope 後接名詞子句時使用 that，此處用括號表示 that 可以省略（hope 是能省略 that 的常見動詞）。B 選項 to 用於不定詞結構，但 hope 後若接不定詞主詞必須相同；C 選項 for 無此用法；D 選項 if 引導條件子句不符此文脈。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據句意選擇正確選項，注意名詞子句與形容詞子句的區別。",
+      "question_eng": "The manager believes _______ the new marketing strategy will increase sales by 30% next quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (that)。believe 後須接名詞子句，用 that 引導；子句內有完整主詞 the new marketing strategy 和動詞 will increase。B 選項 which 引導形容詞子句或非限制子句，C 選項 whose 為所有格關係詞，D 選項 when 為時間關係副詞，皆不符此文脈。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當選項完成句子，考慮多個可能的句型結構。",
+      "question_eng": "Scientists have discovered _______ consuming moderate amounts of coffee daily may actually reduce the risk of certain diseases.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "how"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (that)。discover 後接名詞子句表示「發現某事實」時用 that；子句「consuming moderate amounts of coffee daily may reduce the risk」是完整的主詞動詞結構。A 選項 what 作為名詞子句引詞時子句內無完整主詞；C 選項 how 表方式；D 選項 whether 表是否選擇，文意不符。",
+      "id": 4
+    }
+  ]
 }

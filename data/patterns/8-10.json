@@ -199,5 +199,107 @@
       "zh": "返回"
     }
   ],
-  "vocab_table_label": "常用即時連接詞"
+  "vocab_table_label": "常用即時連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選填正確的時態，表示一到達就立即打電話",
+      "question_eng": "As soon as you _______ at the airport, call me immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "arrive"
+        },
+        {
+          "key": "B",
+          "text": "will arrive"
+        },
+        {
+          "key": "C",
+          "text": "have arrived"
+        },
+        {
+          "key": "D",
+          "text": "are arriving"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（arrive）。時間副詞子句 as soon as 後面應用現在式表示未來事件，不用未來式。B 選項錯誤，子句中不用 will；C 選項現在完成式不符文脈；D 選項進行式不適合表達確定事件。",
+      "id": 1
+    },
+    {
+      "question_chi": "選填正確形式，表示老師一進教室就停止講話",
+      "question_eng": "The moment the teacher _______ the classroom, all students stop talking.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will enter"
+        },
+        {
+          "key": "B",
+          "text": "enters"
+        },
+        {
+          "key": "C",
+          "text": "has entered"
+        },
+        {
+          "key": "D",
+          "text": "is entering"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（enters）。the moment 後的時間副詞子句應用現在簡單式，主句亦用現在式表習慣性動作。A 選項錯誤，子句不用未來式；C 選項現在完成式不符；D 選項進行式語氣不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "選填正確形式，表示一旦比賽開始就沒有人能改變規則",
+      "question_eng": "Once the game _______, no one can change the rules anymore.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will begin"
+        },
+        {
+          "key": "B",
+          "text": "is beginning"
+        },
+        {
+          "key": "C",
+          "text": "begins"
+        },
+        {
+          "key": "D",
+          "text": "has begun"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C（begins）。once 引導時間副詞子句，應用現在簡單式表示未來事件，主句用 can 表達可能性。A 選項錯誤，子句不用未來式；B 選項進行式不適合；D 選項現在完成式時態不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "選填倒裝句正確形式，強調一接到消息就立刻出發",
+      "question_eng": "No sooner _______ the news _______ he immediately set off for home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did he receive; than"
+        },
+        {
+          "key": "B",
+          "text": "had he received; than"
+        },
+        {
+          "key": "C",
+          "text": "he had received; when"
+        },
+        {
+          "key": "D",
+          "text": "he received; than"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（had he received; than）。no sooner...than 倒裝句需用過去完成式 had received + 倒裝語序 had he，主句用過去簡單式。A 選項只用過去式不符倒裝要求；C 選項沒倒裝且用 when 不搭 no sooner；D 選項時態與結構均錯。",
+      "id": 4
+    }
+  ]
 }

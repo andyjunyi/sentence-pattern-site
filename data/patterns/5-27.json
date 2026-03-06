@@ -202,5 +202,107 @@
       "zh": "重複"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的情態動詞形式填空，表示「無必要」",
+      "question_eng": "You _______ bring an umbrella today because the weather forecast says it will be sunny.",
+      "options": [
+        {
+          "key": "A",
+          "text": "need not"
+        },
+        {
+          "key": "B",
+          "text": "must not"
+        },
+        {
+          "key": "C",
+          "text": "should not"
+        },
+        {
+          "key": "D",
+          "text": "cannot"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「need not」。本句表示「無必要帶傘」，need not 表非必要性。B 項 must not 表禁止，意思相反；C 項 should not 表不應該；D 項 cannot 表不能。只有 A 符合文意。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據人稱代詞選擇正確的動詞形式表達無必要",
+      "question_eng": "She _______ attend the morning meeting since her boss approved her late arrival.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't need to"
+        },
+        {
+          "key": "B",
+          "text": "doesn't need to"
+        },
+        {
+          "key": "C",
+          "text": "need not to"
+        },
+        {
+          "key": "D",
+          "text": "not need to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「doesn't need to」。主語 she 為第三人稱單數，使用一般動詞 don't/doesn't need to 時需加 s。A 項人稱不符；C 項 need not to 文法錯誤，need not 後不接 to；D 項否定形式錯誤，應置於 do/does 後。",
+      "id": 2
+    },
+    {
+      "question_chi": "在正式書信中選擇適當的情態動詞表示非必要",
+      "question_eng": "Applicants _______ submit additional documents if they have already provided all required materials.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't need to"
+        },
+        {
+          "key": "B",
+          "text": "need not"
+        },
+        {
+          "key": "C",
+          "text": "must not"
+        },
+        {
+          "key": "D",
+          "text": "are not needed to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「need not」。此為正式書信或官方文體，適合使用 need not（情態動詞）表示「無必要」。A 項雖正確但較口語；C 項 must not 表禁止意思錯誤；D 項被動語態結構不當，且 be needed to 不是標準用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合判斷語境選擇適當形式，且正確表達否定意思",
+      "question_eng": "The students _______ complete the optional assignment, but those who wish to improve their grades _______ do so.",
+      "options": [
+        {
+          "key": "A",
+          "text": "need not; must"
+        },
+        {
+          "key": "B",
+          "text": "don't need to; can"
+        },
+        {
+          "key": "C",
+          "text": "must not; may"
+        },
+        {
+          "key": "D",
+          "text": "don't need to; must not"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「don't need to; can」。第一空表示「不必完成」用 don't need to；第二空表示「可以做」用 can（表示允許）。A 項後半搭配不當；C 項 must not 表禁止，與文意不符；D 項後半 must not 表禁止，邏輯錯誤，應表許可。",
+      "id": 4
+    }
+  ]
 }

@@ -44,6 +44,15 @@ interface PracticeExercise {
   keywords?: string[]
 }
 
+interface MCExerciseRaw {
+  id: number
+  question_chi: string
+  question_eng: string
+  options: { key: string; text: string }[]
+  answer: string
+  explanation: string
+}
+
 interface NormalizedPattern {
   code: string
   chapter: number
@@ -57,6 +66,7 @@ interface NormalizedPattern {
   vocabTableLabel: string
   extension: { tip: string; examples: ExtensionExample[]; note: string }
   exercises: PracticeExercise[]
+  mcExercises: MCExerciseRaw[]
 }
 
 // ── Normalize raw JSON → NormalizedPattern ────────────────────────
@@ -155,6 +165,9 @@ function normalize(raw: Record<string, any>): NormalizedPattern {
     note: (ext.note as string) ?? '',
   }
 
+  /* MC exercises */
+  const mcExercises: MCExerciseRaw[] = (raw.mc_exercises as MCExerciseRaw[]) ?? []
+
   return {
     code: raw.code as string,
     chapter: raw.chapter as number,
@@ -168,6 +181,7 @@ function normalize(raw: Record<string, any>): NormalizedPattern {
     vocabTableLabel,
     extension,
     exercises,
+    mcExercises,
   }
 }
 
@@ -371,7 +385,7 @@ export default async function PatternPage({
             <p style={{ color: '#666', marginBottom: '24px', fontSize: '15px' }}>
               填入正確答案，可按「💡 看 AI 解析」取得引導回饋。
             </p>
-            <PracticeSection exercises={p.exercises} patternTitle={p.title} />
+            <PracticeSection exercises={p.exercises} mcExercises={p.mcExercises} patternTitle={p.title} />
           </section>
         )}
       </main>

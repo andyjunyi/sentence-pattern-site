@@ -201,5 +201,107 @@
         "正式風格"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的受詞補語形式，完成關於老師評價學生的句子",
+      "question_eng": "The teacher finds the student's work _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "very impressive and helpful"
+        },
+        {
+          "key": "B",
+          "text": "very impressive and help"
+        },
+        {
+          "key": "C",
+          "text": "impression and helpful"
+        },
+        {
+          "key": "D",
+          "text": "impressed and helping"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。find後的受詞補語應為形容詞，修飾受詞work。「impressive」（令人印象深刻的）和「helpful」（有幫助的）皆為形容詞。B項「help」為名詞，不適合；C項「impression」為名詞，不符合此處需要形容詞的語法；D項「impressed」為過去分詞當形容詞但用於被動，「helping」為現在分詞，皆不適切。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的受詞補語結構，完成關於如何評價某人的句子",
+      "question_eng": "Many colleagues consider him _______ a great leader.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to be"
+        },
+        {
+          "key": "B",
+          "text": "being"
+        },
+        {
+          "key": "C",
+          "text": "as"
+        },
+        {
+          "key": "D",
+          "text": "was"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。當補語為名詞時，可在補語前加「to be」使句式更正式：consider + O + to be + N。此結構為「consider him to be a great leader」（認為他是位偉大的領導人）。B項「being」不符此結構；C項「as」後通常需接短語，不符文法；D項「was」為過去式助動詞，不合文意。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷虛受詞it結構的正確用法，完成關於做某事難易程度的句子",
+      "question_eng": "I find _______ quite difficult to master a foreign language in such a short time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "this"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "it"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。此為虛受詞it結構：find + it + adj. + to V。形容詞「difficult」修飾的是動作「to master」本身，而非真實受詞。虛受詞it是形式上的受詞，真實受詞為不定詞片語。A項「this」和B項「that」為指示詞，不能作虛受詞；D項「which」為關係代名詞，不合此結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "區分受詞補語與狀語的差異，選擇文法正確的句子",
+      "question_eng": "Critics _______ the new film both innovative and commercially successful, despite its controversial themes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "believe to be"
+        },
+        {
+          "key": "B",
+          "text": "believe"
+        },
+        {
+          "key": "C",
+          "text": "believing"
+        },
+        {
+          "key": "D",
+          "text": "are believed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。此句「believe + O + adj. + and + adj.」為受詞補語結構，兩個形容詞（innovative、successful）並列修飾受詞「the new film」。A項「believe to be」為較正式用法，但此處補語為兩個並列形容詞，直接使用believe更自然簡潔；C項「believing」為分詞，無法正確表達此結構；D項改為被動態，改變了句子意思。",
+      "id": 4
+    }
   ]
 }

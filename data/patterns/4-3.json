@@ -199,5 +199,107 @@
       "zh": "關係代名詞在子句中作主詞時不可省略"
     }
   ],
-  "vocab_table_label": "關係代名詞"
+  "vocab_table_label": "關係代名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的關係代名詞修飾先行詞 person",
+      "question_eng": "The person _______ helped us yesterday is a volunteer from the community center.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answer": "A",
+      "explanation": "修飾人（person）用 who 作主詞。B 選項 which 用於修飾物不適用；C 選項 where 是地點副詞；D 選項 whom 用於作受詞的情況，此處 helped 需主詞，故 who 正確。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的關係代名詞修飾先行詞 magazine",
+      "question_eng": "The magazine _______ you borrowed from the library contains interesting articles about climate change.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "修飾物（magazine）用 which 或 that。此處 magazine 是 borrowed 的受詞，關係代名詞可省略或用 that。B 選項 who 用於修飾人；C 選項 where 為地點副詞；D 選項 what 為疑問詞，均不適用。",
+      "id": 2
+    },
+    {
+      "question_chi": "在習慣用法下選擇適當的關係代名詞",
+      "question_eng": "The only solution _______ can solve this problem is to invest more money in research and development.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "當先行詞為「the only」時，習慣用 that 而非 which。此處 the only solution 應搭配 that 引導限定子句。A 選項 which 在此上下文不符習慣用法；C、D 選項分別為地點副詞和疑問詞，不適用此文法結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別限定與非限定子句，選擇正確關係代名詞與標點",
+      "question_eng": "The students _______ scored above 95 on the entrance exam, _______ represents the top 5% of all applicants, will receive scholarships.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who / that"
+        },
+        {
+          "key": "B",
+          "text": "that / which"
+        },
+        {
+          "key": "C",
+          "text": "who / which"
+        },
+        {
+          "key": "D",
+          "text": "which / that"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一空為限定子句修飾 students（人），用 who 或 that；第二空為非限定子句（已有逗號），修飾前面整個子句（物），用 which 不用 that，故用 who 和 which。A 選項第二空用 that 錯誤（非限定不用 that）；B、D 選項第一空用 that/which 修飾人不適；D 選項兩空皆錯。",
+      "id": 4
+    }
+  ]
 }

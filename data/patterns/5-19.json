@@ -210,5 +210,107 @@
       "zh": "摔倒、下落"
     }
   ],
-  "vocab_table_label": "常用感官動詞"
+  "vocab_table_label": "常用感官動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的感官動詞搭配形式",
+      "question_eng": "I saw the children _______ in the playground yesterday afternoon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "play"
+        },
+        {
+          "key": "B",
+          "text": "playing"
+        },
+        {
+          "key": "C",
+          "text": "to play"
+        },
+        {
+          "key": "D",
+          "text": "played"
+        }
+      ],
+      "answer": "B",
+      "explanation": "句子描述看到孩子們「正在玩耍」的動作過程，應用現在分詞 playing 表示動作進行中。A 項原形表示完整動作但此句強調進行狀態；C 項 to play 為不定詞，感官動詞不搭配；D 項過去式語法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷感官動詞後接原形或現在分詞的差異",
+      "question_eng": "She heard the door _______ and immediately turned around.",
+      "options": [
+        {
+          "key": "A",
+          "text": "opening"
+        },
+        {
+          "key": "B",
+          "text": "to open"
+        },
+        {
+          "key": "C",
+          "text": "open"
+        },
+        {
+          "key": "D",
+          "text": "opened"
+        }
+      ],
+      "answer": "C",
+      "explanation": "「聽到門打開」表示完整的動作事件，應用動詞原形 open。現在分詞 opening 表示動作進行但此句著重整個打開事件；B 項不定詞語法錯誤；D 項過去式不符感官動詞用法。",
+      "id": 2
+    },
+    {
+      "question_chi": "感官動詞被動語態的正確形式",
+      "question_eng": "The strange noise was heard _______ from the attic by all the residents in the building.",
+      "options": [
+        {
+          "key": "A",
+          "text": "coming"
+        },
+        {
+          "key": "B",
+          "text": "to come"
+        },
+        {
+          "key": "C",
+          "text": "come"
+        },
+        {
+          "key": "D",
+          "text": "to be coming"
+        }
+      ],
+      "answer": "B",
+      "explanation": "感官動詞被動語態中，原形動詞需改為 to V 形式，故「被聽到發出聲音」應用 to come。A 項現在分詞在被動語態不適用；C 項原形在被動語態需改為不定詞；D 項形式冗餘。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜語境中感官動詞與動詞形式的正確搭配",
+      "question_eng": "The witnesses reported that they watched the suspect _______ the store and _______ away in a black car after the robbery.",
+      "options": [
+        {
+          "key": "A",
+          "text": "leaving; driving"
+        },
+        {
+          "key": "B",
+          "text": "leave; drive"
+        },
+        {
+          "key": "C",
+          "text": "leave; driving"
+        },
+        {
+          "key": "D",
+          "text": "leaving; drive"
+        }
+      ],
+      "answer": "B",
+      "explanation": "連貫的完整動作「看到嫌犯離開店舖並開車逃離」應用原形 leave 和 drive，表示目睹整個事件過程。A、C、D 項混用現在分詞和原形，但此句強調完整事件序列，應全用原形保持平行結構且強調事實性。",
+      "id": 4
+    }
+  ]
 }

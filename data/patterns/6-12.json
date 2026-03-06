@@ -191,5 +191,107 @@
       "zh": "值得費力（片語）"
     }
   ],
-  "vocab_table_label": "常用 V-ing"
+  "vocab_table_label": "常用 V-ing",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的詞彙完成句子，表達某事物值得進行。",
+      "question_eng": "This classic novel is definitely _______ reading because it offers deep insights into human nature.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worth"
+        },
+        {
+          "key": "B",
+          "text": "worthy"
+        },
+        {
+          "key": "C",
+          "text": "worthwhile"
+        },
+        {
+          "key": "D",
+          "text": "deserving"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。『be worth + V-ing』是固定句型，表示值得做某事。worth 後接動名詞 reading。B 項 worthy 後須接 of 或 to be；C 項 worthwhile 雖可表達相同意義，但須改為 It is worthwhile to read；D 項 deserving 用法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選出使句子語法正確的選項，表達旅遊景點的價值。",
+      "question_eng": "The ancient temple in Kyoto is absolutely worth _______ if you ever travel to Japan.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to visit"
+        },
+        {
+          "key": "B",
+          "text": "visiting"
+        },
+        {
+          "key": "C",
+          "text": "visit"
+        },
+        {
+          "key": "D",
+          "text": "visited"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B。『be worth + V-ing』句型中，worth 後必須接動名詞形式，表示主詞是該動作的承受者。A 項 to visit 為不定詞，不符合語法；C 項原形動詞；D 項過去分詞，都不適當。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式完成句子，強調付出時間與努力的價值。",
+      "question_eng": "Though the assignment seems difficult, the effort is worth _______ because you will acquire valuable skills.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spending"
+        },
+        {
+          "key": "B",
+          "text": "to spend"
+        },
+        {
+          "key": "C",
+          "text": "spend"
+        },
+        {
+          "key": "D",
+          "text": "being spent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。『be worth + V-ing』中，動名詞的邏輯受詞是主句主詞 the effort，表示『值得花費』。spending 為正確的動名詞形式。B 項不定詞用法錯誤；C 項原形動詞；D 項被動動名詞不符此句型。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據語境選擇最適當的表達方式，說明某事物的價值。",
+      "question_eng": "The documentary about climate change is _______ the time investment, even though it requires two hours to complete.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worth watching for"
+        },
+        {
+          "key": "B",
+          "text": "worthy of being watched for"
+        },
+        {
+          "key": "C",
+          "text": "worth one's time to watch"
+        },
+        {
+          "key": "D",
+          "text": "worthy to watch"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案為 C。『be worth one's time to V』是標準同義句型，表示值得花費時間做某事。A 項表達不自然；B 項 worthy of being watched 結構冗長；D 項 worthy to watch 用法不當，worthy 後應接 of 而非 to。C 項最符合語境與學測等級。",
+      "id": 4
+    }
+  ]
 }

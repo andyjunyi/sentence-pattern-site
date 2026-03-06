@@ -212,5 +212,107 @@
       "zh": "面對面溝通"
     }
   ],
-  "vocab_table_label": "常用動名詞"
+  "vocab_table_label": "常用動名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的prefer句型結構，完成句子。",
+      "question_eng": "Many students _______ studying alone to studying in groups.",
+      "options": [
+        {
+          "key": "A",
+          "text": "prefer"
+        },
+        {
+          "key": "B",
+          "text": "prefers"
+        },
+        {
+          "key": "C",
+          "text": "preferred"
+        },
+        {
+          "key": "D",
+          "text": "preferring"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (prefer)。主詞 students 是複數，動詞應使用原形 prefer。prefer + V-ing + to + V-ing 是標準結構。B 項 prefers 用於單數主詞；C 項 preferred 為過去式，不符合語境；D 項 preferring 是分詞形式，不適合此位置。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入合適的動名詞或原形動詞，完成prefer比較句。",
+      "question_eng": "She prefers _______ coffee to drinking tea in the morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "drinking"
+        },
+        {
+          "key": "B",
+          "text": "drink"
+        },
+        {
+          "key": "C",
+          "text": "to drink"
+        },
+        {
+          "key": "D",
+          "text": "drinks"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (drinking)。prefer...to... 結構中，兩個比較對象都應使用動名詞形式。第一個空應填 drinking 與後面的 drinking tea 並行。B 項 drink 是原形動詞，不符合此結構；C 項 to drink 為不定式，混淆了 to 的身份；D 項 drinks 為第三人稱單數，形式不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的prefer複合結構，強調個人偏好。",
+      "question_eng": "Tom _______ play basketball rather than _______ football with his friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "prefers to; play"
+        },
+        {
+          "key": "B",
+          "text": "prefer; playing"
+        },
+        {
+          "key": "C",
+          "text": "prefers; to play"
+        },
+        {
+          "key": "D",
+          "text": "prefers to; playing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (prefers to; play)。prefer to V rather than V 結構中，to 是不定式標記，rather than 後接原形動詞。主詞 Tom 是單數，故用 prefers。B 項主詞動詞不符、選項形式錯誤；C 項 to play 後不應再用 to；D 項 playing 破壞了 rather than 後應接原形動詞的規則。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合判斷prefer的兩種結構用法，完成完整句子。",
+      "question_eng": "According to the survey, most employees prefer _______ remote work to _______ in the office every day, which improves their work-life balance significantly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do; working"
+        },
+        {
+          "key": "B",
+          "text": "doing; working"
+        },
+        {
+          "key": "C",
+          "text": "to do; to work"
+        },
+        {
+          "key": "D",
+          "text": "doing; come"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (doing; working)。prefer + N/V-ing + to + N/V-ing 結構要求兩個比較對象形式相同，都應用動名詞。doing remote work 對應 working in the office。A 項 do 為原形動詞，破壞並行結構；C 項過度使用不定式，不符 prefer...to... 用法；D 項 come 與 working 形式不並行，且邏輯不當。",
+      "id": 4
+    }
+  ]
 }

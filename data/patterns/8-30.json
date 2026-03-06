@@ -199,5 +199,107 @@
       "zh": "隨後地"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的倒裝句型，強調「直到……才……」的時間點",
+      "question_eng": "Not until the movie ended _______ the theater.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did the audience leave"
+        },
+        {
+          "key": "B",
+          "text": "the audience left"
+        },
+        {
+          "key": "C",
+          "text": "did the audience leaves"
+        },
+        {
+          "key": "D",
+          "text": "the audience did leave"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Not until 倒裝句需將助動詞 did 提至主詞前。正確形式：Not until + 時間子句 + did + S + V。選項 B 未倒裝，不符合；C 動詞形式錯誤；D 助動詞位置不對。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成倒裝句，表達「直到父親回家才開始吃晚餐」",
+      "question_eng": "Not until my father came home _______ dinner.",
+      "options": [
+        {
+          "key": "A",
+          "text": "we started having"
+        },
+        {
+          "key": "B",
+          "text": "did we start having"
+        },
+        {
+          "key": "C",
+          "text": "we did start having"
+        },
+        {
+          "key": "D",
+          "text": "started we having"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Not until 句型要求：Not until + 時間子句 + did + S + V。選項 B 正確地將 did 提前至主詞 we 之前。A 未倒裝；C 助動詞位置錯誤；D 詞序混亂。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式，強調「直到收到邀請才知道派對的消息」",
+      "question_eng": "Not until she received an invitation _______ the secret about the surprise party.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did she know"
+        },
+        {
+          "key": "B",
+          "text": "she knew"
+        },
+        {
+          "key": "C",
+          "text": "did she knew"
+        },
+        {
+          "key": "D",
+          "text": "she did know"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Not until 倒裝結構：助動詞 did 必須置於主詞前，原動詞用原形。選項 A 符合此規則。B 缺少倒裝；C 同時出現 did 和過去式 knew（重複）；D 助動詞位置錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "識別正確的倒裝句，強調條件與結果的時間關係",
+      "question_eng": "Not until the scientists completed their research on the new vaccine _______ to conduct clinical trials on human subjects.",
+      "options": [
+        {
+          "key": "A",
+          "text": "they were permitted"
+        },
+        {
+          "key": "B",
+          "text": "were they permitted"
+        },
+        {
+          "key": "C",
+          "text": "did they permit"
+        },
+        {
+          "key": "D",
+          "text": "they did permitted"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Not until 倒裝句中，被動語態也須倒裝：助動詞 were 移至主詞前。正確形式：Not until...+ were + S + V(p.p.)。選項 B 正確；A 未倒裝；C 改變了句意（permit 主動，不符）；D 助動詞與過去分詞同時出現，文法錯誤。",
+      "id": 4
+    }
+  ]
 }

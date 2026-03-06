@@ -206,5 +206,107 @@
       "zh": "企圖"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的動詞形式完成句子，表達喜歡閱讀的習慣。",
+      "question_eng": "I really like _______ novels in my free time because they help me relax.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to read"
+        },
+        {
+          "key": "B",
+          "text": "reading"
+        },
+        {
+          "key": "C",
+          "text": "read"
+        },
+        {
+          "key": "D",
+          "text": "to be reading"
+        }
+      ],
+      "answer": "B",
+      "explanation": "like 接不定詞或動名詞意思相同，但動名詞形式更常用於表達一般性的習慣或喜好。B 正確。A 也可接受但較少用；C 缺少 to；D 語法不當。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據語境選擇正確形式，強調記得曾經做過的事。",
+      "question_eng": "I clearly remember _______ that beautiful sunset on the beach last summer with my friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to see"
+        },
+        {
+          "key": "B",
+          "text": "seeing"
+        },
+        {
+          "key": "C",
+          "text": "to have seen"
+        },
+        {
+          "key": "D",
+          "text": "having to see"
+        }
+      ],
+      "answer": "B",
+      "explanation": "remember + V-ing 表「記得曾經做過」，suited 過去的經驗。B 正確。A(remember to V)表「記得要去做」，不符語境；C、D 語法不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據語境判斷 stop 的含義，選擇正確形式。",
+      "question_eng": "When the teacher entered the classroom, all the students _______ talking immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stopped to talk"
+        },
+        {
+          "key": "B",
+          "text": "stopped talking"
+        },
+        {
+          "key": "C",
+          "text": "would stop talking"
+        },
+        {
+          "key": "D",
+          "text": "had stopped to talk"
+        }
+      ],
+      "answer": "B",
+      "explanation": "stop + V-ing 表「停止做某事」，符合語境「學生停止講話」。B 正確。A(stop to V)表「停下來去做」，意思相反；C 時態不當；D 時態搭配不適。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據語句邏輯選擇形式，區分「嘗試去做」與「試著做」的差異。",
+      "question_eng": "She tried _______ the old lock with the rusty key, and after several attempts, she finally managed to open the door.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to unlock"
+        },
+        {
+          "key": "B",
+          "text": "unlocking"
+        },
+        {
+          "key": "C",
+          "text": "to have unlocked"
+        },
+        {
+          "key": "D",
+          "text": "having unlocked"
+        }
+      ],
+      "answer": "B",
+      "explanation": "try + V-ing 表「試著做某事」(嘗試的過程)，符合「她多次嘗試開鎖」的語境。B 正確。A(try to V)強調「努力去做」目標導向；C、D 時態與語境不符。",
+      "id": 4
+    }
+  ]
 }

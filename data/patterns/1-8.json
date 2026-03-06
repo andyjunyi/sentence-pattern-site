@@ -198,5 +198,107 @@
       "zh": "價值"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，強調直到某時點才發生的事",
+      "question_eng": "It was not until she graduated from university that Maria _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did not pursue her dream"
+        },
+        {
+          "key": "B",
+          "text": "pursued her dream"
+        },
+        {
+          "key": "C",
+          "text": "was not pursuing her dream"
+        },
+        {
+          "key": "D",
+          "text": "did not start to pursue her dream"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為B。「It is not until... that」句型中，that子句的動詞必須使用肯定形式，不可再加否定。B項「pursued her dream」符合此規則。A項和D項在that子句中加入否定詞，文法錯誤；C項使用進行式，改變句意且不符合該句型用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "補充空格，使用強調句型表達直到某時點才開始的動作",
+      "question_eng": "It is not until you experience failure that you _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "understand the value of success"
+        },
+        {
+          "key": "B",
+          "text": "will not understand the value of success"
+        },
+        {
+          "key": "C",
+          "text": "have not understood the value of success"
+        },
+        {
+          "key": "D",
+          "text": "do not understand the value of success"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A。「It is not until... that」的that子句使用肯定動詞「understand」，表達直到經歷失敗後才明白成功的價值。B、C、D項皆在that子句中使用否定形式，違反此句型的基本規則——that後必須用肯定動詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確選項，完成強調句型並注意時態的一致性",
+      "question_eng": "It was not until the evidence was presented in court that the jury _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was convinced of his innocence"
+        },
+        {
+          "key": "B",
+          "text": "had not been convinced of his innocence"
+        },
+        {
+          "key": "C",
+          "text": "has been convinced of his innocence"
+        },
+        {
+          "key": "D",
+          "text": "would not have been convinced of his innocence"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A。主句用過去式「It was not until」，that子句應使用過去式「was convinced」以保持時態一致。A項同時符合時態協調與that子句必須為肯定形式的規則。B項含有否定詞；C項使用現在完成式，時態不符；D項時態過於複雜且包含否定，均不適當。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷強調句型的倒裝形式，選擇正確的句子結構",
+      "question_eng": "Not until the rescue team arrived _______ that all the survivors could finally leave the disaster area.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did they realize"
+        },
+        {
+          "key": "B",
+          "text": "it was"
+        },
+        {
+          "key": "C",
+          "text": "they realized"
+        },
+        {
+          "key": "D",
+          "text": "was it"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案為D。「Not until... that」為倒裝句型，主句需進行主動詞倒裝：助動詞前置，主詞後移。完整句為「Not until the rescue team arrived was it that all the survivors could finally leave.」D項「was it」正確體現倒裝結構。A項「did they realize」改變了原句意思；B項和C項未進行倒裝，違反Not until開頭的倒裝句規則。",
+      "id": 4
+    }
+  ]
 }

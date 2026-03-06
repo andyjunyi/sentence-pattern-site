@@ -199,5 +199,107 @@
       "zh": "奮鬥、努力"
     }
   ],
-  "vocab_table_label": "常用副詞連接詞"
+  "vocab_table_label": "常用副詞連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的關係副詞完成句子，表達無論何時的讓步意義。",
+      "question_eng": "_______ you call me, I will always be there to help you.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whenever"
+        },
+        {
+          "key": "B",
+          "text": "Wherever"
+        },
+        {
+          "key": "C",
+          "text": "However"
+        },
+        {
+          "key": "D",
+          "text": "Whatever"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（Whenever）。「Whenever you call me」表示「無論何時你打電話給我」，關係副詞 whenever 用於表達時間的讓步關係。B（Wherever）表地點；C（However）表方式；D（Whatever）是關係代名詞非副詞，皆不符文意。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入正確的關係副詞，表達無論去哪裡都能找到相同事物。",
+      "question_eng": "_______ you travel, you will discover that human nature remains the same everywhere.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whenever"
+        },
+        {
+          "key": "B",
+          "text": "However"
+        },
+        {
+          "key": "C",
+          "text": "Wherever"
+        },
+        {
+          "key": "D",
+          "text": "Whatever"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C（Wherever）。「Wherever you travel」表示「無論你去哪裡旅行」，關係副詞 wherever 用於表達地點的讓步關係。A（Whenever）表時間；B（However）表方式；D（Whatever）是關係代名詞，在此句式中皆不適用。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的關係副詞及其位置，表達儘管如何努力仍無法成功。",
+      "question_eng": "_______ hard he tried, he could not pass the entrance examination.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whenever"
+        },
+        {
+          "key": "B",
+          "text": "However"
+        },
+        {
+          "key": "C",
+          "text": "Wherever"
+        },
+        {
+          "key": "D",
+          "text": "No matter that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（However）。「However hard he tried」表示「無論他多努力」，however 用於修飾形容詞 hard，表達方式的讓步關係。A（Whenever）表時間；C（Wherever）表地點；D（No matter that）語法錯誤，應為 no matter how，皆不符句意。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據句意判斷最適當的關係副詞與搭配方式，完成讓步副詞子句。",
+      "question_eng": "_______ circumstances may arise, the company remains committed to maintaining its ethical standards and environmental responsibility.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whatever"
+        },
+        {
+          "key": "B",
+          "text": "Whenever"
+        },
+        {
+          "key": "C",
+          "text": "However"
+        },
+        {
+          "key": "D",
+          "text": "Wherever"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（Whatever）。「Whatever circumstances may arise」表示「無論出現什麼情況」，whatever 作關係代名詞與名詞 circumstances 直接搭配，表達任意情況下的讓步關係。B（Whenever）表時間；C（However）表方式但須接形容詞；D（Wherever）表地點，皆與句意不符。",
+      "id": 4
+    }
+  ]
 }

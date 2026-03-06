@@ -208,5 +208,107 @@
       "zh": "推薦"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確形式：選項應使用 rather than 正確結構",
+      "question_eng": "I prefer to watch movies at home rather than _______ to the cinema.",
+      "options": [
+        {
+          "key": "A",
+          "text": "going"
+        },
+        {
+          "key": "B",
+          "text": "go"
+        },
+        {
+          "key": "C",
+          "text": "to go"
+        },
+        {
+          "key": "D",
+          "text": "went"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (go)。Rather than 後須接原形動詞，與前面的 to watch 保持平行結構。A 項 going 是現在分詞，rather than 後不可用；C 項 to go 重複了不定詞符號；D 項 went 是過去式，不符合文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷句型結構：rather than 連接相同詞性",
+      "question_eng": "She decided to pursue a career in law rather than _______ her family business.",
+      "options": [
+        {
+          "key": "A",
+          "text": "managing"
+        },
+        {
+          "key": "B",
+          "text": "to manage"
+        },
+        {
+          "key": "C",
+          "text": "manage"
+        },
+        {
+          "key": "D",
+          "text": "having managed"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (manage)。Rather than 連接兩個相同詞性的動詞，第一個是 pursue (原形)，第二個也須是原形 manage。A 項 managing 是現在分詞；B 項 to manage 多了不定詞符號；D 項 having managed 是完成式分詞，都不符合 rather than 的文法要求。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別 rather than 與 instead of 用法差異",
+      "question_eng": "The company prefers to invest in technology _______ hiring more staff to reduce costs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rather than"
+        },
+        {
+          "key": "B",
+          "text": "instead of"
+        },
+        {
+          "key": "C",
+          "text": "other than"
+        },
+        {
+          "key": "D",
+          "text": "apart from"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (rather than)。Rather than 表示優先選擇，強調前項被選中、後項被拒絕。B 項 instead of 後接名詞或動名詞，但在此句需搭配原形動詞，文意上也不如 rather than 恰當。C 項 other than 是「除了」；D 項 apart from 也是「除了」，都不表示選擇。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：rather than 置句首之倒裝用法",
+      "question_eng": "_______ admit his mistake, he chose to defend himself stubbornly despite the evidence.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rather than to admit"
+        },
+        {
+          "key": "B",
+          "text": "Rather than admitting"
+        },
+        {
+          "key": "C",
+          "text": "Rather than admit"
+        },
+        {
+          "key": "D",
+          "text": "Rather than having admitted"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (Rather than admitting)。當 rather than 置句首時，須採 Rather than + V-ing 的倒裝形式。A 項加 to 錯誤；C 項應接現在分詞；D 項完成式分詞不符合句型。此結構強調通過動名詞與主要子句動詞的對比，表達強烈的優先順序。",
+      "id": 4
+    }
+  ]
 }

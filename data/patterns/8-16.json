@@ -199,5 +199,107 @@
       "zh": "必要的；必須的"
     }
   ],
-  "vocab_table_label": "常用連接詞組"
+  "vocab_table_label": "常用連接詞組",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的動詞形式使句子文法正確",
+      "question_eng": "Both reading books and watching movies _______ good ways to relax.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "am"
+        },
+        {
+          "key": "D",
+          "text": "be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "both...and 連接的主詞一律採複數動詞。「both reading books and watching movies」為複數概念，故使用 are。選項 A 是單數動詞，不符合 both...and 的規則；C、D 為不適當的動詞形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據就近一致原則選擇正確的動詞形式",
+      "question_eng": "Either the manager or his assistants _______ going to attend the meeting tomorrow.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "were"
+        }
+      ],
+      "answer": "B",
+      "explanation": "either...or 遵循就近一致原則，動詞形式由靠近它的主詞決定。此句中 assistants（複數）緊靠動詞，故用 are。選項 A 錯誤因為 assistants 是複數；C、D 時態錯誤，句子指未來動作。",
+      "id": 2
+    },
+    {
+      "question_chi": "在 neither...nor 結構中應用就近一致原則",
+      "question_eng": "Neither the students nor their teacher _______ aware of the rule change until yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "answer": "B",
+      "explanation": "neither...nor 遵循就近一致原則。此句中 teacher（單數）緊靠動詞，故用單數過去式 was。選項 A 錯誤因為 teacher 是單數；C 時態錯誤；D 雖為複數但時態不符合過去敘述。",
+      "id": 3
+    },
+    {
+      "question_chi": "在複雜句中正確應用對等連接詞組的動詞一致性",
+      "question_eng": "Both his leadership skills and his ability to communicate effectively _______ what make him an excellent manager, and either his colleagues or his supervisor _______ nominated him for promotion.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is; have"
+        },
+        {
+          "key": "B",
+          "text": "are; has"
+        },
+        {
+          "key": "C",
+          "text": "are; have"
+        },
+        {
+          "key": "D",
+          "text": "is; has"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第一空：both...and 連接複數主詞，動詞用 are；第二空：either...or，supervisor（單數）靠近動詞，故用 has。選項 C 第二空錯誤（supervisor 單數應用 has）；A、D 第一空錯誤（both...and 須用複數動詞）。",
+      "id": 4
+    }
+  ]
 }

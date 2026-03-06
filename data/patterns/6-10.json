@@ -205,5 +205,107 @@
         "to V"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句子形式，表達小孩足夠成熟能讀這本書",
+      "question_eng": "The child is _______ to read this book.",
+      "options": [
+        {
+          "key": "A",
+          "text": "enough mature"
+        },
+        {
+          "key": "B",
+          "text": "mature enough"
+        },
+        {
+          "key": "C",
+          "text": "enough matured"
+        },
+        {
+          "key": "D",
+          "text": "maturely enough"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。此句型要求形容詞（mature）置於 enough 之前，enough 作副詞修飾形容詞。A 項語序錯誤；C 項 matured 是動詞過去式，不能作形容詞；D 項 maturely 是副詞，無法與 enough 搭配修飾 is。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確句子，表達這個男孩足夠強壯能幫助我們",
+      "question_eng": "This boy is _______ to help us move the piano.",
+      "options": [
+        {
+          "key": "A",
+          "text": "strong enough"
+        },
+        {
+          "key": "B",
+          "text": "enough strong"
+        },
+        {
+          "key": "C",
+          "text": "strongly enough"
+        },
+        {
+          "key": "D",
+          "text": "strength enough"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。符合 S + be + adj. + enough + to V 句型，strong 是形容詞，enough 作副詞修飾它。B 項語序錯誤；C 項 strongly 是副詞，不符合句型需求；D 項 strength 是名詞，無法與 enough 搭配。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確句子，表達對她而言這條繩子足夠長能到達屋頂",
+      "question_eng": "This rope is _______ for her to reach the roof.",
+      "options": [
+        {
+          "key": "A",
+          "text": "long enough"
+        },
+        {
+          "key": "B",
+          "text": "enough long"
+        },
+        {
+          "key": "C",
+          "text": "lengthy enough"
+        },
+        {
+          "key": "D",
+          "text": "enough lengthy"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句使用 S + be + adj. + enough + for + N + to V 句型，long 是形容詞，enough 置後修飾它。B 和 D 項語序錯誤；C 項雖然 lengthy 可作形容詞，但在此情境中 long 更自然恰當，且 lengthy 常用於時間，不用於物理長度。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適切的句子，表達她足夠聰慧能解決這個複雜問題",
+      "question_eng": "She is _______ to solve this complicated problem by herself.",
+      "options": [
+        {
+          "key": "A",
+          "text": "intelligent enough"
+        },
+        {
+          "key": "B",
+          "text": "enough intelligent"
+        },
+        {
+          "key": "C",
+          "text": "intelligence enough"
+        },
+        {
+          "key": "D",
+          "text": "intelligently enough"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。符合句型 S + be + adj. + enough + to V，intelligent 是形容詞，enough 作副詞修飾它。B 項語序錯；C 項 intelligence 是名詞不符句型；D 項 intelligently 是副詞，雙重副詞修飾不當。此句表達能力充分足以獨立完成任務。",
+      "id": 4
+    }
   ]
 }

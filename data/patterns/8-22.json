@@ -199,5 +199,107 @@
       "zh": "補充"
     }
   ],
-  "vocab_table_label": "常用附加連接詞"
+  "vocab_table_label": "常用附加連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的附加關係表達方式，使句子完整且語法正確。",
+      "question_eng": "Maria speaks Spanish _______ Portuguese fluently.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as well as"
+        },
+        {
+          "key": "B",
+          "text": "as good as"
+        },
+        {
+          "key": "C",
+          "text": "also as"
+        },
+        {
+          "key": "D",
+          "text": "and well as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'as well as' 表示「除……之外還有」，用於列舉相同或相似的事物。Maria 說西班牙語和葡萄牙語都很流利。B 項 'as good as' 表示「幾乎與……一樣好」，用法不同。C 項 'also as' 不是正確搭配。D 項 'and well as' 為文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷句子主動詞時態應如何搭配，不受後接名詞影響。",
+      "question_eng": "The manager as well as the employees _______ attending the conference tomorrow.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "have been"
+        },
+        {
+          "key": "D",
+          "text": "will be"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是 D。雖然後面有 'employees'（複數），但 'as well as' 不影響主詞的單數性質，主詞仍為單數 'manager'。加上句子提及 'tomorrow'，應用未來時 'will be'。A 項 'is' 時態錯誤，B 項忽視主詞為單數，C 項時態不符句意。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇合適的介系詞短語並注意動詞形式與主詞搭配。",
+      "question_eng": "The professor, in addition to _______ the research project, _______ supervising ten graduate students.",
+      "options": [
+        {
+          "key": "A",
+          "text": "leading / are"
+        },
+        {
+          "key": "B",
+          "text": "leading / is"
+        },
+        {
+          "key": "C",
+          "text": "lead / is"
+        },
+        {
+          "key": "D",
+          "text": "leading / are"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。'in addition to' 後接動名詞 'leading'，主詞為單數 'professor'，所以動詞應用 'is'。A 項動詞用複數形錯誤。C 項 'lead' 前應為動名詞。D 項動詞用複數也錯誤。注意主詞-動詞一致性不受 'in addition to' 後名詞影響。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型，需判斷完整的時態搭配和並列結構正確性。",
+      "question_eng": "Not only the CEO but also the board members, _______ their personal interests, _______ committed to improving the company's sustainability initiatives.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in addition to / are"
+        },
+        {
+          "key": "B",
+          "text": "as well as / is"
+        },
+        {
+          "key": "C",
+          "text": "in addition to / is"
+        },
+        {
+          "key": "D",
+          "text": "as well as having / are"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。主要主詞由 'not only...but also' 連接，結構上複數主詞應配複數動詞 'are'。'in addition to' 可正確引入補充資訊 'their personal interests'。B 項動詞誤用單數。C 項 'is' 與複數主詞不符。D 項 'as well as having' 結構冗長不合所需。",
+      "id": 4
+    }
+  ]
 }

@@ -207,5 +207,107 @@
       "zh": "條件"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "根據情境選擇正確的否定推測句型，表示過去絕對不可能發生",
+      "question_eng": "The theft _______ occurred at noon; the store was crowded with customers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cannot have"
+        },
+        {
+          "key": "B",
+          "text": "could not"
+        },
+        {
+          "key": "C",
+          "text": "must not have"
+        },
+        {
+          "key": "D",
+          "text": "should not have"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「cannot have」。此句表達對過去事件的推測，意為「絕對不可能在正午發生」。B 項「could not」缺少 have，時態錯誤。C 項「must not have」表示禁止性推測而非客觀不可能。D 項「should not have」表示後悔，語意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇表達對過去事件否定推測的正確形式",
+      "question_eng": "She _______ been to Paris before; she didn't even know where the Eiffel Tower was.",
+      "options": [
+        {
+          "key": "A",
+          "text": "could not have"
+        },
+        {
+          "key": "B",
+          "text": "cannot be"
+        },
+        {
+          "key": "C",
+          "text": "must not have"
+        },
+        {
+          "key": "D",
+          "text": "could have not"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「could not have」。此句推測過去「她絕對沒有去過巴黎」。B 項「cannot be」時態為現在式，不符合。C 項「must not have」表禁止而非推測不可能。D 項「could have not」語序錯誤，正確順序應為「could not have」。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據事實判斷過去情境，選擇最恰當的否定推測句型",
+      "question_eng": "The exam results _______ been announced yesterday; the professor told us grades would be posted today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have"
+        },
+        {
+          "key": "B",
+          "text": "cannot have"
+        },
+        {
+          "key": "C",
+          "text": "would have"
+        },
+        {
+          "key": "D",
+          "text": "might not have"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「cannot have」。根據教授所言，成績昨天絕對不可能公布，故用 cannot have 表達客觀不可能。A 項「must have」表肯定推測，與語境矛盾。C 項「would have」表過去的假設條件。D 項「might not have」表示可能性較弱，不夠確定。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合分析上下文語意，判斷過去事件推測的正確否定形式",
+      "question_eng": "Despite the emergency contact information provided, he _______ the message in time; the network was down for hours during the critical period.",
+      "options": [
+        {
+          "key": "A",
+          "text": "might have received"
+        },
+        {
+          "key": "B",
+          "text": "must have received"
+        },
+        {
+          "key": "C",
+          "text": "could not have received"
+        },
+        {
+          "key": "D",
+          "text": "should have received"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「could not have received」。網路中斷數小時是客觀事實，推斷他絕對不可能及時收到訊息。A 項「might have received」表可能性。B 項「must have received」表肯定推測，與事實矛盾。D 項「should have received」表應該而非推測的不可能性。此題測試 could not have（cannot have 的過去式表達）的正確用法。",
+      "id": 4
+    }
+  ]
 }

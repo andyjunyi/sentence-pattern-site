@@ -199,5 +199,107 @@
       "zh": "一致地"
     }
   ],
-  "vocab_table_label": "常用反對片語"
+  "vocab_table_label": "常用反對片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的動詞片語形式，完成句子",
+      "question_eng": "The coach _______ his players drinking alcohol before important games.",
+      "options": [
+        {
+          "key": "A",
+          "text": "objects to"
+        },
+        {
+          "key": "B",
+          "text": "objects for"
+        },
+        {
+          "key": "C",
+          "text": "objects at"
+        },
+        {
+          "key": "D",
+          "text": "objects with"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「object to + V-ing」是固定片語，表示「反對做某事」。coach 反對球員在重要比賽前喝酒，to 為介系詞而非不定詞符號，後接動名詞 drinking。B、C、D 的介系詞搭配皆不符合 object 的用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的形容詞片語，表達政府立場",
+      "question_eng": "The government is _______ new environmental regulations that would increase production costs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "opposed to implementing"
+        },
+        {
+          "key": "B",
+          "text": "opposed to implement"
+        },
+        {
+          "key": "C",
+          "text": "opposed for implementing"
+        },
+        {
+          "key": "D",
+          "text": "oppose to implementing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「be opposed to + V-ing」表示「反對做某事」，opposed 為形容詞，to 為介系詞。句子主詞是 government，需用被動形式 is opposed to。B 誤用不定詞；C 的介系詞錯誤；D 誤用動詞 oppose 而非形容詞 opposed。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷兩個反對片語的正確用法區別",
+      "question_eng": "Many local residents _______ the construction of a shopping mall in their neighborhood, and city officials are _______ it as well.",
+      "options": [
+        {
+          "key": "A",
+          "text": "object to / opposed to building"
+        },
+        {
+          "key": "B",
+          "text": "are opposed to / objecting to"
+        },
+        {
+          "key": "C",
+          "text": "object building / are opposed building"
+        },
+        {
+          "key": "D",
+          "text": "are objected to / opposing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空需動詞片語 object to + V-ing（object to building），主詞 residents 為複數。第二空需形容詞片語 be opposed to + V-ing（are opposed to building），搭配 are。B 時態與片語搭配均錯；C 均缺少 to 介系詞；D 文法結構錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句式中的片語應用與時態轉換",
+      "question_eng": "Although the proposal had been discussed for months, the board still _______ and the union leaders were _______ any changes to the current work agreement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "objected to accepting it / opposed to implementing"
+        },
+        {
+          "key": "B",
+          "text": "were objecting to accept it / opposed to implement"
+        },
+        {
+          "key": "C",
+          "text": "objected to accept it / were opposed implementing"
+        },
+        {
+          "key": "D",
+          "text": "object to accepting it / opposed implementing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空用過去簡單式 objected to accepting it（board 為單數，反對接受它），to 為介系詞。第二空用被動形式 were opposed to implementing（union leaders 為複數，反對實施改變），to 為介系詞。B 的 accept 應為 accepting；C 缺少 to 介系詞；D 時態與介系詞用法皆錯。",
+      "id": 4
+    }
+  ]
 }

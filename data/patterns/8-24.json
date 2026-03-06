@@ -199,5 +199,107 @@
       "zh": "詢問；質疑"
     }
   ],
-  "vocab_table_label": "核心詞彙"
+  "vocab_table_label": "核心詞彙",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的詞彙完成句子，表示「無論下雨或不下雨」",
+      "question_eng": "_______ it rains or not, the outdoor concert will proceed as scheduled.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Whether"
+        },
+        {
+          "key": "B",
+          "text": "If"
+        },
+        {
+          "key": "C",
+          "text": "Unless"
+        },
+        {
+          "key": "D",
+          "text": "Since"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Whether)。此句表示讓步意義「無論下雨或不下雨」，音樂會都照常進行，需用 whether...or not 引導讓步副詞子句。If 引導條件句，表示條件決定結果，語義不符；Unless 表否定條件；Since 表原因，均不合題意。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇合適的連接詞，完成「是否同意」的選擇含義句子",
+      "question_eng": "I haven't decided yet _______ to accept this job offer or not.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (whether)。句中 \"haven't decided\" 後接名詞子句，表示「是否接受」的不確定選擇，需用 whether 引導。if 引導名詞子句時功能較弱且較非正式；that 引導陳述句；which 為關係代詞，均不適合此上下文。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇合適詞彙完成句子，區分讓步與條件意義",
+      "question_eng": "The project will be completed on time _______ we receive additional funding or not.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "whether"
+        },
+        {
+          "key": "C",
+          "text": "unless"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (whether)。\"will be completed\" 表確定的結果，而 \"or not\" 呼應結構提示此為讓步句，不管是否獲得經費，專案都會完成。if 表條件（結果取決於條件）；unless 為否定條件；as long as 表充分條件，均暗示條件影響結果，與題意不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "理解讓步用法和條件用法的區別，選擇符合邏輯的表達",
+      "question_eng": "The CEO announced that _______ the company achieves profitability this quarter or not, employees will still receive their annual bonuses.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "whether"
+        },
+        {
+          "key": "C",
+          "text": "unless"
+        },
+        {
+          "key": "D",
+          "text": "only if"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (whether)。主句 \"will still receive bonuses\" 表無條件的承諾，業績是否達成都不影響結果，故為讓步句須用 whether...or not。if 條件句意味獲利才能發獎金，邏輯相反；unless 表否定條件；only if 加強條件必要性，均不合員工無條件獲獎的語義。",
+      "id": 4
+    }
+  ]
 }

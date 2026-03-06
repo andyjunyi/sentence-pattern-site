@@ -201,5 +201,107 @@
         "accomplished"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的連接詞完成句子",
+      "question_eng": "This restaurant is popular _______ it serves authentic Italian food at reasonable prices.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in that"
+        },
+        {
+          "key": "B",
+          "text": "because of"
+        },
+        {
+          "key": "C",
+          "text": "due to"
+        },
+        {
+          "key": "D",
+          "text": "as a result of"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「in that」用於說明理由，後接完整句子（S + V），符合「it serves...」的結構。B、C、D 都是介系詞片語，後應接名詞，不能接完整句子。本題測試「in that 後必須接完整從句」的特點。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的連接詞，完成句意",
+      "question_eng": "The film succeeds _______ it combines serious themes with entertaining storytelling that appeals to diverse audiences.",
+      "options": [
+        {
+          "key": "A",
+          "text": "because"
+        },
+        {
+          "key": "B",
+          "text": "in that"
+        },
+        {
+          "key": "C",
+          "text": "whereas"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「in that」用於正式書面語中說明理由，後接完整從句。A 雖也可表理由，但較口語；C 表示「雖然」比較；D 表示時間，皆不符。題目強調「in that」的正式性與精確性。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當用法說明該產品的獨特之處",
+      "question_eng": "The smartphone distinguishes itself from competitors _______ the camera system integrates AI technology that enhances image quality in low-light conditions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in which way"
+        },
+        {
+          "key": "B",
+          "text": "in that"
+        },
+        {
+          "key": "C",
+          "text": "in case"
+        },
+        {
+          "key": "D",
+          "text": "in order that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「in that」後接完整從句，用於說明「在於……方面」。A 的「in which way」非標準用法；C 表示「以防」；D 表示「以便」，都不符文意。本題測試「in that」與其他介系詞片語的區別。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當的表達方式完成學術評論",
+      "question_eng": "The research paper makes a significant contribution to the field _______ it challenges conventional assumptions by proposing a novel theoretical framework that reconciles previously conflicting schools of thought.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "whereby"
+        },
+        {
+          "key": "C",
+          "text": "in that"
+        },
+        {
+          "key": "D",
+          "text": "in which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。「in that」用於正式書面語說明具體理由，強調「理由在於……」。A「where」表地點；B「whereby」雖為正式用語但強調方式、手段，後接分詞或動詞不定式；D「in which」為關係副詞，通常指地點。本題測試「in that」在學術文章中的專用地位。",
+      "id": 4
+    }
   ]
 }

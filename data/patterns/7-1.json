@@ -199,5 +199,107 @@
       "zh": "正在生長的、發展中的"
     }
   ],
-  "vocab_table_label": "常用分詞形容詞"
+  "vocab_table_label": "常用分詞形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的分詞形式修飾名詞，完成句子。",
+      "question_eng": "The _______ students finished their homework and went home happily.",
+      "options": [
+        {
+          "key": "A",
+          "text": "studied"
+        },
+        {
+          "key": "B",
+          "text": "studying"
+        },
+        {
+          "key": "C",
+          "text": "being studied"
+        },
+        {
+          "key": "D",
+          "text": "study"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (studying)。句子表達「正在學習的學生」，需用 V-ing 形式表主動/進行中的動作。A 項 studied（過去分詞）表被動，不符合邏輯；C 項 being studied 過於複雜且不符合修飾用法；D 項 study 非分詞形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的分詞形式，修飾後面的名詞。",
+      "question_eng": "The _______ window in the old building needs to be repaired immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "breaking"
+        },
+        {
+          "key": "B",
+          "text": "broke"
+        },
+        {
+          "key": "C",
+          "text": "broken"
+        },
+        {
+          "key": "D",
+          "text": "being broken"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (broken)。過去分詞 broken 表被動和已完成的狀態，表示「已破損的窗戶」。A 項 breaking 表主動進行，邏輯不符；B 項 broke 是過去式動詞，不能作形容詞；D 項 being broken 過於冗長。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分單個分詞與分詞片語的位置差異，選擇正確選項。",
+      "question_eng": "The _______ dog that we found on the street yesterday was very weak and thin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "abandoned"
+        },
+        {
+          "key": "B",
+          "text": "abandoning"
+        },
+        {
+          "key": "C",
+          "text": "abandoned in the street"
+        },
+        {
+          "key": "D",
+          "text": "abandoning by its owner"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (abandoned)。單個過去分詞應前置於名詞，表「被遺棄的狗」。C 項是分詞片語但應後置（在關代詞之後），在此位置不適；B 項 abandoning 為主動，邏輯不符；D 項文法錯誤（abandon 用主動應為 abandoned by owner）。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考察邏輯主語、分詞位置與片語使用，選擇最適選項。",
+      "question_eng": "The _______ documents found in the sealed envelope were revealed to contain confidential information about the missing operation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "yellowed and aging"
+        },
+        {
+          "key": "B",
+          "text": "yellowing and aged"
+        },
+        {
+          "key": "C",
+          "text": "yellowed, aged, and discovered"
+        },
+        {
+          "key": "D",
+          "text": "yellowed and aged discovered in the sealed envelope"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (yellowed and aging)。兩個單個分詞前置修飾名詞，yellowed（已變黃）+ aging（逐漸老化）分別表完成與進行狀態。B 項 yellowing 與 aged 搭配不協調；C 項包含 discovered 重複後面 found 的意思；D 項片語應單獨後置，不應與前置分詞混用。",
+      "id": 4
+    }
+  ]
 }

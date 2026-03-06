@@ -195,5 +195,107 @@
         "複數/不可數名詞"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的 such...that 結果子句結構，表達故事很有趣。",
+      "question_eng": "She told _______ story that everyone in the class enjoyed it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such an interesting"
+        },
+        {
+          "key": "B",
+          "text": "such interesting"
+        },
+        {
+          "key": "C",
+          "text": "so an interesting"
+        },
+        {
+          "key": "D",
+          "text": "such a interesting"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。such + a/an + 形容詞 + 單數可數名詞 + that，此句 interesting 修飾單數名詞 story，需用冠詞 a。B 項缺冠詞（單數必需）；C 項用 so 後應直接接形容詞，不能跟名詞；D 項 a 後不能接子音開頭的字。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入正確的 such...that 結構，表達天氣很惡劣。",
+      "question_eng": "It was _______ weather that the outdoor event had to be postponed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such bad"
+        },
+        {
+          "key": "B",
+          "text": "such a bad"
+        },
+        {
+          "key": "C",
+          "text": "so bad"
+        },
+        {
+          "key": "D",
+          "text": "such badly"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。不可數名詞 weather 前用 such + 形容詞，不需冠詞。B 項錯誤因不可數名詞不用冠詞；C 項 so 用法不同，so + 形容詞 + that；D 項 badly 是副詞，不符合 such + adj. + N 的結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇能正確完成句子的選項，表達做了如此努力的工作。",
+      "question_eng": "The team made _______ efforts that they succeeded in completing the project ahead of schedule.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so many"
+        },
+        {
+          "key": "B",
+          "text": "such many"
+        },
+        {
+          "key": "C",
+          "text": "such great"
+        },
+        {
+          "key": "D",
+          "text": "such great many"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。複數名詞 efforts 用 such + 形容詞，不需冠詞。A 項 so many 修飾複數名詞時用法不同於 such...that；B 項 such + many 搭配錯誤；D 項 great many 為片語，但前應用 such + many 或 such great，不能同時用。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇使句意通順的 such...that 結構，表達演講很令人印象深刻。",
+      "question_eng": "The professor delivered _______ lecture that all students took detailed notes and discussed it for hours afterward.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such impressive an"
+        },
+        {
+          "key": "B",
+          "text": "such an impressive"
+        },
+        {
+          "key": "C",
+          "text": "so impressive a"
+        },
+        {
+          "key": "D",
+          "text": "such impressive"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。such + a/an + 形容詞 + 單數可數名詞 lecture，冠詞必須在形容詞後。A 項詞序錯誤（冠詞應在形容詞後）；C 項混淆 so...that 與 such...that（so + adj. + a + N 的詞序特殊但此處應用 such）；D 項缺少冠詞，單數可數名詞必需。",
+      "id": 4
+    }
   ]
 }

@@ -202,5 +202,107 @@
       "zh": "說話、講述"
     }
   ],
-  "vocab_table_label": "常用連接詞"
+  "vocab_table_label": "常用連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "補充空格，完成「彷彿...」的假設句型",
+      "question_eng": "He speaks French as if he _______ a native speaker.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "has been"
+        },
+        {
+          "key": "D",
+          "text": "would be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "as if 後接虛擬語氣，表現在事實相反的假設，應用過去式 were。選項 A 用現在式，違反虛擬語氣；選項 C 用現在完成式，非虛擬語氣；選項 D 雖含虛擬意味但用 would be，語法不符（不需助動詞）。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當時態，表達過去事實相反的假設",
+      "question_eng": "She looked at me as though I _______ something terrible.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did"
+        },
+        {
+          "key": "B",
+          "text": "have done"
+        },
+        {
+          "key": "C",
+          "text": "had done"
+        },
+        {
+          "key": "D",
+          "text": "was doing"
+        }
+      ],
+      "answer": "C",
+      "explanation": "as though 引導與過去事實相反的假設，應使用過去完成式 had done。選項 A 用簡單過去式無法表示「早於過去」的相對時間；選項 B 用現在完成式，與虛擬語氣不符；選項 D 用過去進行式，無法表達完成的假設情境。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別虛擬語氣時態，完成現在假設句子",
+      "question_eng": "The manager addressed the employee as if the mistake _______ intentionally made by him.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "were"
+        },
+        {
+          "key": "C",
+          "text": "has been"
+        },
+        {
+          "key": "D",
+          "text": "had been"
+        }
+      ],
+      "answer": "B",
+      "explanation": "as if 後表現在事實相反的假設（經理的言行暗示非該員工故意），應用過去式 were。選項 A 現在式違反虛擬語氣；選項 C 現在完成式非虛擬用法；選項 D 過去完成式用於與過去事實相反，此處不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型：判斷多時態組合的虛擬假設",
+      "question_eng": "He spent money as though he _______ millions of dollars instead of just being temporarily wealthy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "possessed"
+        },
+        {
+          "key": "B",
+          "text": "had possessed"
+        },
+        {
+          "key": "C",
+          "text": "would possess"
+        },
+        {
+          "key": "D",
+          "text": "was possessing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "主句 spent（過去式）表過去行為，as though 子句應使用過去完成式 had possessed，表示與過去事實相反的假設（他沒有擁有數百萬）。選項 A 簡單過去式無相對時間感；選項 C 含 would 不符虛擬語氣結構；選項 D 進行式不適合表完成事實。",
+      "id": 4
+    }
+  ]
 }

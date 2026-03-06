@@ -201,5 +201,107 @@
       "zh": "肯定地（肯定推測的強調）"
     }
   ],
-  "vocab_table_label": "常用情態動詞推測"
+  "vocab_table_label": "常用情態動詞推測",
+  "mc_exercises": [
+    {
+      "question_chi": "根據情境選擇正確的推測句型，表達對過去事實的強烈肯定推測。",
+      "question_eng": "The game was cancelled yesterday. It _______ because of the heavy rain.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have been"
+        },
+        {
+          "key": "B",
+          "text": "must be"
+        },
+        {
+          "key": "C",
+          "text": "must have been cancelled"
+        },
+        {
+          "key": "D",
+          "text": "must cancel"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。句子表達對過去事實的強烈推測（因為下雨多半導致取消），應使用『must have + p.p.』結構。B項『must be』表現在義務或推測，文法錯誤；C項過於冗贅且語意重複；D項『must cancel』缺少助動詞，不符合推測句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇合適的推測動詞片語，表達對過去情況的不同推測程度。",
+      "question_eng": "Tom didn't show up at the meeting. He _______ about the time change.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have forgotten"
+        },
+        {
+          "key": "B",
+          "text": "might have forgotten"
+        },
+        {
+          "key": "C",
+          "text": "can't have forgotten"
+        },
+        {
+          "key": "D",
+          "text": "may forget"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。根據情境（Tom缺席），說話者對其遺忘的推測程度中等，應用『might have + p.p.』表示可能性較低的推測。A項『must have』表示強烈確定，不符合內文的不確定語氣；C項『can't have』表強烈否定推測，與語意不符；D項『may forget』為現在式推測，時態錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據上下文判斷正確的過去推測句型，區分強肯定與強否定。",
+      "question_eng": "The witness said she saw the suspect at midnight. The suspect _______ at that time, so he couldn't be the criminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have been"
+        },
+        {
+          "key": "B",
+          "text": "can't have been"
+        },
+        {
+          "key": "C",
+          "text": "may have been"
+        },
+        {
+          "key": "D",
+          "text": "might be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。後半句『so he couldn't be the criminal』提示用強烈否定推測，應使用『can't have + p.p.』表達說話者對過去的強烈否定。A項『must have been』為肯定推測，與邏輯矛盾；C項『may have been』表可能性，語氣過弱；D項『might be』為現在推測，時態與語意都不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合判斷複雜情境下的過去推測，區分推測強度與時態轉換。",
+      "question_eng": "Sarah's car was found abandoned near the beach. She _______ an accident, or she _______ to escape from something dangerous.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must have had; might have been trying"
+        },
+        {
+          "key": "B",
+          "text": "must have had; might try"
+        },
+        {
+          "key": "C",
+          "text": "must be having; might have tried"
+        },
+        {
+          "key": "D",
+          "text": "could have; may have been trying"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。第一空『must have had』表強烈推測她發生車禍（過去發生的事件），用『must have + p.p.』；第二空『might have been trying』表較弱的推測她當時在逃離危險（過去進行的動作），用『might have + 現在分詞』。B項第二空用現在式錯誤；C項第一空『must be having』為現在推測不符；D項『could have』表可能性但不如『must have』確定，第一空語氣不當。",
+      "id": 4
+    }
+  ]
 }

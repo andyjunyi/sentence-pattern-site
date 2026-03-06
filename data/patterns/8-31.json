@@ -203,5 +203,107 @@
       "zh": "達成、實現"
     }
   ],
-  "vocab_table_label": "常用時間副詞"
+  "vocab_table_label": "常用時間副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的 only 倒裝句型，表示「只有那時」才明白。",
+      "question_eng": "Only then _______ we understand the real meaning of friendship.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "we did"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「did」。Only 修飾時間副詞 then 置於句首時，引發倒裝，助動詞 did 需提前至主詞 we 之前。整句為：Only then did we understand...。A 項時態錯誤（現在式不符合過去時間）；C 項重複了主詞造成文法錯誤；D 項 have 時態不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入正確的倒裝形式，表示「只有堅持練習」才能進步。",
+      "question_eng": "Only by practicing every day _______ you improve your English proficiency.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "you will"
+        },
+        {
+          "key": "C",
+          "text": "can"
+        },
+        {
+          "key": "D",
+          "text": "you can"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「will」。Only 修飾介詞片語 by practicing every day 置於句首時引發倒裝。助動詞 will 須提前至主詞 you 之前，形成「Only by...+ will + S + V」。B 項主詞重複；C 項 can 需搭配 improve 但文意不當；D 項同樣造成主詞重複。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的 only 子句倒裝句，表示「只有當你成功」才會了解努力的價值。",
+      "question_eng": "Only when you achieve your goal _______ you truly comprehend the value of hard work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "you will"
+        },
+        {
+          "key": "B",
+          "text": "will you"
+        },
+        {
+          "key": "C",
+          "text": "you can"
+        },
+        {
+          "key": "D",
+          "text": "can you"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「will you」。Only 修飾時間子句 when you achieve your goal 置於句首時，主句須倒裝。正確形式為「Only when + clause, + aux + S + V」，即「Only when you achieve your goal will you comprehend...」。A 項無倒裝；C 和 D 項雖有倒裝但助動詞 can 與文意搭配不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的倒裝句，強調「只有在我們承認錯誤後」才能進步。",
+      "question_eng": "Only after we acknowledge our mistakes _______ we able to move forward and grow as individuals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are we"
+        },
+        {
+          "key": "B",
+          "text": "we are"
+        },
+        {
+          "key": "C",
+          "text": "will we be"
+        },
+        {
+          "key": "D",
+          "text": "we will be"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「are we」。Only 修飾時間子句 after we acknowledge our mistakes 置於句首時引發倒裝。主句 be 動詞需提前至主詞之前，形成「Only after + clause, + be + S + adj」。B 項無倒裝；C 和 D 項多加了 will，造成助動詞重複且句式不符。正確句型應為「Only after clause, are we able to...」。",
+      "id": 4
+    }
+  ]
 }

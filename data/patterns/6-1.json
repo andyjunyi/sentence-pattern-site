@@ -200,5 +200,107 @@
       "zh": "設法成功"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的不定詞句型，表達希望做某事",
+      "question_eng": "My parents _______ me to become a doctor, but I prefer to be an engineer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "want"
+        },
+        {
+          "key": "B",
+          "text": "wish"
+        },
+        {
+          "key": "C",
+          "text": "hope"
+        },
+        {
+          "key": "D",
+          "text": "expect"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是 D (expect)。expect to V 表示期望某人做某事，主詞通常期望他人執行該動作。A (want) 亦可使用但此句脈絡用 expect 更貼切。B (wish) 後應接受詞子句或省略 to 的動詞。C (hope) 通常不直接搭配人名作主詞期望他人行動。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據語境選擇適當的控制動詞，表達同意或承諾",
+      "question_eng": "After the meeting, he _______ to submit the report by Friday without any hesitation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "promised"
+        },
+        {
+          "key": "B",
+          "text": "wished"
+        },
+        {
+          "key": "C",
+          "text": "hoped"
+        },
+        {
+          "key": "D",
+          "text": "refused"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (promised)。promise to V 表示承諾做某事，符合「沒有猶豫地承諾」的語境。B (wished) 後接不定詞時多指願望但無實現可能。C (hoped) 表希望但不夠強烈。D (refused) 意思相反，表拒絕。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨析相似控制動詞，選擇最適當的選項",
+      "question_eng": "The company _______ to invest in renewable energy projects, even though it requires significant capital expenditure.",
+      "options": [
+        {
+          "key": "A",
+          "text": "refused"
+        },
+        {
+          "key": "B",
+          "text": "agreed"
+        },
+        {
+          "key": "C",
+          "text": "decided"
+        },
+        {
+          "key": "D",
+          "text": "wished"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (decided)。decide to V 表示做出決定採取行動，符合「儘管需要大量資本支出，公司仍決定投資」的語義。A (refused) 意思相反。B (agreed) 通常需要對象（agree with/to somebody）。D (wished) 表願望，不夠確定。",
+      "id": 3
+    },
+    {
+      "question_chi": "在複雜句型中正確使用不定詞受詞，表達期望與現實的對比",
+      "question_eng": "Although she had planned _______ abroad for further studies, financial constraints forced her to _______ that dream and work immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to study; abandon"
+        },
+        {
+          "key": "B",
+          "text": "studying; give up"
+        },
+        {
+          "key": "C",
+          "text": "to study; give up"
+        },
+        {
+          "key": "D",
+          "text": "studying; abandon"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (to study; give up)。plan to V 為控制動詞搭配不定詞，第一空應為 to study。force sb. to V 中第二空亦需不定詞 to give up。A 中 abandon 後應接名詞或動名詞，非不定詞。B、D 中 plan 後接動名詞形式錯誤。",
+      "id": 4
+    }
+  ]
 }

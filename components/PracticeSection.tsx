@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 import PrintButton from './PrintButton'
+import MCPracticeSection, { type MCExercise } from './MCPracticeSection'
 
 interface Exercise {
   id: number
@@ -18,6 +19,7 @@ interface Exercise {
 
 interface PracticeSectionProps {
   exercises: Exercise[]
+  mcExercises?: MCExercise[]
   patternTitle: string
 }
 
@@ -36,7 +38,9 @@ function resolveParts(ex: Exercise): { parts: (string | null)[]; blanks: string[
   return { parts, blanks: [ex.answer] }
 }
 
-export default function PracticeSection({ exercises, patternTitle }: PracticeSectionProps) {
+export default function PracticeSection({ exercises, mcExercises = [], patternTitle }: PracticeSectionProps) {
+  const [activeTab, setActiveTab] = useState<'fill' | 'mc'>('fill')
+  const hasMC = mcExercises.length > 0
   const [hasStarted, setHasStarted] = useState(false)
   const [currentIndex, setCurrentIndex] = useState(0)
   const [userInputs, setUserInputs] = useState<string[]>([])
@@ -249,6 +253,41 @@ export default function PracticeSection({ exercises, patternTitle }: PracticeSec
   /* ── Main UI ── */
   return (
     <section>
+      {/* ── Tab switcher (shown only if MC exercises exist) ── */}
+      {hasMC && (
+        <div style={{
+          display: 'flex', gap: '0', marginBottom: '24px',
+          border: '1.5px solid #1F4E7A', borderRadius: '8px', overflow: 'hidden',
+          width: 'fit-content',
+        }}>
+          {(['fill', 'mc'] as const).map(tab => (
+            <button
+              key={tab}
+              onClick={() => {
+                setActiveTab(tab)
+                setHasStarted(false)
+              }}
+              style={{
+                padding: '9px 24px', border: 'none', cursor: 'pointer',
+                fontSize: '14px', fontWeight: 700, fontFamily: 'inherit',
+                background: activeTab === tab ? '#1F4E7A' : '#fff',
+                color: activeTab === tab ? '#fff' : '#1F4E7A',
+                transition: 'background 0.15s, color 0.15s',
+              }}
+            >
+              {tab === 'fill' ? '✏️ 填空題' : '📝 選擇題'}
+            </button>
+          ))}
+        </div>
+      )}
+
+      {/* ── MC tab delegates entirely to MCPracticeSection ── */}
+      {activeTab === 'mc' && hasMC && (
+        <MCPracticeSection exercises={mcExercises} patternTitle={patternTitle} />
+      )}
+
+      {/* ── Fill tab (original logic) ── */}
+      {activeTab === 'fill' && (<>
       {/* ── 開始練習 gate ── */}
       {!hasStarted && (
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '16px', padding: '32px 0 8px', flexWrap: 'wrap' }}>
@@ -268,8 +307,7 @@ export default function PracticeSection({ exercises, patternTitle }: PracticeSec
           </button>
         </div>
       )}
-      {hasStarted && (<>
-      {/* Progress bar */}
+      {hasStarted && (<> {/* Progress bar */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '24px' }}>
         {exercises.map((_, i) => (
           <div key={i} style={{
@@ -412,6 +450,7 @@ export default function PracticeSection({ exercises, patternTitle }: PracticeSec
         </div>
       )}
       </>)}
+      </>)} {/* end activeTab === 'fill' */}
     </section>
   )
 }

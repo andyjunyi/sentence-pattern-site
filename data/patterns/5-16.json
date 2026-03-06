@@ -208,5 +208,107 @@
       "zh": "設計"
     }
   ],
-  "vocab_table_label": "常用過去分詞"
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的使役被動句型，表示讓某人完成某事",
+      "question_eng": "I had my computer _______ by a technician last week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "repaired"
+        },
+        {
+          "key": "B",
+          "text": "repairing"
+        },
+        {
+          "key": "C",
+          "text": "repair"
+        },
+        {
+          "key": "D",
+          "text": "to repair"
+        }
+      ],
+      "answer": "A",
+      "explanation": "have + O + p.p.（過去分詞）表示使役被動，受詞與過去分詞構成被動關係。此句表「我讓技術員修理我的電腦」。B項repairing為現在分詞，表主動；C項repair為原形動詞；D項to repair為不定式，三者皆不符合使役被動文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷現在分詞與過去分詞的正確用法",
+      "question_eng": "She got her son _______ his homework before dinner.",
+      "options": [
+        {
+          "key": "A",
+          "text": "finished"
+        },
+        {
+          "key": "B",
+          "text": "finishing"
+        },
+        {
+          "key": "C",
+          "text": "to finish"
+        },
+        {
+          "key": "D",
+          "text": "finish"
+        }
+      ],
+      "answer": "B",
+      "explanation": "have/get + O + V-ing表受詞主動進行某動作。此句son與finishing構成主動關係，表「她讓兒子在晚餐前完成功課」。A項過去分詞表被動（功課被完成），與語意不符；C、D項不符合此句型結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分使役被動中受詞動作的主被動關係",
+      "question_eng": "The director had all the actors _______ their lines repeatedly until they were perfect.",
+      "options": [
+        {
+          "key": "A",
+          "text": "practiced"
+        },
+        {
+          "key": "B",
+          "text": "practicing"
+        },
+        {
+          "key": "C",
+          "text": "to practice"
+        },
+        {
+          "key": "D",
+          "text": "been practicing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "句意為「導演讓演員們主動反覆練習台詞」，演員是practice的執行者，應用V-ing形式。A項practiced為被動（台詞被練習），不符語境；C項不定式；D項進行被動式，均不適當。have + O + V-ing表受詞主動執行動作。",
+      "id": 3
+    },
+    {
+      "question_chi": "整合使役被動與口語表達，選擇最恰當的選項",
+      "question_eng": "Since the storm damaged the roof, we need to have it _______ before winter arrives, or we could get the insurance company _______ it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "repairing; to fix"
+        },
+        {
+          "key": "B",
+          "text": "repaired; fixing"
+        },
+        {
+          "key": "C",
+          "text": "repaired; fixed"
+        },
+        {
+          "key": "D",
+          "text": "repair; fix"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一空have + O + p.p.表被動（屋頂被修），用repaired；第二空get + O + p.p.亦表被動（保險公司讓它被修），用fixed。have較正式，get較口語。A項repairing/to fix混用不當；B項fixing為主動與語意不符；D項repair/fix為原形動詞不符文法。",
+      "id": 4
+    }
+  ]
 }

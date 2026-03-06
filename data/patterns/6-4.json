@@ -211,5 +211,107 @@
       "zh": "使能夠、使可能"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "老師要求學生準時提交作業，選擇正確的句型結構。",
+      "question_eng": "The teacher asked the students _______ their homework on time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to submit"
+        },
+        {
+          "key": "B",
+          "text": "submit"
+        },
+        {
+          "key": "C",
+          "text": "submitting"
+        },
+        {
+          "key": "D",
+          "text": "to submitting"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「to submit」。ask + O + to V 為標準句型，不定詞前需加 to。B 項缺少 to，違反句型結構。C 項動名詞形式不符合此句型。D 項 to 與動名詞搭配錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "父母期望孩子進入理工科大學深造，選擇正確表述。",
+      "question_eng": "My parents want me _______ engineering at university.",
+      "options": [
+        {
+          "key": "A",
+          "text": "study"
+        },
+        {
+          "key": "B",
+          "text": "to study"
+        },
+        {
+          "key": "C",
+          "text": "studying"
+        },
+        {
+          "key": "D",
+          "text": "studied"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「to study」。want + O + to V 句型中，不定詞必須有 to。A 項缺少 to，為常見錯誤。C 項動名詞不符合此句型要求。D 項過去式不合語意。",
+      "id": 2
+    },
+    {
+      "question_chi": "經理鼓勵員工參加專業培訓課程，選擇最合適的動詞表達。",
+      "question_eng": "The manager _______ the employees _______ the professional training course.",
+      "options": [
+        {
+          "key": "A",
+          "text": "encouraged / to attend"
+        },
+        {
+          "key": "B",
+          "text": "allowed / attending"
+        },
+        {
+          "key": "C",
+          "text": "told / attend"
+        },
+        {
+          "key": "D",
+          "text": "forced / to attending"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「encouraged / to attend」。encourage 後接 O + to V 句型，表示鼓勵。B 項 allow 後的動名詞形式不符合標準句型。C 項 tell 後缺少 to。D 項 to attending 搭配錯誤，應為 to attend。",
+      "id": 3
+    },
+    {
+      "question_chi": "請選擇最合適的動詞及其搭配結構，表達對方承諾讓孩子參加音樂課程。",
+      "question_eng": "She promised _______ her daughter _______ piano lessons next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "allow / to take"
+        },
+        {
+          "key": "B",
+          "text": "let / to take"
+        },
+        {
+          "key": "C",
+          "text": "to allow / taking"
+        },
+        {
+          "key": "D",
+          "text": "to let / take"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「allow / to take」。allow 為符合此句型的「複雜及物動詞」，後接 O + to V 結構。B 項 let 不用 to（let + O + V 裸不定詞），不符合此句型。C 項結構混亂，allow 前不應有 to。D 項 let 不需 to，且句型結構錯誤。",
+      "id": 4
+    }
+  ]
 }

@@ -198,5 +198,107 @@
       "zh": "達成、完成"
     }
   ],
-  "vocab_table_label": "常用動詞"
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇完成分詞構句，表達先完成作業後才出去玩",
+      "question_eng": "_______ her homework, Maria went out to play with her friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Having finished"
+        },
+        {
+          "key": "B",
+          "text": "Finishing"
+        },
+        {
+          "key": "C",
+          "text": "After she finished"
+        },
+        {
+          "key": "D",
+          "text": "Having been finished"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Having finished』是完成分詞構句，表示分詞動作（完成作業）先於主句動作（出去玩）發生。B 項『Finishing』是進行分詞，無法表達先後順序。C 項『After she finished』是從句，非分詞構句。D 項『Having been finished』被動式不適用，因 Maria 是主動完成作業。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的被動完成分詞構句，表達遭拒後的決定",
+      "question_eng": "_______ by three universities, he finally decided to work abroad.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Being rejected"
+        },
+        {
+          "key": "B",
+          "text": "Rejected"
+        },
+        {
+          "key": "C",
+          "text": "Having been rejected"
+        },
+        {
+          "key": "D",
+          "text": "Having rejected"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。『Having been rejected』為被動完成分詞構句，強調遭拒的動作已完成且先於『決定出國工作』發生。A 項『Being rejected』是現在進行被動，無完成意涵。B 項『Rejected』為過去分詞形容詞，缺乏完成概念。D 項『Having rejected』是主動式，但邏輯主詞應是被拒者。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇完成分詞構句，表達先讀完報告才參加會議",
+      "question_eng": "_______ the comprehensive report thoroughly, the executive felt confident during the board meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Having read"
+        },
+        {
+          "key": "B",
+          "text": "Having been read"
+        },
+        {
+          "key": "C",
+          "text": "After reading"
+        },
+        {
+          "key": "D",
+          "text": "Being read"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Having read』為完成分詞構句，表達行政人員先讀完報告（已完成），才在會議中感到自信。B 項『Having been read』被動意義不合邏輯，報告應由人主動閱讀。C 項『After reading』是前置詞片語而非分詞構句形式。D 項『Being read』進行被動態無法表達完成含義。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇完成分詞構句，強調先失去機會後的深刻悔悟",
+      "question_eng": "_______ the precious opportunity slip through his fingers, John _______ the importance of seizing the moment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Having let / finally realized"
+        },
+        {
+          "key": "B",
+          "text": "Let / had realized"
+        },
+        {
+          "key": "C",
+          "text": "Letting / realized"
+        },
+        {
+          "key": "D",
+          "text": "Having been let / would realize"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『Having let』為完成分詞構句，表示『讓機會溜走』的動作先於『意識到重要性』發生。『finally realized』搭配完成分詞構句表達先後時序關係。B 項『Let』缺乏完成意涵。C 項『Letting』進行分詞無法表達先後順序，『realized』與『Letting』無法形成合理時序。D 項被動式不合邏輯，且『would realize』為未來式不符文意。",
+      "id": 4
+    }
+  ]
 }

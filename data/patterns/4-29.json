@@ -201,5 +201,107 @@
         "to drive"
       ]
     }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "填入適當的虛受詞結構，使句子完整表達「認為學英文容易」",
+      "question_eng": "I find _______ easy to learn English.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "this"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (it)。此句型使用虛受詞 it 來代替真正受詞（to learn English），位於形容詞 easy 之前。選項 B 的 that 用於 that 子句，不適合此結構；C 和 D 都無法作為虛受詞使用。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的虛受詞結構，表達「認為按時交作業很重要」",
+      "question_eng": "She thinks _______ important that all students should submit homework on time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "it"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (it)。此句型為「S + V + it + adj. + that 子句」結構，it 是虛受詞，that 子句是真正受詞。選項 A、C、D 都無法擔任虛受詞角色，該句型中 it 為必要元素。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式，表達「認為他很難相信這個故事」",
+      "question_eng": "I find _______ difficult for him to believe the story.",
+      "options": [
+        {
+          "key": "A",
+          "text": "this"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "it"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (it)。此句型為「S + V + it + adj. + for/to + to V」結構，it 是虛受詞，真正受詞為 to believe the story。選項 A 和 B 無法作虛受詞；D 的 what 通常引導名詞子句，不符合此結構用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的虛受詞結構，完成「我認為能找到好工作是可能的」這句話",
+      "question_eng": "I consider _______ possible that she will find a satisfying job in this competitive market.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "it"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (it)。此句型為「S + V + it + adj. + that 子句」，consider 後的虛受詞 it 代替真正受詞（that 子句），it 位於形容詞 possible 之前。選項 A 的 what 為關係代詞，C 的 which 亦然，D 的 that 只能引導名詞子句但不作虛受詞。",
+      "id": 4
+    }
   ]
 }

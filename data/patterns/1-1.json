@@ -197,5 +197,107 @@
       "zh": "沿著……"
     }
   ],
-  "vocab_table_label": "常用位置介系詞"
+  "vocab_table_label": "常用位置介系詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的 there is/are 句型，描述教室裡的物品",
+      "question_eng": "_______ a whiteboard and several desks in our classroom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "There are"
+        },
+        {
+          "key": "B",
+          "text": "There is"
+        },
+        {
+          "key": "C",
+          "text": "It is"
+        },
+        {
+          "key": "D",
+          "text": "There have"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。雖然 whiteboard 是單數，但 there is/are 句型中，be 動詞應與最靠近的名詞一致。此處「and」連接 whiteboard 和 desks，整體為複數概念，故用 are。B 項錯誤：whiteboard and desks 是複數，不用 is。C 項錯誤：It is 為代名詞句型，不符合 there 存在句。D 項錯誤：have 不適用於此句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的 there is/are 形式，描述學校食堂的情況",
+      "question_eng": "_______ a lot of students and teachers having lunch in the cafeteria at noon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "There is"
+        },
+        {
+          "key": "B",
+          "text": "There are"
+        },
+        {
+          "key": "C",
+          "text": "There be"
+        },
+        {
+          "key": "D",
+          "text": "It is"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。「a lot of students and teachers」為複數名詞片語，應使用 there are。A 項錯誤：students and teachers 是複數，不用 is。C 項錯誤：there be 為非時態形式，此處需要現在時 are。D 項錯誤：it is 非存在句型，無法表達「某處存在某物」的含義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式，描述圖書館內的資源情況",
+      "question_eng": "There _______ some important information on the library's website, and _______ several useful databases available for students to research.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is; is"
+        },
+        {
+          "key": "B",
+          "text": "are; are"
+        },
+        {
+          "key": "C",
+          "text": "is; are"
+        },
+        {
+          "key": "D",
+          "text": "are; is"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。第一空：information 為不可數名詞，用 is。第二空：databases 為複數名詞，用 are。A 項錯誤：databases 是複數，第二空應用 are。B 項錯誤：information 不可數，第一空應用 is。D 項錯誤：第一空應用 is（information 不可數），第二空應用 are（databases 複數）。",
+      "id": 3
+    },
+    {
+      "question_chi": "完成複雜的 there be 句型，描述校園內的多項設施",
+      "question_eng": "There _______ a computer lab, several sports facilities, and a modern library in our school, all of which _______ students the resources they need for their studies.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is; provide"
+        },
+        {
+          "key": "B",
+          "text": "are; provides"
+        },
+        {
+          "key": "C",
+          "text": "are; provide"
+        },
+        {
+          "key": "D",
+          "text": "is; provides"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。第一空：there are 句型中，computer lab、sports facilities、library 為複數名詞組合，be 動詞應與最靠近的名詞 library（複數）一致，故用 are。第二空：關係代名詞 which 指代先行詞（複數），動詞應為複數形 provide。A 項錯誤：is 與複數不符。B 項錯誤：provides 與複數主詞不符。D 項錯誤：is 與複數不符，provides 與複數不符。",
+      "id": 4
+    }
+  ]
 }
