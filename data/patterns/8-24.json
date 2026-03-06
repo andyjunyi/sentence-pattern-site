@@ -1,0 +1,203 @@
+{
+  "code": "8-24",
+  "chapter": 8,
+  "title": "S + V + whether... or not",
+  "formulas": [
+    {
+      "formula": "S + V + whether... or not",
+      "zh": "主詞+動詞+whether...or not（無論是否...）"
+    },
+    {
+      "formula": "S + V + whether or not + S + V",
+      "zh": "主詞+動詞+whether or not+主詞+動詞（無論...是否...）"
+    }
+  ],
+  "explanation": "whether...or not 具有雙重功能：(1)引導名詞子句，表示「是否」的選擇意義，與 if 用法相似；(2)引導讓步副詞子句，表示「無論...是否...」的讓步意義。兩種用法結構不同，第一種強調不確定性，第二種強調結果不因條件改變。學測常考讓步用法，需區分是條件句還是讓步句，關鍵在於主句動詞邏輯與子句條件的關係。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Whether the weather is good or not, we will go hiking tomorrow.",
+      "chi": "無論天氣是否晴朗，我們明天都會去登山。",
+      "keywords": [
+        "whether...or not",
+        "讓步意義",
+        "條件無關"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "I don't care whether you agree or not; I've made my decision.",
+      "chi": "我不在乎你是否同意；我已經做好決定了。",
+      "keywords": [
+        "whether or not",
+        "名詞子句",
+        "不確定性"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Whether or not she attends the meeting, the project will proceed as planned.",
+      "chi": "無論她是否出席會議，該專案都將按計畫進行。",
+      "keywords": [
+        "whether or not",
+        "讓步副詞子句",
+        "結果確定"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The teacher asked whether the students understood the lesson or not.",
+      "chi": "老師詢問學生們是否理解了課程內容。",
+      "keywords": [
+        "whether...or not",
+        "名詞子句",
+        "間接問句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分兩種用法的關鍵：(1)名詞子句用法強調「不知道答案」，常與 ask, know, understand, decide 等動詞搭配。(2)讓步用法強調「結果無關條件」，主句通常表示確定的行動或結果。若前後邏輯是「無論...都...」即為讓步用法。注意 whether or not 順序不可倒置。",
+    "examples": [
+      {
+        "test": "I don't know whether he will come or not.",
+        "result": "→ 名詞子句：表示「不知道他是否會來」，用於間接問句"
+      },
+      {
+        "test": "Whether he comes or not, we will start the meeting.",
+        "result": "→ 讓步副詞子句：表示「無論他是否來，我們都會開始開會」，結果不變"
+      },
+      {
+        "test": "❌ The student asked whether or not the teacher would explain again.",
+        "result": "→ ✓ The student asked whether the teacher would explain again or not.（or not 應置於句末或與 whether 緊連）"
+      }
+    ],
+    "note": "名詞子句問「是否」→ ask/know/wonder；讓步副詞子句說「無論是否」→ 前後邏輯獨立，結果確定。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The director decided to shoot the film ",
+        null,
+        " the budget was sufficient or not."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The director decided to shoot the film whether the budget was sufficient or not.",
+      "translation": "導演決定拍攝這部電影，無論預算是否充足。",
+      "keywords": [
+        "whether",
+        "讓步副詞子句",
+        "決定"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The company doesn't care ",
+        null,
+        " the employees are satisfied or not."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The company doesn't care whether the employees are satisfied or not.",
+      "translation": "公司不在乎員工是否滿意。",
+      "keywords": [
+        "whether or not",
+        "名詞子句",
+        "care"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I wonder ",
+        null,
+        " she will accept the job offer or not."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "I wonder whether she will accept the job offer or not.",
+      "translation": "我想知道她是否會接受這份工作邀請。",
+      "keywords": [
+        "whether...or not",
+        "名詞子句",
+        "wonder"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The project will be completed on time ",
+        null,
+        " any obstacles arise or not."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The project will be completed on time whether any obstacles arise or not.",
+      "translation": "無論是否出現任何障礙，該專案都將準時完成。",
+      "keywords": [
+        "whether or not",
+        "讓步副詞子句",
+        "regardless"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "regardless of",
+      "zh": "不管；不顧"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "proceed",
+      "zh": "進行；繼續"
+    },
+    {
+      "adj": "uncertain",
+      "zh": "不確定的"
+    },
+    {
+      "adj": "matter",
+      "zh": "重要；有關係"
+    },
+    {
+      "adj": "care",
+      "zh": "在乎；關心"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "determine",
+      "zh": "決定；確定"
+    },
+    {
+      "adj": "hesitate",
+      "zh": "猶豫；遲疑"
+    },
+    {
+      "adj": "depend on",
+      "zh": "取決於；依賴"
+    },
+    {
+      "adj": "agree",
+      "zh": "同意"
+    },
+    {
+      "adj": "question",
+      "zh": "詢問；質疑"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}

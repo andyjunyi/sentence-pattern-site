@@ -1,0 +1,199 @@
+{
+  "code": "1-6",
+  "chapter": 1,
+  "title": "It + V + that + S + V（虛主詞 + 名詞子句）",
+  "formulas": [
+    {
+      "formula": "It + is/seems/appears + that + S + V",
+      "zh": "虛主詞 + 連綴動詞 + that 子句；真正主詞和動詞置於 that 子句中"
+    },
+    {
+      "formula": "It + is + said/known/believed/reported + that + S + V",
+      "zh": "虛主詞 + 被動句型 + that 子句；表示傳聞、已知或推測"
+    }
+  ],
+  "explanation": "此句型使用虛主詞 it，將真正的主詞子句（that 子句）後移，使句子結構更自然流暢。常見於被動語態表達，如 \"It is said that...\"、\"It is known that...\" 等，用以表達傳聞、推測、已知事實或報導。虛主詞 it 本身無實義，只是句子結構上的需要。該句型與 \"That + S + V + is + adj.\" 意義相同，但前者較為正式、中立。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is said that he will arrive in Taiwan next week.",
+      "chi": "據說他下週將抵達台灣。",
+      "keywords": [
+        "It is said that",
+        "虛主詞",
+        "傳聞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It appears that the company is facing serious financial difficulties.",
+      "chi": "看起來該公司正面臨嚴重的財務困難。",
+      "keywords": [
+        "It appears that",
+        "推測",
+        "appears"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is believed that climate change will have significant impacts on agriculture.",
+      "chi": "人們普遍認為氣候變遷將對農業產生重大影響。",
+      "keywords": [
+        "It is believed that",
+        "被動句型",
+        "普遍認為"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It seems that most students prefer online learning to traditional classes.",
+      "chi": "看起來大多數學生更喜歡線上學習而不是傳統課堂。",
+      "keywords": [
+        "It seems that",
+        "虛主詞結構",
+        "傾向"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "虛主詞 it 必須使用，不可省略或改為其他代詞。該句型多用於正式、學術或新聞文體。注意：\"It is + adj. + that...\" 結構中的形容詞必須能搭配 that 子句，不是所有形容詞都適用。",
+    "examples": [
+      {
+        "test": "It is said that she won the award. vs. She is said to have won the award.",
+        "result": "→ 前者使用 that 子句，後者使用不定式，兩者意義相同但結構不同；學測常考兩種變體互換"
+      },
+      {
+        "test": "❌ That she will come is certain. vs. ✓ It is certain that she will come.",
+        "result": "→ 後者因使用虛主詞而更自然，是更常見的表達方式"
+      }
+    ],
+    "note": "記住：虛主詞 it 開頭 + 連綴動詞/被動動詞 + that + 完整子句，這是正式書寫的標準模式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " that the government will announce the new policy tomorrow."
+      ],
+      "blanks": [
+        "It is expected"
+      ],
+      "sentence": "It is expected that the government will announce the new policy tomorrow.",
+      "translation": "預期政府將於明天公布新政策。",
+      "keywords": [
+        "It is expected that",
+        "虛主詞",
+        "被動結構"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " that plastic pollution is affecting marine ecosystems globally."
+      ],
+      "blanks": [
+        "It is known"
+      ],
+      "sentence": "It is known that plastic pollution is affecting marine ecosystems globally.",
+      "translation": "眾所周知，塑膠污染正在全球影響海洋生態系統。",
+      "keywords": [
+        "It is known that",
+        "眾所周知",
+        "已知事實"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " that renewable energy will become the main power source in the future."
+      ],
+      "blanks": [
+        "It seems"
+      ],
+      "sentence": "It seems that renewable energy will become the main power source in the future.",
+      "translation": "看起來再生能源將成為未來的主要電力來源。",
+      "keywords": [
+        "It seems that",
+        "推測",
+        "虛主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " that this novel has been translated into over fifty languages."
+      ],
+      "blanks": [
+        "It is reported"
+      ],
+      "sentence": "It is reported that this novel has been translated into over fifty languages.",
+      "translation": "據報導，這部小說已被翻譯成五十多種語言。",
+      "keywords": [
+        "It is reported that",
+        "據報導",
+        "被動句型"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "said",
+      "zh": "據說、被說"
+    },
+    {
+      "adj": "known",
+      "zh": "已知、眾所周知"
+    },
+    {
+      "adj": "believed",
+      "zh": "被認為、人們相信"
+    },
+    {
+      "adj": "reported",
+      "zh": "據報導、被報告"
+    },
+    {
+      "adj": "estimated",
+      "zh": "被估計、估計"
+    },
+    {
+      "adj": "suggested",
+      "zh": "被建議、有跡象表明"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的、明顯的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "顯然的、明顯的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的、必需的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的、可行的"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的、正確的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的、關鍵的"
+    }
+  ],
+  "vocab_table_label": "常用被動動詞"
+}

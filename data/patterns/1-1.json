@@ -1,0 +1,201 @@
+{
+  "code": "1-1",
+  "chapter": 1,
+  "title": "There is/are + N + (地點/時間)",
+  "formulas": [
+    {
+      "formula": "There is + 單數名詞/不可數名詞 + 地點副詞",
+      "zh": "某地有某物（單數或不可數）"
+    },
+    {
+      "formula": "There are + 複數名詞 + 地點副詞",
+      "zh": "某地有某些東西（複數）"
+    }
+  ],
+  "explanation": "「There is/are」為英文中表達「某處存在某物」的基本句型，用來引介新資訊或描述場景。be 動詞的選擇取決於最靠近它的名詞：單數名詞或不可數名詞用 is，複數名詞用 are。地點副詞通常置於句尾，可為介系詞片語（如 on the table）或副詞（如 here、there）。此句型常見於描述環境、說明位置，也可改為否定句（There is/are not...）或疑問句（Is/Are there...?）。注意不可將主詞放在 there 前面。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "There is a beautiful park near our school where students often exercise.",
+      "chi": "我們學校附近有一座美麗的公園，學生們常在那裡運動。",
+      "keywords": [
+        "There is",
+        "near"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "There are several convenience stores on this street for residents to shop at.",
+      "chi": "這條街上有好幾家便利商店供居民購物。",
+      "keywords": [
+        "There are",
+        "on this street"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "There is some water in the bottle, but it is not enough for everyone.",
+      "chi": "瓶子裡有一些水，但不夠每個人喝。",
+      "keywords": [
+        "There is",
+        "in the bottle"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "There are a library and two cafes in the newly built community center.",
+      "chi": "新建的社區活動中心裡有一間圖書館和兩間咖啡廳。",
+      "keywords": [
+        "There are",
+        "in the center"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 is 或 are 時，看 there 後面最靠近 be 動詞的名詞。若為「a + 單數名詞」或不可數名詞，用 is；若為複數名詞或多個名詞中第一個是複數，則用 are。並列名詞時，依「就近原則」決定 be 動詞形式。",
+    "examples": [
+      {
+        "test": "There _____ a cat and two dogs in the yard.",
+        "result": "→ is（最靠近 be 動詞的名詞為 a cat，單數，故用 is）"
+      },
+      {
+        "test": "There _____ two dogs and a cat in the yard.",
+        "result": "→ are（最靠近 be 動詞的名詞為 two dogs，複數，故用 are）"
+      },
+      {
+        "test": "There _____ much noise outside the window.",
+        "result": "→ is（noise 為不可數名詞，故用 is）"
+      }
+    ],
+    "note": "就近原則記口訣：「There 後看最近，單數 is、複數 are，不可數用 is 不會錯。」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " a large shopping mall near the train station."
+      ],
+      "blanks": [
+        "There is"
+      ],
+      "sentence": "There is a large shopping mall near the train station.",
+      "translation": "火車站附近有一座大型購物中心。",
+      "keywords": [
+        "There is",
+        "near"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "There ",
+        null,
+        " many students in the library during exam week."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "There are many students in the library during exam week.",
+      "translation": "考試週期間圖書館裡有很多學生。",
+      "keywords": [
+        "are",
+        "in the library"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "There ",
+        null,
+        " a teacher and thirty students ",
+        null,
+        " the classroom."
+      ],
+      "blanks": [
+        "is",
+        "in"
+      ],
+      "sentence": "There is a teacher and thirty students in the classroom.",
+      "translation": "教室裡有一位老師和三十位學生。",
+      "keywords": [
+        "is",
+        "in"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " any bookstores ",
+        null,
+        " this neighborhood?"
+      ],
+      "blanks": [
+        "Are there",
+        "in"
+      ],
+      "sentence": "Are there any bookstores in this neighborhood?",
+      "translation": "這個社區裡有書店嗎？",
+      "keywords": [
+        "Are there",
+        "in"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "in front of",
+      "zh": "在……前面"
+    },
+    {
+      "adj": "behind",
+      "zh": "在……後面"
+    },
+    {
+      "adj": "next to",
+      "zh": "在……旁邊"
+    },
+    {
+      "adj": "between",
+      "zh": "在……之間"
+    },
+    {
+      "adj": "on the corner of",
+      "zh": "在……轉角處"
+    },
+    {
+      "adj": "across from",
+      "zh": "在……對面"
+    },
+    {
+      "adj": "inside",
+      "zh": "在……裡面"
+    },
+    {
+      "adj": "outside",
+      "zh": "在……外面"
+    },
+    {
+      "adj": "under",
+      "zh": "在……下方"
+    },
+    {
+      "adj": "above",
+      "zh": "在……上方"
+    },
+    {
+      "adj": "around",
+      "zh": "在……周圍"
+    },
+    {
+      "adj": "along",
+      "zh": "沿著……"
+    }
+  ],
+  "vocab_table_label": "常用位置介系詞"
+}

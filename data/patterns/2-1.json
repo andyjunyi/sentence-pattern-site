@@ -1,0 +1,214 @@
+{
+  "code": "2-1",
+  "chapter": 2,
+  "title": "真實條件句 if / unless（第一條件句）",
+  "formulas": [
+    {
+      "formula": "If + S + V（現在式）, S + will/can/may + V",
+      "zh": "如果…發生（條件），主詞就會…（結果）。表達可能性與推論"
+    },
+    {
+      "formula": "Unless + S + V（現在式）, S + will/can/may + V",
+      "zh": "除非…，否則主詞將會…。等於「If...not」的反向表達"
+    }
+  ],
+  "explanation": "此句型用於陳述假設性條件與其可能結果。if 子句必須使用現在式表未來，主句則用 will/can/may 等助動詞表達結果的確定度或可能性。unless 為 if...not 的簡潔形式，表示例外情況。兩句可互換順序：條件句在前時無需逗號；在後時需逗號。學測常考 if/unless 的互換、現在式時態的正確使用、以及助動詞選擇反映的語氣差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "If you study hard, you will pass the exam easily.",
+      "chi": "如果你認真讀書，你將輕易通過考試。",
+      "keywords": [
+        "if",
+        "現在式",
+        "will"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Unless you arrive on time, we cannot start the meeting.",
+      "chi": "除非你準時到達，否則我們無法開始會議。",
+      "keywords": [
+        "unless",
+        "can't",
+        "條件例外"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "If it rains tomorrow, the sports day may be postponed.",
+      "chi": "如果明天下雨，運動會可能會被延期。",
+      "keywords": [
+        "if",
+        "may",
+        "可能性"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "You can achieve your dreams if you never give up.",
+      "chi": "如果你永不放棄，你就能實現你的夢想。",
+      "keywords": [
+        "can",
+        "倒裝順序",
+        "條件"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "易混淆點：(1)if 子句必須用現在式，不能用 will；(2)unless = if not，語意相反，理解時需注意邏輯；(3)主句助動詞選擇反映把握程度：will（必然）> can（能力）> may（可能）；(4)條件句在後需加逗號隔開。",
+    "examples": [
+      {
+        "test": "❌ If you will study hard, you will pass.",
+        "result": "→ ✓ If you study hard, you will pass.（if 子句用現在式）"
+      },
+      {
+        "test": "❌ Unless you study hard, you will pass.",
+        "result": "→ ✓ Unless you study hard, you will fail.（unless 表反面結果）"
+      },
+      {
+        "test": "✓ If it is sunny, we can go to the beach. = We can go to the beach if it is sunny.",
+        "result": "→ 條件句位置可換；在後時需逗號"
+      }
+    ],
+    "note": "if 用現在式代未來，unless 等於 if not，記住這三點就掌握核心概念。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "If you ",
+        null,
+        " regularly, you will become stronger.",
+        null
+      ],
+      "blanks": [
+        "exercise",
+        ""
+      ],
+      "sentence": "If you exercise regularly, you will become stronger.",
+      "translation": "如果你規律運動，你會變得更強壯。",
+      "keywords": [
+        "if",
+        "現在式",
+        "will"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Unless he ",
+        null,
+        " his attitude, he ",
+        null,
+        " succeed."
+      ],
+      "blanks": [
+        "changes",
+        "cannot"
+      ],
+      "sentence": "Unless he changes his attitude, he cannot succeed.",
+      "translation": "除非他改變態度，否則他無法成功。",
+      "keywords": [
+        "unless",
+        "cannot",
+        "條件例外"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "If it ",
+        null,
+        " tomorrow, the outdoor event ",
+        null,
+        " cancelled."
+      ],
+      "blanks": [
+        "snows",
+        "will be"
+      ],
+      "sentence": "If it snows tomorrow, the outdoor event will be cancelled.",
+      "translation": "如果明天下雪，戶外活動將被取消。",
+      "keywords": [
+        "if",
+        "現在式",
+        "will be"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "You may ",
+        null,
+        " the scholarship if you ",
+        null,
+        " high grades."
+      ],
+      "blanks": [
+        "get",
+        "maintain"
+      ],
+      "sentence": "You may get the scholarship if you maintain high grades.",
+      "translation": "如果你保持高成績，你可能會獲得獎學金。",
+      "keywords": [
+        "may",
+        "if",
+        "條件"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study hard",
+      "zh": "認真讀書"
+    },
+    {
+      "adj": "arrive on time",
+      "zh": "準時到達"
+    },
+    {
+      "adj": "rain",
+      "zh": "下雨"
+    },
+    {
+      "adj": "give up",
+      "zh": "放棄"
+    },
+    {
+      "adj": "pass the exam",
+      "zh": "通過考試"
+    },
+    {
+      "adj": "start the meeting",
+      "zh": "開始會議"
+    },
+    {
+      "adj": "be postponed",
+      "zh": "被延期"
+    },
+    {
+      "adj": "achieve dreams",
+      "zh": "實現夢想"
+    },
+    {
+      "adj": "work hard",
+      "zh": "努力工作"
+    },
+    {
+      "adj": "make a mistake",
+      "zh": "犯錯"
+    },
+    {
+      "adj": "finish homework",
+      "zh": "完成功課"
+    },
+    {
+      "adj": "eat healthy food",
+      "zh": "吃健康食物"
+    }
+  ],
+  "vocab_table_label": "常用動詞片語"
+}

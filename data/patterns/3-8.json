@@ -1,0 +1,201 @@
+{
+  "code": "3-8",
+  "chapter": 3,
+  "title": "such + (a/an +) adj. + N + that + 子句",
+  "formulas": [
+    {
+      "formula": "such + (a/an) + adj. + N + that + S + V",
+      "zh": "表「如此……的……以致於……」，such 後接名詞片語，强調名詞的特徵導致某個結果"
+    },
+    {
+      "formula": "such + adj. + (複數/不可數) N + that + S + V",
+      "zh": "複數或不可數名詞前直接接 such，無需冠詞"
+    }
+  ],
+  "explanation": "此句型用 such 搭配形容詞修飾名詞，強調名詞的性質或特徵，後接 that 引導的結果子句。可數單數名詞前需加 a/an，複數名詞或不可數名詞直接接；此句型與 so...that 可互換，但 so 後接形容詞，such 後接名詞片語，是關鍵區別。常用於表達強烈結果或後果，在學測中頻繁出現。注意：such 前後的邏輯關係應清晰一致。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It was such a difficult problem that no one could solve it.",
+      "chi": "這是一個如此困難的問題，以至於沒有人能解決它。",
+      "keywords": [
+        "such a adj. N",
+        "difficult problem",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She gave such useful advice that everyone benefited greatly.",
+      "chi": "她提供了如此有用的建議，以致於每個人都大受裨益。",
+      "keywords": [
+        "such useful advice",
+        "不可數名詞",
+        "that 結果"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "They were such talented musicians that they won the international competition.",
+      "chi": "他們是如此有才華的音樂家，以至於贏得了國際比賽。",
+      "keywords": [
+        "such talented musicians",
+        "複數名詞",
+        "強調能力"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The weather was such terrible conditions that the flight was cancelled.",
+      "chi": "天氣狀況如此惡劣，以至於班機被取消了。",
+      "keywords": [
+        "such terrible conditions",
+        "不可數概念",
+        "結果"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "useful",
+      "zh": "有用的"
+    },
+    {
+      "adj": "talented",
+      "zh": "有才華的"
+    },
+    {
+      "adj": "terrible",
+      "zh": "可怕的、糟糕的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "dangerous",
+      "zh": "危險的"
+    },
+    {
+      "adj": "impressive",
+      "zh": "令人印象深刻的"
+    },
+    {
+      "adj": "severe",
+      "zh": "嚴重的"
+    },
+    {
+      "adj": "remarkable",
+      "zh": "非凡的"
+    },
+    {
+      "adj": "overwhelming",
+      "zh": "壓倒性的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷何時用 such vs so：such 後直接接名詞片語（包括形容詞修飾），so 後接形容詞或副詞；記住「such a/an adj. N」的模式，單數可數名詞必須加冠詞；複數或不可數名詞前的 such 後無冠詞，直接接名詞。",
+    "examples": [
+      {
+        "test": "Such a bright student could not make such a mistake.",
+        "result": "→ 正確。「bright student」是可數單數，前加 a；「mistake」是可數單數，前加 a"
+      },
+      {
+        "test": "She had such knowledge that everyone admired her.",
+        "result": "→ 正確。knowledge 是不可數名詞，such 後直接接，無冠詞"
+      },
+      {
+        "test": "Such energetic children needed such space to play.",
+        "result": "→ 正確。children（複數）前直接接 such；space（不可數概念）前直接接 such"
+      }
+    ],
+    "note": "「such + (a/an) + adj. + N」→ 可數單數加冠詞；「such + adj. + (複數/不可數 N)」→ 無冠詞"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The student wrote ",
+        null,
+        " composition that the teacher praised it highly."
+      ],
+      "blanks": [
+        "such a well-organized"
+      ],
+      "sentence": "The student wrote such a well-organized composition that the teacher praised it highly.",
+      "translation": "這位學生寫了如此組織完善的作文，以至於老師大力讚揚了它。",
+      "keywords": [
+        "such a adj. N",
+        "單數可數",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "They faced ",
+        null,
+        " that all the plans had to be changed."
+      ],
+      "blanks": [
+        "such unforeseen circumstances"
+      ],
+      "sentence": "They faced such unforeseen circumstances that all the plans had to be changed.",
+      "translation": "他們面臨了如此難以預料的情況，以至於所有計畫都必須改變。",
+      "keywords": [
+        "such adj. 複數名詞",
+        "無冠詞",
+        "unexpected situations"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The performance was ",
+        null,
+        " that the audience gave a standing ovation."
+      ],
+      "blanks": [
+        "such an outstanding display"
+      ],
+      "sentence": "The performance was such an outstanding display that the audience gave a standing ovation.",
+      "translation": "表演是如此出色的展示，以至於觀眾起立鼓掌。",
+      "keywords": [
+        "such an adj. N",
+        "可數單數",
+        "an 用法"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The company received ",
+        null,
+        " from customers that production could not keep up."
+      ],
+      "blanks": [
+        "such overwhelming demand"
+      ],
+      "sentence": "The company received such overwhelming demand from customers that production could not keep up.",
+      "translation": "公司收到了如此壓倒性的客戶需求，以至於生產跟不上。",
+      "keywords": [
+        "such adj. 不可數名詞",
+        "demand",
+        "結果"
+      ]
+    }
+  ]
+}

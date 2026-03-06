@@ -1,0 +1,203 @@
+{
+  "code": "4-11",
+  "chapter": 4,
+  "title": "S + V + N, who/which + V（非限定關係子句）",
+  "formulas": [
+    {
+      "formula": "N, who + V...",
+      "zh": "名詞，引導非限定關係子句的關係代名詞 who，補充說明先行詞（人）"
+    },
+    {
+      "formula": "N, which + V...",
+      "zh": "名詞，引導非限定關係子句的關係代名詞 which，補充說明先行詞（事物/地點）"
+    }
+  ],
+  "explanation": "非限定關係子句使用關係代名詞 who/which 引導，前面加逗號與主句分離。此子句提供補充資訊而非限定先行詞身份，去掉不影響主句完整意義。不可用 that，因 that 只用於限定用法。動詞需與先行詞數、人稱一致。注意逗號位置—逗號在關係詞之前，標示非限定性。常見於說明人物背景、補充事物特性等場景。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "My uncle, who works as a doctor, has just retired from his hospital.",
+      "chi": "我的叔叔，他是一位醫生，剛從他的醫院退休。",
+      "keywords": [
+        "非限定用法",
+        "who",
+        "補充說明"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The Amazon rainforest, which covers millions of square kilometers, produces much of Earth's oxygen.",
+      "chi": "亞馬遜雨林，覆蓋數百萬平方公里，產生地球大部分的氧氣。",
+      "keywords": [
+        "非限定用法",
+        "which",
+        "補充說明"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Shakespeare, who lived in the 16th century, wrote many famous plays and sonnets.",
+      "chi": "莎士比亞，住在十六世紀，寫了許多著名的戲劇和十四行詩。",
+      "keywords": [
+        "非限定用法",
+        "who",
+        "歷史人物"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The smartphone, which has become essential in modern life, has changed how we communicate.",
+      "chi": "智慧型手機，在現代生活中變得至關重要，改變了我們溝通的方式。",
+      "keywords": [
+        "非限定用法",
+        "which",
+        "現代科技"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷方法：先看有無逗號。有逗號表非限定用法，用 who/which；無逗號表限定用法，可用 who/which/that。另判斷先行詞是人或物：人用 who，物/地點用 which。非限定子句去掉後主句仍通順完整。",
+    "examples": [
+      {
+        "test": "My teacher, who speaks three languages, comes from France.",
+        "result": "→ 正確。who 引導非限定子句，補充說明 teacher 的背景，去掉後『My teacher comes from France』仍完整。"
+      },
+      {
+        "test": "The student who scored highest passed the exam.",
+        "result": "→ 限定用法，無逗號。who 用來指定是哪一位學生，不可刪除。"
+      },
+      {
+        "test": "The book, that I bought yesterday, is very interesting. ✗",
+        "result": "→ 錯誤。非限定用法不可用 that，應改為 which。正確：The book, which I bought yesterday, is very interesting."
+      }
+    ],
+    "note": "非限定→逗號→who/which；限定→無逗號→who/which/that"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Marie Curie, ",
+        null,
+        " discovered radium, made significant contributions to science."
+      ],
+      "blanks": [
+        "who"
+      ],
+      "sentence": "Marie Curie, who discovered radium, made significant contributions to science.",
+      "translation": "瑪麗居禮，她發現了鐳，對科學做出了重大貢獻。",
+      "keywords": [
+        "非限定用法",
+        "who",
+        "歷史人物"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The Internet, ",
+        null,
+        " has revolutionized how we access information, is one of the greatest inventions."
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "The Internet, which has revolutionized how we access information, is one of the greatest inventions.",
+      "translation": "網際網路，它徹底改變了我們獲取資訊的方式，是最偉大的發明之一。",
+      "keywords": [
+        "非限定用法",
+        "which",
+        "現代科技"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "My best friend, ",
+        null,
+        " has lived abroad for five years, recently visited my hometown."
+      ],
+      "blanks": [
+        "who"
+      ],
+      "sentence": "My best friend, who has lived abroad for five years, recently visited my hometown.",
+      "translation": "我最好的朋友，他已在國外住了五年，最近回訪了我的家鄉。",
+      "keywords": [
+        "非限定用法",
+        "who",
+        "補充背景"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The Alps, ",
+        null,
+        " form a natural border between several European countries, attract millions of tourists annually."
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "The Alps, which form a natural border between several European countries, attract millions of tourists annually.",
+      "translation": "阿爾卑斯山，它形成了幾個歐洲國家間的天然邊界，每年吸引數百萬遊客。",
+      "keywords": [
+        "非限定用法",
+        "which",
+        "地理地點"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "who",
+      "zh": "引導關係子句的關係代名詞（指人）"
+    },
+    {
+      "adj": "which",
+      "zh": "引導關係子句的關係代名詞（指事物、地點）"
+    },
+    {
+      "adj": "逗號（,）",
+      "zh": "分隔主句與非限定關係子句的標點符號"
+    },
+    {
+      "adj": "補充資訊",
+      "zh": "非限定子句提供額外背景或說明"
+    },
+    {
+      "adj": "先行詞",
+      "zh": "被關係詞所修飾的名詞或名詞片語"
+    },
+    {
+      "adj": "非限定性",
+      "zh": "去掉子句不影響主句完整性"
+    },
+    {
+      "adj": "人稱一致",
+      "zh": "關係詞的動詞需與先行詞人稱一致"
+    },
+    {
+      "adj": "數量一致",
+      "zh": "關係詞的動詞需與先行詞單複數一致"
+    },
+    {
+      "adj": "修飾功能",
+      "zh": "為先行詞提供補充、背景或額外資訊"
+    },
+    {
+      "adj": "主語位置",
+      "zh": "who/which 常作子句主語"
+    },
+    {
+      "adj": "非 that",
+      "zh": "非限定用法不可用 that 關係代名詞"
+    },
+    {
+      "adj": "插入語功能",
+      "zh": "整個關係子句可視為插入主句的補充說明"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}

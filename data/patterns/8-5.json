@@ -1,0 +1,200 @@
+{
+  "code": "8-5",
+  "chapter": 8,
+  "title": "while / whereas + S + V（對比子句）",
+  "formulas": [
+    {
+      "formula": "While/Whereas + S + V, S + V",
+      "zh": "表達對比或對照關係，強調兩件事的差異或相反狀況"
+    },
+    {
+      "formula": "S + V, while/whereas + S + V",
+      "zh": "主句在前，對比子句在後，同樣表達對比意義"
+    }
+  ],
+  "explanation": "While 和 Whereas 用於對比句型時，強調兩件事之間的差異或相反特性。While 在此用法中表「相比之下」或「反之」，不表時間；Whereas 則明確表示「而」或「反觀」，正式程度較高。結構為：對比連接詞 + 主詞 + 動詞，其後跟著另一個完整子句。使用時機為比較兩個事物、現象或立場。易混淆處：while 表時間同時進行與表對比的區別需靠上下文判斷；Whereas 較正式，多用於論述或正式文章。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "While some students enjoy reading novels, others prefer watching movies.",
+      "chi": "有些學生喜歡閱讀小說，而其他學生則偏好看電影。",
+      "keywords": [
+        "While對比",
+        "相反偏好",
+        "兩群體比較"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whereas traditional education focuses on textbooks, modern learning emphasizes practical skills.",
+      "chi": "傳統教育強調教科書，而現代學習則重視實踐技能。",
+      "keywords": [
+        "Whereas對比",
+        "教育方式差異",
+        "正式表述"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "While Tokyo is crowded and bustling, Kyoto remains calm and peaceful.",
+      "chi": "東京雖然擁擠熱鬧，但京都卻保持寧靜祥和。",
+      "keywords": [
+        "城市對比",
+        "氛圍差異",
+        "形容詞對照"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Whereas the old building was demolished, the new one was built with modern design.",
+      "chi": "舊建築遭到拆除，而新建築則採用現代設計興建。",
+      "keywords": [
+        "新舊對比",
+        "建築改變",
+        "過去與現在"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "similar",
+      "zh": "相似的"
+    },
+    {
+      "adj": "different",
+      "zh": "不同的"
+    },
+    {
+      "adj": "opposite",
+      "zh": "相反的"
+    },
+    {
+      "adj": "busy",
+      "zh": "忙碌的"
+    },
+    {
+      "adj": "calm",
+      "zh": "平靜的"
+    },
+    {
+      "adj": "modern",
+      "zh": "現代的"
+    },
+    {
+      "adj": "traditional",
+      "zh": "傳統的"
+    },
+    {
+      "adj": "crowded",
+      "zh": "擁擠的"
+    },
+    {
+      "adj": "peaceful",
+      "zh": "祥和的"
+    },
+    {
+      "adj": "prefer",
+      "zh": "偏好"
+    },
+    {
+      "adj": "focus on",
+      "zh": "專注於"
+    },
+    {
+      "adj": "emphasize",
+      "zh": "強調"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 while 是對比還是時間用法：查看動詞時態。若兩個動作同時發生，while 表時間；若強調差異或相反意義，while 表對比。Whereas 幾乎總表對比，不表時間。留意標點：對比連接詞放句首需用逗號分隔兩子句。",
+    "examples": [
+      {
+        "test": "While he studied hard, he failed the exam.",
+        "result": "→ 表時間同時進行（他在認真讀書的時候考試不及格）"
+      },
+      {
+        "test": "While he is intelligent, he is not hardworking.",
+        "result": "→ 表對比（他聰明，但不勤奮）- 注意邏輯關係"
+      },
+      {
+        "test": "Whereas Tom likes spicy food, Mary prefers mild flavors.",
+        "result": "→ 明確表對比（Tom喜歡辛辣，Mary則偏好溫和口味）"
+      }
+    ],
+    "note": "While對比靠邏輯判斷，Whereas必為對比；兩個主詞一般不同，動詞形式可異。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        null,
+        "some workers are satisfied with their salary, others demand higher wages.",
+        ""
+      ],
+      "blanks": [
+        "While"
+      ],
+      "sentence": "While some workers are satisfied with their salary, others demand higher wages.",
+      "translation": "有些工人對薪資滿意，而其他人則要求更高的薪水。",
+      "keywords": [
+        "While對比",
+        "工作滿意度",
+        "薪資差異"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The old factory produced goods slowly,",
+        null,
+        "the new factory operates with advanced technology."
+      ],
+      "blanks": [
+        "whereas"
+      ],
+      "sentence": "The old factory produced goods slowly, whereas the new factory operates with advanced technology.",
+      "translation": "舊工廠生產速度緩慢，而新工廠則採用先進技術運營。",
+      "keywords": [
+        "Whereas對比",
+        "工廠效率",
+        "技術進步"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        "young people embrace digital communication, elderly people still value face-to-face conversation."
+      ],
+      "blanks": [
+        "While"
+      ],
+      "sentence": "While young people embrace digital communication, elderly people still value face-to-face conversation.",
+      "translation": "年輕人擁抱數位溝通，而老年人仍然重視面對面交談。",
+      "keywords": [
+        "年代對比",
+        "溝通方式",
+        "代際差異"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The northern region experiences harsh winters,",
+        null,
+        "the southern region enjoys mild and pleasant weather."
+      ],
+      "blanks": [
+        "whereas"
+      ],
+      "sentence": "The northern region experiences harsh winters, whereas the southern region enjoys mild and pleasant weather.",
+      "translation": "北方地區經歷嚴寒的冬天，而南方地區則享受溫和宜人的天氣。",
+      "keywords": [
+        "地理對比",
+        "氣候差異",
+        "區域比較"
+      ]
+    }
+  ]
+}

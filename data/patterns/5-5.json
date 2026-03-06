@@ -1,0 +1,205 @@
+{
+  "code": "5-5",
+  "chapter": 5,
+  "title": "S + find/consider/think + O + adj./N（受詞補語）",
+  "formulas": [
+    {
+      "formula": "S + find/consider/think/believe + O + adj./N",
+      "zh": "主詞用find/consider/think/believe等動詞，後接受詞及形容詞或名詞補語，說明受詞的狀態或身分"
+    },
+    {
+      "formula": "S + find/consider/think/believe + O + to be + adj./N",
+      "zh": "在受詞補語前加to be，使句子更正式或強調"
+    },
+    {
+      "formula": "S + find/consider/think/believe + it + adj. + to V",
+      "zh": "使用虛受詞it，形容詞修飾動作本身，表示做某事是...的"
+    }
+  ],
+  "explanation": "此句型屬於受詞補語結構，find/consider/think/believe等動詞後接受詞與補語。補語可為形容詞（描述受詞特性）或名詞（說明受詞身分），也可在補語前加to be使句式更正式。另一重點用法是虛受詞it結構，形容詞修飾的是動作本身而非受詞。此句型常見於學測，需注意補語詞性選擇與to be的使用時機，避免混淆受詞補語與狀語。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I find this book very interesting and worthwhile to read.",
+      "chi": "我發現這本書非常有趣且值得閱讀。",
+      "keywords": [
+        "find",
+        "受詞補語",
+        "形容詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Many people consider him a talented musician with great potential.",
+      "chi": "許多人認為他是一位極具潛力的天才音樂家。",
+      "keywords": [
+        "consider",
+        "名詞補語",
+        "身分"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We found it difficult to concentrate during the noisy renovation.",
+      "chi": "我們發現在吵鬧的裝修期間很難專注。",
+      "keywords": [
+        "find it adj. to V",
+        "虛受詞",
+        "動作修飾"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The teacher believed the student's explanation to be honest and reasonable.",
+      "chi": "老師認為這個學生的解釋是誠實且合理的。",
+      "keywords": [
+        "believe",
+        "to be補語",
+        "正式用法"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "suitable",
+      "zh": "合適的"
+    },
+    {
+      "adj": "a talented musician",
+      "zh": "才華洋溢的音樂家"
+    },
+    {
+      "adj": "a responsible leader",
+      "zh": "負責任的領導者"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的"
+    },
+    {
+      "adj": "credible",
+      "zh": "可信的"
+    },
+    {
+      "adj": "ridiculous",
+      "zh": "荒謬的"
+    },
+    {
+      "adj": "essential",
+      "zh": "必不可少的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷補語詞性：若補語為形容詞，直接修飾受詞狀態；若為名詞，說明受詞身分。虛受詞it結構中，形容詞修飾的是動詞行為本身。注意不能混淆主詞補語與受詞補語的位置。常見錯誤是漏掉補語或誤用介詞。",
+    "examples": [
+      {
+        "test": "I find the task easy. vs. I find the task is easy.",
+        "result": "→ 第一句正確，受詞easy直接補充說明task；第二句冗贅，不符合受詞補語用法"
+      },
+      {
+        "test": "We find it necessary to study hard. vs. We find to study hard necessary.",
+        "result": "→ 第一句正確，使用虛受詞it；第二句詞序錯誤，違反英文語序規則"
+      },
+      {
+        "test": "They consider him a doctor. vs. They consider him being a doctor.",
+        "result": "→ 第一句正確，名詞直接補充；第二句使用being不當，應用to be或直接用名詞"
+      }
+    ],
+    "note": "受詞補語=受詞+形容詞/名詞，直接相連無to be；若要正式用to be或用虛受詞it。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I find learning English ",
+        null,
+        " but very rewarding in the long run."
+      ],
+      "blanks": [
+        "challenging"
+      ],
+      "sentence": "I find learning English challenging but very rewarding in the long run.",
+      "translation": "我發現學英文具有挑戰性，但從長遠來看非常有收穫。",
+      "keywords": [
+        "find",
+        "形容詞補語",
+        "受詞補語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The manager considers Sarah ",
+        null,
+        " for the promotion."
+      ],
+      "blanks": [
+        "the most qualified candidate"
+      ],
+      "sentence": "The manager considers Sarah the most qualified candidate for the promotion.",
+      "translation": "經理認為莎拉是升職最合格的候選人。",
+      "keywords": [
+        "consider",
+        "名詞補語",
+        "身分"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We found ",
+        null,
+        " difficult to finish the project before the deadline."
+      ],
+      "blanks": [
+        "it"
+      ],
+      "sentence": "We found it difficult to finish the project before the deadline.",
+      "translation": "我們發現在截止日期前完成這個項目很困難。",
+      "keywords": [
+        "find it adj. to V",
+        "虛受詞",
+        "動作修飾"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Scientists believe the discovery ",
+        null,
+        " a major breakthrough in medical research."
+      ],
+      "blanks": [
+        "to be"
+      ],
+      "sentence": "Scientists believe the discovery to be a major breakthrough in medical research.",
+      "translation": "科學家們認為這項發現是醫學研究的重大突破。",
+      "keywords": [
+        "believe",
+        "to be補語",
+        "正式風格"
+      ]
+    }
+  ]
+}

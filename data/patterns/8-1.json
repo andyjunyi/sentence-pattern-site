@@ -1,0 +1,203 @@
+{
+  "code": "8-1",
+  "chapter": 8,
+  "title": "原因副詞子句 because / since / as",
+  "formulas": [
+    {
+      "formula": "Because/Since/As + S + V, S + V.",
+      "zh": "因為…，所以…（從屬子句在前）"
+    },
+    {
+      "formula": "S + V because/since/as + S + V.",
+      "zh": "…因為/既然…（主句在前）"
+    }
+  ],
+  "explanation": "because 語氣最直接，提供充分理由，可單獨回答 Why 問句；since/as 語氣較弱，表示已知或附帶原因。三者皆為從屬連接詞，引導原因子句。關鍵注意：不可同時使用 because...so...，這屬於雙連接詞錯誤。from屬介詞，不可直接接 S + V 結構。從屬子句可位於主句前或後，位於前需加逗號分隔。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Because she studied hard, she passed the difficult exam easily.",
+      "chi": "因為她用功念書，她輕鬆地通過了這場困難的考試。",
+      "keywords": [
+        "because",
+        "原因子句在前",
+        "逗號分隔"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Since you don't understand the problem, let me explain it again.",
+      "chi": "既然你不理解這個問題，讓我再解釋一次。",
+      "keywords": [
+        "since",
+        "已知事實",
+        "主句表示行動"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The event was cancelled because the weather was too bad.",
+      "chi": "因為天氣太差，活動被取消了。",
+      "keywords": [
+        "because",
+        "主句在前",
+        "直接原因"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "As everyone was tired, the teacher decided to end the class early.",
+      "chi": "由於大家都很疲倦，老師決定提早結束課程。",
+      "keywords": [
+        "as",
+        "附帶原因",
+        "正式語氣"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷原因強弱：why 問句直接用 because 回答；已知事實或順序說明用 since/as。避免誤用「because...so...」，記住 because 已含因果關係，不需重複 so。可按原因重要性選詞：because（最重）> since ≥ as（較輕）。",
+    "examples": [
+      {
+        "test": "❌ Because he was late, so he missed the bus.",
+        "result": "→ ❌ 雙連接詞錯誤。正確：Because he was late, he missed the bus. 或 He missed the bus because he was late."
+      },
+      {
+        "test": "❌ She didn't go from she was ill.",
+        "result": "→ ❌ from 是介詞不能接子句。正確：She didn't go because/since she was ill."
+      },
+      {
+        "test": "✓ Why did you leave? —Because I had another appointment.",
+        "result": "→ ✓ because 單獨回答 why 問句，最自然。"
+      }
+    ],
+    "note": "記口訣：『because 強、since/as 弱；因為不能雙連接；子句前加逗號分。』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the project is important, we must finish it on time."
+      ],
+      "blanks": [
+        "Because"
+      ],
+      "sentence": "Because the project is important, we must finish it on time.",
+      "translation": "因為這個專案很重要，我們必須按時完成它。",
+      "keywords": [
+        "because",
+        "原因子句",
+        "重要原因"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The meeting was postponed ",
+        null,
+        " most members were absent."
+      ],
+      "blanks": [
+        "since"
+      ],
+      "sentence": "The meeting was postponed since most members were absent.",
+      "translation": "既然大多數成員缺席，會議就被延期了。",
+      "keywords": [
+        "since",
+        "已知原因",
+        "主句在後"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " you are interested in art, you should visit the museum."
+      ],
+      "blanks": [
+        "As"
+      ],
+      "sentence": "As you are interested in art, you should visit the museum.",
+      "translation": "由於你對藝術感興趣，你應該去參觀博物館。",
+      "keywords": [
+        "as",
+        "附帶原因",
+        "建議行動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She couldn't attend the concert ",
+        null,
+        " she had to work late."
+      ],
+      "blanks": [
+        "because"
+      ],
+      "sentence": "She couldn't attend the concert because she had to work late.",
+      "translation": "她無法參加音樂會，因為她必須工作到很晚。",
+      "keywords": [
+        "because",
+        "直接原因",
+        "主句在前"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study hard",
+      "zh": "認真唸書"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "pass the exam",
+      "zh": "通過考試"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "weather was bad",
+      "zh": "天氣惡劣"
+    },
+    {
+      "adj": "cancel",
+      "zh": "取消"
+    },
+    {
+      "adj": "tired",
+      "zh": "疲倦的"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "easy/easily",
+      "zh": "容易地"
+    },
+    {
+      "adj": "end early",
+      "zh": "提早結束"
+    },
+    {
+      "adj": "important reason",
+      "zh": "重要原因"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}

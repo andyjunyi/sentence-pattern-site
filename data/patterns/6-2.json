@@ -1,0 +1,207 @@
+{
+  "code": "6-2",
+  "chapter": 6,
+  "title": "S + V + V-ing（動名詞作受詞）",
+  "formulas": [
+    {
+      "formula": "S + enjoy/finish/avoid/mind/consider + V-ing",
+      "zh": "主詞 + 享受/完成/避免/介意/考慮 + 動名詞"
+    },
+    {
+      "formula": "S + suggest/keep/practice/quit/deny + V-ing",
+      "zh": "主詞 + 建議/保持/練習/放棄/否認 + 動名詞"
+    }
+  ],
+  "explanation": "此句型使用特定動詞後接動名詞（V-ing形式）作為受詞。這些動詞包括享受、完成、迴避、介意、考慮、建議、保持、練習、放棄、否認等。動名詞表示已完成或進行中的動作。注意不能在這些動詞後直接接不定詞（to V）；例如應說「enjoy doing」而非「enjoy to do」。此句型強調對動作本身的態度或過程。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I really enjoy playing basketball with my friends after school.",
+      "chi": "我真的很享受放學後與朋友一起打籃球。",
+      "keywords": [
+        "enjoy",
+        "playing",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She finished writing her essay before the deadline yesterday.",
+      "chi": "她昨天在截止期限前完成了她的論文寫作。",
+      "keywords": [
+        "finish",
+        "writing",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We should avoid eating too much junk food for our health.",
+      "chi": "為了健康，我們應該避免吃太多垃圾食物。",
+      "keywords": [
+        "avoid",
+        "eating",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Have you considered studying abroad for your future career?",
+      "chi": "你考慮過為了未來職業而出國念書嗎？",
+      "keywords": [
+        "considered",
+        "studying",
+        "V-ing"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷重點：這類動詞後必須接動名詞（V-ing），不能接不定詞（to V）。可用「動作性質強調」來判斷—這些動詞強調對動作過程或事實本身的態度，而非未來計畫或目標。常見錯誤是將其與「want/plan/hope + to V」混淆。",
+    "examples": [
+      {
+        "test": "❌ I enjoy to read books.",
+        "result": "→ ✓ I enjoy reading books.（動詞enjoyenjoy只接V-ing，表示享受閱讀這個動作）"
+      },
+      {
+        "test": "❌ She denied to take the money.",
+        "result": "→ ✓ She denied taking the money.（deny表示否認該動作已發生，須用V-ing）"
+      },
+      {
+        "test": "❌ We should avoid to make mistakes.",
+        "result": "→ ✓ We should avoid making mistakes.（avoid表示迴避某動作，須用V-ing）"
+      }
+    ],
+    "note": "記憶口訣：享完避介考建保練放否 → 這些動詞後一律接V-ing，不接to V。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Do you mind ",
+        null,
+        " the window? It's too hot in here."
+      ],
+      "blanks": [
+        "opening"
+      ],
+      "sentence": "Do you mind opening the window? It's too hot in here.",
+      "translation": "你介意打開窗戶嗎？這裡太熱了。",
+      "keywords": [
+        "mind",
+        "opening",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "I have finished ",
+        null,
+        " my homework, so I can go out now."
+      ],
+      "blanks": [
+        "doing"
+      ],
+      "sentence": "I have finished doing my homework, so I can go out now.",
+      "translation": "我已經完成做功課了，所以我現在可以出去了。",
+      "keywords": [
+        "finished",
+        "doing",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We should practice ",
+        null,
+        " English every day to improve our speaking skills."
+      ],
+      "blanks": [
+        "speaking"
+      ],
+      "sentence": "We should practice speaking English every day to improve our speaking skills.",
+      "translation": "我們應該每天練習說英語以改進我們的口說技巧。",
+      "keywords": [
+        "practice",
+        "speaking",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She suggested ",
+        null,
+        " a movie tonight instead of ",
+        null,
+        " at home."
+      ],
+      "blanks": [
+        "watching",
+        "staying"
+      ],
+      "sentence": "She suggested watching a movie tonight instead of staying at home.",
+      "translation": "她建議今晚看電影，而不是待在家裡。",
+      "keywords": [
+        "suggested",
+        "watching",
+        "staying",
+        "V-ing"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "enjoy",
+      "zh": "享受、喜歡"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成、結束"
+    },
+    {
+      "adj": "avoid",
+      "zh": "避免、迴避"
+    },
+    {
+      "adj": "mind",
+      "zh": "介意、反對"
+    },
+    {
+      "adj": "consider",
+      "zh": "考慮、思考"
+    },
+    {
+      "adj": "suggest",
+      "zh": "建議、提議"
+    },
+    {
+      "adj": "keep",
+      "zh": "保持、持續"
+    },
+    {
+      "adj": "practice",
+      "zh": "練習、實踐"
+    },
+    {
+      "adj": "quit",
+      "zh": "放棄、戒除"
+    },
+    {
+      "adj": "deny",
+      "zh": "否認、拒絕"
+    },
+    {
+      "adj": "risk",
+      "zh": "冒...的風險"
+    },
+    {
+      "adj": "appreciate",
+      "zh": "感謝、欣賞"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

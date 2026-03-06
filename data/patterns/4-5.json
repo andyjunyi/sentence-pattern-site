@@ -1,0 +1,203 @@
+{
+  "code": "4-5",
+  "chapter": 4,
+  "title": "關係代名詞 whose（所有格關係子句）",
+  "formulas": [
+    {
+      "formula": "N + whose + N + V...",
+      "zh": "名詞 + whose + 名詞 + 動詞（表所有關係，whose作所有格關係代名詞）"
+    },
+    {
+      "formula": "N + whose + N + V + O...",
+      "zh": "名詞 + whose + 名詞 + 動詞 + 受詞（whose修飾的名詞作主詞或受詞）"
+    }
+  ],
+  "explanation": "Whose 是所有格關係代名詞，用來連接主句名詞與修飾子句，表示所有關係或從屬關係。Whose 後接名詞，該名詞可在子句中作主詞或受詞。Whose 可修飾人或物，等同 his/her/its/their 的功能。使用時須確保 whose 修飾的名詞與先行詞的關係明確，且子句需完整具有主詞、動詞等要素。易混淆點：勿與 who/which 混淆；whose + N 中的名詞不可省略。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The student whose homework was lost felt very worried about the exam.",
+      "chi": "那位功課遺失的學生對考試感到非常擔憂。",
+      "keywords": [
+        "whose",
+        "homework",
+        "所有格關係代名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "I met a teacher whose teaching methods greatly influenced my interest in science.",
+      "chi": "我遇到一位老師，他的教學方法大大影響了我對科學的興趣。",
+      "keywords": [
+        "whose",
+        "teaching methods",
+        "人物修飾"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company whose products we use has been in business for twenty years.",
+      "chi": "我們使用其產品的那家公司已經經營了二十年。",
+      "keywords": [
+        "whose",
+        "products",
+        "物品修飾"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "People whose dreams are big often achieve great success in their careers.",
+      "chi": "夢想遠大的人通常在事業中取得巨大成功。",
+      "keywords": [
+        "whose",
+        "dreams",
+        "複數名詞修飾"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 whose 時，將其替換為所有格代名詞檢驗：「The student whose homework...」= 「The student (his homework)...」。注意 whose 後必須跟名詞（不跟動詞），且該名詞在子句中須有明確角色。若句子中未提及被修飾的名詞，改用 of which 或 of whom。",
+    "examples": [
+      {
+        "test": "錯：The student whose was absent.",
+        "result": "→ 正確：The student whose excuse was absent. 或 The student who was absent.（whose 後必須接名詞）"
+      },
+      {
+        "test": "正：The author whose novels I read is very famous.",
+        "result": "→ whose novels 作 read 的受詞；等同 The author whose novels I read = The author (I read his novels)"
+      },
+      {
+        "test": "對比：People whose dreams are big vs. People of great dreams.",
+        "result": "→ 前者為關係代名詞用法，後者為介詞片語，兩者皆可，前者更正式通順"
+      }
+    ],
+    "note": "Whose + N = 所有格代名詞（his/her/its/their）的角色，whose 後一定要有名詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teacher ",
+        null,
+        " was very encouraging to all students in the class."
+      ],
+      "blanks": [
+        "whose guidance"
+      ],
+      "sentence": "The teacher whose guidance was very encouraging to all students in the class.",
+      "translation": "那位指導非常激勵班級中所有學生的老師。",
+      "keywords": [
+        "whose",
+        "guidance",
+        "主詞角色"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "I have a friend ",
+        null,
+        " lives in Taipei and studies engineering."
+      ],
+      "blanks": [
+        "whose apartment"
+      ],
+      "sentence": "I have a friend whose apartment I visited last summer, who lives in Taipei and studies engineering.",
+      "translation": "我有一位朋友，他的公寓我去年夏天去過，他住在台北並學習工程。",
+      "keywords": [
+        "whose",
+        "apartment",
+        "受詞角色"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The company ",
+        null,
+        " have increased their market share significantly this year."
+      ],
+      "blanks": [
+        "whose products"
+      ],
+      "sentence": "The company whose products we use have increased their market share significantly this year.",
+      "translation": "我們使用其產品的那家公司今年大幅增加了市場佔有率。",
+      "keywords": [
+        "whose",
+        "products",
+        "物品所有格"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Students ",
+        null,
+        " are often admitted to top universities around the world."
+      ],
+      "blanks": [
+        "whose achievements"
+      ],
+      "sentence": "Students whose achievements are remarkable are often admitted to top universities around the world.",
+      "translation": "成就非凡的學生通常被世界頂尖大學錄取。",
+      "keywords": [
+        "whose",
+        "achievements",
+        "複數名詞修飾"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "lost",
+      "zh": "遺失的"
+    },
+    {
+      "adj": "excellent",
+      "zh": "優秀的"
+    },
+    {
+      "adj": "innovative",
+      "zh": "創新的"
+    },
+    {
+      "adj": "broken",
+      "zh": "損壞的"
+    },
+    {
+      "adj": "famous",
+      "zh": "著名的"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "missing",
+      "zh": "失蹤的"
+    },
+    {
+      "adj": "talented",
+      "zh": "有才華的"
+    },
+    {
+      "adj": "reliable",
+      "zh": "可靠的"
+    },
+    {
+      "adj": "ambitious",
+      "zh": "有野心的"
+    },
+    {
+      "adj": "unique",
+      "zh": "獨特的"
+    },
+    {
+      "adj": "significant",
+      "zh": "重要的"
+    }
+  ],
+  "vocab_table_label": "常用形容詞"
+}

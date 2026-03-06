@@ -1,0 +1,203 @@
+{
+  "code": "4-2",
+  "chapter": 4,
+  "title": "S + V + N + which/that + V（限定關係子句）",
+  "formulas": [
+    {
+      "formula": "N + which/that + V...",
+      "zh": "名詞後接關係代名詞(which/that)及其動詞，形成限定用法，修飾並限定先行詞的範圍"
+    },
+    {
+      "formula": "N + which/that + V + O...",
+      "zh": "名詞後接關係代名詞及其動詞和受詞，提供先行詞的具體限定訊息"
+    }
+  ],
+  "explanation": "這個句型使用關係代名詞 which(事物) 或 that(人或事物) 引導限定用法之形容詞子句。該子句緊接在先行詞後，直接限定並縮小先行詞的範圍，不用逗號分隔。結構上，which/that 在子句中作主詞，後接動詞。若省略 which/that，則形成省略關係代名詞的結構。限定用法和非限定用法的主要差異在於是否用逗號分隔——限定用法無逗號，非限定用法(補充訊息)需用逗號。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The smartphone that you bought last month works perfectly.",
+      "chi": "你上個月買的那支智慧型手機運作得完美無缺。",
+      "keywords": [
+        "that",
+        "限定用法",
+        "修飾名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The book which won the award is displayed in the library.",
+      "chi": "那本獲獎的書被展示在圖書館裡。",
+      "keywords": [
+        "which",
+        "事物",
+        "限定修飾"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Students that study hard can achieve their dreams.",
+      "chi": "那些努力讀書的學生能實現他們的夢想。",
+      "keywords": [
+        "that",
+        "複數名詞",
+        "限定範圍"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The policy that the government introduced last year has reduced pollution.",
+      "chi": "政府去年推行的那項政策已經減少了污染。",
+      "keywords": [
+        "that",
+        "動賓結構",
+        "限定用法"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷限定用法的關鍵：(1)無逗號分隔；(2)子句缺少主要資訊時不可或缺，移除會改變句意；(3)用 that 時更強調限定，用 which 時較正式。常見錯誤是誤用非限定用法(加逗號)或混淆 which/that 的使用對象。",
+    "examples": [
+      {
+        "test": "The car which is parked outside is mine.",
+        "result": "→ 限定用法，指「停在外面的那輛車」，範圍明確。若改為 The car, which is parked outside, is mine，則變為非限定用法，補充額外資訊。"
+      },
+      {
+        "test": "Students that don't submit homework will lose points.",
+        "result": "→ 正確。該子句限定「哪些學生」(不繳交作業的)，是本句必需訊息，不可加逗號。"
+      },
+      {
+        "test": "The information which we received helps solve the problem.",
+        "result": "→ 正確。which 修飾事物 information，清楚限定「我們收到的那些資訊」。"
+      }
+    ],
+    "note": "無逗號 + 缺子句則句意不完 = 限定用法；有逗號 + 去子句句意仍完整 = 非限定用法。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The restaurant ",
+        null,
+        " serves excellent seafood dishes is located downtown."
+      ],
+      "blanks": [
+        "that/which"
+      ],
+      "sentence": "The restaurant that serves excellent seafood dishes is located downtown.",
+      "translation": "那家提供優質海鮮菜餚的餐廳位於市中心。",
+      "keywords": [
+        "that/which",
+        "限定用法",
+        "修飾事物"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The teacher ",
+        null,
+        " gave us this challenging exam is very strict."
+      ],
+      "blanks": [
+        "who/that"
+      ],
+      "sentence": "The teacher who gave us this challenging exam is very strict.",
+      "translation": "給我們出這份困難考試的那位老師非常嚴格。",
+      "keywords": [
+        "who/that",
+        "修飾人物",
+        "限定修飾"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The research ",
+        null,
+        " addresses climate change has received international recognition."
+      ],
+      "blanks": [
+        "that/which"
+      ],
+      "sentence": "The research that addresses climate change has received international recognition.",
+      "translation": "那項針對氣候變遷的研究獲得了國際認可。",
+      "keywords": [
+        "that/which",
+        "動賓結構",
+        "限定用法"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "All products ",
+        null,
+        " fail quality inspection must be removed from shelves."
+      ],
+      "blanks": [
+        "that/which"
+      ],
+      "sentence": "All products that fail quality inspection must be removed from shelves.",
+      "translation": "所有未通過品質檢查的產品必須從架上移除。",
+      "keywords": [
+        "that/which",
+        "複數名詞",
+        "否定含義"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study/work",
+      "zh": "讀書/工作"
+    },
+    {
+      "adj": "buy/purchase",
+      "zh": "購買"
+    },
+    {
+      "adj": "win/achieve",
+      "zh": "贏得/達成"
+    },
+    {
+      "adj": "introduce/propose",
+      "zh": "推行/提議"
+    },
+    {
+      "adj": "find/discover",
+      "zh": "發現/找到"
+    },
+    {
+      "adj": "cause/create",
+      "zh": "造成/創造"
+    },
+    {
+      "adj": "recent/new",
+      "zh": "最近的/新的"
+    },
+    {
+      "adj": "important/necessary",
+      "zh": "重要的/必要的"
+    },
+    {
+      "adj": "useful/practical",
+      "zh": "有用的/實用的"
+    },
+    {
+      "adj": "popular/famous",
+      "zh": "受歡迎的/著名的"
+    },
+    {
+      "adj": "specific/particular",
+      "zh": "特定的/特別的"
+    },
+    {
+      "adj": "physical/mental",
+      "zh": "身體的/心理的"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

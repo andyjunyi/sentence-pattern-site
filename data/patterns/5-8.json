@@ -1,0 +1,204 @@
+{
+  "code": "5-8",
+  "chapter": 5,
+  "title": "S + will be + p.p.（未來被動）",
+  "formulas": [
+    {
+      "formula": "S + will be + p.p.",
+      "zh": "主詞＋未來式＋被動語態，表示未來將被執行的動作"
+    },
+    {
+      "formula": "S + is/are going to be + p.p.",
+      "zh": "主詞＋近未來式＋被動語態，表示即將被執行的動作"
+    },
+    {
+      "formula": "can/should/must + be + p.p.",
+      "zh": "情態動詞＋被動語態，表示能夠、應該、必須被執行的動作"
+    }
+  ],
+  "explanation": "未來式被動語態用於描述將來會被執行的動作。構造方式為：助動詞(will/is/are going to/can/should/must) + be + 過去分詞。使用時機包括：陳述未來的計畫、預測或義務。需注意主詞為動作的承受者而非執行者。常見錯誤是混淆主被動或時態選擇，應根據語境判斷是確定未來(will be)或即將發生(is going to be)。情態動詞被動需保持情態詞之後接be。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The new stadium will be built next year in this city.",
+      "chi": "新運動場將在明年於本城市興建。",
+      "keywords": [
+        "will be built",
+        "未來式被動",
+        "被動語態"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The project is going to be completed by the team next month.",
+      "chi": "該專案將於下月由團隊完成。",
+      "keywords": [
+        "is going to be completed",
+        "近未來式被動"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The documents must be submitted before the deadline.",
+      "chi": "文件必須在截止期限前提交。",
+      "keywords": [
+        "must be submitted",
+        "情態動詞被動"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The conference should be held in a larger venue for more attendees.",
+      "chi": "為了容納更多參與者，會議應該在更大的場地舉行。",
+      "keywords": [
+        "should be held",
+        "情態動詞被動"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷被動語態的關鍵：主詞是否為動作的承受者。「未來式被動」強調時間在未來，「情態動詞被動」強調可能性或義務。注意：is being done 為現在進行被動(動作進行中)，不同於 will be done(未來純被動)。避免主被動混淆，檢查主詞與動詞關係。",
+    "examples": [
+      {
+        "test": "The house will paint next week. ✗",
+        "result": "→ The house will be painted next week. ✓(主詞house是被動作的，需加be)"
+      },
+      {
+        "test": "They are going to build a bridge. (主動)",
+        "result": "→ A bridge is going to be built by them. (被動，主詞轉為承受者)"
+      },
+      {
+        "test": "The report must hand in tomorrow. ✗",
+        "result": "→ The report must be handed in tomorrow. ✓(情態動詞後接be+p.p.)"
+      }
+    ],
+    "note": "未來被動：助動詞+be+過去分詞；情態動詞被動：情態詞+be+過去分詞；主詞判斷為先，動作承受者用被動。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The exam ",
+        null,
+        " on Friday next week.",
+        ""
+      ],
+      "blanks": [
+        "will be held"
+      ],
+      "sentence": "The exam will be held on Friday next week.",
+      "translation": "考試將在下週星期五舉行。",
+      "keywords": [
+        "will be held",
+        "未來式被動"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "This important decision ",
+        null,
+        " by the board of directors very soon.",
+        ""
+      ],
+      "blanks": [
+        "is going to be made"
+      ],
+      "sentence": "This important decision is going to be made by the board of directors very soon.",
+      "translation": "這個重要決定將很快由董事會做出。",
+      "keywords": [
+        "is going to be made",
+        "近未來式被動"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "All students ",
+        null,
+        " to attend the orientation program tomorrow.",
+        ""
+      ],
+      "blanks": [
+        "must be required / are required"
+      ],
+      "sentence": "All students must be required to attend the orientation program tomorrow.",
+      "translation": "所有學生必須參加明天的新生說明會。",
+      "keywords": [
+        "must be required",
+        "情態動詞被動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The damaged equipment ",
+        null,
+        " and replaced with new ones by next month.",
+        ""
+      ],
+      "blanks": [
+        "will be repaired"
+      ],
+      "sentence": "The damaged equipment will be repaired and replaced with new ones by next month.",
+      "translation": "損壞的設備將在下月前被修理並更換為新的。",
+      "keywords": [
+        "will be repaired",
+        "未來式被動"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "will be done",
+      "zh": "將被完成"
+    },
+    {
+      "adj": "is going to be announced",
+      "zh": "即將被宣佈"
+    },
+    {
+      "adj": "can be solved",
+      "zh": "能夠被解決"
+    },
+    {
+      "adj": "should be considered",
+      "zh": "應該被考慮"
+    },
+    {
+      "adj": "must be paid",
+      "zh": "必須被支付"
+    },
+    {
+      "adj": "might be delayed",
+      "zh": "可能被延遲"
+    },
+    {
+      "adj": "need to be prepared",
+      "zh": "需要被準備"
+    },
+    {
+      "adj": "have to be finished",
+      "zh": "必須被完成"
+    },
+    {
+      "adj": "will be offered",
+      "zh": "將被提供"
+    },
+    {
+      "adj": "is being discussed",
+      "zh": "正在被討論"
+    },
+    {
+      "adj": "are going to be invited",
+      "zh": "將被邀請"
+    },
+    {
+      "adj": "could be improved",
+      "zh": "可能被改進"
+    }
+  ],
+  "vocab_table_label": "常用未來被動句型"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "2-3",
+  "chapter": 2,
+  "title": "would rather + V + than + V",
+  "formulas": [
+    {
+      "formula": "S + would rather + V (原形) + than + V (原形)",
+      "zh": "主詞寧願做某事也不願做另一事"
+    },
+    {
+      "formula": "S + would rather + that + S + V (過去式假設語氣)",
+      "zh": "主詞寧願（別人）做某事"
+    }
+  ],
+  "explanation": "would rather 表示「寧願、寧可」，用於表達強烈偏好。基本結構中兩個動詞均用原形，中間以 than 連接。若後接 that 子句，該子句需用過去式假設語氣，表示假設或期望他人的行為。此句型常見於表達個人選擇、拒絕或條件偏好。易混淆點：不可於 that 子句中用現在式；would rather 單獨使用時直接加原形動詞；would prefer 則需接 to。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I would rather stay home than go to the crowded mall this weekend.",
+      "chi": "我寧願待在家裡也不願這個週末去擁擠的購物中心。",
+      "keywords": [
+        "would rather",
+        "than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She would rather work alone than collaborate with careless team members.",
+      "chi": "她寧願單獨工作也不願與粗心的團隊成員合作。",
+      "keywords": [
+        "would rather",
+        "than",
+        "工作偏好"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I would rather you didn't mention this secret to anyone else.",
+      "chi": "我寧願你不要把這個祕密告訴任何人。",
+      "keywords": [
+        "would rather",
+        "that子句",
+        "過去式假設語氣"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Most students would rather take the easier exam than the challenging one.",
+      "chi": "大多數學生寧願參加較簡單的考試也不願參加有挑戰性的考試。",
+      "keywords": [
+        "would rather",
+        "than",
+        "比較偏好"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看是否在表達「寧願選擇 A 也不選 B」的比較，或「期望別人做 X」。前者用 than，後者用 that + 過去式。常見錯誤：在 that 子句用現在式（應用過去式）；忘記兩動詞都用原形；誤用 would prefer（需加 to）。",
+    "examples": [
+      {
+        "test": "I would rather eat vegetables than meat.",
+        "result": "→ 正確。表示個人偏好，兩動詞都用原形。"
+      },
+      {
+        "test": "❌ I would rather you tell me the truth.",
+        "result": "→ 錯誤。that 子句應用過去式：would rather you told me the truth."
+      },
+      {
+        "test": "I would rather watch a comedy than a horror film.",
+        "result": "→ 正確。清楚表達兩個選項的比較，用 than 連接。"
+      }
+    ],
+    "note": "記法：would rather + 原形 + than + 原形；that 子句用過去式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " stay home and study than go to parties every night."
+      ],
+      "blanks": [
+        "would rather"
+      ],
+      "sentence": "I would rather stay home and study than go to parties every night.",
+      "translation": "我寧願待在家裡讀書也不願每晚去派對。",
+      "keywords": [
+        "would rather",
+        "than",
+        "生活選擇"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She would rather ",
+        null,
+        " than work in a noisy office environment."
+      ],
+      "blanks": [
+        "work remotely"
+      ],
+      "sentence": "She would rather work remotely than work in a noisy office environment.",
+      "translation": "她寧願遠距工作也不願在嘈雜的辦公室工作。",
+      "keywords": [
+        "would rather",
+        "than",
+        "工作方式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I would rather ",
+        null,
+        " you studied harder for the upcoming exam."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "I would rather that you studied harder for the upcoming exam.",
+      "translation": "我寧願你為即將到來的考試更努力讀書。",
+      "keywords": [
+        "would rather",
+        "that子句",
+        "過去式假設"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "My parents ",
+        null,
+        " I became a doctor than pursued my passion for art."
+      ],
+      "blanks": [
+        "would rather"
+      ],
+      "sentence": "My parents would rather I became a doctor than pursued my passion for art.",
+      "translation": "我的父母寧願我成為醫生也不願我追求藝術的熱情。",
+      "keywords": [
+        "would rather",
+        "that子句",
+        "過去式假設"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "stay home",
+      "zh": "待在家"
+    },
+    {
+      "adj": "work alone",
+      "zh": "獨自工作"
+    },
+    {
+      "adj": "tell the truth",
+      "zh": "說實話"
+    },
+    {
+      "adj": "read books",
+      "zh": "閱讀書籍"
+    },
+    {
+      "adj": "walk",
+      "zh": "散步"
+    },
+    {
+      "adj": "listen to music",
+      "zh": "聽音樂"
+    },
+    {
+      "adj": "travel abroad",
+      "zh": "出國旅遊"
+    },
+    {
+      "adj": "learn new skills",
+      "zh": "學習新技能"
+    },
+    {
+      "adj": "spend time with family",
+      "zh": "與家人相處"
+    },
+    {
+      "adj": "exercise outdoors",
+      "zh": "戶外運動"
+    },
+    {
+      "adj": "cook at home",
+      "zh": "在家做菜"
+    },
+    {
+      "adj": "watch movies",
+      "zh": "看電影"
+    }
+  ],
+  "vocab_table_label": "常用動詞片語"
+}

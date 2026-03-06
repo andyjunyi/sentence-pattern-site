@@ -1,0 +1,201 @@
+{
+  "code": "4-15",
+  "chapter": 4,
+  "title": "that 名詞子句（主詞 / 受詞）",
+  "formulas": [
+    {
+      "formula": "It is + adj./p.p. + that + S + V",
+      "zh": "虛主詞 It 開頭，將 that 名詞子句作真正主詞後移"
+    },
+    {
+      "formula": "S + V + that + S + V",
+      "zh": "that 名詞子句作動詞的受詞（that 可省略）"
+    }
+  ],
+  "explanation": "that 引導的名詞子句可用虛主詞 It 將其後移至句末，使句子結構更平衡。當 that 子句作主詞時，that 不可省略；當作受詞時，that 可省略但常保留以增加清晰度。此句型強調主詞的重要性或客觀事實，常見於正式書寫或強調型表達中。注意 It 為虛主詞，真正主詞是 that 之後的子句。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is important that students study hard for the exam.",
+      "chi": "學生為考試認真唸書是很重要的。",
+      "keywords": [
+        "It is + adj.",
+        "that 子句作主詞",
+        "important"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She believes that climate change will affect our future.",
+      "chi": "她相信氣候變遷將會影響我們的未來。",
+      "keywords": [
+        "S + V + that",
+        "名詞子句作受詞",
+        "that 可省"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is surprising that he passed the difficult test.",
+      "chi": "他通過了這項困難的測驗是很令人驚訝的。",
+      "keywords": [
+        "虛主詞 It",
+        "形容詞作述語",
+        "surprising"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The teacher expects that all students will finish the homework on time.",
+      "chi": "老師期望所有學生都會準時完成作業。",
+      "keywords": [
+        "expect + that",
+        "受詞子句",
+        "will finish"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "surprising",
+      "zh": "令人驚訝的"
+    },
+    {
+      "adj": "fortunate",
+      "zh": "幸運的"
+    },
+    {
+      "adj": "believed",
+      "zh": "被相信的（過去分詞）"
+    },
+    {
+      "adj": "known",
+      "zh": "被知道的（過去分詞）"
+    },
+    {
+      "adj": "suggested",
+      "zh": "被建議的（過去分詞）"
+    },
+    {
+      "adj": "required",
+      "zh": "被要求的（過去分詞）"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 that 何時可省：作主詞（虛主詞句型）時 that 不可省；作受詞時通常可省但保留更佳。注意虛主詞 It 只在主詞子句時使用，不能用於受詞子句。混淆點：不要將 that 子句與 because 或 why 子句混淆。",
+    "examples": [
+      {
+        "test": "✓ It is true that he won the prize. / ✗ It is true he won the prize.",
+        "result": "→ 虛主詞句型中 that 不可省略"
+      },
+      {
+        "test": "✓ I think (that) he is honest. / ✓ I think he is honest.",
+        "result": "→ 受詞子句中 that 可省，兩者皆正確"
+      },
+      {
+        "test": "✗ It is important he studies hard. / ✓ It is important that he studies hard.",
+        "result": "→ 需要 that 連接詞以標示從句"
+      }
+    ],
+    "note": "虛主詞句型記憶法：「It is + 形容詞 + that」該 that 必留，「S + V + that」該 that 可留可不留。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "It is clear ",
+        null,
+        " young people should have equal opportunities in education."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "It is clear that young people should have equal opportunities in education.",
+      "translation": "年輕人應該有平等的教育機會是很清楚的。",
+      "keywords": [
+        "虛主詞 It",
+        "clear",
+        "that 連接詞必留"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The research suggests ",
+        null,
+        " the new medicine is effective."
+      ],
+      "blanks": [
+        "(that)"
+      ],
+      "sentence": "The research suggests (that) the new medicine is effective.",
+      "translation": "該研究暗示這種新藥是有效的。",
+      "keywords": [
+        "suggest + that",
+        "受詞子句",
+        "that 可省可不省"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It is required ",
+        null,
+        " all employees follow the company safety rules."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "It is required that all employees follow the company safety rules.",
+      "translation": "所有員工遵守公司安全規則是被要求的。",
+      "keywords": [
+        "required（過去分詞）",
+        "虛主詞結構",
+        "that 子句作真主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Many people believe ",
+        null,
+        " technology has changed our daily lives significantly."
+      ],
+      "blanks": [
+        "(that)"
+      ],
+      "sentence": "Many people believe (that) technology has changed our daily lives significantly.",
+      "translation": "許多人相信科技已經大幅改變了我們的日常生活。",
+      "keywords": [
+        "believe + that",
+        "受詞位置",
+        "that 省略可接受"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "code": "2-6",
+  "chapter": 2,
+  "title": "S + V + as if/as though + S + V（過去式）",
+  "formulas": [
+    {
+      "formula": "S + V + as if/as though + S + V-ed（與現在事實相反）",
+      "zh": "某人做某事，好像…（假設過去式表現在相反）"
+    },
+    {
+      "formula": "S + V + as if/as though + S + had + V-ed（與過去事實相反）",
+      "zh": "某人做某事，好像…（假設過去完成式表過去相反）"
+    }
+  ],
+  "explanation": "as if/as though引導方式副詞子句，表達假設或不真實的情境。與現在事實相反時，子句用過去式；與過去事實相反時，子句用過去完成式。此句型常用於描述某人的行為或狀態看起來與事實不符。易混淆點：不應使用現在式或直述法，因為整個子句是假設性的。注意時態的相對性：主句過去式配合過去式或過去完成式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She speaks English as if she were a native speaker.",
+      "chi": "她說英文的樣子好像她是母語使用者。",
+      "keywords": [
+        "as if",
+        "were",
+        "假設現在"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He treated me as though I had stolen his money.",
+      "chi": "他待我的方式好像我偷了他的錢。",
+      "keywords": [
+        "as though",
+        "had stolen",
+        "假設過去"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The child ran away as if something terrible had happened.",
+      "chi": "那個小孩跑開，好像發生了什麼可怕的事。",
+      "keywords": [
+        "as if",
+        "had happened",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "You look as if you didn't sleep last night.",
+      "chi": "你看起來好像昨晚沒睡覺。",
+      "keywords": [
+        "as if",
+        "didn't sleep",
+        "過去式假設"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時態：看主句時間點。若主句現在式，子句用過去式表現在相反；若主句過去式，子句用過去完成式表過去相反。常見錯誤是用現在式於子句，如「as if she is」（錯誤），應為「as if she were」。",
+    "examples": [
+      {
+        "test": "She acts as if she knows everything.",
+        "result": "→ 錯誤。應為：She acts as if she knew everything.（知道是假的）"
+      },
+      {
+        "test": "He talked to me as though I had betrayed him.",
+        "result": "→ 正確。過去完成式表達過去事實不符的假設。"
+      },
+      {
+        "test": "They looked as if they were shocked by the news.",
+        "result": "→ 正確。過去式表現在事實相反的情景。"
+      }
+    ],
+    "note": "現在相反用過去式，過去相反用had+過去分詞；看主句時態和假設時間點來判斷。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The student answered the question ",
+        null,
+        " he had prepared for it carefully."
+      ],
+      "blanks": [
+        "as if"
+      ],
+      "sentence": "The student answered the question as if he had prepared for it carefully.",
+      "translation": "那個學生回答問題時，好像他已經仔細準備過了。",
+      "keywords": [
+        "as if",
+        "had prepared",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She spoke to her parents ",
+        null,
+        " they were children."
+      ],
+      "blanks": [
+        "as though"
+      ],
+      "sentence": "She spoke to her parents as though they were children.",
+      "translation": "她跟父母說話的方式，好像他們是小孩。",
+      "keywords": [
+        "as though",
+        "were",
+        "假設現在"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The criminal ran away ",
+        null,
+        " something dangerous was chasing him."
+      ],
+      "blanks": [
+        "as if"
+      ],
+      "sentence": "The criminal ran away as if something dangerous was chasing him.",
+      "translation": "那個罪犯跑開，好像有什麼危險的東西在追他。",
+      "keywords": [
+        "as if",
+        "過去進行式",
+        "假設"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "He treated his employees ",
+        null,
+        " they ",
+        null,
+        " never helped the company before."
+      ],
+      "blanks": [
+        "as if",
+        "had"
+      ],
+      "sentence": "He treated his employees as if they had never helped the company before.",
+      "translation": "他對待員工的方式，好像他們從未幫助過公司。",
+      "keywords": [
+        "as if",
+        "had never helped",
+        "過去完成式否定"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "as if",
+      "zh": "好像、彷彿（虛實對比）"
+    },
+    {
+      "adj": "as though",
+      "zh": "好像、好似（同義於as if）"
+    },
+    {
+      "adj": "were",
+      "zh": "是（與現在相反的假設）"
+    },
+    {
+      "adj": "had + V-ed",
+      "zh": "已經…（與過去相反的假設）"
+    },
+    {
+      "adj": "seem",
+      "zh": "看起來、似乎"
+    },
+    {
+      "adj": "look",
+      "zh": "看起來"
+    },
+    {
+      "adj": "act",
+      "zh": "表現得、行動"
+    },
+    {
+      "adj": "behave",
+      "zh": "表現、舉動"
+    },
+    {
+      "adj": "talk",
+      "zh": "說話、交談"
+    },
+    {
+      "adj": "treat",
+      "zh": "對待、治療"
+    },
+    {
+      "adj": "pretend",
+      "zh": "假裝、冒充"
+    },
+    {
+      "adj": "speak",
+      "zh": "說話、講述"
+    }
+  ],
+  "vocab_table_label": "常用連接詞"
+}

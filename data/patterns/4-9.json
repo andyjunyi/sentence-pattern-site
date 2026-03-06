@@ -1,0 +1,203 @@
+{
+  "code": "4-9",
+  "chapter": 4,
+  "title": "the place/time/reason + where/when/why + S + V",
+  "formulas": [
+    {
+      "formula": "N(place/time/reason) + where/when/why + S + V",
+      "zh": "名詞（地點/時間/原因）+ 關係副詞（where/when/why）+ 主詞 + 動詞"
+    },
+    {
+      "formula": "N(place/time/reason) + prep. + which + S + V",
+      "zh": "名詞（地點/時間/原因）+ 介系詞 + which + 主詞 + 動詞（改寫形式）"
+    }
+  ],
+  "explanation": "關係副詞 where、when、why 引導形容詞子句，修飾先行詞為地點、時間或原因的名詞。where 修飾地點、when 修飾時間、why 修飾原因，子句提供額外資訊。此句型可改寫為「介系詞 + which」的形式：where = in/at + which；when = in/during + which；why = for which。掌握先行詞性質是關鍵，避免混淆關係代名詞與關係副詞用法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This is the museum where we saw the ancient artifacts last month.",
+      "chi": "這是我們上個月看到古代文物的博物館。",
+      "keywords": [
+        "where",
+        "地點修飾",
+        "形容詞子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The summer when I traveled to Japan was unforgettable and exciting.",
+      "chi": "我去日本旅遊的那個夏天是難忘且令人興奮的。",
+      "keywords": [
+        "when",
+        "時間修飾",
+        "形容詞子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The main reason why she quit her job was the lack of work-life balance.",
+      "chi": "她辭去工作的主要原因是缺乏工作與生活的平衡。",
+      "keywords": [
+        "why",
+        "原因修飾",
+        "形容詞子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "This is the restaurant where I had my first date, which holds special memories.",
+      "chi": "這是我第一次約會的餐廳，它承載著特殊的回憶。",
+      "keywords": [
+        "where",
+        "地點",
+        "記憶"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分關係副詞與關係代名詞：where/when/why 引導子句修飾名詞時，先行詞是地點/時間/原因；若先行詞是人或物，應使用 who/that/which。判斷法：先行詞可代入「介系詞 + which」時，使用關係副詞。",
+    "examples": [
+      {
+        "test": "✗ The place which we visited was beautiful. / ✓ The place where we visited was beautiful.",
+        "result": "→ 先行詞 place 是地點，應用 where 而非 which，或用 that/which + 完整動詞短語"
+      },
+      {
+        "test": "✓ The year when he was born was 1995. / ✓ The year in which he was born was 1995.",
+        "result": "→ when 可改寫為 in which；兩種用法均正確"
+      },
+      {
+        "test": "✓ The reason why she left was unclear. / ✓ The reason for which she left was unclear.",
+        "result": "→ why 可改寫為 for which；正式文章多用 for which"
+      }
+    ],
+    "note": "記住三個關係副詞：where（地點）、when（時間）、why（原因），可全部改寫為「介系詞 + which」形式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The school ",
+        null,
+        " I spent my childhood is now being renovated."
+      ],
+      "blanks": [
+        "where"
+      ],
+      "sentence": "The school where I spent my childhood is now being renovated.",
+      "translation": "我度過童年的那所學校現在正在整修。",
+      "keywords": [
+        "where",
+        "地點",
+        "childhood"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The day ",
+        null,
+        " we first met was the beginning of our friendship."
+      ],
+      "blanks": [
+        "when"
+      ],
+      "sentence": "The day when we first met was the beginning of our friendship.",
+      "translation": "我們初次相識的那天是友誼的開始。",
+      "keywords": [
+        "when",
+        "時間",
+        "first met"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I cannot understand the reason ",
+        null,
+        " he refused such an excellent opportunity."
+      ],
+      "blanks": [
+        "why"
+      ],
+      "sentence": "I cannot understand the reason why he refused such an excellent opportunity.",
+      "translation": "我無法理解他拒絕這麼好的機會的原因。",
+      "keywords": [
+        "why",
+        "原因",
+        "refused"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The conference room ",
+        null,
+        " the meeting took place was too crowded and uncomfortable."
+      ],
+      "blanks": [
+        "where"
+      ],
+      "sentence": "The conference room where the meeting took place was too crowded and uncomfortable.",
+      "translation": "會議舉行的會議室太擁擠且不舒適。",
+      "keywords": [
+        "where",
+        "地點",
+        "meeting"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "unforgettable",
+      "zh": "難忘的"
+    },
+    {
+      "adj": "peaceful",
+      "zh": "寧靜的"
+    },
+    {
+      "adj": "historical",
+      "zh": "歷史性的"
+    },
+    {
+      "adj": "valid",
+      "zh": "有效的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "primary",
+      "zh": "主要的"
+    },
+    {
+      "adj": "specific",
+      "zh": "特定的"
+    },
+    {
+      "adj": "memorable",
+      "zh": "值得紀念的"
+    },
+    {
+      "adj": "ideal",
+      "zh": "理想的"
+    },
+    {
+      "verb": "discovered",
+      "zh": "發現（過去式）"
+    },
+    {
+      "verb": "encountered",
+      "zh": "遭遇（過去式）"
+    },
+    {
+      "time": "during which",
+      "zh": "期間（介系詞短語）"
+    }
+  ],
+  "vocab_table_label": "常用形容詞"
+}

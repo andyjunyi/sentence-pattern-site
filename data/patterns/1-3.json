@@ -1,0 +1,206 @@
+{
+  "code": "1-3",
+  "chapter": 1,
+  "title": "It takes + 時間/金錢 + (for sb.) + to V",
+  "formulas": [
+    {
+      "formula": "It takes + 時間/金錢 + (for sb.) + to V",
+      "zh": "（某人）做某事花費多少時間或金錢"
+    },
+    {
+      "formula": "It took + sb. + 時間/金錢 + to V",
+      "zh": "某人做某事花了多少時間或金錢（過去式常見口語變體）"
+    }
+  ],
+  "explanation": "此句型以虛主詞 It 代替後方的不定詞片語 to V，用來表達完成某事所需的時間或金錢。主詞 It 並無實際意義，真正的主詞是 to V 以下的內容。若要指明「誰」花費，可加 for sb. 或將 sb. 直接放在 takes 之後（較口語）。動詞 take 須依時態變化：現在式 takes/take、過去式 took、未來式 will take。注意不可將 spend 與此結構混用，spend 的主詞必須是「人」。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It takes about thirty minutes for me to walk to school every morning.",
+      "chi": "每天早上我走路到學校大約要花三十分鐘。",
+      "keywords": [
+        "takes",
+        "for me",
+        "to walk"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It took the engineer two whole days to fix the computer system.",
+      "chi": "那位工程師花了整整兩天才修好電腦系統。",
+      "keywords": [
+        "took",
+        "two whole days",
+        "to fix"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It will take a lot of money for the city to build a new library.",
+      "chi": "這座城市要建造一座新圖書館將花費大量金錢。",
+      "keywords": [
+        "will take",
+        "a lot of money",
+        "to build"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It takes great courage for students to speak up in front of the whole class.",
+      "chi": "學生要在全班面前發言需要很大的勇氣。",
+      "keywords": [
+        "takes",
+        "great courage",
+        "to speak up"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷用 take 或 spend：看主詞是「人」還是「It」。主詞是 It（虛主詞）用 take，後接 to V；主詞是「人」用 spend，後接 V-ing 或 on + N。兩者意思相近但結構不同，考試常互相改寫。",
+    "examples": [
+      {
+        "test": "It took me two hours to finish the report.",
+        "result": "→ 正確：虛主詞 It + took + 人 + 時間 + to V"
+      },
+      {
+        "test": "I spent two hours finishing the report.",
+        "result": "→ 正確改寫：主詞為人 + spent + 時間 + V-ing"
+      },
+      {
+        "test": "It spent me two hours to finish the report.",
+        "result": "→ 錯誤：spend 的主詞不可用 It 虛主詞，應改為 It took 或 I spent"
+      }
+    ],
+    "note": "「It 當頭用 take，人當頭用 spend」——記住主詞決定動詞！"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "It ",
+        null,
+        " the students three months to prepare for the final exam."
+      ],
+      "blanks": [
+        "took"
+      ],
+      "sentence": "It took the students three months to prepare for the final exam.",
+      "translation": "學生們花了三個月準備期末考。",
+      "keywords": [
+        "took",
+        "three months",
+        "to prepare"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It takes a lot of patience ",
+        null,
+        " parents to raise a child."
+      ],
+      "blanks": [
+        "for"
+      ],
+      "sentence": "It takes a lot of patience for parents to raise a child.",
+      "translation": "父母養育一個孩子需要很多耐心。",
+      "keywords": [
+        "takes",
+        "for",
+        "patience"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It will ",
+        null,
+        " about two hours for us ",
+        null,
+        " get to the airport."
+      ],
+      "blanks": [
+        "take",
+        "to"
+      ],
+      "sentence": "It will take about two hours for us to get to the airport.",
+      "translation": "我們到機場大約要花兩個小時。",
+      "keywords": [
+        "will take",
+        "for us",
+        "to get"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " only ten minutes for her to solve the math problem."
+      ],
+      "blanks": [
+        "It took"
+      ],
+      "sentence": "It took only ten minutes for her to solve the math problem.",
+      "translation": "她只花了十分鐘就解開了那道數學題。",
+      "keywords": [
+        "It took",
+        "ten minutes",
+        "to solve"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "thirty minutes",
+      "zh": "三十分鐘"
+    },
+    {
+      "adj": "two hours",
+      "zh": "兩小時"
+    },
+    {
+      "adj": "several days",
+      "zh": "好幾天"
+    },
+    {
+      "adj": "a long time",
+      "zh": "很長一段時間"
+    },
+    {
+      "adj": "a lot of money",
+      "zh": "很多錢"
+    },
+    {
+      "adj": "great effort",
+      "zh": "很大的努力"
+    },
+    {
+      "adj": "great courage",
+      "zh": "很大的勇氣"
+    },
+    {
+      "adj": "much patience",
+      "zh": "很多耐心"
+    },
+    {
+      "adj": "about a week",
+      "zh": "大約一週"
+    },
+    {
+      "adj": "only a few seconds",
+      "zh": "只要幾秒鐘"
+    },
+    {
+      "adj": "thousands of dollars",
+      "zh": "數千元"
+    },
+    {
+      "adj": "a lifetime",
+      "zh": "一輩子"
+    }
+  ],
+  "vocab_table_label": "常用時間表達"
+}

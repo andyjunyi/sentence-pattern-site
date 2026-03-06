@@ -1,0 +1,203 @@
+{
+  "code": "8-12",
+  "chapter": 8,
+  "title": "目的副詞子句 so that / in order that",
+  "formulas": [
+    {
+      "formula": "S + V + so that/in order that + S + can/will/may + V",
+      "zh": "主詞 + 動詞 + 為了讓/以便 + 主詞 + 能夠/將會/可能 + 動詞"
+    },
+    {
+      "formula": "S + V + in order to V / so as to V (不定詞改寫)",
+      "zh": "主詞 + 動詞 + 為了/以便 + 不定詞（當主詞相同時使用）"
+    }
+  ],
+  "explanation": "此句型用於表達行動的目的或意圖。so that 和 in order that 後接助動詞（can、will、may），可表達明確的目的結果。當主詞相同時，可改寫為 in order to 或 so as to 搭配不定詞。注意 so that to V 為錯誤用法，so that 後必須接助動詞而非不定詞。此句型強調的是為了達成某個目的而採取行動。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She studies hard so that she can pass the entrance exam.",
+      "chi": "她努力讀書，好讓她能通過升學考試。",
+      "keywords": [
+        "so that",
+        "can pass",
+        "目的"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "They saved money in order that their children will have a better education.",
+      "chi": "他們存錢，以便他們的孩子能接受更好的教育。",
+      "keywords": [
+        "in order that",
+        "will have",
+        "目的"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The teacher speaks slowly so as to help students understand the lesson.",
+      "chi": "老師說話很慢，以便幫助學生理解課程。",
+      "keywords": [
+        "so as to",
+        "不定詞",
+        "目的"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Athletes train every day in order to achieve their goals and win competitions.",
+      "chi": "運動員每天訓練，為了達成目標並贏得比賽。",
+      "keywords": [
+        "in order to",
+        "achieve",
+        "目的"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時機：當句子表達「為了達成某個目的」時使用此句型。主詞相同時優先使用 in order to/so as to 簡化句子；主詞不同時必須用 so that/in order that 搭配助動詞。切勿混淆 so...that（如此...以至於）與 so that（為了）的用法。",
+    "examples": [
+      {
+        "test": "正確：He left early so that he could catch the train. / He left early in order to catch the train.",
+        "result": "→ 兩句都對，但主詞相同時用不定詞版本更簡潔"
+      },
+      {
+        "test": "錯誤：He left early so that to catch the train. / He left early for to catch the train.",
+        "result": "→ so that 後不能接不定詞，應改用 in order to；for to 為非文法式用法"
+      },
+      {
+        "test": "對比：It was so difficult that he could not solve it. vs. He explained clearly so that students could understand.",
+        "result": "→ 前者表結果（so...that），後者表目的（so that）"
+      }
+    ],
+    "note": "記住：so that = 為了讓別人；in order to = 為了讓自己（當主詞相同時最常使用）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The government built more hospitals ",
+        null,
+        " more people can receive medical care."
+      ],
+      "blanks": [
+        "so that"
+      ],
+      "sentence": "The government built more hospitals so that more people can receive medical care.",
+      "translation": "政府建造了更多醫院，好讓更多人可以獲得醫療照護。",
+      "keywords": [
+        "so that",
+        "目的",
+        "can receive"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She practiced her speech many times ",
+        null,
+        " deliver it confidently at the conference."
+      ],
+      "blanks": [
+        "in order to"
+      ],
+      "sentence": "She practiced her speech many times in order to deliver it confidently at the conference.",
+      "translation": "她多次練習演講，為了在會議上自信地發表。",
+      "keywords": [
+        "in order to",
+        "不定詞",
+        "deliver"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Parents work hard ",
+        null,
+        " their children will have better opportunities in the future."
+      ],
+      "blanks": [
+        "in order that"
+      ],
+      "sentence": "Parents work hard in order that their children will have better opportunities in the future.",
+      "translation": "父母努力工作，以便他們的孩子將來能有更好的機會。",
+      "keywords": [
+        "in order that",
+        "will have",
+        "目的"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The company reduced prices ",
+        null,
+        " to attract more customers and increase sales."
+      ],
+      "blanks": [
+        "in order"
+      ],
+      "sentence": "The company reduced prices in order to attract more customers and increase sales.",
+      "translation": "公司降價，為了吸引更多顧客並增加銷售量。",
+      "keywords": [
+        "in order to",
+        "attract",
+        "目的"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study hard",
+      "zh": "努力讀書"
+    },
+    {
+      "adj": "work overtime",
+      "zh": "加班工作"
+    },
+    {
+      "adj": "save money",
+      "zh": "存錢"
+    },
+    {
+      "adj": "speak slowly",
+      "zh": "說話緩慢"
+    },
+    {
+      "adj": "arrive early",
+      "zh": "提早到達"
+    },
+    {
+      "adj": "practice regularly",
+      "zh": "定期練習"
+    },
+    {
+      "adj": "use technology",
+      "zh": "使用科技"
+    },
+    {
+      "adj": "take notes",
+      "zh": "做筆記"
+    },
+    {
+      "adj": "exercise daily",
+      "zh": "每日運動"
+    },
+    {
+      "adj": "communicate clearly",
+      "zh": "清楚溝通"
+    },
+    {
+      "adj": "prepare well",
+      "zh": "充分準備"
+    },
+    {
+      "adj": "manage time efficiently",
+      "zh": "有效管理時間"
+    }
+  ],
+  "vocab_table_label": "常用動詞片語"
+}

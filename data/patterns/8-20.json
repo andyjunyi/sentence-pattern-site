@@ -1,0 +1,203 @@
+{
+  "code": "8-20",
+  "chapter": 8,
+  "title": "either...or... / neither...nor...",
+  "formulas": [
+    {
+      "formula": "Either A or B + verb (verb agrees with B)",
+      "zh": "不是A就是B + 動詞（動詞與B一致）"
+    },
+    {
+      "formula": "Neither A nor B + verb (verb agrees with B)",
+      "zh": "A和B都不 + 動詞（動詞與B一致）"
+    }
+  ],
+  "explanation": "either...or 和 neither...nor 都遵循「近似一致原則」，即動詞與最接近的主詞保持一致。either...or 表示兩者中選其一；neither...nor 表示兩者都否定。結構為「either/neither + A + or/nor + B」。使用時機在於表達二選一或全盤否定的情況。易混淆點是誤用主語為複數時仍用單數動詞，或忽視最近主詞原則。注意 neither...nor 後的主詞若為複數，則動詞用複數形。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Either you or your brother is responsible for the project.",
+      "chi": "不是你就是你弟弟要對這個專案負責。",
+      "keywords": [
+        "either...or",
+        "近似一致原則",
+        "單數動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Neither the teacher nor the students were satisfied with the exam results.",
+      "chi": "老師和學生都對考試成績不滿意。",
+      "keywords": [
+        "neither...nor",
+        "複數動詞",
+        "全盤否定"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Either coffee or tea is available at the meeting.",
+      "chi": "咖啡或茶其中一種在會議上有供應。",
+      "keywords": [
+        "either...or",
+        "選擇性",
+        "單數名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Neither John nor his parents have decided where to go on vacation.",
+      "chi": "約翰和他的父母都還沒決定要去哪裡度假。",
+      "keywords": [
+        "neither...nor",
+        "複數主詞",
+        "完成式"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "近似一致原則為本句型重點：動詞與 or/nor 之後的主詞一致，而非與前面主詞一致。判斷時先找出最接近動詞的主詞，再決定動詞單複數。常見錯誤是將兩個主詞都視為複數或將動詞與前面主詞一致。",
+    "examples": [
+      {
+        "test": "Either the student or the teachers _____ (is/are) going to the conference.",
+        "result": "→ 答案：are（teachers 在 nor 後，為複數，故用 are）"
+      },
+      {
+        "test": "Neither the cats nor the dog _____ (like/likes) the new food.",
+        "result": "→ 答案：likes（dog 在 nor 後，為單數，故用 likes）"
+      },
+      {
+        "test": "Either my sister or I _____ (am/are) making dinner tonight.",
+        "result": "→ 答案：am（I 在 or 後，第一人稱，故用 am）"
+      }
+    ],
+    "note": "記住關鍵：動詞永遠與 or/nor 之後最近的主詞一致，忽視前面的主詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Either the manager or the employees ",
+        null,
+        " to attend the meeting tomorrow."
+      ],
+      "blanks": [
+        "are required"
+      ],
+      "sentence": "Either the manager or the employees are required to attend the meeting tomorrow.",
+      "translation": "經理或員工其中一方被要求明天參加會議。",
+      "keywords": [
+        "either...or",
+        "複數主詞",
+        "被動語態"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Neither my friends nor my brother ",
+        null,
+        " what I should do about this problem."
+      ],
+      "blanks": [
+        "knows"
+      ],
+      "sentence": "Neither my friends nor my brother knows what I should do about this problem.",
+      "translation": "我的朋友和我的哥哥都不知道我應該如何解決這個問題。",
+      "keywords": [
+        "neither...nor",
+        "單數主詞",
+        "近似一致原則"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Either the doctor or the nurses ",
+        null,
+        " to check the patient's vital signs regularly."
+      ],
+      "blanks": [
+        "are supposed"
+      ],
+      "sentence": "Either the doctor or the nurses are supposed to check the patient's vital signs regularly.",
+      "translation": "醫生或護士之一應該定期檢查病人的生命體徵。",
+      "keywords": [
+        "either...or",
+        "複數名詞",
+        "情態動詞被動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Neither tea nor coffee ",
+        null,
+        " been served at the morning event last week."
+      ],
+      "blanks": [
+        "has"
+      ],
+      "sentence": "Neither tea nor coffee has been served at the morning event last week.",
+      "translation": "茶和咖啡都沒有在上週上午的活動中被提供。",
+      "keywords": [
+        "neither...nor",
+        "單數主詞",
+        "現在完成被動式"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "either",
+      "zh": "不是...就是..."
+    },
+    {
+      "adj": "or",
+      "zh": "或；或者"
+    },
+    {
+      "adj": "neither",
+      "zh": "兩者都不"
+    },
+    {
+      "adj": "nor",
+      "zh": "也不"
+    },
+    {
+      "adj": "agree with",
+      "zh": "與...一致"
+    },
+    {
+      "adj": "choose between",
+      "zh": "在...之間選擇"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "available",
+      "zh": "可得到的"
+    },
+    {
+      "adj": "acceptable",
+      "zh": "可接受的"
+    },
+    {
+      "adj": "verb agreement",
+      "zh": "動詞一致性"
+    },
+    {
+      "adj": "nearest subject",
+      "zh": "最近的主詞"
+    },
+    {
+      "adj": "conjunction",
+      "zh": "連接詞"
+    }
+  ],
+  "vocab_table_label": "常用連接詞"
+}

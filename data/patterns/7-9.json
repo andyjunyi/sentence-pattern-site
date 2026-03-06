@@ -1,0 +1,203 @@
+{
+  "code": "7-9",
+  "chapter": 7,
+  "title": "with + O + V-ing/p.p. + 主句",
+  "formulas": [
+    {
+      "formula": "with + O + V-ing（O主動執行動作）",
+      "zh": "用with獨立分詞構句表示伴隨的主動動作或狀態"
+    },
+    {
+      "formula": "with + O + p.p.（O被動承受動作）",
+      "zh": "用with獨立分詞構句表示伴隨的被動動作或狀態"
+    }
+  ],
+  "explanation": "with獨立分詞構句是一種高級副詞修飾法，用來表述主句發生時的伴隨狀態、方式或條件。結構為「with + 受詞 + 分詞」，受詞若主動執行動作用V-ing，若被動承受用過去分詞p.p.。此構句不受主句主語限制，可靈活表達複雜的伴隨關係，常見於文學、新聞與學測閱讀。易混淆點：勿與普通介詞片語混淆；分詞的主動被動要與with後的受詞邏輯相符。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "With her eyes closed, she listened to the beautiful music carefully.",
+      "chi": "閉著眼睛，她仔細聆聽優美的音樂。",
+      "keywords": [
+        "with獨立分詞",
+        "eyes closed",
+        "伴隨狀態"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The old man sat by the window with his hands trembling slightly.",
+      "chi": "老人坐在窗邊，雙手微微顫抖。",
+      "keywords": [
+        "with",
+        "hands trembling",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "With the project finished ahead of schedule, the team celebrated their success.",
+      "chi": "專案提前完成，團隊慶祝他們的成功。",
+      "keywords": [
+        "with",
+        "project finished",
+        "被動分詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She left the room with her head held high and her heart full of hope.",
+      "chi": "她昂著頭、懷著希望離開房間。",
+      "keywords": [
+        "with",
+        "head held高",
+        "複合結構"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷分詞類型的關鍵：觀察with後的受詞與分詞的邏輯關係。若受詞「主動做」該動作用V-ing；若受詞「被動承受」該動作用p.p.。例：with the door opening（門自動打開，主動）vs. with the door opened（門被打開，被動）。",
+    "examples": [
+      {
+        "test": "With the window open, fresh air flowed into the room.",
+        "result": "→ 正確。window與open為被動關係（窗被打開），用p.p."
+      },
+      {
+        "test": "With students studying hard, the teacher smiled with satisfaction.",
+        "result": "→ 正確。students與studying為主動關係（學生主動唸書），用V-ing"
+      },
+      {
+        "test": "X With the rain falling, she went out without an umbrella. (邏輯矛盾)",
+        "result": "→ 此句文法正確但邏輯不合。若要表達伴隨的雨勢，應改為considering the rain或in the rain"
+      }
+    ],
+    "note": "with獨立分詞三步判斷法：①確認with後的名詞 ②判斷名詞與動詞的邏輯（主動或被動） ③選用對應的分詞形式"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The singer performed on stage ",
+        null,
+        ", creating an unforgettable moment for the audience."
+      ],
+      "blanks": [
+        "with her voice rising"
+      ],
+      "sentence": "The singer performed on stage with her voice rising, creating an unforgettable moment for the audience.",
+      "translation": "歌手的聲音在上升的情況下在舞台上表演，為觀眾創造了難忘的時刻。",
+      "keywords": [
+        "with獨立分詞",
+        "voice rising",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        ", the ancient temple remains a sacred place for pilgrims worldwide."
+      ],
+      "blanks": [
+        "With centuries passed"
+      ],
+      "sentence": "With centuries passed, the ancient temple remains a sacred place for pilgrims worldwide.",
+      "translation": "雖然幾個世紀已經過去，這座古老的寺廟仍然是全世界朝聖者的聖地。",
+      "keywords": [
+        "with獨立分詞",
+        "centuries passed",
+        "被動分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The athlete crossed the finish line ",
+        null,
+        ", raising his trophy in triumph."
+      ],
+      "blanks": [
+        "with sweat dripping down his face"
+      ],
+      "sentence": "The athlete crossed the finish line with sweat dripping down his face, raising his trophy in triumph.",
+      "translation": "運動員汗水滑落臉龐地衝過終點線，勝利地舉起獎杯。",
+      "keywords": [
+        "with獨立分詞",
+        "sweat dripping",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She sat in the dark room ",
+        null,
+        ", waiting for news from the hospital."
+      ],
+      "blanks": [
+        "with all the lights turned off"
+      ],
+      "sentence": "She sat in the dark room with all the lights turned off, waiting for news from the hospital.",
+      "translation": "她坐在所有燈都關掉的黑暗房間裡，等待醫院的消息。",
+      "keywords": [
+        "with獨立分詞",
+        "lights turned off",
+        "被動分詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "eyes closed",
+      "zh": "眼睛閉上"
+    },
+    {
+      "adj": "hands trembling",
+      "zh": "雙手顫抖"
+    },
+    {
+      "adj": "project finished",
+      "zh": "專案完成"
+    },
+    {
+      "adj": "head held high",
+      "zh": "昂著頭"
+    },
+    {
+      "adj": "heart full of",
+      "zh": "心中充滿"
+    },
+    {
+      "adj": "voice rising",
+      "zh": "聲音上升"
+    },
+    {
+      "adj": "tears falling",
+      "zh": "眼淚落下"
+    },
+    {
+      "adj": "arms crossed",
+      "zh": "雙臂交叉"
+    },
+    {
+      "adj": "door locked",
+      "zh": "門被鎖上"
+    },
+    {
+      "adj": "sun setting",
+      "zh": "太陽下山"
+    },
+    {
+      "adj": "dream shattered",
+      "zh": "夢想破碎"
+    },
+    {
+      "adj": "future uncertain",
+      "zh": "未來不確定"
+    }
+  ],
+  "vocab_table_label": "常用 with 獨立結構"
+}

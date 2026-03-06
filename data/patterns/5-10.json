@@ -1,0 +1,207 @@
+{
+  "code": "5-10",
+  "chapter": 5,
+  "title": "S + be + being + p.p.（進行被動）",
+  "formulas": [
+    {
+      "formula": "S + is/are + being + p.p.",
+      "zh": "現在進行式被動語態，表示現在正在被進行的動作"
+    },
+    {
+      "formula": "S + was/were + being + p.p.",
+      "zh": "過去進行式被動語態，表示過去某時正在被進行的動作"
+    }
+  ],
+  "explanation": "進行式被動語態表示動作正在進行中，由助動詞「is/are/was/were」加上「being」和過去分詞組成。現在進行式著重當下正在發生的被動動作，過去進行式則強調過去某時點正在進行的被動動作。此句型常用於描述正在進行的事件、過程或狀態，與簡單過去式被動語態的區別在於強調動作的進行性而非完成性。注意時態一致性和助動詞的主語搭配。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The building is being renovated by the construction company this year.",
+      "chi": "這棟建築物今年正在被建築公司翻新。",
+      "keywords": [
+        "is being renovated",
+        "現在進行式被動",
+        "正在進行"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "When I arrived, my presentation was being reviewed by the teacher.",
+      "chi": "當我到達時，我的報告正在被老師審查。",
+      "keywords": [
+        "was being reviewed",
+        "過去進行式被動",
+        "特定時點"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The new policy is being discussed by the government officials at this moment.",
+      "chi": "這項新政策此刻正在被政府官員討論。",
+      "keywords": [
+        "is being discussed",
+        "現在進行",
+        "at this moment"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The evidence was being examined when the accident occurred.",
+      "chi": "事故發生時，證據正在被檢查。",
+      "keywords": [
+        "was being examined",
+        "過去進行式被動",
+        "同時發生"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "辨別進行式被動與簡單式被動的關鍵：進行式強調「正在進行」的過程性，簡單式則表達「已完成或習慣性」的狀態。判斷句子中是否有「now、at this moment、right now、when」等時間詞提示，有助於確認使用進行式被動。避免與現在完成式被動（has been + p.p.）混淆。",
+    "examples": [
+      {
+        "test": "The house is being painted right now. vs The house is painted.",
+        "result": "→ 前者強調現在正在進行的動作，後者表示房子已被粉刷完成的狀態"
+      },
+      {
+        "test": "When you called, I was being interviewed. vs I was interviewed yesterday.",
+        "result": "→ 前者表過去某時正在進行，後者表過去已完成的事件"
+      },
+      {
+        "test": "The document is being prepared by the team. vs The document has been prepared.",
+        "result": "→ 前者表當前準備過程中，後者表準備已完成"
+      }
+    ],
+    "note": "記住：「being」是進行式被動的靈魂，有「being」就是進行式被動，必須搭配過去分詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The new shopping mall ",
+        null,
+        " by workers at present.",
+        ""
+      ],
+      "blanks": [
+        "is being constructed"
+      ],
+      "sentence": "The new shopping mall is being constructed by workers at present.",
+      "translation": "新購物中心目前正在被工人建造。",
+      "keywords": [
+        "is being constructed",
+        "現在進行式被動",
+        "at present"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "While we were eating, the table ",
+        null,
+        " by the waiter.",
+        ""
+      ],
+      "blanks": [
+        "was being cleared"
+      ],
+      "sentence": "While we were eating, the table was being cleared by the waiter.",
+      "translation": "當我們在吃飯時，桌子正在被侍者清理。",
+      "keywords": [
+        "was being cleared",
+        "過去進行式被動",
+        "while引導"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The suspect's phone ",
+        null,
+        " for important data right now.",
+        ""
+      ],
+      "blanks": [
+        "is being checked"
+      ],
+      "sentence": "The suspect's phone is being checked for important data right now.",
+      "translation": "嫌疑人的手機現在正在被檢查是否有重要資料。",
+      "keywords": [
+        "is being checked",
+        "現在進行式被動",
+        "for important data"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The project report ",
+        null,
+        " by three experts when the meeting started.",
+        ""
+      ],
+      "blanks": [
+        "was being reviewed"
+      ],
+      "sentence": "The project report was being reviewed by three experts when the meeting started.",
+      "translation": "會議開始時，項目報告正在被三位專家審查。",
+      "keywords": [
+        "was being reviewed",
+        "過去進行式被動",
+        "when引導時間"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "being renovated",
+      "zh": "正在被翻新"
+    },
+    {
+      "adj": "being built",
+      "zh": "正在被建造"
+    },
+    {
+      "adj": "being discussed",
+      "zh": "正在被討論"
+    },
+    {
+      "adj": "being examined",
+      "zh": "正在被檢查"
+    },
+    {
+      "adj": "being prepared",
+      "zh": "正在被準備"
+    },
+    {
+      "adj": "being repaired",
+      "zh": "正在被修理"
+    },
+    {
+      "adj": "being investigated",
+      "zh": "正在被調查"
+    },
+    {
+      "adj": "being considered",
+      "zh": "正在被考慮"
+    },
+    {
+      "adj": "being taught",
+      "zh": "正在被教授"
+    },
+    {
+      "adj": "being tested",
+      "zh": "正在被測試"
+    },
+    {
+      "adj": "being analyzed",
+      "zh": "正在被分析"
+    },
+    {
+      "adj": "being recorded",
+      "zh": "正在被記錄"
+    }
+  ],
+  "vocab_table_label": "常用進行被動片語"
+}

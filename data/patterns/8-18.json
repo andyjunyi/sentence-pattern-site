@@ -1,0 +1,203 @@
+{
+  "code": "8-18",
+  "chapter": 8,
+  "title": "not only...but (also)...（倒裝）",
+  "formulas": [
+    {
+      "formula": "Not only + 助動詞 + S + V..., but (also) + S + V...",
+      "zh": "不僅...而且...（置句首需倒裝，前半句助動詞提前，後半句正常語序）"
+    },
+    {
+      "formula": "Not only + 助動詞 + S + V + O..., but also + S + V + O...",
+      "zh": "不僅...而且...（連接兩個完整子句，表達雙重強調）"
+    }
+  ],
+  "explanation": "Not only置於句首時，主句需進行倒裝，將助動詞提至主詞前；but (also)部分則保持正常語序。此句型用於強調兩個同等重要的事實或觀點，常見於學術寫作與正式表達。注意not only與but also必須連接相同詞性或句法結構，動詞時態應與兩個主詞相符。易混淆點：倒裝只發生在not only部分，but also後不倒裝；避免將but or also混淆。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Not only does he speak English fluently, but also he masters Mandarin Chinese.",
+      "chi": "他不僅英文說得流利，而且精通漢語。",
+      "keywords": [
+        "倒裝結構",
+        "does提前",
+        "強調雙重能力"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Not only will the project save money, but it will also improve efficiency.",
+      "chi": "這個計畫不僅會省錢，而且還會提高效率。",
+      "keywords": [
+        "助動詞will倒裝",
+        "未來時態",
+        "雙重優勢"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Not only are smartphones useful tools, but they also influence our daily behavior.",
+      "chi": "智慧型手機不僅是有用的工具，而且還影響我們的日常行為。",
+      "keywords": [
+        "be動詞倒裝",
+        "are提前",
+        "社會影響"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Not only did Maria win the scholarship, but she also earned the teacher's award.",
+      "chi": "瑪麗亞不僅獲得了獎學金，而且還贏得了教師獎。",
+      "keywords": [
+        "did倒裝",
+        "過去式",
+        "多重成就"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷倒裝的關鍵：not only置句首→主句倒裝；not only在句中→主句不倒裝。常見助動詞倒裝順序：do/does/did最常見，will/can次之，be動詞(am/is/are/was/were)亦需倒裝。注意but also後保持正常語序，勿重複倒裝。",
+    "examples": [
+      {
+        "test": "✗ Not only he speaks English, but also he speaks Chinese.",
+        "result": "→ ✓ Not only does he speak English, but also he speaks Chinese. （缺少倒裝）"
+      },
+      {
+        "test": "✗ Not only does he speak English, but also does he speak Chinese.",
+        "result": "→ ✓ Not only does he speak English, but also he speaks Chinese. （but also後過度倒裝）"
+      },
+      {
+        "test": "✓ Not only is she talented, but she is also hardworking.",
+        "result": "→ 正確。be動詞is倒裝至句首，but also後恢復正常語序。"
+      }
+    ],
+    "note": "Not only句首必倒裝，but also後歸位——記住『前倒後正』原則。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Not only ",
+        null,
+        " the book interesting, but also it teaches us valuable lessons."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "Not only is the book interesting, but also it teaches us valuable lessons.",
+      "translation": "這本書不僅有趣，而且還教會我們寶貴的功課。",
+      "keywords": [
+        "be動詞倒裝",
+        "is提前",
+        "not only置句首"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Not only ",
+        null,
+        " she attend the conference, but she also presented her research."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not only did she attend the conference, but she also presented her research.",
+      "translation": "她不僅參加了會議，而且還發表了她的研究。",
+      "keywords": [
+        "助動詞did倒裝",
+        "過去式",
+        "雙重動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Not only ",
+        null,
+        " the students pass the exam, but they also achieved excellent grades."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not only did the students pass the exam, but they also achieved excellent grades.",
+      "translation": "學生們不僅通過了考試，而且還獲得了優異成績。",
+      "keywords": [
+        "過去式倒裝",
+        "did提前",
+        "複數主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Not only ",
+        null,
+        " this smartphone affordable, but it also has advanced features."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "Not only is this smartphone affordable, but it also has advanced features.",
+      "translation": "這支智慧型手機不僅價格親民，而且還具有先進功能。",
+      "keywords": [
+        "be動詞倒裝",
+        "現在式",
+        "產品特性"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "not only",
+      "zh": "不僅"
+    },
+    {
+      "adj": "but also",
+      "zh": "而且、同時"
+    },
+    {
+      "adj": "助動詞倒裝",
+      "zh": "do/does/did/will/can/have等提至主詞前"
+    },
+    {
+      "adj": "fluently",
+      "zh": "流利地、順暢地"
+    },
+    {
+      "adj": "master",
+      "zh": "精通、掌握"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善、提高"
+    },
+    {
+      "adj": "useful",
+      "zh": "有用的"
+    },
+    {
+      "adj": "influence",
+      "zh": "影響"
+    },
+    {
+      "adj": "earn",
+      "zh": "獲得、贏得"
+    },
+    {
+      "adj": "award",
+      "zh": "獎項、獎勵"
+    },
+    {
+      "adj": "同等重要",
+      "zh": "並列強調兩個相同權重的事實"
+    },
+    {
+      "adj": "強調效果",
+      "zh": "透過倒裝結構加強語氣和說服力"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}

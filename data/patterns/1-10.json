@@ -1,0 +1,206 @@
+{
+  "code": "1-10",
+  "chapter": 1,
+  "title": "It is... that/who + 強調部分（強調句）",
+  "formulas": [
+    {
+      "formula": "It is/was + 強調部分（人/事/物/時間/地點） + that + 剩餘句子",
+      "zh": "就是……（強調句中某一成分）"
+    },
+    {
+      "formula": "It is/was + 強調部分（人） + who + 剩餘句子",
+      "zh": "就是某人……（強調人物時可用 who 替代 that）"
+    }
+  ],
+  "explanation": "分裂句（cleft sentence）是將一個完整句子拆開，把要強調的部分放在 It is/was 與 that/who 之間，藉此突顯該成分。可強調主詞、受詞、時間副詞、地點副詞等，但不能強調動詞或形容詞。若強調的是「人」，that 可替換為 who；強調「物、時間、地點」則只用 that。判斷是否為分裂句的方法：將 It is/was 與 that/who 去掉後，剩餘部分應能還原為一個完整句子。時態上，主要事件在過去用 was，在現在或一般事實用 is。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It was my grandmother who taught me how to cook traditional dishes.",
+      "chi": "就是我的祖母教我如何烹煮傳統菜餚。",
+      "keywords": [
+        "It was",
+        "who"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It is hard work that leads to true success in the long run.",
+      "chi": "就是努力付出才能在長遠中帶來真正的成功。",
+      "keywords": [
+        "It is",
+        "that"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It was in the library that I found the book I had been looking for.",
+      "chi": "就是在圖書館裡，我找到了一直在尋找的那本書。",
+      "keywords": [
+        "It was",
+        "in the library",
+        "that"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It was not until midnight that she finally finished her research paper.",
+      "chi": "直到午夜她才終於完成了她的研究報告。",
+      "keywords": [
+        "It was not until",
+        "that"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷分裂句的方法：將 It is/was 和 that/who 同時刪除，若剩下的部分能組成一個文法正確、語意完整的句子，就是分裂句。若刪除後句意不完整，則 It 可能是虛主詞或代名詞，並非分裂句結構。",
+    "examples": [
+      {
+        "test": "It was Tom that broke the window. → 去掉 It was 和 that → Tom broke the window.",
+        "result": "→ 句意完整，確認為分裂句，強調主詞 Tom。"
+      },
+      {
+        "test": "It is important that you arrive on time.",
+        "result": "→ 去掉 It is 和 that → important you arrive on time（不完整），這不是分裂句，而是虛主詞句型。"
+      },
+      {
+        "test": "It was yesterday that I met her. vs. I met her yesterday.",
+        "result": "→ 分裂句強調時間 yesterday，還原後為完整句 I met her yesterday。"
+      }
+    ],
+    "note": "去掉 It is/was 和 that，能還原完整句就是分裂句！"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " my best friend ",
+        null,
+        " helped me get through the difficult time."
+      ],
+      "blanks": [
+        "It was",
+        "who"
+      ],
+      "sentence": "It was my best friend who helped me get through the difficult time.",
+      "translation": "就是我最好的朋友幫助我度過了那段艱難的時光。",
+      "keywords": [
+        "It was",
+        "who"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " in Tainan ",
+        null,
+        " we enjoyed the most delicious street food."
+      ],
+      "blanks": [
+        "It was",
+        "that"
+      ],
+      "sentence": "It was in Tainan that we enjoyed the most delicious street food.",
+      "translation": "就是在台南，我們品嚐到了最美味的街頭小吃。",
+      "keywords": [
+        "It was",
+        "in Tainan",
+        "that"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " her encouragement ",
+        null,
+        " gave me the courage to try again."
+      ],
+      "blanks": [
+        "It was",
+        "that"
+      ],
+      "sentence": "It was her encouragement that gave me the courage to try again.",
+      "translation": "就是她的鼓勵給了我再次嘗試的勇氣。",
+      "keywords": [
+        "It was",
+        "that"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " she finally realized the importance of teamwork."
+      ],
+      "blanks": [
+        "It was not until she failed that"
+      ],
+      "sentence": "It was not until she failed that she finally realized the importance of teamwork.",
+      "translation": "直到她失敗了，她才終於了解團隊合作的重要性。",
+      "keywords": [
+        "It was not until",
+        "that"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "not until",
+      "zh": "直到……才"
+    },
+    {
+      "adj": "in + 地點",
+      "zh": "在某地（強調地點）"
+    },
+    {
+      "adj": "on + 日期/星期",
+      "zh": "在某日（強調時間）"
+    },
+    {
+      "adj": "because of",
+      "zh": "因為（強調原因）"
+    },
+    {
+      "adj": "through",
+      "zh": "透過（強調方式）"
+    },
+    {
+      "adj": "for this reason",
+      "zh": "因為這個原因"
+    },
+    {
+      "adj": "after",
+      "zh": "在……之後（強調時間）"
+    },
+    {
+      "adj": "during",
+      "zh": "在……期間（強調時段）"
+    },
+    {
+      "adj": "by + 方式",
+      "zh": "藉由（強調手段）"
+    },
+    {
+      "adj": "only when",
+      "zh": "唯有當……"
+    },
+    {
+      "adj": "with + 名詞",
+      "zh": "帶著／用（強調伴隨）"
+    },
+    {
+      "adj": "from + 來源",
+      "zh": "從……（強調來源）"
+    }
+  ],
+  "vocab_table_label": "常用強調結構"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "8-29",
+  "chapter": 8,
+  "title": "Hardly/Scarcely + had + S + p.p. + when + S + V",
+  "formulas": [
+    {
+      "formula": "Hardly/Scarcely + had + S + p.p. + when/before + S + V",
+      "zh": "倒裝句型，表達「幾乎還沒……就……」，強調兩個動作幾乎同時發生"
+    },
+    {
+      "formula": "Hardly/Scarcely + had + S + p.p. + than + S + V",
+      "zh": "同義用法，用 than 替代 when/before，表達相同意思"
+    }
+  ],
+  "explanation": "此句型為強調倒裝結構，將 Hardly 或 Scarcely 置句首以表達「剛好……就……」的時間上的緊密關聯。主句使用過去完成時（had + p.p.），強調第一個動作發生於第二個動作之前，但兩者幾乎同時。when/before 後的從句使用簡單過去時，不發生倒裝。此句型常用於敘事文中製造戲劇效果，或在考試中測試學生對時態與倒裝的掌握。易混淆點：不可在 when/before 從句中倒裝；hardly/scarcely 後必須是完成時。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Hardly had she finished her homework when her mother called for dinner.",
+      "chi": "她幾乎還沒做完功課，她媽媽就叫她吃飯。",
+      "keywords": [
+        "倒裝",
+        "過去完成時",
+        "幾乎同時"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Scarcely had the meeting begun before the fire alarm went off.",
+      "chi": "會議幾乎才開始，火警警報就響了。",
+      "keywords": [
+        "Scarcely",
+        "before",
+        "緊急狀況"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Hardly had we arrived at the airport when the plane was announced delayed.",
+      "chi": "我們幾乎才到機場，飛機就被宣布延誤了。",
+      "keywords": [
+        "到達",
+        "延誤",
+        "不幸時機"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Scarcely had he taken his seat than the lights went out in the cinema.",
+      "chi": "他幾乎才坐下，電影院的燈就滅了。",
+      "keywords": [
+        "than",
+        "瞬間發生",
+        "黑暗"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵：(1) 句首必為 Hardly/Scarcely；(2) 第二個動詞必為過去完成時態；(3) when/before/than 後為簡單過去時，不倒裝；(4) 若未倒裝或時態錯誤則非此句型。常見錯誤為在 when 從句中也進行倒裝，或使用現在完成時。",
+    "examples": [
+      {
+        "test": "Hardly had she arrived when he came.",
+        "result": "→ 正確。主句倒裝（had arrived），從句正常語序（he came）"
+      },
+      {
+        "test": "Hardly she had arrived when he came.",
+        "result": "→ 錯誤。缺少倒裝結構，應為 Hardly had she arrived"
+      },
+      {
+        "test": "Scarcely had the game started than he scored.",
+        "result": "→ 正確。用 than 替代 when，保持倒裝和過去完成時"
+      }
+    ],
+    "note": "「Hardly/Scarcely + had」必倒裝；「when/before/than」後從句不倒裝，時態簡單過去——倒裝、完成、簡單過去，三步不能亂。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        null,
+        " had the doctor arrived when the patient woke up.",
+        ""
+      ],
+      "blanks": [
+        "Hardly/Scarcely"
+      ],
+      "sentence": "Hardly had the doctor arrived when the patient woke up.",
+      "translation": "醫生幾乎才到達，病人就醒了。",
+      "keywords": [
+        "倒裝",
+        "過去完成時",
+        "到達"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Scarcely had she finished speaking ",
+        null,
+        " everyone started applauding."
+      ],
+      "blanks": [
+        "when/before"
+      ],
+      "sentence": "Scarcely had she finished speaking when everyone started applauding.",
+      "translation": "她幾乎才說完，大家就開始鼓掌。",
+      "keywords": [
+        "Scarcely",
+        "完成",
+        "掌聲"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Hardly ",
+        null,
+        " the room than the power went out."
+      ],
+      "blanks": [
+        "had he entered"
+      ],
+      "sentence": "Hardly had he entered the room than the power went out.",
+      "translation": "他幾乎才進房間，電就停了。",
+      "keywords": [
+        "進入",
+        "停電",
+        "than"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " had we left home before it started raining heavily.",
+        ""
+      ],
+      "blanks": [
+        "Scarcely"
+      ],
+      "sentence": "Scarcely had we left home before it started raining heavily.",
+      "translation": "我們幾乎才離家，就開始下大雨了。",
+      "keywords": [
+        "離開",
+        "下雨",
+        "倒裝"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "arrive at",
+      "zh": "到達"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "leave",
+      "zh": "離開"
+    },
+    {
+      "adj": "hang up",
+      "zh": "掛電話"
+    },
+    {
+      "adj": "sit down",
+      "zh": "坐下"
+    },
+    {
+      "adj": "turn around",
+      "zh": "轉身"
+    },
+    {
+      "adj": "open the door",
+      "zh": "開門"
+    },
+    {
+      "adj": "speak out",
+      "zh": "說出來"
+    },
+    {
+      "adj": "enter the room",
+      "zh": "進入房間"
+    },
+    {
+      "adj": "catch sight of",
+      "zh": "看到"
+    },
+    {
+      "adj": "get into the car",
+      "zh": "上車"
+    },
+    {
+      "adj": "break the silence",
+      "zh": "打破沉默"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

@@ -1,0 +1,219 @@
+{
+  "code": "5-2",
+  "chapter": 5,
+  "title": "S + 授與動詞 + IO + DO（雙受詞）",
+  "formulas": [
+    {
+      "formula": "S + give/send/teach/show + IO + DO",
+      "zh": "主詞 + 授與動詞 + 間接受詞（人）+ 直接受詞（物）"
+    },
+    {
+      "formula": "S + give/send/teach/show + DO + to/for + IO",
+      "zh": "主詞 + 授與動詞 + 直接受詞（物）+ to/for + 間接受詞（人）"
+    }
+  ],
+  "explanation": "授與動詞表示將某物給予或傳遞給他人。結構中IO（間接受詞）為人，DO（直接受詞）為物。雙賓語結構可改寫為「DO + to/for + IO」形式。選用to或for的規則：give/send/teach/show後接to；make/buy/cook後接for。此句型是英文中常見的雙賓語結構，理解兩種改寫形式對學生掌握句型變化至關重要。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher gave the students a detailed explanation about the chemistry experiment.",
+      "chi": "老師給學生們一份關於化學實驗的詳細說明。",
+      "keywords": [
+        "give",
+        "IO + DO",
+        "teacher",
+        "students"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She sent her grandmother a handmade card on Mother's Day.",
+      "chi": "她在母親節寄給祖母一張親手製作的卡片。",
+      "keywords": [
+        "send",
+        "IO + DO",
+        "grandmother",
+        "card"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Could you show me how to use this new software properly?",
+      "chi": "你能示範給我如何正確使用這個新軟體嗎？",
+      "keywords": [
+        "show",
+        "IO + DO",
+        "me",
+        "how"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The coach taught the young athletes several effective training techniques.",
+      "chi": "教練教年輕運動員們幾項有效的訓練技巧。",
+      "keywords": [
+        "teach",
+        "IO + DO",
+        "athletes",
+        "techniques"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷to或for的關鍵：give/send/teach/show + to（表轉移或傳遞）；make/buy/cook + for（表製作或準備目的）。注意某些動詞如send可接to（寄給）或for（派人去取），意思不同。錯用介詞會導致意思偏離。",
+    "examples": [
+      {
+        "test": "I gave a book to my friend. vs. I gave a gift for my friend.",
+        "result": "→ 前句表直接給予所有權（to）；後句可能表為了朋友的目的準備禮物（for），但通常用to更自然"
+      },
+      {
+        "test": "She cooked dinner for her family. vs. She sent the package to the office.",
+        "result": "→ 前句用for（為家人準備食物）；後句用to（物件轉移至辦公室）"
+      },
+      {
+        "test": "Please show this document to the manager. vs. Make a schedule for the team.",
+        "result": "→ 前句用to（展示給某人看）；後句用for（為團隊製作）"
+      }
+    ],
+    "note": "記憶口訣：「give/send/teach/show用to轉移物件給人；make/buy/cook用for為人準備東西」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The principal ",
+        null,
+        " all the new teachers useful teaching materials at the beginning of the school year.",
+        null
+      ],
+      "blanks": [
+        "gave",
+        "to"
+      ],
+      "sentence": "The principal gave all the new teachers useful teaching materials to at the beginning of the school year.",
+      "translation": "校長在學年開始時把有用的教學資料給了所有新老師。",
+      "keywords": [
+        "give",
+        "IO + DO",
+        "materials"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "My grandmother ",
+        null,
+        " me a wonderful recipe that has been in our family for generations.",
+        null
+      ],
+      "blanks": [
+        "taught",
+        "to"
+      ],
+      "sentence": "My grandmother taught me a wonderful recipe that has been in our family for generations.",
+      "translation": "我祖母教了我一份在我們家族代代相傳的美妙食譜。",
+      "keywords": [
+        "teach",
+        "IO + DO",
+        "recipe"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The museum director ",
+        null,
+        " the new artifact ",
+        null,
+        " all the visiting researchers with great enthusiasm.",
+        null
+      ],
+      "blanks": [
+        "showed",
+        "to"
+      ],
+      "sentence": "The museum director showed the new artifact to all the visiting researchers with great enthusiasm.",
+      "translation": "博物館館長滿腔熱情地向所有訪問的研究人員展示了新文物。",
+      "keywords": [
+        "show",
+        "DO + to + IO",
+        "artifact"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Please ",
+        null,
+        " this important letter ",
+        null,
+        " the finance department by tomorrow morning.",
+        null
+      ],
+      "blanks": [
+        "send",
+        "to"
+      ],
+      "sentence": "Please send this important letter to the finance department by tomorrow morning.",
+      "translation": "請在明早前把這封重要信件寄給財務部門。",
+      "keywords": [
+        "send",
+        "DO + to + IO",
+        "letter"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "give",
+      "zh": "給予"
+    },
+    {
+      "adj": "send",
+      "zh": "寄送"
+    },
+    {
+      "adj": "teach",
+      "zh": "教導"
+    },
+    {
+      "adj": "show",
+      "zh": "展示、說明"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    },
+    {
+      "adj": "offer",
+      "zh": "提供"
+    },
+    {
+      "adj": "pass",
+      "zh": "傳遞"
+    },
+    {
+      "adj": "lend",
+      "zh": "借出"
+    },
+    {
+      "adj": "write",
+      "zh": "寫"
+    },
+    {
+      "adj": "read",
+      "zh": "讀"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "promise",
+      "zh": "承諾"
+    }
+  ],
+  "vocab_table_label": "常用授與動詞"
+}

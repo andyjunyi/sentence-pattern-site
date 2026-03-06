@@ -1,0 +1,215 @@
+{
+  "code": "5-15",
+  "chapter": 5,
+  "title": "S + get/cause + O + to V（使役動詞）",
+  "formulas": [
+    {
+      "formula": "get + O + to V",
+      "zh": "使役某人做某事（較口語、費力感）"
+    },
+    {
+      "formula": "cause + O + to V",
+      "zh": "導致某人/物做某事（較正式、客觀因果）"
+    }
+  ],
+  "explanation": "get 和 cause 都是使役動詞，後接受詞加不定詞。get 強調透過說服、勸導等努力使他人做事，帶有口語色彩；cause 表達客觀的因果關係，較正式。兩者皆須接 to V（不同於 make/have 接原形動詞）。注意受詞必須是人或有行為能力的對象，to V 前不可省略 to，否則違反句型規則。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I couldn't get my friend to believe my incredible story about the accident.",
+      "chi": "我無法讓我的朋友相信我關於這場事故的不可思議故事。",
+      "keywords": [
+        "get",
+        "to believe",
+        "使役"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The heavy rain caused the baseball game to be postponed until next week.",
+      "chi": "大雨導致棒球比賽被延期到下週。",
+      "keywords": [
+        "cause",
+        "to be postponed",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "What finally got him to make a decision after months of hesitation?",
+      "chi": "經過數月的猶豫後，是什麼終於促使他做出決定？",
+      "keywords": [
+        "get",
+        "to make",
+        "說服效果"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The new policy caused many employees to reconsider their career paths.",
+      "chi": "新政策導致許多員工重新思考他們的職業道路。",
+      "keywords": [
+        "cause",
+        "to reconsider",
+        "結果狀態"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "get 與 cause 的關鍵區別：get 常指「通過勸說、努力或技巧」使人做事，帶有主觀意圖；cause 指「客觀原因」導致結果發生，通常不含意圖。另外，make 和 have 後接原形動詞（V），不能加 to，這是最常見的混淆點。",
+    "examples": [
+      {
+        "test": "I got him _____ the project. (make vs. to complete)",
+        "result": "→ I got him to complete the project.（正確）；I got him complete... 或 I made him to complete...（皆錯誤）"
+      },
+      {
+        "test": "The accident caused three people _____ to hospital. (去醫院)",
+        "result": "→ The accident caused three people to go to hospital.（正確）；caused...go（缺 to，錯誤）"
+      },
+      {
+        "test": "She managed _____ her parents to allow her to travel abroad.",
+        "result": "→ She managed to get her parents to allow her to travel abroad.（正確使役鏈結）"
+      }
+    ],
+    "note": "get + to V = 說服式使役；cause + to V = 因果式使役；make/have + V = 原形使役。三者 to 的有無是判別關鍵。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teacher couldn't ",
+        null,
+        " the students ",
+        null,
+        " silent during the test."
+      ],
+      "blanks": [
+        "get",
+        "to remain"
+      ],
+      "sentence": "The teacher couldn't get the students to remain silent during the test.",
+      "translation": "老師無法讓學生在考試期間保持安靜。",
+      "keywords": [
+        "get",
+        "to remain",
+        "使役結構"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The severe storm ",
+        null,
+        " several trees ",
+        null,
+        " down, which blocked the main road."
+      ],
+      "blanks": [
+        "caused",
+        "to fall"
+      ],
+      "sentence": "The severe storm caused several trees to fall down, which blocked the main road.",
+      "translation": "嚴重的風暴導致幾棵樹倒下，阻塞了主要道路。",
+      "keywords": [
+        "cause",
+        "to fall",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "He finally ",
+        null,
+        " his sister ",
+        null,
+        " attend the family dinner by promising her a reward."
+      ],
+      "blanks": [
+        "got",
+        "to"
+      ],
+      "sentence": "He finally got his sister to attend the family dinner by promising her a reward.",
+      "translation": "他終於通過許諾獎勵讓妹妹參加家庭晚宴。",
+      "keywords": [
+        "get",
+        "to attend",
+        "說服成功"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The company's environmental policy ",
+        null,
+        " all departments ",
+        null,
+        " reduce their carbon footprint."
+      ],
+      "blanks": [
+        "caused",
+        "to"
+      ],
+      "sentence": "The company's environmental policy caused all departments to reduce their carbon footprint.",
+      "translation": "公司的環保政策導致所有部門減少碳足跡。",
+      "keywords": [
+        "cause",
+        "to reduce",
+        "政策效應"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "get",
+      "zh": "使役（口語、需努力）"
+    },
+    {
+      "adj": "cause",
+      "zh": "導致（正式、客觀）"
+    },
+    {
+      "adj": "to V",
+      "zh": "不定詞（必須帶 to）"
+    },
+    {
+      "adj": "persuade",
+      "zh": "勸說；說服"
+    },
+    {
+      "adj": "force",
+      "zh": "強迫；被迫"
+    },
+    {
+      "adj": "encourage",
+      "zh": "鼓勵；促使"
+    },
+    {
+      "adj": "convince",
+      "zh": "說服；使確信"
+    },
+    {
+      "adj": "compel",
+      "zh": "迫使；強制"
+    },
+    {
+      "adj": "enable",
+      "zh": "使能夠；使可能"
+    },
+    {
+      "adj": "happen",
+      "zh": "碰巧；恰好發生"
+    },
+    {
+      "adj": "manage",
+      "zh": "設法；成功地做"
+    },
+    {
+      "adj": "difficulty",
+      "zh": "困難；勉強"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

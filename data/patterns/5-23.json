@@ -1,0 +1,203 @@
+{
+  "code": "5-23",
+  "chapter": 5,
+  "title": "S + be used to + V-ing（習慣於）",
+  "formulas": [
+    {
+      "formula": "S + be used to + V-ing",
+      "zh": "主詞現在習慣於做某事（已成為習慣的狀態）"
+    },
+    {
+      "formula": "S + get used to + V-ing",
+      "zh": "主詞逐漸習慣於做某事（習慣化的過程）"
+    }
+  ],
+  "explanation": "be used to 表示已經習慣某事物或某活動，強調目前的習慣狀態。get used to 則表逐漸適應、習慣化的過程。兩者的關鍵點是 to 為介系詞，後接動名詞（V-ing），不是動詞原形。易混淆點：used to + V 表過去習慣性動作，已停止；而 be/get used to + V-ing 強調現在或正在進行的習慣。學測常考區分這兩者的差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I am used to getting up early every morning for my job.",
+      "chi": "我已經習慣於每天早起上班。",
+      "keywords": [
+        "be used to",
+        "getting up",
+        "現在習慣"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She is getting used to living in a new city after three months.",
+      "chi": "三個月後，她逐漸習慣於住在新城市。",
+      "keywords": [
+        "get used to",
+        "living",
+        "逐漸適應"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "My parents are used to eating late dinner because of their work schedule.",
+      "chi": "由於工作時間，我的父母已經習慣於晚餐吃得很晚。",
+      "keywords": [
+        "be used to",
+        "eating",
+        "已成習慣"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The students gradually got used to studying online during the pandemic.",
+      "chi": "學生們在疫情期間逐漸習慣於線上學習。",
+      "keywords": [
+        "get used to",
+        "studying",
+        "逐漸適應過程"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：be used to 強調現在已有的習慣狀態，動詞用現在式；get used to 強調習慣化的過程，通常搭配時間詞如 gradually、after、within 等。記住 to 後必須加 V-ing，不能加原形動詞。used to + V 只指過去習慣，已不存在。",
+    "examples": [
+      {
+        "test": "錯誤：I am used to go to school early.",
+        "result": "→ 正確：I am used to going to school early.（to 是介系詞，後接 V-ing）"
+      },
+      {
+        "test": "區別：He used to smoke.（過去習慣，已戒）",
+        "result": "→ He is used to smoking.（現在習慣，仍在進行）"
+      },
+      {
+        "test": "錯誤：She gets used to work here.",
+        "result": "→ 正確：She is getting used to working here.（進行式表逐漸適應過程）"
+      }
+    ],
+    "note": "記住：be/get used to 後接 V-ing；used to 後接原形動詞。前者講現在習慣，後者講過去習慣。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "My brother ",
+        null,
+        " taking public transportation since he moved to Taipei."
+      ],
+      "blanks": [
+        "is used to"
+      ],
+      "sentence": "My brother is used to taking public transportation since he moved to Taipei.",
+      "translation": "我哥哥自從搬到台北後，已經習慣於搭乘大眾運輸。",
+      "keywords": [
+        "be used to",
+        "taking",
+        "已成習慣"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The workers are gradually ",
+        null,
+        " the new production system."
+      ],
+      "blanks": [
+        "getting used to"
+      ],
+      "sentence": "The workers are gradually getting used to the new production system.",
+      "translation": "工人們正在逐漸習慣新的生產系統。",
+      "keywords": [
+        "get used to",
+        "逐漸適應",
+        "gradually"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "After living abroad for two years, she ",
+        null,
+        " communicating in English."
+      ],
+      "blanks": [
+        "got used to"
+      ],
+      "sentence": "After living abroad for two years, she got used to communicating in English.",
+      "translation": "在國外住了兩年後，她習慣於用英文溝通。",
+      "keywords": [
+        "get used to",
+        "communicating",
+        "過程完成"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Athletes ",
+        null,
+        " training hard and dealing with pressure every day."
+      ],
+      "blanks": [
+        "are used to"
+      ],
+      "sentence": "Athletes are used to training hard and dealing with pressure every day.",
+      "translation": "運動員已經習慣於每天努力訓練和承受壓力。",
+      "keywords": [
+        "be used to",
+        "training",
+        "現在習慣狀態"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "accustomed",
+      "zh": "習慣的、適應的"
+    },
+    {
+      "adj": "familiar",
+      "zh": "熟悉的"
+    },
+    {
+      "adj": "comfortable",
+      "zh": "舒適的、習慣的"
+    },
+    {
+      "adj": "adjusted",
+      "zh": "調適好的"
+    },
+    {
+      "adj": "adapted",
+      "zh": "適應的"
+    },
+    {
+      "adj": "settled",
+      "zh": "安定的、習慣的"
+    },
+    {
+      "adj": "accustom",
+      "zh": "使習慣"
+    },
+    {
+      "adj": "gradually",
+      "zh": "逐漸地"
+    },
+    {
+      "adj": "already",
+      "zh": "已經"
+    },
+    {
+      "adj": "eventually",
+      "zh": "最終、逐漸地"
+    },
+    {
+      "adj": "finally",
+      "zh": "最後、終於"
+    },
+    {
+      "adj": "routine",
+      "zh": "日常的、習慣的"
+    }
+  ],
+  "vocab_table_label": "常用形容詞"
+}

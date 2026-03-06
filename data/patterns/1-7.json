@@ -1,0 +1,203 @@
+{
+  "code": "1-7",
+  "chapter": 1,
+  "title": "It + be + no use/good + V-ing",
+  "formulas": [
+    {
+      "formula": "It is no use + V-ing",
+      "zh": "做……是沒有用的"
+    },
+    {
+      "formula": "It is no good + V-ing",
+      "zh": "做……是不好的、沒效果的"
+    }
+  ],
+  "explanation": "此句型用「It is no use/good + 動名詞」表達某動作缺乏效益或無法達成目的。結構上，it為虛主語，真正主語為後面的動名詞短語。使用時機為勸阻他人無謂的嘗試或陳述事實上無用功。易混淆點：應用動名詞而非不定詞；「no use」後接動名詞，不可接名詞；類似表達還有「There is no use in V-ing」或「It is useless to V」。注意「no good」可表達消極結果，「no use」強調無效用。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is no use crying over spilled milk.",
+      "chi": "覆水難收，為已發生的事哭泣是徒勞的。",
+      "keywords": [
+        "no use",
+        "V-ing",
+        "徒勞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It is no good trying to convince him because he is too stubborn.",
+      "chi": "試圖說服他是沒有用的，因為他太固執了。",
+      "keywords": [
+        "no good",
+        "trying",
+        "徒勞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is no use complaining about the weather without taking action.",
+      "chi": "光是抱怨天氣而不採取行動是沒有用的。",
+      "keywords": [
+        "no use",
+        "complaining",
+        "無效"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It is no good waiting for him because he has already left the city.",
+      "chi": "等他是沒有用的，因為他已經離開這個城市了。",
+      "keywords": [
+        "no good",
+        "waiting",
+        "徒勞"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：「It is no use + V-ing」用於陳述事實上的無效，帶有規勸或勸阻意涵。常見錯誤：誤用「It is no use to V」或「It is no use + 名詞」。記住搭配必須是動名詞，表達「做某事於事無補」的客觀事實。",
+    "examples": [
+      {
+        "test": "It is no use to complain. ✗",
+        "result": "→ It is no use complaining. ✓（應用動名詞，不用不定詞）"
+      },
+      {
+        "test": "It is no use crying over spilled milk. ✓",
+        "result": "→ 正確用法，表示後悔過去的事是徒勞的"
+      },
+      {
+        "test": "There is no use in arguing with him. ✓",
+        "result": "→ 替代表達方式，意思相同，都表達爭論無效"
+      }
+    ],
+    "note": "「It is no use + V-ing」=「It is useless to V」，動名詞為此句型的標準搭配，傳達「做……於事無補」之意。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "It is no good ",
+        null,
+        " to change the situation now."
+      ],
+      "blanks": [
+        "trying"
+      ],
+      "sentence": "It is no good trying to change the situation now.",
+      "translation": "現在試圖改變情況是沒有用的。",
+      "keywords": [
+        "no good",
+        "trying",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It is no use ",
+        null,
+        " about what cannot be changed."
+      ],
+      "blanks": [
+        "worrying"
+      ],
+      "sentence": "It is no use worrying about what cannot be changed.",
+      "translation": "為無法改變的事擔憂是徒勞的。",
+      "keywords": [
+        "no use",
+        "worrying",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It is no good ",
+        null,
+        " that you did not know the truth."
+      ],
+      "blanks": [
+        "pretending"
+      ],
+      "sentence": "It is no good pretending that you did not know the truth.",
+      "translation": "假裝你不知道真相是沒有用的。",
+      "keywords": [
+        "no good",
+        "pretending",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "It is no use ",
+        null,
+        " him because he has made up his mind."
+      ],
+      "blanks": [
+        "arguing with"
+      ],
+      "sentence": "It is no use arguing with him because he has made up his mind.",
+      "translation": "與他爭論是沒有用的，因為他已經下定決心了。",
+      "keywords": [
+        "no use",
+        "arguing with",
+        "V-ing"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "no use",
+      "zh": "沒有用的、徒勞的"
+    },
+    {
+      "adj": "no good",
+      "zh": "沒有效果的、不好的"
+    },
+    {
+      "adj": "crying",
+      "zh": "哭泣"
+    },
+    {
+      "adj": "trying",
+      "zh": "嘗試"
+    },
+    {
+      "adj": "complaining",
+      "zh": "抱怨"
+    },
+    {
+      "adj": "waiting",
+      "zh": "等待"
+    },
+    {
+      "adj": "arguing",
+      "zh": "爭論"
+    },
+    {
+      "adj": "worrying",
+      "zh": "擔憂"
+    },
+    {
+      "adj": "pretending",
+      "zh": "假裝"
+    },
+    {
+      "adj": "blaming",
+      "zh": "責備"
+    },
+    {
+      "adj": "denying",
+      "zh": "否認"
+    },
+    {
+      "adj": "asking",
+      "zh": "詢問"
+    }
+  ],
+  "vocab_table_label": "常用片語"
+}

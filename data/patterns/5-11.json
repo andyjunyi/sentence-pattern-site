@@ -1,0 +1,203 @@
+{
+  "code": "5-11",
+  "chapter": 5,
+  "title": "S + be + p.p. + to V（被動 + 不定詞）",
+  "formulas": [
+    {
+      "formula": "S + be + expected/required/allowed/asked + to V",
+      "zh": "主詞+被動(是)+ 形容詞 + 不定詞，表示主詞被期望/要求/允許/要求去做某事"
+    },
+    {
+      "formula": "S + be + told/forced/encouraged/permitted + to V",
+      "zh": "主詞+被動(是)+ 過去分詞 + 不定詞，表示主詞被告知/強迫/鼓勵/允許去做某事"
+    }
+  ],
+  "explanation": "此句型是被動語態與不定詞的結合，表達對主詞的期望、要求、允許或命令。核心結構為『be + 形容詞/過去分詞 + to不定詞』。常見動詞包括expect、require、allow、ask、tell、force、encourage、permit等。使用時機為強調被動方接收到的義務或允可。注意to不定詞與被動語態動詞之間有邏輯的主受關係，不可省略to。易混淆點為不定詞前的to不能刪除，且此結構與『S + be + adj + to V』(表可能性)在形式相似但意義不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Students are required to submit their assignments by Friday.",
+      "chi": "學生被要求在星期五之前提交功課。",
+      "keywords": [
+        "be required to",
+        "submit",
+        "被動要求"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Children are not allowed to enter the museum without parental supervision.",
+      "chi": "沒有父母監督的情況下，兒童不被允許進入博物館。",
+      "keywords": [
+        "be allowed to",
+        "without",
+        "被動許可"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The employees were asked to attend the safety training session.",
+      "chi": "員工被要求參加安全訓練課程。",
+      "keywords": [
+        "be asked to",
+        "attend",
+        "被動要求"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "All passengers are expected to fasten their seatbelts before takeoff.",
+      "chi": "所有乘客被期望在起飛前繫好安全帶。",
+      "keywords": [
+        "be expected to",
+        "fasten",
+        "被動期望"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷句型的關鍵是識別被動語態結構『be + 形容詞/過去分詞』之後必接『to + 動詞』。常見錯誤為遺漏to或誤用為『be + 形容詞 + V-ing』。若要轉換為主動語態，則為『Someone + 及物動詞 + S + to V』，邏輯關係保持不變。",
+    "examples": [
+      {
+        "test": "Students are expected finishing their projects on time.",
+        "result": "✗ 錯誤 → Students are expected to finish their projects on time. ✓ 正確（to不能省略，不定詞不能改為V-ing）"
+      },
+      {
+        "test": "He was told to report the incident immediately. = Someone told him to report the incident immediately.",
+        "result": "✓ 正確 → 被動語態與主動語態邏輯一致，均表達命令或要求的轉達"
+      },
+      {
+        "test": "Children are allowed to stay up late on weekends. ≠ Children are allowed staying up late on weekends.",
+        "result": "✓ 前者正確 → 被動結構後必接to不定詞，不使用V-ing形式"
+      }
+    ],
+    "note": "記憶口訣：『被動期望要求允，動詞前面加to字；形容詞或過去分，be動詞銜接to不定』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "All employees ",
+        null,
+        " attend the mandatory meeting next Monday."
+      ],
+      "blanks": [
+        "are required to"
+      ],
+      "sentence": "All employees are required to attend the mandatory meeting next Monday.",
+      "translation": "所有員工被要求在下星期一參加強制會議。",
+      "keywords": [
+        "be required to",
+        "attend",
+        "mandatory"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Young people ",
+        null,
+        " work more than eight hours per day according to the new labor law."
+      ],
+      "blanks": [
+        "are not allowed to"
+      ],
+      "sentence": "Young people are not allowed to work more than eight hours per day according to the new labor law.",
+      "translation": "根據新勞動法，年輕人不被允許每天工作超過八小時。",
+      "keywords": [
+        "be allowed to",
+        "work",
+        "labor law"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The witness ",
+        null,
+        " testify in court about what he witnessed that night."
+      ],
+      "blanks": [
+        "was asked to"
+      ],
+      "sentence": "The witness was asked to testify in court about what he witnessed that night.",
+      "translation": "證人被要求在法庭上作證他那晚目睹的情況。",
+      "keywords": [
+        "be asked to",
+        "testify",
+        "witness"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Participants ",
+        null,
+        " complete the survey by providing honest and detailed answers."
+      ],
+      "blanks": [
+        "are expected to"
+      ],
+      "sentence": "Participants are expected to complete the survey by providing honest and detailed answers.",
+      "translation": "參與者被期望通過提供誠實和詳細的答案來完成調查。",
+      "keywords": [
+        "be expected to",
+        "complete",
+        "honest"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "expect",
+      "zh": "期望"
+    },
+    {
+      "adj": "require",
+      "zh": "要求"
+    },
+    {
+      "adj": "allow",
+      "zh": "允許"
+    },
+    {
+      "adj": "ask",
+      "zh": "要求"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    },
+    {
+      "adj": "force",
+      "zh": "強迫"
+    },
+    {
+      "adj": "encourage",
+      "zh": "鼓勵"
+    },
+    {
+      "adj": "permit",
+      "zh": "許可"
+    },
+    {
+      "adj": "invite",
+      "zh": "邀請"
+    },
+    {
+      "adj": "enable",
+      "zh": "使能夠"
+    },
+    {
+      "adj": "obligate",
+      "zh": "約束"
+    },
+    {
+      "adj": "suppose",
+      "zh": "假定"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

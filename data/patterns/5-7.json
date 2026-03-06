@@ -1,0 +1,203 @@
+{
+  "code": "5-7",
+  "chapter": 5,
+  "title": "S + was/were + p.p.（過去被動）",
+  "formulas": [
+    {
+      "formula": "S + was/were + p.p.",
+      "zh": "主詞 + 過去式 be 動詞 + 過去分詞"
+    },
+    {
+      "formula": "S + was/were + p.p. + by + agent",
+      "zh": "主詞 + 過去式 be 動詞 + 過去分詞 + 介詞 by + 動作執行者"
+    }
+  ],
+  "explanation": "過去式被動語態用於表達過去某個時間點或時期內被執行的動作。單數主詞（I/he/she/it）搭配 was，複數主詞（we/they/you）搭配 were。過去分詞形式取決於動詞規則與否。by + agent 用於說明動作執行者，但非必須；若重點在於動作本身而非執行者，可省略。注意與過去簡單式主動語態的區別：被動強調受動者，主動強調動作者。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The letter was written by my grandfather last year.",
+      "chi": "這封信是去年由我祖父寫的。",
+      "keywords": [
+        "was written",
+        "過去分詞",
+        "by agent"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The building was destroyed in the earthquake that happened in 1999.",
+      "chi": "這棟建築在 1999 年的地震中被摧毀了。",
+      "keywords": [
+        "was destroyed",
+        "過去時間點",
+        "被動語態"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Were all the questions answered correctly by the students?",
+      "chi": "所有的問題都被學生們正確回答了嗎？",
+      "keywords": [
+        "were answered",
+        "複數主詞",
+        "疑問句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The new policy was not accepted by the majority of employees.",
+      "chi": "新政策沒有被大多數員工接受。",
+      "keywords": [
+        "was not accepted",
+        "否定句",
+        "過去被動"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷被動語態的關鍵在於主詞是否為動作的接收者。若主詞執行動作用主動語態（The teacher taught the lesson），若主詞接收動作用被動語態（The lesson was taught by the teacher）。注意過去分詞的正確形式，規則動詞加 -ed，不規則動詞需單獨記憶。",
+    "examples": [
+      {
+        "test": "主動：Tom broke the window. / 被動：The window was broken by Tom.",
+        "result": "→ 同一事件不同視角；被動強調窗戶被破，主動強調 Tom 的行為"
+      },
+      {
+        "test": "過去分詞誤用：The house was build last month. (✗)",
+        "result": "→ 正確：The house was built last month. (✓) 不規則動詞 build 的過去分詞為 built"
+      },
+      {
+        "test": "省略 by agent：The book was published in 2020.",
+        "result": "→ 不知道出版者但表達完整；若要強調出版者：by Oxford University Press"
+      }
+    ],
+    "note": "單數 was + p.p.，複數 were + p.p.；過去分詞形式影響整句正確性，務必掌握常見不規則動詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The ancient temple ",
+        null,
+        " by the local community hundreds of years ago."
+      ],
+      "blanks": [
+        "was built"
+      ],
+      "sentence": "The ancient temple was built by the local community hundreds of years ago.",
+      "translation": "這座古老的廟宇是在幾百年前由當地社區建造的。",
+      "keywords": [
+        "was built",
+        "過去分詞",
+        "單數主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Many historical documents ",
+        null,
+        " during the war and later recovered."
+      ],
+      "blanks": [
+        "were hidden"
+      ],
+      "sentence": "Many historical documents were hidden during the war and later recovered.",
+      "translation": "許多歷史文件在戰爭期間被隱藏，後來被找回。",
+      "keywords": [
+        "were hidden",
+        "複數主詞",
+        "過去被動"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The award ",
+        null,
+        " to the director because of his outstanding contribution to the film industry."
+      ],
+      "blanks": [
+        "was presented"
+      ],
+      "sentence": "The award was presented to the director because of his outstanding contribution to the film industry.",
+      "translation": "由於導演對電影產業的傑出貢獻，該獎項被頒發給了他。",
+      "keywords": [
+        "was presented",
+        "過去分詞",
+        "過去被動語態"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Were the final exam questions ",
+        null,
+        " by the head teacher last week?"
+      ],
+      "blanks": [
+        "approved"
+      ],
+      "sentence": "Were the final exam questions approved by the head teacher last week?",
+      "translation": "期末考試題目上週是否被教務主任批准了？",
+      "keywords": [
+        "approved",
+        "疑問句",
+        "過去被動"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "written",
+      "zh": "被寫的；所寫的"
+    },
+    {
+      "adj": "destroyed",
+      "zh": "被摧毀的"
+    },
+    {
+      "adj": "built",
+      "zh": "被建造的"
+    },
+    {
+      "adj": "found",
+      "zh": "被發現的"
+    },
+    {
+      "adj": "stolen",
+      "zh": "被偷竊的"
+    },
+    {
+      "adj": "broken",
+      "zh": "被打破的"
+    },
+    {
+      "adj": "completed",
+      "zh": "被完成的"
+    },
+    {
+      "adj": "published",
+      "zh": "被發表的；被出版的"
+    },
+    {
+      "adj": "invented",
+      "zh": "被發明的"
+    },
+    {
+      "adj": "designed",
+      "zh": "被設計的"
+    },
+    {
+      "adj": "painted",
+      "zh": "被繪製的"
+    },
+    {
+      "adj": "organized",
+      "zh": "被組織的"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

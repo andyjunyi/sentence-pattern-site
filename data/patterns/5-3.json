@@ -1,0 +1,214 @@
+{
+  "code": "5-3",
+  "chapter": 5,
+  "title": "S + V + O + OC（受詞補語）",
+  "formulas": [
+    {
+      "formula": "S + make/find/keep/call/consider + O + OC (adj.)",
+      "zh": "主詞 + 動詞 + 受詞 + 受詞補語（形容詞），表示使受詞處於某種狀態或認為受詞具有某種性質"
+    },
+    {
+      "formula": "S + make/find/keep/call/consider + O + OC (N/p.p.)",
+      "zh": "主詞 + 動詞 + 受詞 + 受詞補語（名詞/過去分詞），表示使受詞成為某身份或將受詞視為某狀態"
+    }
+  ],
+  "explanation": "此句型用於表達使役或認知關係。主要動詞 make（使）、find（發現）、keep（保持）、call（稱為）、consider（認為）等後接受詞及其補語，補語可為形容詞、名詞或過去分詞。形容詞補語描述受詞狀態（如 keep the door open），名詞補語表達身份認可（如 elect him president），過去分詞表被動狀態（如 found the gate locked）。易混淆處：勿與間接受詞結構混淆；注意補語必須說明受詞，而非主詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher makes her students feel confident and motivated in class.",
+      "chi": "老師使她的學生在課堂上感到自信且有動力。",
+      "keywords": [
+        "make",
+        "受詞補語",
+        "形容詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "We found the museum doors locked when we arrived this morning.",
+      "chi": "我們今早到達時發現博物館的門被鎖上了。",
+      "keywords": [
+        "find",
+        "過去分詞",
+        "被動狀態"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The board considered him the best candidate for the company.",
+      "chi": "董事會認為他是該公司最佳人選。",
+      "keywords": [
+        "consider",
+        "受詞補語",
+        "名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Keep your room clean and organized to improve your study efficiency.",
+      "chi": "保持房間整潔有序以提高你的學習效率。",
+      "keywords": [
+        "keep",
+        "形容詞補語",
+        "狀態維持"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：受詞補語必須說明受詞的特質或狀態。可將補語移至受詞後面檢驗，若句意不變則為正確。易錯：勿將「及物動詞+間接受詞」的結構混淆；「make her happy」(使她高興) 不等於「give her happiness」(給她幸福)。",
+    "examples": [
+      {
+        "test": "The news made him sad. vs. The news gave him sadness.",
+        "result": "→ 前者為受詞補語句型（正確），後者為雙受詞結構（詞義相近但句型不同）"
+      },
+      {
+        "test": "We found the windows open. vs. We found the windows opened.",
+        "result": "→ 兩句皆可，open 強調狀態，opened 強調被動動作，語境決定用法"
+      },
+      {
+        "test": "The committee elected him president. vs. The committee elected him to president.",
+        "result": "→ 前者正確（受詞補語），後者錯誤（不加介詞 to）"
+      }
+    ],
+    "note": "記憶口訣：「主+動+受+補」四層遞進，補語說受詞，不說主詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The strict rules ",
+        null,
+        " all students nervous about the exam.",
+        null
+      ],
+      "blanks": [
+        "make",
+        "feel"
+      ],
+      "sentence": "The strict rules make all students feel nervous about the exam.",
+      "translation": "嚴格的規則使所有學生對考試感到緊張。",
+      "keywords": [
+        "make",
+        "受詞補語",
+        "形容詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "I ",
+        null,
+        " the documents ",
+        null,
+        " in the locked drawer."
+      ],
+      "blanks": [
+        "found",
+        "hidden"
+      ],
+      "sentence": "I found the documents hidden in the locked drawer.",
+      "translation": "我發現文件被藏在上鎖的抽屜裡。",
+      "keywords": [
+        "find",
+        "過去分詞",
+        "被動狀態"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The university ",
+        null,
+        " Professor Wang ",
+        null,
+        " of the research center."
+      ],
+      "blanks": [
+        "appointed",
+        "director"
+      ],
+      "sentence": "The university appointed Professor Wang director of the research center.",
+      "translation": "大學任命王教授為研究中心的主任。",
+      "keywords": [
+        "appointed",
+        "受詞補語",
+        "名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "To succeed in life, you must ",
+        null,
+        " your motivation ",
+        null,
+        " and your dreams alive."
+      ],
+      "blanks": [
+        "keep",
+        "strong"
+      ],
+      "sentence": "To succeed in life, you must keep your motivation strong and your dreams alive.",
+      "translation": "為了在人生中成功，你必須保持你的動力強勁且夢想活著。",
+      "keywords": [
+        "keep",
+        "形容詞補語",
+        "狀態維持"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "make",
+      "zh": "使；製造（使役關鍵動詞）"
+    },
+    {
+      "adj": "find",
+      "zh": "發現；認為（發現狀態或特性）"
+    },
+    {
+      "adj": "keep",
+      "zh": "保持；維持（讓某物保持某狀態）"
+    },
+    {
+      "adj": "call",
+      "zh": "稱為；喚作（給予名稱或身份）"
+    },
+    {
+      "adj": "consider",
+      "zh": "認為；考慮（看待或評判）"
+    },
+    {
+      "adj": "name",
+      "zh": "命名；稱呼（正式命名）"
+    },
+    {
+      "adj": "elect",
+      "zh": "選舉；任命為（選舉出身份）"
+    },
+    {
+      "adj": "appoint",
+      "zh": "任命；指派（官方指派身份）"
+    },
+    {
+      "adj": "confident",
+      "zh": "自信的；有信心的"
+    },
+    {
+      "adj": "happy",
+      "zh": "高興的；滿意的"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責的；可靠的"
+    },
+    {
+      "adj": "locked",
+      "zh": "上鎖的；關上的"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

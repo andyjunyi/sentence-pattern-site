@@ -1,0 +1,203 @@
+{
+  "code": "4-16",
+  "chapter": 4,
+  "title": "that + S + V（名詞子句作受詞）",
+  "formulas": [
+    {
+      "formula": "S + V + that + S + V",
+      "zh": "主詞＋動詞＋that引導的名詞子句（受詞）"
+    },
+    {
+      "formula": "S + V + (that) + S + V",
+      "zh": "that 可省略，受詞名詞子句常採此用法"
+    }
+  ],
+  "explanation": "此句型中 that 引導的子句作為主要動詞的受詞，該受詞子句內部具有完整的主詞和動詞。常見動詞包括 know、think、believe、say、hope、expect、suppose 等。重要特點是 that 作為受詞時經常被省略，特別在口語和非正式文體中。需注意區別：that 引導受詞子句（名詞功能）vs. that 引導形容詞子句（修飾名詞）。前者 that 可省，後者 that 在非限制用法時不可省。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I believe that he will succeed in the exam next month.",
+      "chi": "我相信他下個月的考試會成功。",
+      "keywords": [
+        "believe",
+        "that子句",
+        "受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She thinks (that) her sister is the most talented student in school.",
+      "chi": "她認為她的妹妹是學校裡最有天賦的學生。",
+      "keywords": [
+        "thinks",
+        "that省略",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We hope that you will join our club and share your experience with us.",
+      "chi": "我們希望你會加入我們的俱樂部並與我們分享你的經驗。",
+      "keywords": [
+        "hope",
+        "that子句",
+        "動詞受詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Everyone knows (that) climate change is becoming a serious global problem.",
+      "chi": "每個人都知道氣候變遷正成為一個嚴重的全球問題。",
+      "keywords": [
+        "knows",
+        "that省略",
+        "事實陳述"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷該使用受詞名詞子句的關鍵：看動詞後方是否有完整的主語+動詞組合。若有，通常需要用 that 連接；that 在受詞位置可省，但在形容詞子句（修飾名詞）中，當涉及人物時通常用 who，不用 that。記住受詞子句的 that 是可選連詞，不是必須的。",
+    "examples": [
+      {
+        "test": "I think (that) he is right. vs. I saw the boy (that/who) you mentioned.",
+        "result": "→ 前者 that 可省為受詞子句；後者 that/who 為形容詞子句，修飾 boy，不可省略"
+      },
+      {
+        "test": "She hopes that her parents will be proud of her achievements.",
+        "result": "→ 完整的受詞名詞子句，that 可省略為 She hopes her parents will be proud of her achievements."
+      },
+      {
+        "test": "They said (that) the project would be delayed due to bad weather.",
+        "result": "→ 受詞名詞子句，that 省略後更符合日常口語表達習慣"
+      }
+    ],
+    "note": "受詞 that 子句 = 名詞子句做受詞，that 可省不可不知；形容詞子句修飾名詞，that/who 不可省。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I strongly believe ",
+        null,
+        " she has the potential to become a successful entrepreneur."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "I strongly believe that she has the potential to become a successful entrepreneur.",
+      "translation": "我強烈相信她有成為成功企業家的潛力。",
+      "keywords": [
+        "believe",
+        "that子句",
+        "受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Most people think ",
+        null,
+        " the Internet has changed our daily lives significantly."
+      ],
+      "blanks": [
+        "(that)"
+      ],
+      "sentence": "Most people think (that) the Internet has changed our daily lives significantly.",
+      "translation": "大多數人認為網際網路顯著改變了我們的日常生活。",
+      "keywords": [
+        "think",
+        "that省略",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We all hope ",
+        null,
+        " the economy will recover soon and create more job opportunities."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "We all hope that the economy will recover soon and create more job opportunities.",
+      "translation": "我們都希望經濟會很快復甦並創造更多工作機會。",
+      "keywords": [
+        "hope",
+        "that子句",
+        "表達期望"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The scientist claimed ",
+        null,
+        " her research would revolutionize the treatment of cancer."
+      ],
+      "blanks": [
+        "(that)"
+      ],
+      "sentence": "The scientist claimed (that) her research would revolutionize the treatment of cancer.",
+      "translation": "這位科學家聲稱她的研究將使癌症治療方式產生革命性改變。",
+      "keywords": [
+        "claimed",
+        "that省略",
+        "主張陳述"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "believe",
+      "zh": "相信、認為"
+    },
+    {
+      "adj": "think",
+      "zh": "認為、思考"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "hope",
+      "zh": "希望"
+    },
+    {
+      "adj": "expect",
+      "zh": "預期、期望"
+    },
+    {
+      "adj": "suppose",
+      "zh": "假設、認為"
+    },
+    {
+      "adj": "say",
+      "zh": "說、表示"
+    },
+    {
+      "adj": "claim",
+      "zh": "聲稱、主張"
+    },
+    {
+      "adj": "admit",
+      "zh": "承認"
+    },
+    {
+      "adj": "deny",
+      "zh": "否認"
+    },
+    {
+      "adj": "assume",
+      "zh": "假定、認為"
+    },
+    {
+      "adj": "suggest",
+      "zh": "建議、暗示"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

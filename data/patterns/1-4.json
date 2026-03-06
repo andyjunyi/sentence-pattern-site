@@ -1,0 +1,193 @@
+{
+  "code": "1-4",
+  "chapter": 1,
+  "title": "It seems/appears (that) + S + V",
+  "formulas": [
+    {
+      "formula": "It seems/appears (that) + S + V ...",
+      "zh": "看起來似乎……（用 that 子句描述推測內容）"
+    },
+    {
+      "formula": "It seems/appears as if/as though + S + V ...",
+      "zh": "看起來好像……（語氣更強調「彷彿」的感覺）"
+    }
+  ],
+  "explanation": "此句型以虛主詞 It 開頭，搭配 seems 或 appears 表示「看起來、似乎」，用於根據外在觀察或間接證據做出推測，語氣較委婉、不確定。that 可省略，後接完整子句。若改用 as if / as though，則強調「彷彿、好像」的假設語氣。seem 較口語常用，appear 較正式書面。注意：主詞也可改為人或事物，如 He seems to be tired，但本句型聚焦於 It 開頭的用法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It seems that the weather will get worse this weekend.",
+      "chi": "看起來這個週末天氣會變得更糟。",
+      "keywords": [
+        "It seems that",
+        "get worse"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It appears that the new policy has had a positive effect on students.",
+      "chi": "這項新政策似乎對學生產生了正面的影響。",
+      "keywords": [
+        "It appears that",
+        "positive effect"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It seems as if nobody cares about the environmental problems around us.",
+      "chi": "似乎沒有人關心我們周遭的環境問題。",
+      "keywords": [
+        "It seems as if",
+        "cares about"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It appears that she has already made up her mind to study abroad.",
+      "chi": "她似乎已經下定決心要出國留學了。",
+      "keywords": [
+        "It appears that",
+        "made up her mind"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "likely",
+      "zh": "可能的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "certain",
+      "zh": "確定的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "probable",
+      "zh": "很可能的"
+    },
+    {
+      "adj": "evident",
+      "zh": "顯而易見的"
+    },
+    {
+      "adj": "strange",
+      "zh": "奇怪的"
+    },
+    {
+      "adj": "surprising",
+      "zh": "令人驚訝的"
+    },
+    {
+      "adj": "unfortunate",
+      "zh": "不幸的"
+    },
+    {
+      "adj": "doubtful",
+      "zh": "令人懷疑的"
+    },
+    {
+      "adj": "apparent",
+      "zh": "顯然的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "seem 與 appear 皆表推測，但 appear 較正式，常見於新聞或學術寫作。若要表達「過去看起來如何」，可用 It seemed/appeared that...。另外，as if 後面若描述與事實相反的情境，動詞常用過去式（假設語氣）。",
+    "examples": [
+      {
+        "test": "It seems that he is honest. vs. He seems to be honest.",
+        "result": "→ 兩句意思相同，前者用 that 子句，後者用不定詞，皆表示「他似乎很誠實」。"
+      },
+      {
+        "test": "It appears as if she knew the answer. (但她其實不知道)",
+        "result": "→ as if 後用過去式 knew，表示與事實相反的假設語氣，意為「她看起來好像知道答案（但其實不知道）」。"
+      },
+      {
+        "test": "It seems that it will rain. vs. It looks like it will rain.",
+        "result": "→ seems that 較正式委婉，looks like 較口語直接，兩者皆可表達「看起來要下雨了」。"
+      }
+    ],
+    "note": "seem 推測較主觀，appear 推測較客觀；as if 後面接假設，that 後面接事實。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the students are not satisfied with the exam results."
+      ],
+      "blanks": [
+        "It seems that"
+      ],
+      "sentence": "It seems that the students are not satisfied with the exam results.",
+      "translation": "學生們似乎對考試結果不滿意。",
+      "keywords": [
+        "It seems that",
+        "satisfied with"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It ",
+        null,
+        " that the company will close down by the end of this year."
+      ],
+      "blanks": [
+        "appears"
+      ],
+      "sentence": "It appears that the company will close down by the end of this year.",
+      "translation": "這家公司似乎會在今年年底前關閉。",
+      "keywords": [
+        "appears",
+        "close down"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It seems ",
+        null,
+        " he had never heard of the news before."
+      ],
+      "blanks": [
+        "as if"
+      ],
+      "sentence": "It seems as if he had never heard of the news before.",
+      "translation": "他看起來好像從來沒聽過這個消息。",
+      "keywords": [
+        "seems",
+        "as if"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " technology has completely changed the way we communicate."
+      ],
+      "blanks": [
+        "It appears that"
+      ],
+      "sentence": "It appears that technology has completely changed the way we communicate.",
+      "translation": "科技似乎已經徹底改變了我們溝通的方式。",
+      "keywords": [
+        "It appears that",
+        "the way"
+      ]
+    }
+  ]
+}

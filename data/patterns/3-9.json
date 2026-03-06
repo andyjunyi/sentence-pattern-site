@@ -1,0 +1,201 @@
+{
+  "code": "3-9",
+  "chapter": 3,
+  "title": "S + V + so + adj./adv. + that + S + V（結果子句）",
+  "formulas": [
+    {
+      "formula": "so + adj./adv. + that + S + V",
+      "zh": "如此...以至於...；表示程度副詞子句，說明結果"
+    },
+    {
+      "formula": "so many/much/few/little + N + that + S + V",
+      "zh": "如此多/少的...以至於...；強調名詞數量的極端程度"
+    }
+  ],
+  "explanation": "此句型用於表達事物達到某種程度，以至於產生相應結果。so 後接形容詞或副詞，that 引導結果子句。特殊形式為 so many/much/few/little + 名詞，強調數量之多或之少。此句型常與 such...that 混淆，需注意：so 後接形容詞/副詞/數量詞，such 後接名詞片語。使用時應確保 that 子句表達的是自然結果。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The movie was so exciting that everyone stayed until the end.",
+      "chi": "那部電影如此精彩，以至於所有人都看到了最後。",
+      "keywords": [
+        "so + 形容詞",
+        "程度副詞",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He spoke so quickly that nobody could understand what he said.",
+      "chi": "他說話如此快速，以至於沒有人能理解他說的話。",
+      "keywords": [
+        "so + 副詞",
+        "程度修飾",
+        "結果表達"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "There were so many people at the concert that tickets sold out in minutes.",
+      "chi": "音樂會有如此多的人，以至於票在幾分鐘內售罄。",
+      "keywords": [
+        "so many + 名詞",
+        "數量強調",
+        "極端結果"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The weather was so bad that the match had to be postponed.",
+      "chi": "天氣如此糟糕，以至於比賽必須延期。",
+      "keywords": [
+        "so + 形容詞",
+        "必然結果",
+        "日常應用"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "exciting",
+      "zh": "令人興奮的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "cold",
+      "zh": "寒冷的"
+    },
+    {
+      "adj": "quickly",
+      "zh": "快速地"
+    },
+    {
+      "adj": "carefully",
+      "zh": "仔細地"
+    },
+    {
+      "adj": "bright",
+      "zh": "明亮的"
+    },
+    {
+      "adj": "crowded",
+      "zh": "擁擠的"
+    },
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "heavily",
+      "zh": "沉重地；大量地"
+    },
+    {
+      "adj": "tired",
+      "zh": "疲倦的"
+    },
+    {
+      "adj": "slowly",
+      "zh": "緩慢地"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區別 so...that 與 such...that：so 後接形容詞、副詞或 many/much/few/little + 名詞；such 後接整個名詞片語。例：so beautiful that（形容詞）vs. such a beautiful day that（名詞片語）。that 子句必須表達邏輯上的自然結果，勿使用無關連的後句。",
+    "examples": [
+      {
+        "test": "The book was so interesting that I finished it in one night.",
+        "result": "→ 正確：so + 形容詞 interesting，結果合理"
+      },
+      {
+        "test": "×The book was so that I finished it in one night.",
+        "result": "→ 錯誤：so 後必須接形容詞或副詞，不能直接接 that"
+      },
+      {
+        "test": "There was so little time that we had to rush.",
+        "result": "→ 正確：so little + 名詞，表數量之少"
+      }
+    ],
+    "note": "記憶訣竅：so 修飾形容詞/副詞本身，such 修飾名詞；so...that 強調程度，such...that 強調事物特性。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The exam was ",
+        null,
+        " that most students couldn't finish it on time."
+      ],
+      "blanks": [
+        "so difficult"
+      ],
+      "sentence": "The exam was so difficult that most students couldn't finish it on time.",
+      "translation": "考試如此困難，以至於大多數學生無法按時完成。",
+      "keywords": [
+        "so + 形容詞",
+        "程度副詞",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She ran ",
+        null,
+        " that she arrived at school before it opened."
+      ],
+      "blanks": [
+        "so quickly"
+      ],
+      "sentence": "She ran so quickly that she arrived at school before it opened.",
+      "translation": "她跑得如此快，以至於她在學校開門前到達。",
+      "keywords": [
+        "so + 副詞",
+        "速度描寫",
+        "時間結果"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "There were ",
+        null,
+        " that we couldn't find any seats in the restaurant."
+      ],
+      "blanks": [
+        "so many people"
+      ],
+      "sentence": "There were so many people that we couldn't find any seats in the restaurant.",
+      "translation": "有如此多的人，以至於我們在餐廳找不到任何座位。",
+      "keywords": [
+        "so many + 名詞",
+        "數量強調",
+        "結果表達"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The food cost ",
+        null,
+        " that we had to share one dish."
+      ],
+      "blanks": [
+        "so much"
+      ],
+      "sentence": "The food cost so much that we had to share one dish.",
+      "translation": "食物花費如此之多，以至於我們必須共享一道菜。",
+      "keywords": [
+        "so much",
+        "金額程度",
+        "必然結果"
+      ]
+    }
+  ]
+}

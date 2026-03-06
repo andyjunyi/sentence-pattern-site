@@ -1,0 +1,203 @@
+{
+  "code": "6-6",
+  "chapter": 6,
+  "title": "S + stop/remember/forget + to V / V-ing（意思不同）",
+  "formulas": [
+    {
+      "formula": "stop/remember/forget/try/regret + to V（未來或意圖）",
+      "zh": "停下來去做某事、記得去做某事、忘記去做某事、嘗試去做某事、後悔去做某事"
+    },
+    {
+      "formula": "stop/remember/forget/try/regret + V-ing（過去或習慣）",
+      "zh": "停止做某事、記得曾做過某事、忘記曾做過某事、嘗試做某事、後悔做過某事"
+    }
+  ],
+  "explanation": "這類動詞接不定詞與動名詞時意義差異大。接to V通常表未來動作或意圖；接V-ing則表過去經驗或習慣。例如stop to V是「停下正在做的事去做另一件事」，stop V-ing則是「終止某習慣」。remember/forget to V強調未來任務，V-ing強調過去記憶。試題常考此對比，需注意上下文時態與語義關聯。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She stopped to answer the phone while cooking dinner.",
+      "chi": "她在烹飪晚餐時停下來接電話。",
+      "keywords": [
+        "stop to V",
+        "未來動作",
+        "中斷現有活動"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He finally stopped smoking after years of struggle and effort.",
+      "chi": "經過多年努力，他終於戒菸了。",
+      "keywords": [
+        "stop V-ing",
+        "習慣改變",
+        "停止動作"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I forgot to submit the assignment yesterday, which made the teacher angry.",
+      "chi": "我昨天忘了繳交作業，這讓老師很生氣。",
+      "keywords": [
+        "forget to V",
+        "未完成任務",
+        "記憶缺失"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Do you remember playing basketball with us in high school?",
+      "chi": "你記得高中時和我們打籃球嗎？",
+      "keywords": [
+        "remember V-ing",
+        "過去經驗",
+        "回憶往事"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時看動作發生時間：to V多指未做或未來要做的事；V-ing多指已做過或現在進行中的事。另外注意句子整體時態與邏輯關係。若前句用過去簡單式，後接V-ing通常更自然。記住：to V=預期動作，V-ing=回顧動作。",
+    "examples": [
+      {
+        "test": "He regrets to tell you the bad news. vs. He regrets telling you the bad news.",
+        "result": "→ 前者：他遺憾地通知你壞消息（現在的遺憾動作）；後者：他後悔曾經告訴你（過去的後悔）"
+      },
+      {
+        "test": "I tried to fix the car. vs. I tried fixing the car.",
+        "result": "→ 前者：我試圖去修車（努力但未必成功）；後者：我嘗試修理車（試過這個方法）"
+      },
+      {
+        "test": "Don't forget to lock the door. vs. I'll never forget locking the door that night.",
+        "result": "→ 前者：記得去鎖門（未來提醒）；後者：永難忘懷那晚鎖門的事（過去記憶）"
+      }
+    ],
+    "note": "關鍵口訣：to V看未來，V-ing看回顧；上文時態與邏輯決定動名詞形式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I remembered ",
+        null,
+        " her on her birthday, so I called immediately."
+      ],
+      "blanks": [
+        "to call"
+      ],
+      "sentence": "I remembered to call her on her birthday, so I called immediately.",
+      "translation": "我記得在她生日時打電話給她，所以我立即撥打。",
+      "keywords": [
+        "remember to V",
+        "未來任務",
+        "未完成動作"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She stopped ",
+        null,
+        " her old friends and focused on her new life."
+      ],
+      "blanks": [
+        "contacting / seeing / visiting"
+      ],
+      "sentence": "She stopped contacting her old friends and focused on her new life.",
+      "translation": "她停止聯繫舊友，專注於新生活。",
+      "keywords": [
+        "stop V-ing",
+        "終止習慣",
+        "過去動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The teacher regretted ",
+        null,
+        " such harsh words to the student yesterday."
+      ],
+      "blanks": [
+        "saying / having said"
+      ],
+      "sentence": "The teacher regretted saying such harsh words to the student yesterday.",
+      "translation": "老師後悔昨天對學生說那麼刺耳的話。",
+      "keywords": [
+        "regret V-ing",
+        "過去後悔",
+        "已發生事件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "We tried ",
+        null,
+        " the broken equipment, but it didn't work at all."
+      ],
+      "blanks": [
+        "to fix / repairing"
+      ],
+      "sentence": "We tried to fix the broken equipment, but it didn't work at all.",
+      "translation": "我們試圖修理損壞的設備，但根本沒有用。",
+      "keywords": [
+        "try to V",
+        "嘗試努力",
+        "未來意圖"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "stop",
+      "zh": "停止；停下來"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得；想起"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記；遺忘"
+    },
+    {
+      "adj": "try",
+      "zh": "嘗試；試圖"
+    },
+    {
+      "adj": "regret",
+      "zh": "後悔；遺憾"
+    },
+    {
+      "adj": "to infinitive",
+      "zh": "不定詞（未來/意圖）"
+    },
+    {
+      "adj": "gerund",
+      "zh": "動名詞（過去/經驗）"
+    },
+    {
+      "adj": "past experience",
+      "zh": "過去經驗"
+    },
+    {
+      "adj": "future action",
+      "zh": "未來動作"
+    },
+    {
+      "adj": "habit",
+      "zh": "習慣"
+    },
+    {
+      "adj": "intention",
+      "zh": "意圖；打算"
+    },
+    {
+      "adj": "memory",
+      "zh": "記憶"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

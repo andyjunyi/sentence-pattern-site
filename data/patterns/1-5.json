@@ -1,0 +1,195 @@
+{
+  "code": "1-5",
+  "chapter": 1,
+  "title": "It is said/reported/believed (that) + S + V",
+  "formulas": [
+    {
+      "formula": "It is said/reported/believed (that) + S + V ...",
+      "zh": "據說／據報導／據信……"
+    },
+    {
+      "formula": "S + is/are said/reported/believed + to V ...",
+      "zh": "某人／某事據說……（主詞改寫變體）"
+    }
+  ],
+  "explanation": "此句型以虛主詞 It 開頭，搭配被動語態動詞（is said / is reported / is believed 等），再接 that 子句來傳達「據說、據報導、據信」之意。此結構常見於新聞報導與學術寫作，用來表示消息來源不明確或為普遍看法，語氣較客觀。that 可省略，但正式書寫中建議保留。此句型亦可改寫為「S + is said + to V」的主詞句型，兩者意義相同但結構不同，考試中常互相轉換出題。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is said that the old temple was built over three hundred years ago.",
+      "chi": "據說那座古廟建於三百多年前。",
+      "keywords": [
+        "It is said",
+        "that"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It is reported that the typhoon will reach southern Taiwan by tomorrow morning.",
+      "chi": "據報導，颱風將於明天早上抵達台灣南部。",
+      "keywords": [
+        "It is reported",
+        "that"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is believed that regular exercise can reduce the risk of heart disease.",
+      "chi": "據信規律運動能降低心臟病的風險。",
+      "keywords": [
+        "It is believed",
+        "that"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It is estimated that over two million tourists visit the island every year.",
+      "chi": "據估計，每年有超過兩百萬名遊客造訪該島嶼。",
+      "keywords": [
+        "It is estimated",
+        "that"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用此句型，關鍵在於句意是否表達「消息來源不確定」或「普遍看法」。若主詞明確為某人的意見，應改用主動語態（如 People believe...）。考試常考 It is said that... 與 S is said to V... 的互換，注意 to V 的時態需與原句一致。",
+    "examples": [
+      {
+        "test": "It is said that he speaks five languages. ↔ He is said to speak five languages.",
+        "result": "→ 兩句意思相同，前者用虛主詞 It，後者以 He 為主詞搭配不定詞。"
+      },
+      {
+        "test": "It is reported that the bridge was damaged. ↔ The bridge is reported to have been damaged.",
+        "result": "→ that 子句中為過去式時，改寫需用「to have + p.p.」表示動作先於主要動詞。"
+      },
+      {
+        "test": "People believe that she is honest. → It is believed that she is honest.",
+        "result": "→ 主動句改被動虛主詞句，動詞 believe 變為 is believed，原受詞子句移至 that 之後。"
+      }
+    ],
+    "note": "「It is ＿ed that...」看到被動加 that，就是「據～」句型，記住動詞都用過去分詞！"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " that the new policy will create more job opportunities for young people."
+      ],
+      "blanks": [
+        "It is reported"
+      ],
+      "sentence": "It is reported that the new policy will create more job opportunities for young people.",
+      "translation": "據報導，新政策將為年輕人創造更多工作機會。",
+      "keywords": [
+        "It is reported",
+        "that"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It is ",
+        null,
+        " that drinking green tea every day is good for health."
+      ],
+      "blanks": [
+        "believed"
+      ],
+      "sentence": "It is believed that drinking green tea every day is good for health.",
+      "translation": "一般認為每天喝綠茶對健康有益。",
+      "keywords": [
+        "It is believed",
+        "that"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It is said that the famous writer ",
+        null,
+        " over fifty novels during his lifetime."
+      ],
+      "blanks": [
+        "wrote"
+      ],
+      "sentence": "It is said that the famous writer wrote over fifty novels during his lifetime.",
+      "translation": "據說那位知名作家一生中寫了超過五十部小說。",
+      "keywords": [
+        "It is said",
+        "wrote"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The number of endangered species ",
+        null,
+        " be increasing due to climate change."
+      ],
+      "blanks": [
+        "is estimated to"
+      ],
+      "sentence": "The number of endangered species is estimated to be increasing due to climate change.",
+      "translation": "據估計，瀕危物種的數量因氣候變遷而持續增加。",
+      "keywords": [
+        "is estimated to",
+        "increasing"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "said",
+      "zh": "據說"
+    },
+    {
+      "adj": "reported",
+      "zh": "據報導"
+    },
+    {
+      "adj": "believed",
+      "zh": "據信；一般認為"
+    },
+    {
+      "adj": "estimated",
+      "zh": "據估計"
+    },
+    {
+      "adj": "thought",
+      "zh": "一般認為"
+    },
+    {
+      "adj": "considered",
+      "zh": "被認為"
+    },
+    {
+      "adj": "known",
+      "zh": "眾所周知"
+    },
+    {
+      "adj": "expected",
+      "zh": "預期；預料"
+    },
+    {
+      "adj": "assumed",
+      "zh": "據推測"
+    },
+    {
+      "adj": "suggested",
+      "zh": "有人提出；據建議"
+    },
+    {
+      "adj": "claimed",
+      "zh": "據聲稱"
+    },
+    {
+      "adj": "rumored",
+      "zh": "據傳聞"
+    }
+  ],
+  "vocab_table_label": "常用被動動詞"
+}

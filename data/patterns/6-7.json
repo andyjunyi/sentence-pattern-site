@@ -1,0 +1,209 @@
+{
+  "code": "6-7",
+  "chapter": 6,
+  "title": "S + V + wh- + to V",
+  "formulas": [
+    {
+      "formula": "S + know/learn/decide/wonder + wh- + to V",
+      "zh": "主詞 + 知道/學習/決定/想知道 + 疑問詞 + 不定詞，表達「知道如何/何時/哪裡/哪個……」"
+    },
+    {
+      "formula": "S + know/learn/decide/wonder + wh- + to V ≈ S + know/learn/decide/wonder + wh- + should V",
+      "zh": "此結構等同於疑問詞引導的 should 名詞子句"
+    }
+  ],
+  "explanation": "此句型由疑問詞（what, how, where, which, when 等）加不定詞構成受詞，表達「知道如何做」、「學會何時做」、「決定往哪裡去」等含義。與 wh- + should V 名詞子句意思相同但結構更簡潔。使用時機是當主要動詞為 know、learn、decide、wonder 等表達認知或決定的動詞時。注意不定詞前的疑問詞必須與動作相關，且不定詞的主詞通常是主句主詞本身。易混淆點：勿用原形動詞或 -ing 形式取代不定詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She didn't know how to operate the new software at first.",
+      "chi": "她起初不知道如何操作那個新軟體。",
+      "keywords": [
+        "know",
+        "how to",
+        "不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "I need to learn when to apply for the university entrance exam.",
+      "chi": "我需要學習何時申請大學入學考試。",
+      "keywords": [
+        "learn",
+        "when to",
+        "受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "They wondered where to find the nearest hospital in the city.",
+      "chi": "他們想知道在城市裡哪裡可以找到最近的醫院。",
+      "keywords": [
+        "wonder",
+        "where to",
+        "疑問詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Have you decided which university to attend next fall?",
+      "chi": "你決定好明年秋天要進哪所大學了嗎？",
+      "keywords": [
+        "decide",
+        "which to",
+        "名詞子句替代"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵是：疑問詞後面必須接「to + V」，且主要動詞通常為 know、learn、decide、wonder 等認知動詞。若主要動詞為其他動詞，則應使用 wh- 子句。常見錯誤是把 to V 改成 V-ing 或省略 to。",
+    "examples": [
+      {
+        "test": "❌ She didn't know how operating the machine.",
+        "result": "→ ✅ She didn't know how to operate the machine.（to 不能省略，operating 改為 to operate）"
+      },
+      {
+        "test": "❌ I wonder what should I do tomorrow.",
+        "result": "→ ✅ I wonder what to do tomorrow.（疑問詞 + to V 比 what should I do 更自然）"
+      },
+      {
+        "test": "✅ He learned when to speak and when to listen.",
+        "result": "→ 正確用法：兩個 when to 並列，表示學會兩項技能"
+      }
+    ],
+    "note": "疑問詞 + to V = 疑問詞 + should V，記住此對應關係可快速判斷句型結構。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The tourists asked the guide ",
+        null,
+        " the best time ",
+        null,
+        " the famous museum."
+      ],
+      "blanks": [
+        "what",
+        "to visit"
+      ],
+      "sentence": "The tourists asked the guide what to visit the best time to visit the famous museum.",
+      "translation": "遊客問導遊什麼時候是參觀那座著名博物館的最佳時間。",
+      "keywords": [
+        "what to",
+        "不定詞",
+        "問句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She struggled to decide ",
+        null,
+        " among the three job offers."
+      ],
+      "blanks": [
+        "which one to choose"
+      ],
+      "sentence": "She struggled to decide which one to choose among the three job offers.",
+      "translation": "她在三個工作機會中掙扎著決定要選哪一個。",
+      "keywords": [
+        "which to",
+        "decide",
+        "受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "After the workshop, employees understood ",
+        null,
+        " customer service complaints effectively."
+      ],
+      "blanks": [
+        "how to handle"
+      ],
+      "sentence": "After the workshop, employees understood how to handle customer service complaints effectively.",
+      "translation": "培訓後，員工了解如何有效地處理客服投訴。",
+      "keywords": [
+        "how to",
+        "understand",
+        "不定詞短語"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "I haven't learned ",
+        null,
+        " yet, so I'm still ",
+        null,
+        " the professor."
+      ],
+      "blanks": [
+        "when to ask questions",
+        "wondering when to ask the professor for help"
+      ],
+      "sentence": "I haven't learned when to ask questions yet, so I'm still wondering when to ask the professor for help.",
+      "translation": "我還沒學會何時提出問題，所以我仍在想著何時該問教授尋求幫助。",
+      "keywords": [
+        "when to",
+        "learn",
+        "wonder"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "how",
+      "zh": "如何、怎樣"
+    },
+    {
+      "adj": "what",
+      "zh": "什麼"
+    },
+    {
+      "adj": "where",
+      "zh": "哪裡、何處"
+    },
+    {
+      "adj": "when",
+      "zh": "何時、什麼時候"
+    },
+    {
+      "adj": "which",
+      "zh": "哪一個、哪一類"
+    },
+    {
+      "adj": "whom/who",
+      "zh": "誰、和誰"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "learn",
+      "zh": "學習、學會"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、懷疑"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "consider",
+      "zh": "考慮、思考"
+    }
+  ],
+  "vocab_table_label": "常用疑問詞"
+}

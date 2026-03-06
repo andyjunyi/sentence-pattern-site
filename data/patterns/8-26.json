@@ -1,0 +1,205 @@
+{
+  "code": "8-26",
+  "chapter": 8,
+  "title": "S + V + in that + S + V",
+  "formulas": [
+    {
+      "formula": "S + V + in that + S + V",
+      "zh": "在於……方面；理由在於……（說明前句的具體內容或理由）"
+    },
+    {
+      "formula": "S + V + in that + S + V + O",
+      "zh": "在於……方面做某事；理由在於……（含受詞的擴展式）"
+    }
+  ],
+  "explanation": "in that 為正式書面用語，用於說明前一句子的理由、特點或具體內容。結構為「主句 + in that + 從句」，從句通常以 S + V 開始。意義上近似 because，但 in that 更精確、更正式，強調「在於……方面」或「理由在於……」。常見於學術、新聞、評論文章。注意：in that 後接完整句子，不能省略主詞或動詞；與 in which 或 where 的區別在於 in that 引導原因從句，而非關係從句。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This job is unique in that it offers both creativity and stability.",
+      "chi": "這份工作獨特之處在於它既提供創意空間，也提供穩定性。",
+      "keywords": [
+        "in that",
+        "unique",
+        "offers"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The novel differs from others in that the author uses multiple narrators.",
+      "chi": "這部小說與其他作品不同之處在於作者使用多個敘述者。",
+      "keywords": [
+        "in that",
+        "differs",
+        "uses"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The plan failed in that no one took responsibility for its implementation.",
+      "chi": "計畫失敗的原因在於沒人願意負責執行。",
+      "keywords": [
+        "in that",
+        "failed",
+        "took responsibility"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Modern technology is revolutionary in that it has transformed how we communicate.",
+      "chi": "現代科技之所以革命性，在於它改變了我們的溝通方式。",
+      "keywords": [
+        "in that",
+        "revolutionary",
+        "transformed"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "unique",
+      "zh": "獨特的"
+    },
+    {
+      "adj": "different",
+      "zh": "不同的"
+    },
+    {
+      "adj": "special",
+      "zh": "特別的"
+    },
+    {
+      "adj": "significant",
+      "zh": "重要的"
+    },
+    {
+      "adj": "revolutionary",
+      "zh": "革命性的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "valuable",
+      "zh": "有價值的"
+    },
+    {
+      "adj": "effective",
+      "zh": "有效的"
+    },
+    {
+      "adj": "remarkable",
+      "zh": "值得注意的"
+    },
+    {
+      "adj": "advantageous",
+      "zh": "有利的"
+    },
+    {
+      "adj": "fortunate",
+      "zh": "幸運的"
+    },
+    {
+      "adj": "problematic",
+      "zh": "有問題的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用 in that：若前句為判斷句（is, seems, appears 等）或陳述句，後需說明理由或具體內容，就適合用 in that。避免與 in which（關係副詞）混淆。記住 in that = because + specific reason，多用於正式文體。",
+    "examples": [
+      {
+        "test": "The advantage lies in that the system is fully automated.",
+        "result": "→ 正確。in that 引導從句，說明「優點在於……」"
+      },
+      {
+        "test": "The advantage lies in which the system is fully automated.",
+        "result": "→ 錯誤。應使用 in that，不是 in which（後者用於地點關係從句）"
+      },
+      {
+        "test": "The problem is serious in that many students cannot afford the fees.",
+        "result": "→ 正確。說明問題的具體內容和理由"
+      }
+    ],
+    "note": "in that = 在於……方面；後接完整主要子句；正式書面用語，口語少用。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "This approach is effective ",
+        null,
+        " it reduces costs significantly.",
+        ""
+      ],
+      "blanks": [
+        "in that"
+      ],
+      "sentence": "This approach is effective in that it reduces costs significantly.",
+      "translation": "這個方法有效之處在於它能大幅降低成本。",
+      "keywords": [
+        "in that",
+        "effective",
+        "reduces costs"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The study is valuable ",
+        null,
+        " researchers discovered a new treatment method.",
+        ""
+      ],
+      "blanks": [
+        "in that"
+      ],
+      "sentence": "The study is valuable in that researchers discovered a new treatment method.",
+      "translation": "這項研究之所以有價值，在於研究人員發現了一種新的治療方法。",
+      "keywords": [
+        "in that",
+        "valuable",
+        "discovered"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The strategy differs from previous ones ",
+        null,
+        " it emphasizes collaboration rather than competition.",
+        ""
+      ],
+      "blanks": [
+        "in that"
+      ],
+      "sentence": "The strategy differs from previous ones in that it emphasizes collaboration rather than competition.",
+      "translation": "這一策略與以往的不同之處在於它強調合作而非競爭。",
+      "keywords": [
+        "in that",
+        "differs",
+        "emphasizes"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The success is remarkable ",
+        null,
+        " the team accomplished the goal within three months despite limited resources.",
+        ""
+      ],
+      "blanks": [
+        "in that"
+      ],
+      "sentence": "The success is remarkable in that the team accomplished the goal within three months despite limited resources.",
+      "translation": "這次成功之所以了不起，在於團隊儘管資源有限，卻在三個月內完成了目標。",
+      "keywords": [
+        "in that",
+        "remarkable",
+        "accomplished"
+      ]
+    }
+  ]
+}

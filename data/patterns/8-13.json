@@ -1,0 +1,203 @@
+{
+  "code": "8-13",
+  "chapter": 8,
+  "title": "so that / in order that + S + can/will + V（目的子句）",
+  "formulas": [
+    {
+      "formula": "S + V + so that/in order that + S + can/will/may + V",
+      "zh": "主詞+動詞+為了讓/以便+主詞+可以/將會+動詞"
+    },
+    {
+      "formula": "S + V + in order to V / so as to V",
+      "zh": "主詞+動詞+為了+不定詞（簡化形式）"
+    }
+  ],
+  "explanation": "此句型用於表達動作的目的，分為兩種形式：(1)完整子句形式使用「so that/in order that」，後接帶助動詞的完整子句；(2)簡化形式使用「in order to/so as to」直接加不定詞。兩者在意義相同但結構不同。使用時機為需明確表達「為什麼做某事」。易混淆點是助動詞的選擇（can用現在，will用未來）及與結果副詞子句的區分。注意「so that」既可表目的也可表結果，需由上下文判斷。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She studies hard so that she can pass the exam.",
+      "chi": "她努力讀書為了能夠通過考試。",
+      "keywords": [
+        "so that",
+        "can",
+        "目的子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The company raises prices in order that it will increase its profit.",
+      "chi": "公司提高價格以便能夠增加利潤。",
+      "keywords": [
+        "in order that",
+        "will",
+        "目的"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I saved money in order to buy a new laptop.",
+      "chi": "我存錢為了買一台新筆電。",
+      "keywords": [
+        "in order to",
+        "不定詞",
+        "簡化形式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The teacher speaks slowly so as to help students understand better.",
+      "chi": "老師說話緩慢以便幫助學生更好地理解。",
+      "keywords": [
+        "so as to",
+        "目的",
+        "助動詞"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是目的還是結果子句的關鍵：目的子句常出現在主動詞之後，且助動詞為can/may（可能性）或will（未來），表示未發生的動作；結果子句則表示實際已發生的結果，多用so...that。記住：目的是「為了要」，結果是「結果是」。",
+    "examples": [
+      {
+        "test": "She worked hard so that she could pass the exam.",
+        "result": "→ 目的子句：她為了通過考試而努力工作（目的未實現前的動作）"
+      },
+      {
+        "test": "She worked so hard that she passed the exam easily.",
+        "result": "→ 結果子句：她工作非常努力，結果輕鬆通過考試（結果已發生）"
+      },
+      {
+        "test": "他存錢為了買房子 = He saved money in order to buy a house.",
+        "result": "→ 簡化形式：不定詞「to buy」表目的，更簡潔"
+      }
+    ],
+    "note": "目的子句＝未發生的目標+助動詞(can/will)；結果子句＝已發生的事實+無助動詞"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The parents save money ",
+        null,
+        " they can send their children to university."
+      ],
+      "blanks": [
+        "so that"
+      ],
+      "sentence": "The parents save money so that they can send their children to university.",
+      "translation": "父母存錢為了能夠送孩子上大學。",
+      "keywords": [
+        "so that",
+        "can",
+        "目的"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The government built new roads ",
+        null,
+        " traffic congestion would decrease."
+      ],
+      "blanks": [
+        "in order that"
+      ],
+      "sentence": "The government built new roads in order that traffic congestion would decrease.",
+      "translation": "政府建造新道路以便交通擁堵會減少。",
+      "keywords": [
+        "in order that",
+        "would",
+        "目的子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "He exercises every day ",
+        null,
+        " improve his health."
+      ],
+      "blanks": [
+        "in order to"
+      ],
+      "sentence": "He exercises every day in order to improve his health.",
+      "translation": "他每天運動為了改善他的健康。",
+      "keywords": [
+        "in order to",
+        "不定詞",
+        "簡化"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The scientist conducted the experiment carefully ",
+        null,
+        " obtain accurate results."
+      ],
+      "blanks": [
+        "so as to"
+      ],
+      "sentence": "The scientist conducted the experiment carefully so as to obtain accurate results.",
+      "translation": "科學家仔細進行實驗以便獲得精確的結果。",
+      "keywords": [
+        "so as to",
+        "目的",
+        "不定詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study",
+      "zh": "讀書、研究"
+    },
+    {
+      "adj": "work",
+      "zh": "工作"
+    },
+    {
+      "adj": "save",
+      "zh": "存錢、節省"
+    },
+    {
+      "adj": "practice",
+      "zh": "練習"
+    },
+    {
+      "adj": "speak",
+      "zh": "說話"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善、改進"
+    },
+    {
+      "adj": "prepare",
+      "zh": "準備"
+    },
+    {
+      "adj": "arrange",
+      "zh": "安排"
+    },
+    {
+      "adj": "reduce",
+      "zh": "減少、降低"
+    },
+    {
+      "adj": "increase",
+      "zh": "增加"
+    },
+    {
+      "adj": "ensure",
+      "zh": "確保"
+    },
+    {
+      "adj": "prevent",
+      "zh": "防止"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

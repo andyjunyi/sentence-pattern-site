@@ -1,0 +1,207 @@
+{
+  "code": "4-20",
+  "chapter": 4,
+  "title": "S + know/wonder/ask + wh- + to V",
+  "formulas": [
+    {
+      "formula": "S + V + wh- + to V",
+      "zh": "主詞＋動詞＋疑問詞＋不定詞，疑問詞加不定詞作動詞受詞"
+    },
+    {
+      "formula": "S + V + wh- + to V (= wh- + S + V)",
+      "zh": "疑問詞加不定詞可轉換為疑問詞引導的名詞子句"
+    }
+  ],
+  "explanation": "此句型中，疑問詞（what、how、where、when、which等）與不定詞結合，作為動詞的受詞。這種結構常用於know、decide、learn、understand、remember等動詞之後，表達不確定或需要思考的事項。疑問詞加不定詞等於該疑問詞引導的名詞子句。注意疑問詞和不定詞之間通常無主詞，因為主詞通常與句子主詞相同。此句型語言簡潔，廣泛用於日常表達。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She doesn't know what to do with the broken phone.",
+      "chi": "她不知道用那台壞掉的手機該怎麼辦。",
+      "keywords": [
+        "know",
+        "what to do",
+        "不定詞受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The teacher explained how to solve this difficult math problem.",
+      "chi": "老師解釋如何解決這道困難的數學問題。",
+      "keywords": [
+        "explain",
+        "how to solve",
+        "方法"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I haven't decided whether to study abroad or stay at home.",
+      "chi": "我還沒決定是否出國留學或留在家裡。",
+      "keywords": [
+        "decide",
+        "whether to study",
+        "抉擇"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Can you remember where to meet your friends tomorrow evening?",
+      "chi": "你記得明天晚上要在哪裡和朋友碰面嗎？",
+      "keywords": [
+        "remember",
+        "where to meet",
+        "地點"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵：疑問詞後直接接不定詞（to V），無需加主詞或助動詞。若疑問詞後有主詞和完整動詞，則為疑問詞引導的子句，不屬此句型。兩種形式意義相同但結構不同。",
+    "examples": [
+      {
+        "test": "正確：I know what to say. / 錯誤：I know what I should say.",
+        "result": "→ 前者為疑問詞加不定詞句型，後者為疑問詞子句，兩者意義相同但結構不同"
+      },
+      {
+        "test": "She learned how to make coffee. / She learned that coffee is made this way.",
+        "result": "→ 前者強調方法技能，後者強調事實說明，句型結構迥異"
+      },
+      {
+        "test": "He couldn't decide whether to go or stay. / He couldn't decide if he should go or stay.",
+        "result": "→ 前者為簡潔的疑問詞不定詞，後者為條件子句，皆可用但句型分類不同"
+      }
+    ],
+    "note": "疑問詞＋to V＝簡潔表達疑問詞子句，主詞通常與句子主詞相同，省略無誤。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The student asked the teacher ",
+        null,
+        " this complicated problem.",
+        "Sentence: The student asked the teacher how to solve this complicated problem."
+      ],
+      "blanks": [
+        "how to solve"
+      ],
+      "sentence": "The student asked the teacher how to solve this complicated problem.",
+      "translation": "學生問老師如何解決這道複雜的問題。",
+      "keywords": [
+        "ask",
+        "how to solve",
+        "疑問詞不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She has never learned ",
+        null,
+        " a presentation in front of many people.",
+        "Sentence: She has never learned how to deliver a presentation in front of many people."
+      ],
+      "blanks": [
+        "how to deliver"
+      ],
+      "sentence": "She has never learned how to deliver a presentation in front of many people.",
+      "translation": "她從未學過如何在眾人面前做演講。",
+      "keywords": [
+        "learn",
+        "how to deliver",
+        "技能習得"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I'm still trying to decide ",
+        null,
+        " my summer vacation.",
+        "Sentence: I'm still trying to decide where to spend my summer vacation."
+      ],
+      "blanks": [
+        "where to spend"
+      ],
+      "sentence": "I'm still trying to decide where to spend my summer vacation.",
+      "translation": "我還在決定要在哪裡度過暑假。",
+      "keywords": [
+        "decide",
+        "where to spend",
+        "位置選擇"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Nobody could figure out ",
+        null,
+        " the old machine without instructions.",
+        "Sentence: Nobody could figure out how to operate the old machine without instructions."
+      ],
+      "blanks": [
+        "how to operate"
+      ],
+      "sentence": "Nobody could figure out how to operate the old machine without instructions.",
+      "translation": "沒有人在沒有說明書的情況下能搞清楚如何操作這台老機器。",
+      "keywords": [
+        "figure out",
+        "how to operate",
+        "能力與理解"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "learn",
+      "zh": "學習、了解"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "show",
+      "zh": "展示、教導"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、納悶"
+    },
+    {
+      "adj": "consider",
+      "zh": "考慮"
+    },
+    {
+      "adj": "ask",
+      "zh": "問"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

@@ -1,0 +1,213 @@
+{
+  "code": "6-11",
+  "chapter": 6,
+  "title": "S + spend + 時間/金錢 + V-ing",
+  "formulas": [
+    {
+      "formula": "S + spend + 時間/金錢 + V-ing",
+      "zh": "某人花費時間/金錢做某事"
+    },
+    {
+      "formula": "S + spend + 時間/金錢 + on + N",
+      "zh": "某人花費時間/金錢在某事物上"
+    }
+  ],
+  "explanation": "spend 句型中，主詞必須是人，後接時間或金錢作受詞。可接動名詞（V-ing）表示具體活動，或接 on + 名詞表示目標對象。與 it takes 的重要區別：spend 強調主詞的主動投入，it takes 為虛主詞結構表耗時多久。例如「He spent two hours studying」vs「It takes two hours to study」。兩者都表耗時，但句式結構完全不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I spent three hours doing my homework yesterday evening.",
+      "chi": "我昨晚花了三小時做功課。",
+      "keywords": [
+        "spend",
+        "V-ing",
+        "時間"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She spent $500 on a new winter coat for the upcoming season.",
+      "chi": "她花了五百美元買新的冬大衣。",
+      "keywords": [
+        "spend",
+        "on + N",
+        "金錢"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "They spent the whole weekend planning their graduation trip carefully.",
+      "chi": "他們花整個週末仔細規劃畢業旅行。",
+      "keywords": [
+        "spend",
+        "V-ing",
+        "時間表達"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "My parents spend a lot of money on my education every year.",
+      "chi": "我的父母每年在我的教育上花很多錢。",
+      "keywords": [
+        "spend",
+        "on + N",
+        "金錢"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否用 V-ing 或 on + N：若動作明確具體用 V-ing（studying, playing）；若是物品或事物用 on + N（on clothes, on books）。注意 spend 後不能直接接不定詞（錯：spend...to do），只能接 V-ing 或 on + N。常見錯誤是混淆 spend 與 take 的主詞要求。",
+    "examples": [
+      {
+        "test": "She spent two hours to study.（錯誤）",
+        "result": "→ She spent two hours studying.（正確）或 It took her two hours to study."
+      },
+      {
+        "test": "They spend money on books regularly.（正確）",
+        "result": "→ They spend money buying books regularly.（也正確）"
+      },
+      {
+        "test": "It spends three days making the project.（錯誤）",
+        "result": "→ It takes three days to make the project.（正確，it takes 結構）"
+      }
+    ],
+    "note": "記住：spend 的主詞必須是人，後接「時間/金錢 + V-ing」或「時間/金錢 + on + 名詞」兩種形式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "He spent two hours ",
+        null,
+        " for the upcoming exam.",
+        " "
+      ],
+      "blanks": [
+        "studying / preparing"
+      ],
+      "sentence": "He spent two hours studying for the upcoming exam.",
+      "translation": "他花了兩小時為即將到來的考試做準備。",
+      "keywords": [
+        "spend",
+        "V-ing",
+        "時間"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The company spent millions of dollars ",
+        null,
+        " new technology.",
+        " "
+      ],
+      "blanks": [
+        "on developing / on investing in"
+      ],
+      "sentence": "The company spent millions of dollars on developing new technology.",
+      "translation": "該公司花費數百萬美元開發新技術。",
+      "keywords": [
+        "spend",
+        "on + N",
+        "金錢"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I ",
+        null,
+        " the whole afternoon ",
+        null,
+        " with my friends.",
+        " "
+      ],
+      "blanks": [
+        "spent",
+        "chatting / talking"
+      ],
+      "sentence": "I spent the whole afternoon chatting with my friends.",
+      "translation": "我花了整個下午與朋友聊天。",
+      "keywords": [
+        "spend",
+        "時間",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "My parents ",
+        null,
+        " significant funds ",
+        null,
+        " my music lessons.",
+        " "
+      ],
+      "blanks": [
+        "spend / have spent",
+        "on"
+      ],
+      "sentence": "My parents spend significant funds on my music lessons.",
+      "translation": "我的父母在我的音樂課上花費大量資金。",
+      "keywords": [
+        "spend",
+        "金錢",
+        "on + N"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "a lot of",
+      "zh": "許多、大量"
+    },
+    {
+      "adj": "plenty of",
+      "zh": "充足的、大量的"
+    },
+    {
+      "adj": "several hours",
+      "zh": "幾小時"
+    },
+    {
+      "adj": "the whole day",
+      "zh": "整天"
+    },
+    {
+      "adj": "considerable",
+      "zh": "相當可觀的"
+    },
+    {
+      "adj": "enormous",
+      "zh": "巨大的"
+    },
+    {
+      "adj": "modest",
+      "zh": "不多的、適度的"
+    },
+    {
+      "adj": "precious",
+      "zh": "寶貴的（時間）"
+    },
+    {
+      "adj": "countless hours",
+      "zh": "無數小時"
+    },
+    {
+      "adj": "substantial",
+      "zh": "大量的、實質的"
+    },
+    {
+      "adj": "tremendous",
+      "zh": "龐大的、巨大的"
+    },
+    {
+      "adj": "meager",
+      "zh": "微薄的、不足的"
+    }
+  ],
+  "vocab_table_label": "常用時間與數量表達"
+}

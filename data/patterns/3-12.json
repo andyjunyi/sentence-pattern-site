@@ -1,0 +1,207 @@
+{
+  "code": "3-12",
+  "chapter": 3,
+  "title": "The + 比較級..., the + 比較級...",
+  "formulas": [
+    {
+      "formula": "The + 比較級 (adj./adv.) + S + V, the + 比較級 (adj./adv.) + S + V",
+      "zh": "越……就越……（兩件事同步變化）"
+    },
+    {
+      "formula": "The more + S + V, the more + S + V",
+      "zh": "越……就越……（用於多音節形容詞或動詞片語）"
+    }
+  ],
+  "explanation": "此句型用來表達兩件事情之間的同步變化關係，意為「越……就越……」。結構上，兩個子句皆以 the + 比較級開頭，前句為條件，後句為結果。單音節形容詞或副詞直接加 -er（如 harder, faster），多音節詞則用 more + 原級（如 more difficult）。注意：比較級必須緊接在 the 之後，形成倒裝語序。此句型常見於表達因果、正比或反比關係，學測寫作與閱讀測驗中經常出現。兩個子句的時態通常一致，多用現在簡單式表達通則。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The harder you study, the better grades you will get on the exam.",
+      "chi": "你越努力讀書，你在考試中就會得到越好的成績。",
+      "keywords": [
+        "the harder",
+        "the better"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The more books you read, the more knowledge you will gain.",
+      "chi": "你讀越多書，就會獲得越多知識。",
+      "keywords": [
+        "the more",
+        "the more"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The earlier you go to bed, the healthier you will become.",
+      "chi": "你越早上床睡覺，就會變得越健康。",
+      "keywords": [
+        "the earlier",
+        "the healthier"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The more polite you are to others, the more respect you will receive.",
+      "chi": "你對別人越有禮貌，就會得到越多的尊重。",
+      "keywords": [
+        "the more polite",
+        "the more respect"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用此句型，關鍵在於兩件事是否「同步變化」。看到「越……越……」的中文語意，就該聯想此句型。注意比較級須緊跟在 the 後面，且兩個子句都不可省略主詞與動詞，避免寫成不完整的片語。",
+    "examples": [
+      {
+        "test": "The more you practice, the more fluently you speak.（×）",
+        "result": "→ 應改為 The more you practice, the more fluently you will speak. 後句需有完整主詞與動詞結構。"
+      },
+      {
+        "test": "You study harder, you get better grades.（×）",
+        "result": "→ 應改為 The harder you study, the better grades you get. 兩個子句皆須以 the + 比較級開頭。"
+      },
+      {
+        "test": "The less sugar you eat, the healthier you will be.（✓）",
+        "result": "→ 正確！less 也是比較級，可用於表達「越少……就越……」的反比關係。"
+      }
+    ],
+    "note": "口訣：「雙 the 雙比較，前因後果排；越前越後，同步來。」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " you practice speaking English, ",
+        null,
+        " your pronunciation will become."
+      ],
+      "blanks": [
+        "The more",
+        "the better"
+      ],
+      "sentence": "The more you practice speaking English, the better your pronunciation will become.",
+      "translation": "你越常練習說英文，你的發音就會變得越好。",
+      "keywords": [
+        "the more",
+        "the better"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " you stay up at night, ",
+        null,
+        " you will feel the next morning."
+      ],
+      "blanks": [
+        "The later",
+        "the more tired"
+      ],
+      "sentence": "The later you stay up at night, the more tired you will feel the next morning.",
+      "translation": "你晚上越晚睡，隔天早上就會覺得越疲倦。",
+      "keywords": [
+        "the later",
+        "the more tired"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " friends you make, ",
+        null,
+        " your life will be."
+      ],
+      "blanks": [
+        "The more",
+        "the happier"
+      ],
+      "sentence": "The more friends you make, the happier your life will be.",
+      "translation": "你交到越多朋友，你的人生就會越快樂。",
+      "keywords": [
+        "the more",
+        "the happier"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " we walk in the mountains, ",
+        null,
+        " the air becomes."
+      ],
+      "blanks": [
+        "The higher",
+        "the cooler"
+      ],
+      "sentence": "The higher we walk in the mountains, the cooler the air becomes.",
+      "translation": "我們在山裡走得越高，空氣就變得越涼爽。",
+      "keywords": [
+        "the higher",
+        "the cooler"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "harder",
+      "zh": "更努力的"
+    },
+    {
+      "adj": "better",
+      "zh": "更好的"
+    },
+    {
+      "adj": "faster",
+      "zh": "更快的"
+    },
+    {
+      "adj": "earlier",
+      "zh": "更早的"
+    },
+    {
+      "adj": "longer",
+      "zh": "更長的；更久的"
+    },
+    {
+      "adj": "more careful",
+      "zh": "更仔細的"
+    },
+    {
+      "adj": "more confident",
+      "zh": "更有自信的"
+    },
+    {
+      "adj": "more expensive",
+      "zh": "更昂貴的"
+    },
+    {
+      "adj": "healthier",
+      "zh": "更健康的"
+    },
+    {
+      "adj": "happier",
+      "zh": "更快樂的"
+    },
+    {
+      "adj": "less",
+      "zh": "更少的"
+    },
+    {
+      "adj": "worse",
+      "zh": "更糟的"
+    }
+  ],
+  "vocab_table_label": "常用比較級"
+}

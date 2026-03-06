@@ -1,0 +1,202 @@
+{
+  "code": "3-1",
+  "chapter": 3,
+  "title": "as + adj./adv. + as...（同等比較）",
+  "formulas": [
+    {
+      "formula": "as + adj./adv. + as + 比較對象",
+      "zh": "表示兩者程度相同；用於正面比較"
+    },
+    {
+      "formula": "not as/so + adj./adv. + as + 比較對象",
+      "zh": "表示一方不如另一方；用於否定比較"
+    }
+  ],
+  "explanation": "此句型用於比較兩個事物或人物在某一特性上的程度是否相同。正面用法 as...as 表「和……一樣」，否定用法 not as/so...as 表「不如……」。比較對象須詞性相對等，如名詞對名詞、句子對句子。可於第一個 as 和形容詞/副詞間加倍數詞（twice as、three times as）表倍數關係。此句型適用於日常比較、論述對比等情境。易混淆點：must not confuse 比較對象的詞性，避免違反平行結構原則。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This smartphone is as expensive as that one, but it has better features.",
+      "chi": "這支智慧型手機和那支一樣昂貴，但功能更好。",
+      "keywords": [
+        "as...as",
+        "expensive",
+        "並列比較"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She speaks English as fluently as a native speaker does.",
+      "chi": "她說英文和母語使用者一樣流暢。",
+      "keywords": [
+        "as...as",
+        "fluently",
+        "副詞比較"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The project is not as difficult as we initially thought.",
+      "chi": "這個專案不如我們最初想的那麼困難。",
+      "keywords": [
+        "not as...as",
+        "difficult",
+        "否定比較"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "This year's sales are three times as high as last year's.",
+      "chi": "今年的銷售額是去年的三倍。",
+      "keywords": [
+        "倍數詞",
+        "three times as...as",
+        "數量比較"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰明的"
+    },
+    {
+      "adj": "talented",
+      "zh": "有才華的"
+    },
+    {
+      "adj": "fluently",
+      "zh": "流暢地（副詞）"
+    },
+    {
+      "adj": "quickly",
+      "zh": "快速地（副詞）"
+    },
+    {
+      "adj": "carefully",
+      "zh": "仔細地（副詞）"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "strong",
+      "zh": "強壯的"
+    },
+    {
+      "adj": "reliable",
+      "zh": "可靠的"
+    },
+    {
+      "adj": "productive",
+      "zh": "高效的"
+    },
+    {
+      "adj": "popular",
+      "zh": "受歡迎的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：確認比較對象詞性是否對等。如比較人物用名詞或代詞，比較動作用副詞。常見錯誤：忽略倍數詞與 as...as 搭配，或混淆 as...as 與 than 的用法。as...as 表相同；than 表不同。",
+    "examples": [
+      {
+        "test": "Tom is as tall as his brother. / Tom is taller than his brother.",
+        "result": "→ 前句表身高相同；後句表湯姆更高。兩句意義完全相反，需注意句型選擇。"
+      },
+      {
+        "test": "She works twice as hard as before. (正確) vs. She works twice harder than before. (錯誤)",
+        "result": "→ 倍數詞只能搭配 as...as，不能與 than 搭配。harder 是比較級，與倍數詞衝突。"
+      },
+      {
+        "test": "The new product is not as popular as the old one. (正確)",
+        "result": "→ 否定比較中，as...as 更常用於書面語；so...as 則多出現於否定句且較少見。"
+      }
+    ],
+    "note": "口訣：as...as 夾形容詞或副詞，比較對象須平行；倍數詞只配 as...as，否定用 not as/so...as。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "This camera is ",
+        null,
+        " that one, but it costs much less."
+      ],
+      "blanks": [
+        "as high-quality as"
+      ],
+      "sentence": "This camera is as high-quality as that one, but it costs much less.",
+      "translation": "這台相機和那台一樣高品質，但價格便宜得多。",
+      "keywords": [
+        "as...as",
+        "high-quality",
+        "正面比較"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "He doesn't run ",
+        null,
+        " his competitive teammates do."
+      ],
+      "blanks": [
+        "as fast as"
+      ],
+      "sentence": "He doesn't run as fast as his competitive teammates do.",
+      "translation": "他跑的速度不如他的競爭隊友那麼快。",
+      "keywords": [
+        "not as...as",
+        "fast",
+        "副詞否定比較"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The summer project is ",
+        null,
+        " the winter one."
+      ],
+      "blanks": [
+        "twice as challenging as"
+      ],
+      "sentence": "The summer project is twice as challenging as the winter one.",
+      "translation": "夏季專案的難度是冬季專案的兩倍。",
+      "keywords": [
+        "倍數詞",
+        "twice as...as",
+        "challenging"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She spoke so ",
+        null,
+        " a professional interpreter that everyone was impressed."
+      ],
+      "blanks": [
+        "as articulately as"
+      ],
+      "sentence": "She spoke so articulately as a professional interpreter that everyone was impressed.",
+      "translation": "她說話的清晰程度就像專業口譯員一樣，令所有人印象深刻。",
+      "keywords": [
+        "as...as",
+        "articulately",
+        "副詞",
+        "比喻"
+      ]
+    }
+  ]
+}

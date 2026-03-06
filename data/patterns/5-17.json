@@ -1,0 +1,214 @@
+{
+  "code": "5-17",
+  "chapter": 5,
+  "title": "S + have + O + p.p.（使役被動）",
+  "formulas": [
+    {
+      "formula": "S + have + O + p.p.",
+      "zh": "主詞讓受詞被…（主動請人做事）"
+    },
+    {
+      "formula": "S + get + O + p.p.",
+      "zh": "主詞讓受詞被…（較非正式）或主詞遭遇被…"
+    }
+  ],
+  "explanation": "此句型表達兩種含義：(1)主動請人做某事——主詞主動安排讓受詞被某事，受詞與過去分詞為被動關係；(2)遭遇某事——主詞被動遭遇某情況。結構為「主詞＋have/get＋受詞＋過去分詞」。have較正式，get較口語。關鍵在於受詞與後面過去分詞的被動關係，與「make＋受詞＋原形動詞」的主動用法區別。學測常考此句型與被動語態的比較。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I had my car repaired by a professional mechanic last week.",
+      "chi": "我上週讓一位專業機械師修理我的車。",
+      "keywords": [
+        "have",
+        "過去分詞",
+        "主動安排"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She got her hair cut at the salon before the important meeting.",
+      "chi": "她在重要會議前在沙龍剪了頭髮。",
+      "keywords": [
+        "get",
+        "過去分詞",
+        "非正式"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company had its new office building constructed in the downtown area.",
+      "chi": "該公司讓人在市中心建造了新辦公室。",
+      "keywords": [
+        "have",
+        "過去分詞",
+        "被動關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Tom got his phone stolen while he was shopping at the mall.",
+      "chi": "湯姆在商場購物時手機被盜了。",
+      "keywords": [
+        "get",
+        "過去分詞",
+        "遭遇"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：看受詞與過去分詞的關係。若受詞是被…的對象，用have/get＋p.p.；若受詞是執行者，用make＋受詞＋原形。「have my car repaired」(車被修)vs「make him work」(他去工作)。get用於遭遇不幸時常見。",
+    "examples": [
+      {
+        "test": "I had the document translated by an expert.",
+        "result": "→ 正確。文件是被翻譯的對象，受詞與過去分詞被動關係。"
+      },
+      {
+        "test": "I made him do the homework.",
+        "result": "→ 正確用法不同。make表強制他人主動做，用原形；have是安排讓人做。"
+      },
+      {
+        "test": "She got her proposal rejected by the committee.",
+        "result": "→ 正確。表遭遇不幸，提案被拒，受詞與p.p.為被動關係。"
+      }
+    ],
+    "note": "受詞是『被做』的對象，後接過去分詞；若受詞是『去做』的人，則用make＋原形動詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The hotel manager ",
+        null,
+        " a new swimming pool built in the resort.",
+        null
+      ],
+      "blanks": [
+        "had",
+        "constructed"
+      ],
+      "sentence": "The hotel manager had a new swimming pool constructed in the resort.",
+      "translation": "旅館經理讓人在度假村建造了一個新游泳池。",
+      "keywords": [
+        "have",
+        "過去分詞",
+        "被動安排"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "After the accident, they ",
+        null,
+        " the damaged car ",
+        null,
+        " immediately."
+      ],
+      "blanks": [
+        "got",
+        "repaired"
+      ],
+      "sentence": "After the accident, they got the damaged car repaired immediately.",
+      "translation": "事故之後，他們立即讓人修理了那輛受損的車。",
+      "keywords": [
+        "get",
+        "過去分詞",
+        "緊急處理"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The student ",
+        null,
+        " her thesis ",
+        null,
+        " before submitting it to the professor."
+      ],
+      "blanks": [
+        "had",
+        "reviewed"
+      ],
+      "sentence": "The student had her thesis reviewed before submitting it to the professor.",
+      "translation": "學生在提交給教授之前讓人檢閱了她的論文。",
+      "keywords": [
+        "have",
+        "過去分詞",
+        "提交前準備"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "During the robbery, the shop owner ",
+        null,
+        " his money ",
+        null,
+        " by the thieves."
+      ],
+      "blanks": [
+        "got",
+        "stolen"
+      ],
+      "sentence": "During the robbery, the shop owner got his money stolen by the thieves.",
+      "translation": "搶劫期間，店主的錢被小偷偷走了。",
+      "keywords": [
+        "get",
+        "過去分詞",
+        "遭遇不幸"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "repaired",
+      "zh": "被修理的"
+    },
+    {
+      "adj": "cut",
+      "zh": "被剪的"
+    },
+    {
+      "adj": "painted",
+      "zh": "被油漆的"
+    },
+    {
+      "adj": "cleaned",
+      "zh": "被清潔的"
+    },
+    {
+      "adj": "delivered",
+      "zh": "被送達的"
+    },
+    {
+      "adj": "translated",
+      "zh": "被翻譯的"
+    },
+    {
+      "adj": "organized",
+      "zh": "被組織的"
+    },
+    {
+      "adj": "examined",
+      "zh": "被檢查的"
+    },
+    {
+      "adj": "designed",
+      "zh": "被設計的"
+    },
+    {
+      "adj": "installed",
+      "zh": "被安裝的"
+    },
+    {
+      "adj": "prepared",
+      "zh": "被準備的"
+    },
+    {
+      "adj": "published",
+      "zh": "被出版的"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "4-7",
+  "chapter": 4,
+  "title": "S + V + N + which/that + S + V（受格省略）",
+  "formulas": [
+    {
+      "formula": "N + which/that + S + V (受格關係代名詞作受詞)",
+      "zh": "名詞 + 關係代名詞 + 主詞 + 動詞...（關係代名詞作受詞時可省略）"
+    },
+    {
+      "formula": "N + (which/that) + S + V (省略受格關係代名詞)",
+      "zh": "名詞 + 省略關係代名詞 + 主詞 + 動詞...（受詞位置省略仍可理解）"
+    }
+  ],
+  "explanation": "受格關係代名詞（which/that）在關係子句中作受詞時，可以省略。省略後主詞和動詞仍然存在，句子結構完整。例如「The book which/that I read」可簡化為「The book I read」。但若關係代名詞作主詞時絕不可省略，例如「The book which is on the table」不能省略which。這是高中英文的重要區別點，常見於學測題目。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The movie (that) we watched last weekend was very exciting.",
+      "chi": "我們上週末看的那部電影非常令人興奮。",
+      "keywords": [
+        "受格關係代名詞",
+        "可省略",
+        "that"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "All the students (whom) the teacher praised have made great progress.",
+      "chi": "所有被老師表揚的學生都取得了很大的進步。",
+      "keywords": [
+        "whom",
+        "受詞位置",
+        "省略可行"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The technology (which) scientists developed has changed our lives.",
+      "chi": "科學家開發的這項技術改變了我們的生活。",
+      "keywords": [
+        "which",
+        "受詞",
+        "可省略"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "This is the method (that) experts recommend for solving the problem.",
+      "chi": "這是專家推薦用來解決問題的方法。",
+      "keywords": [
+        "method",
+        "recommend",
+        "受格省略"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關係代名詞能否省略的關鍵：檢查關係代名詞在子句中的角色。若是受詞可省略；若是主詞（後面直接跟動詞）則不可省略。省略後應仍能清楚看出主詞和動詞。",
+    "examples": [
+      {
+        "test": "The book which is on the table（which作主詞）",
+        "result": "→ 不能省略，✗ The book is on the table（意思改變）"
+      },
+      {
+        "test": "The book which I read（which作受詞）",
+        "result": "→ 可以省略，✓ The book I read（意思相同）"
+      },
+      {
+        "test": "The person whom we met（whom作受詞）",
+        "result": "→ 可以省略，✓ The person we met（受詞位置被省略）"
+      }
+    ],
+    "note": "受詞可省，主詞不可省；若關係代名詞後直接有主詞和動詞，則此代名詞作受詞，可省略。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The painting ",
+        null,
+        " the museum owns is worth millions of dollars."
+      ],
+      "blanks": [
+        "(that/which)"
+      ],
+      "sentence": "The painting (that/which) the museum owns is worth millions of dollars.",
+      "translation": "博物館擁有的這幅畫價值數百萬美元。",
+      "keywords": [
+        "受格關係代名詞",
+        "省略可行",
+        "painting"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "All the documents ",
+        null,
+        " you submitted have been reviewed by the manager."
+      ],
+      "blanks": [
+        "(that/which)"
+      ],
+      "sentence": "All the documents (that/which) you submitted have been reviewed by the manager.",
+      "translation": "你提交的所有文件都已被經理審查。",
+      "keywords": [
+        "submitted",
+        "documents",
+        "受詞省略"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The experience ",
+        null,
+        " they gained from the project was invaluable."
+      ],
+      "blanks": [
+        "(that/which)"
+      ],
+      "sentence": "The experience (that/which) they gained from the project was invaluable.",
+      "translation": "他們從這個專案中獲得的經驗是無價的。",
+      "keywords": [
+        "gained",
+        "experience",
+        "受格關係代名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The strategy ",
+        null,
+        " the company implemented has proven very effective."
+      ],
+      "blanks": [
+        "(that/which)"
+      ],
+      "sentence": "The strategy (that/which) the company implemented has proven very effective.",
+      "translation": "公司實施的這項策略已被證明非常有效。",
+      "keywords": [
+        "implemented",
+        "strategy",
+        "可省略"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "watched",
+      "zh": "看（過去式）"
+    },
+    {
+      "adj": "praised",
+      "zh": "表揚、稱讚"
+    },
+    {
+      "adj": "developed",
+      "zh": "開發、發展"
+    },
+    {
+      "adj": "recommended",
+      "zh": "推薦、建議"
+    },
+    {
+      "adj": "created",
+      "zh": "創造、製造"
+    },
+    {
+      "adj": "discovered",
+      "zh": "發現"
+    },
+    {
+      "adj": "built",
+      "zh": "建造、建立"
+    },
+    {
+      "adj": "designed",
+      "zh": "設計"
+    },
+    {
+      "adj": "published",
+      "zh": "出版、發表"
+    },
+    {
+      "adj": "purchased",
+      "zh": "購買"
+    },
+    {
+      "adj": "attended",
+      "zh": "參加、出席"
+    },
+    {
+      "adj": "completed",
+      "zh": "完成、完畢"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

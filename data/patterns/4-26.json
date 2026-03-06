@@ -1,0 +1,201 @@
+{
+  "code": "4-26",
+  "chapter": 4,
+  "title": "no matter + wh- / wh-ever + S + V",
+  "formulas": [
+    {
+      "formula": "No matter what/who/how/when/where + S + V, ... (主句)",
+      "zh": "無論……什麼/誰/如何/何時/何地，……都……"
+    },
+    {
+      "formula": "Whatever/Whoever/However/Whenever/Wherever + S + V, ... (主句)",
+      "zh": "無論……什麼/誰/如何/何時/何地，……都……（與上式等義）"
+    }
+  ],
+  "explanation": "讓步副詞子句，表示在任何條件或情況下，主句的內容都成立。「no matter + 疑問詞」與「-ever 複合詞」（whatever、whoever、however 等）兩種形式等義。此句型用於強調主句的絕對性或普遍性，不受條件限制。主要用於表達堅定的態度、普遍真理或無條件的承諾。注意：讓步子句可置於句首或句尾。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "No matter what happens, I will always support you.",
+      "chi": "無論發生什麼事，我都會一直支持你。",
+      "keywords": [
+        "no matter what",
+        "讓步副詞子句",
+        "絕對承諾"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whoever you are, you must follow the school rules here.",
+      "chi": "無論你是誰，你都必須遵守這裡的校規。",
+      "keywords": [
+        "whoever",
+        "身份",
+        "必須遵守"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "However difficult the exam is, we should do our best.",
+      "chi": "無論考試多麼困難，我們都應該盡力而為。",
+      "keywords": [
+        "however",
+        "程度",
+        "困難"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Whenever you need help, feel free to call me anytime.",
+      "chi": "無論何時你需要幫助，隨時都可以打給我。",
+      "keywords": [
+        "whenever",
+        "時間",
+        "隨時"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "辨識此句型：尋找「no matter + 疑問詞」或「-ever 複合詞」+「主語+動詞」的組合。主句常含有表示必然性或絕對性的動詞（will、must、should）。注意讓步子句與條件子句的區別：條件子句用 if，讓步子句強調無條件性。",
+    "examples": [
+      {
+        "test": "No matter how hard he tries, he cannot succeed.",
+        "result": "→ 正確。表示無論多努力都無法成功，呈現讓步關係。"
+      },
+      {
+        "test": "Whatever you choose, the result will be the same.",
+        "result": "→ 正確。Whatever 與 no matter what 等義，表示選擇什麼結果都一樣。"
+      },
+      {
+        "test": "If he studies hard, he will pass the exam.",
+        "result": "→ 與讓步句型不同。此為條件句，強調「如果……就……」的因果關係。"
+      }
+    ],
+    "note": "「no matter...」與「-ever 複合詞」完全等義；讓步子句強調「無條件性」，主句內容絕對成立。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The school will accept all applicants,",
+        null,
+        "their academic background is."
+      ],
+      "blanks": [
+        "no matter what"
+      ],
+      "sentence": "The school will accept all applicants, no matter what their academic background is.",
+      "translation": "無論學術背景如何，學校都會接受所有申請者。",
+      "keywords": [
+        "no matter what",
+        "讓步條件",
+        "接受"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        "wins the competition, everyone should congratulate them."
+      ],
+      "blanks": [
+        "Whoever"
+      ],
+      "sentence": "Whoever wins the competition, everyone should congratulate them.",
+      "translation": "無論誰贏得比賽，每個人都應該祝賀他們。",
+      "keywords": [
+        "whoever",
+        "身份",
+        "祝賀"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "My parents will always love me,",
+        null,
+        "I make."
+      ],
+      "blanks": [
+        "no matter what mistakes"
+      ],
+      "sentence": "My parents will always love me, no matter what mistakes I make.",
+      "translation": "無論我犯什麼錯誤，父母都會一直愛我。",
+      "keywords": [
+        "no matter what",
+        "無條件",
+        "愛"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        "difficult the problem is, you must try to solve it."
+      ],
+      "blanks": [
+        "However"
+      ],
+      "sentence": "However difficult the problem is, you must try to solve it.",
+      "translation": "無論問題多麼困難，你都必須試著解決它。",
+      "keywords": [
+        "however",
+        "程度",
+        "必須"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "No matter what",
+      "zh": "無論什麼（事物）"
+    },
+    {
+      "adj": "No matter who",
+      "zh": "無論誰（身份）"
+    },
+    {
+      "adj": "No matter how",
+      "zh": "無論如何（方式、程度）"
+    },
+    {
+      "adj": "No matter when",
+      "zh": "無論何時（時間）"
+    },
+    {
+      "adj": "No matter where",
+      "zh": "無論何地（地點）"
+    },
+    {
+      "adj": "Whatever",
+      "zh": "無論什麼"
+    },
+    {
+      "adj": "Whoever",
+      "zh": "無論誰"
+    },
+    {
+      "adj": "However",
+      "zh": "無論如何"
+    },
+    {
+      "adj": "Whenever",
+      "zh": "無論何時"
+    },
+    {
+      "adj": "Wherever",
+      "zh": "無論何地"
+    },
+    {
+      "adj": "always / will always",
+      "zh": "總是 / 將總是"
+    },
+    {
+      "adj": "must / should / will",
+      "zh": "必須 / 應該 / 將"
+    }
+  ],
+  "vocab_table_label": "常用 no matter 片語"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "4-13",
+  "chapter": 4,
+  "title": "which + S + V（指涉整個子句的關係代名詞）",
+  "formulas": [
+    {
+      "formula": "S + V..., which + V...",
+      "zh": "主句敘述事件或狀況，which 引導的非限定子句指涉整個前句內容，表示結果或評論"
+    },
+    {
+      "formula": "S + V + O, which + V + ...",
+      "zh": "前句完整陳述後，which 子句補充說明或評論該事件的影響或意義"
+    }
+  ],
+  "explanation": "which 引導的非限定子句用於指涉整個前句內容，相當於 and this/that，不可用 that 替換。此句型常用於表達某事件帶來的結果或延伸涵義。結構特徵是前後兩句間需加逗號，which 之後接動詞。使用時機為需要連接兩個相關但獨立的想法時。易混淆點：不能用 that 引導，that 子句只能修飾特定名詞而非整句內容。注意 which 前的逗號不可省略，否則改變句意。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She graduated with a scholarship, which made her parents very proud.",
+      "chi": "她以獎學金身份畢業，這使她的父母感到非常驕傲。",
+      "keywords": [
+        "which 指涉整句",
+        "非限定子句",
+        "結果表達"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The company decided to relocate overseas, which surprised many employees.",
+      "chi": "公司決定向海外遷移，這令許多員工感到驚訝。",
+      "keywords": [
+        "which 子句",
+        "事件評論",
+        "逗號分隔"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He ignored the warning signs, which eventually led to a serious accident.",
+      "chi": "他忽視了警告訊號，這最終導致了一場嚴重的事故。",
+      "keywords": [
+        "which 連接",
+        "因果關係",
+        "整句指涉"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The government raised interest rates unexpectedly, which affected the housing market significantly.",
+      "chi": "政府意外提高了利率，這顯著影響了房地產市場。",
+      "keywords": [
+        "which 引導",
+        "前句結果",
+        "非限定關係"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷方法：which 前必須有逗號，且指涉的是整個前句事件而非單個名詞。若只修飾單一名詞應使用 that（限定子句）。錯誤用法如 'The student studied hard that paid off'，應改為加逗號的 'The student studied hard, which paid off'。",
+    "examples": [
+      {
+        "test": "✗ The student studied hard that helped her pass the exam.",
+        "result": "→ ✓ The student studied hard, which helped her pass the exam. (which 指涉整句)"
+      },
+      {
+        "test": "✗ She received a promotion which made her happy, and she worked harder.",
+        "result": "→ ✓ She received a promotion, which made her happy. (which 應指涉完整事件)"
+      },
+      {
+        "test": "✓ The project was delayed for three months, which frustrated the entire team.",
+        "result": "→ 正確：which 指涉延遲這件事，帶來團隊挫折的結果"
+      }
+    ],
+    "note": "記住：which 前必有逗號，指涉整句事件而非單詞；that 前無逗號，只修飾特定名詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The team won the championship unexpectedly, ",
+        null,
+        " brought joy to the entire city."
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "The team won the championship unexpectedly, which brought joy to the entire city.",
+      "translation": "這支隊伍意外地贏得了冠軍，這為整個城市帶來了喜悅。",
+      "keywords": [
+        "which 引導子句",
+        "指涉前句事件",
+        "非限定子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She decided to change her major in the middle of her studies, ",
+        null,
+        " surprised her academic advisor."
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "She decided to change her major in the middle of her studies, which surprised her academic advisor.",
+      "translation": "她決定在學習過程中改變專業，這令她的學術顧問感到驚訝。",
+      "keywords": [
+        "which 指涉整句",
+        "事件評論",
+        "非限定關係"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The factory closed down due to environmental concerns, ",
+        null,
+        " left hundreds of workers unemployed."
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "The factory closed down due to environmental concerns, which left hundreds of workers unemployed.",
+      "translation": "工廠因環境問題而關閉，這使數百名工人失業。",
+      "keywords": [
+        "which 連接",
+        "結果表達",
+        "整句指涉"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The government introduced new environmental regulations, ",
+        null,
+        " aims to reduce carbon emissions significantly."
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "The government introduced new environmental regulations, which aims to reduce carbon emissions significantly.",
+      "translation": "政府推出了新的環境法規，這旨在大幅減少碳排放。",
+      "keywords": [
+        "which 引導非限定子句",
+        "目的說明",
+        "前句補充"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "resulted in",
+      "zh": "導致、造成"
+    },
+    {
+      "adj": "led to",
+      "zh": "導向、引發"
+    },
+    {
+      "adj": "surprised",
+      "zh": "令人驚訝的"
+    },
+    {
+      "adj": "made",
+      "zh": "使得、讓"
+    },
+    {
+      "adj": "affected",
+      "zh": "影響"
+    },
+    {
+      "adj": "caused",
+      "zh": "造成"
+    },
+    {
+      "adj": "revealed",
+      "zh": "顯示、揭露"
+    },
+    {
+      "adj": "demonstrated",
+      "zh": "證明、展示"
+    },
+    {
+      "adj": "explained",
+      "zh": "解釋"
+    },
+    {
+      "adj": "indicated",
+      "zh": "表明"
+    },
+    {
+      "adj": "implied",
+      "zh": "暗示"
+    },
+    {
+      "adj": "suggested",
+      "zh": "建議、表明"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

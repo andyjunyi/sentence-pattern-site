@@ -1,0 +1,212 @@
+{
+  "code": "5-16",
+  "chapter": 5,
+  "title": "have/get + O + p.p.（使役被動）",
+  "formulas": [
+    {
+      "formula": "have + O + p.p.",
+      "zh": "請人完成某事或遭受某事（受詞與過去分詞為被動關係）"
+    },
+    {
+      "formula": "have + O + V-ing",
+      "zh": "受詞主動進行某事"
+    }
+  ],
+  "explanation": "此句型表示讓某人完成某事或遭受某事發生。主結構為「have/get + 受詞 + 過去分詞」，受詞與過去分詞構成被動關係。have 較正式，get 較口語化。need, want, would like 等動詞也可同樣用法。have + O + V-ing 則表受詞主動進行某動作。注意區分：受詞後為過去分詞表被動，為現在分詞表主動。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I had my car repaired at the garage yesterday.",
+      "chi": "我昨天在修車廠請人修理我的車。",
+      "keywords": [
+        "have",
+        "repaired",
+        "被動"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She got her hair cut at a new salon last week.",
+      "chi": "她上週在新沙龍剪了頭髮。",
+      "keywords": [
+        "got",
+        "cut",
+        "口語"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company had its office building renovated during the pandemic.",
+      "chi": "該公司在疫情期間請人翻新了辦公樓。",
+      "keywords": [
+        "had",
+        "renovated",
+        "請人完成"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He won't have his homework done carelessly.",
+      "chi": "他不會允許他的功課被馬虎地完成。",
+      "keywords": [
+        "have",
+        "done",
+        "遭受"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看受詞後的動詞形式。若為過去分詞形式，表受詞被動接受某事；若為現在分詞形式，表受詞主動進行。have + O + V-ing 強調受詞的主動行為或持續動作。",
+    "examples": [
+      {
+        "test": "I had my son study English.",
+        "result": "→ 我讓我的兒子學習英文（兒子主動學習）"
+      },
+      {
+        "test": "I had my essay written by a professional.",
+        "result": "→ 我請專業人士寫了我的論文（論文被寫）"
+      },
+      {
+        "test": "She got her bedroom decorated beautifully.",
+        "result": "→ 她請人把她的臥室裝飾得很漂亮（被動）"
+      }
+    ],
+    "note": "記憶要點：have/get + O + p.p. 的過去分詞表被動；have + O + V-ing 的現在分詞表主動，兩者應用場景不同，需細心區別。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "She ",
+        null,
+        " her teeth cleaned at the dentist's office twice a year."
+      ],
+      "blanks": [
+        "has"
+      ],
+      "sentence": "She has her teeth cleaned at the dentist's office twice a year.",
+      "translation": "她每年在牙醫診所潔牙兩次。",
+      "keywords": [
+        "have",
+        "cleaned",
+        "請人"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The factory ",
+        null,
+        " its machines ",
+        null,
+        " every three months to ensure quality."
+      ],
+      "blanks": [
+        "has",
+        "inspected"
+      ],
+      "sentence": "The factory has its machines inspected every three months to ensure quality.",
+      "translation": "工廠每三個月檢查一次機器以確保品質。",
+      "keywords": [
+        "has",
+        "inspected",
+        "定期維護"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "My grandfather won't ",
+        null,
+        " his antique furniture ",
+        null,
+        " carelessly."
+      ],
+      "blanks": [
+        "have",
+        "moved"
+      ],
+      "sentence": "My grandfather won't have his antique furniture moved carelessly.",
+      "translation": "我祖父不會允許他的古董家具被粗魯地移動。",
+      "keywords": [
+        "have",
+        "moved",
+        "拒絕"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "They ",
+        null,
+        " their house ",
+        null,
+        " before the important guests arrived."
+      ],
+      "blanks": [
+        "got",
+        "decorated"
+      ],
+      "sentence": "They got their house decorated before the important guests arrived.",
+      "translation": "在重要客人到達之前，他們請人裝飾了他們的房子。",
+      "keywords": [
+        "got",
+        "decorated",
+        "口語化"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "repaired",
+      "zh": "修理"
+    },
+    {
+      "adj": "cut",
+      "zh": "剪"
+    },
+    {
+      "adj": "renovated",
+      "zh": "翻新"
+    },
+    {
+      "adj": "painted",
+      "zh": "粉刷"
+    },
+    {
+      "adj": "cleaned",
+      "zh": "清潔"
+    },
+    {
+      "adj": "fixed",
+      "zh": "修復"
+    },
+    {
+      "adj": "delivered",
+      "zh": "運送"
+    },
+    {
+      "adj": "installed",
+      "zh": "安裝"
+    },
+    {
+      "adj": "printed",
+      "zh": "印刷"
+    },
+    {
+      "adj": "checked",
+      "zh": "檢查"
+    },
+    {
+      "adj": "translated",
+      "zh": "翻譯"
+    },
+    {
+      "adj": "designed",
+      "zh": "設計"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

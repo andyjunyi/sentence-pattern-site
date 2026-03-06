@@ -1,0 +1,202 @@
+{
+  "code": "5-29",
+  "chapter": 5,
+  "title": "S + be supposed to + V",
+  "formulas": [
+    {
+      "formula": "S + be supposed to + V",
+      "zh": "某人應該做某事；某事理應發生"
+    },
+    {
+      "formula": "S + was/were supposed to + V",
+      "zh": "某人本應做某事（但實際未做）"
+    }
+  ],
+  "explanation": "be supposed to 表達義務、期望或推測，含「應該」之意，暗示存在預期或規範。現在式表示目前應該做的事；過去式 was/were supposed to 則表達「本應但未能」的遺憾感，通常暗示該行動未完成或未達成。此句型常見於日常交流、規則說明及事實敘述中，與 should 相似但語氣略顯正式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "You are supposed to submit your homework by Friday.",
+      "chi": "你應該在星期五之前提交你的功課。",
+      "keywords": [
+        "be supposed to",
+        "義務",
+        "期限"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The meeting was supposed to start at 9 AM, but it was delayed.",
+      "chi": "會議原本應該在上午9點開始，但被延遲了。",
+      "keywords": [
+        "was supposed to",
+        "本應",
+        "延遲"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Students are supposed to follow the school regulations.",
+      "chi": "學生應該遵守學校規定。",
+      "keywords": [
+        "be supposed to",
+        "規範",
+        "遵守"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He was supposed to arrive yesterday, but his flight was cancelled.",
+      "chi": "他本應昨天到達，但他的班機被取消了。",
+      "keywords": [
+        "was supposed to",
+        "計畫改變",
+        "意外"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "be supposed to 帶有未達成或期望落空的隱含意義，尤其在過去式；should 則較為直接的建議或義務。在陳述規則、計畫或期望時優先使用 be supposed to，比 should 更正式、更具約束力。注意與 be expected to 的區別：前者強調應該/規範，後者強調期望。",
+    "examples": [
+      {
+        "test": "He should finish the project by next week. vs. He is supposed to finish the project by next week.",
+        "result": "→ 前者為建議，後者為明確義務或規範；後者更正式、更具約束力"
+      },
+      {
+        "test": "You were supposed to call me yesterday. vs. You should have called me yesterday.",
+        "result": "→ 前者暗示有既定計畫未完成，後者則為後悔的建議；前者實際性更強"
+      },
+      {
+        "test": "The package is supposed to arrive tomorrow. vs. The package should arrive tomorrow.",
+        "result": "→ 前者指預期/計畫狀態，後者指邏輯推測；前者更確定"
+      }
+    ],
+    "note": "現在式是「應該現在做」，過去式是「本應當時做但沒做」——時態決定是否含遺憾感。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Students ",
+        null,
+        " arrive at school before 8 AM."
+      ],
+      "blanks": [
+        "are supposed to"
+      ],
+      "sentence": "Students are supposed to arrive at school before 8 AM.",
+      "translation": "學生應該在上午8點前到校。",
+      "keywords": [
+        "be supposed to",
+        "學校規定"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The project ",
+        null,
+        " complete by the end of this month."
+      ],
+      "blanks": [
+        "is supposed to be"
+      ],
+      "sentence": "The project is supposed to be complete by the end of this month.",
+      "translation": "該專案應該在本月底前完成。",
+      "keywords": [
+        "be supposed to",
+        "被動語態",
+        "期限"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She ",
+        null,
+        " attend the conference, but she got sick."
+      ],
+      "blanks": [
+        "was supposed to"
+      ],
+      "sentence": "She was supposed to attend the conference, but she got sick.",
+      "translation": "她本應參加會議，但她生病了。",
+      "keywords": [
+        "was supposed to",
+        "計畫改變",
+        "意外事件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "We ",
+        null,
+        " know the truth about what happened last year."
+      ],
+      "blanks": [
+        "are supposed to"
+      ],
+      "sentence": "We are supposed to know the truth about what happened last year.",
+      "translation": "我們應該知道去年發生的事情的真相。",
+      "keywords": [
+        "be supposed to",
+        "推測",
+        "事實"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "on time",
+      "zh": "準時"
+    },
+    {
+      "adj": "on schedule",
+      "zh": "按時間表"
+    },
+    {
+      "adj": "in advance",
+      "zh": "提前"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立即"
+    },
+    {
+      "adj": "carefully",
+      "zh": "小心地"
+    },
+    {
+      "adj": "properly",
+      "zh": "適當地"
+    },
+    {
+      "adj": "together",
+      "zh": "一起"
+    },
+    {
+      "adj": "alone",
+      "zh": "獨自"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "obligated",
+      "zh": "有義務的"
+    },
+    {
+      "adj": "required",
+      "zh": "被要求的"
+    },
+    {
+      "adj": "expected",
+      "zh": "被期望的"
+    }
+  ],
+  "vocab_table_label": "常用副詞片語"
+}

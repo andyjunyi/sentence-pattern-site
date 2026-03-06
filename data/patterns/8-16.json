@@ -1,0 +1,203 @@
+{
+  "code": "8-16",
+  "chapter": 8,
+  "title": "both... and... / either... or... / neither... nor...",
+  "formulas": [
+    {
+      "formula": "both A and B + 複數動詞",
+      "zh": "A和B兩者都...（動詞用複數）"
+    },
+    {
+      "formula": "either A or B / neither A nor B + 就近一致動詞",
+      "zh": "A或B其中之一/A和B都不...（動詞依靠近的主詞單複數）"
+    }
+  ],
+  "explanation": "對等連接詞組用於連接兩個對等的語法成分。both...and 表示「兩者都」，主詞一律採複數動詞；either...or 表示「兩者之一」，neither...nor 表示「兩者都不」，動詞形式遵循「就近一致原則」，即依靠近主動詞的主詞決定動詞單複數。此三組結構常見於學測，須注意動詞變化與邏輯搭配。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Both studying hard and getting enough sleep are important for students.",
+      "chi": "認真讀書和充足睡眠對學生都很重要。",
+      "keywords": [
+        "both...and",
+        "複數動詞",
+        "並列結構"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Either the teacher or the students are responsible for the project's success.",
+      "chi": "老師或學生其中之一要為專案成功負責。",
+      "keywords": [
+        "either...or",
+        "就近一致",
+        "單複數判斷"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Neither John nor his friends were present at the meeting yesterday.",
+      "chi": "約翰和他的朋友昨天都沒出席會議。",
+      "keywords": [
+        "neither...nor",
+        "否定意義",
+        "複數動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Both the novel and the film have received excellent reviews from critics.",
+      "chi": "這部小說和電影都獲得評論家的好評。",
+      "keywords": [
+        "both...and",
+        "完成式",
+        "並行敘述"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷動詞單複數時，both...and 永遠用複數；either...or 和 neither...nor 則看靠近動詞的主詞。若主詞為「動名詞/不定詞+名詞」，both...and 仍用複數。常見錯誤是忽視就近一致原則，導致主動詞搭配錯誤。",
+    "examples": [
+      {
+        "test": "Both he and I _____ (am/are) going to the party.",
+        "result": "→ are（both...and 必用複數）"
+      },
+      {
+        "test": "Either the manager or the employees _____ (has/have) to make a decision.",
+        "result": "→ have（employees 為複數，靠近動詞，故用複數）"
+      },
+      {
+        "test": "Neither the book nor the movies _____ (was/were) interesting to me.",
+        "result": "→ were（movies 為複數，靠近動詞，故用複數）"
+      }
+    ],
+    "note": "「Both 加複數、Either/Neither 靠近數」——記住這個口訣，就能快速判斷動詞變化。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Both the principal and the teachers ",
+        null,
+        " satisfied with the students' performance."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "Both the principal and the teachers are satisfied with the students' performance.",
+      "translation": "校長和老師對學生的表現都很滿意。",
+      "keywords": [
+        "both...and",
+        "複數動詞",
+        "be動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Either your sister or your brothers ",
+        null,
+        " to help clean the house."
+      ],
+      "blanks": [
+        "need"
+      ],
+      "sentence": "Either your sister or your brothers need to help clean the house.",
+      "translation": "要不你妹妹要不你哥哥其中之一需要幫忙打掃房子。",
+      "keywords": [
+        "either...or",
+        "就近一致",
+        "複數主詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Neither the president nor his advisors ",
+        null,
+        " willing to compromise on this issue."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "Neither the president nor his advisors are willing to compromise on this issue.",
+      "translation": "總統和他的顧問都不願意在這個議題上妥協。",
+      "keywords": [
+        "neither...nor",
+        "複數動詞",
+        "否定意義"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Both attending lectures and doing homework regularly ",
+        null,
+        " essential for academic success."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "Both attending lectures and doing homework regularly are essential for academic success.",
+      "translation": "定期上課和做功課對學業成功都是必要的。",
+      "keywords": [
+        "both...and",
+        "動名詞",
+        "複數動詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "both",
+      "zh": "兩者；兩個都"
+    },
+    {
+      "adj": "and",
+      "zh": "且；和"
+    },
+    {
+      "adj": "either",
+      "zh": "任一個；兩者之一"
+    },
+    {
+      "adj": "or",
+      "zh": "或；抑或"
+    },
+    {
+      "adj": "neither",
+      "zh": "兩者都不；都沒有"
+    },
+    {
+      "adj": "nor",
+      "zh": "也不；亦不"
+    },
+    {
+      "adj": "as well as",
+      "zh": "以及；和…一樣好"
+    },
+    {
+      "adj": "together with",
+      "zh": "連同；與…一起"
+    },
+    {
+      "adj": "in addition to",
+      "zh": "除…之外"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責的；有責任的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的；必須的"
+    }
+  ],
+  "vocab_table_label": "常用連接詞組"
+}

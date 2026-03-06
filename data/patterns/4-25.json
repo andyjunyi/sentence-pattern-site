@@ -1,0 +1,203 @@
+{
+  "code": "4-25",
+  "chapter": 4,
+  "title": "wherever/whenever/however + S + V",
+  "formulas": [
+    {
+      "formula": "Wherever/Whenever/However + S + V, main clause",
+      "zh": "無論何地/何時/如何 + 主詞 + 動詞，主要子句"
+    },
+    {
+      "formula": "Main clause + wherever/whenever/however + S + V",
+      "zh": "主要子句 + 無論何地/何時/如何 + 主詞 + 動詞"
+    }
+  ],
+  "explanation": "複合關係副詞句型，用來表達「無論在什麼情況下」的讓步關係。wherever表地點、whenever表時間、however表方式，皆等同於「no matter where/when/how」。引導的子句為讓步副詞子句，表達儘管有某種情況，主要子句的情況仍然成立。此句型強調條件的任意性和結果的必然性，常見於文章和正式英文中。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Wherever you go, you will find the same kind of people everywhere.",
+      "chi": "無論你去哪裡，你都會在各地找到相同類型的人。",
+      "keywords": [
+        "wherever",
+        "地點讓步",
+        "無條件適用"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whenever she feels stressed, she goes for a long walk in the park.",
+      "chi": "每當她感到壓力時，她就去公園散步。",
+      "keywords": [
+        "whenever",
+        "時間讓步",
+        "習慣動作"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "However hard you study, success requires patience and practice.",
+      "chi": "無論你多麼努力學習，成功都需要耐心和練習。",
+      "keywords": [
+        "however",
+        "方式讓步",
+        "必然結果"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Wherever there is injustice, brave people will stand up to fight against it.",
+      "chi": "無論哪裡有不公正，勇敢的人都會挺身反對它。",
+      "keywords": [
+        "wherever",
+        "普遍性原則",
+        "因果關係"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "複合關係副詞與簡單關係副詞的區別：wherever/whenever/however本身就包含「no matter」的讓步意義，不需額外加詞；而where/when/how則為單純關係副詞，在此句型中需搭配先行詞。判斷標準：看句子是否強調「無論如何」的讓步關係。",
+    "examples": [
+      {
+        "test": "Wherever you live, you should respect local customs.",
+        "result": "✓ 正確：wherever表示「無論住在哪裡」的讓步，強調普遍適用性"
+      },
+      {
+        "test": "However much money you have, happiness is priceless.",
+        "result": "✓ 正確：however + 形容詞/副詞表示「無論多麼」的讓步，強調程度無關"
+      },
+      {
+        "test": "Whenever I see her, I remember our childhood together.",
+        "result": "✓ 正確：whenever表示「每當」，引導時間讓步子句，表達重複發生的情況"
+      }
+    ],
+    "note": "記憶技巧：複合關係副詞wh-ever = no matter + wh-疑問詞，直接表達「無論如何」的讓步含義。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " you travel, you'll encounter different cultures and traditions."
+      ],
+      "blanks": [
+        "Wherever"
+      ],
+      "sentence": "Wherever you travel, you'll encounter different cultures and traditions.",
+      "translation": "無論你去哪裡旅遊，你都會遇到不同的文化和傳統。",
+      "keywords": [
+        "wherever",
+        "地點讓步",
+        "普遍真理"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " difficult the situation is, we must remain calm and focused."
+      ],
+      "blanks": [
+        "However"
+      ],
+      "sentence": "However difficult the situation is, we must remain calm and focused.",
+      "translation": "無論情況多麼困難，我們必須保持冷靜和專注。",
+      "keywords": [
+        "however",
+        "形容詞讓步",
+        "必然行動"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Young people should pursue their dreams with passion, ",
+        null,
+        " obstacles they face."
+      ],
+      "blanks": [
+        "whatever"
+      ],
+      "sentence": "Young people should pursue their dreams with passion, whatever obstacles they face.",
+      "translation": "年輕人應該懷著熱情追求夢想，無論他們面臨什麼障礙。",
+      "keywords": [
+        "whatever",
+        "名詞讓步",
+        "鼓勵信念"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " you make a decision, consider all possible consequences carefully."
+      ],
+      "blanks": [
+        "Whenever"
+      ],
+      "sentence": "Whenever you make a decision, consider all possible consequences carefully.",
+      "translation": "無論何時做決定，你都應該仔細考慮所有可能的後果。",
+      "keywords": [
+        "whenever",
+        "時間讓步",
+        "實踐建議"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "wherever",
+      "zh": "無論何地、到處"
+    },
+    {
+      "adj": "whenever",
+      "zh": "無論何時、每當"
+    },
+    {
+      "adj": "however",
+      "zh": "無論如何、然而"
+    },
+    {
+      "adj": "whichever",
+      "zh": "無論哪個、哪一個都可以"
+    },
+    {
+      "adj": "whoever",
+      "zh": "無論誰、任何人"
+    },
+    {
+      "adj": "whatever",
+      "zh": "無論什麼、任何事物"
+    },
+    {
+      "adj": "go",
+      "zh": "去"
+    },
+    {
+      "adj": "find",
+      "zh": "發現、找到"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生、碰巧"
+    },
+    {
+      "adj": "make a difference",
+      "zh": "產生影響、有所不同"
+    },
+    {
+      "adj": "persist",
+      "zh": "堅持、持續"
+    },
+    {
+      "adj": "struggle",
+      "zh": "奮鬥、努力"
+    }
+  ],
+  "vocab_table_label": "常用副詞連接詞"
+}

@@ -1,0 +1,207 @@
+{
+  "code": "7-3",
+  "chapter": 7,
+  "title": "S + V + N + p.p.（受詞 + 過去分詞作受詞補語）",
+  "formulas": [
+    {
+      "formula": "S + have/get/want/find + O + p.p.",
+      "zh": "讓……被……；使……被……。受詞與過去分詞為被動關係"
+    },
+    {
+      "formula": "S + need/keep + O + p.p.",
+      "zh": "需要……被……；保持……被……"
+    }
+  ],
+  "explanation": "此句型表示主詞使役受詞處於被動狀態。受詞 O 與過去分詞 p.p. 之間呈被動關係，即受詞是動作的承受者。常見動詞包括 have（讓、使）、get（使）、want（想要）、find（發現）、need（需要）、keep（保持）等。此結構常用於表達「希望某事被完成」或「讓某人做某事」的含義，是英文中表達使役概念的重要句型。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She wants her car fixed before the weekend.",
+      "chi": "她想在週末前把她的車修好。",
+      "keywords": [
+        "want",
+        "p.p.",
+        "使役"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "I need to have this document translated into Chinese.",
+      "chi": "我需要把這份文件翻譯成中文。",
+      "keywords": [
+        "have",
+        "translated",
+        "被動"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He got his house painted last summer.",
+      "chi": "去年夏天他請人把房子漆了。",
+      "keywords": [
+        "get",
+        "painted",
+        "使役結構"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "We found the data collected and analyzed by the research team.",
+      "chi": "我們發現研究團隊已收集並分析了數據。",
+      "keywords": [
+        "find",
+        "p.p.",
+        "發現……被……"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷方法：若受詞與過去分詞間可加「被」，則為此句型。切勿與「S + V + O + to V」混淆。「have/get/want + O + p.p.」表被動關係，而「have/get + O + V」則表主動。注意 have 和 get 在此用法中意義相近，但 get 較口語化。",
+    "examples": [
+      {
+        "test": "I want him finished the work. ✗ vs I want the work finished. ✓",
+        "result": "→ 受詞應與 p.p. 成被動關係。work 是被完成的，所以用 finished；him 不能被 finished，應改為 finish"
+      },
+      {
+        "test": "She had her hair cut by a professional. ✓ vs She had her hair cutting. ✗",
+        "result": "→ p.p.（cut）表示頭髮被剪，而非進行中。cutting 表主動進行，不符合此句型"
+      },
+      {
+        "test": "They got the project completed on time. ✓",
+        "result": "→ project 與 completed 為被動關係，表示他們使該專案按時完成"
+      }
+    ],
+    "note": "受詞 + p.p. = 受詞被……；若能加「被」字理解，就是此句型。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I need to ",
+        null,
+        " this essay before Friday.",
+        ""
+      ],
+      "blanks": [
+        "have...proofread / get...proofread"
+      ],
+      "sentence": "I need to have this essay proofread before Friday.",
+      "translation": "我需要在週五前請人校對這篇論文。",
+      "keywords": [
+        "need",
+        "have",
+        "p.p."
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She wants her wedding dress ",
+        null,
+        " by a famous designer.",
+        ""
+      ],
+      "blanks": [
+        "made / designed"
+      ],
+      "sentence": "She wants her wedding dress made by a famous designer.",
+      "translation": "她想要一位名設計師為她製作婚紗。",
+      "keywords": [
+        "want",
+        "p.p.",
+        "made"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We had the meeting ",
+        null,
+        " to next Monday because of the holiday.",
+        ""
+      ],
+      "blanks": [
+        "postponed / rescheduled"
+      ],
+      "sentence": "We had the meeting postponed to next Monday because of the holiday.",
+      "translation": "由於假日的原因，我們把會議推遲到下週一。",
+      "keywords": [
+        "had",
+        "postponed",
+        "被動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "They found the building ",
+        null,
+        " and ready for occupation.",
+        ""
+      ],
+      "blanks": [
+        "completed"
+      ],
+      "sentence": "They found the building completed and ready for occupation.",
+      "translation": "他們發現該建築已完工，可以入住了。",
+      "keywords": [
+        "find",
+        "completed",
+        "p.p."
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "have",
+      "zh": "讓、使；有……被……"
+    },
+    {
+      "adj": "get",
+      "zh": "使、讓；請人做"
+    },
+    {
+      "adj": "want",
+      "zh": "想要；希望……被……"
+    },
+    {
+      "adj": "find",
+      "zh": "發現；認為……被……"
+    },
+    {
+      "adj": "need",
+      "zh": "需要……被……"
+    },
+    {
+      "adj": "keep",
+      "zh": "保持、維持……被……"
+    },
+    {
+      "adj": "fixed",
+      "zh": "固定的；修好的"
+    },
+    {
+      "adj": "translated",
+      "zh": "翻譯過的；被翻譯的"
+    },
+    {
+      "adj": "painted",
+      "zh": "被漆的；畫好的"
+    },
+    {
+      "adj": "prepared",
+      "zh": "被準備的；已準備的"
+    },
+    {
+      "adj": "completed",
+      "zh": "已完成的；被完成的"
+    },
+    {
+      "adj": "arranged",
+      "zh": "被安排的；已安排的"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

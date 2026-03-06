@@ -1,0 +1,202 @@
+{
+  "code": "2-4",
+  "chapter": 2,
+  "title": "假設語氣（與現在相反）If + S + V-ed...",
+  "formulas": [
+    {
+      "formula": "If + S + V-ed/were, S + would/could/might + V",
+      "zh": "如果現在/未來的情況不同，結果會怎樣（與事實相反的假設）"
+    },
+    {
+      "formula": "Were + S + ..., S + would/could/might + V",
+      "zh": "省略 if 時的倒裝形式，were 置於句首"
+    }
+  ],
+  "explanation": "此句型表達與現在或未來事實相反的假設。If 子句必須用過去式表示假設性，其中 be 動詞（無論單複數）一律用 were；主句用 would/could/might + 原形動詞表示假設結果。Would 表示確定後果，could 表可能性，might 表或然率。若 if 省略，需將 were 移到句首形成倒裝。此句型常用於表達遺憾、建議、假設情景。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "If I were you, I would not make the same mistake again.",
+      "chi": "如果我是你，我就不會再犯同樣的錯誤。",
+      "keywords": [
+        "If + were",
+        "would + V",
+        "假設條件"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "If he studied harder, he could pass the exam without difficulty.",
+      "chi": "如果他更努力讀書，他就能輕鬆通過考試。",
+      "keywords": [
+        "If + V-ed",
+        "could + V",
+        "假設結果"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Were the weather better tomorrow, we might go on a picnic.",
+      "chi": "如果明天天氣更好，我們或許能去野餐。",
+      "keywords": [
+        "Were + S",
+        "might + V",
+        "倒裝形式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "If you had more free time, what would you do with it?",
+      "chi": "如果你有更多空閒時間，你會用它做什麼？",
+      "keywords": [
+        "If + V-ed",
+        "would + V",
+        "假設情景"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分第二條件句（與現在/未來相反）與第三條件句（與過去相反）：第二條件句用 V-ed；第三條件句用 had + V-pp。常見錯誤是在 if 子句誤用 would，應在 if 子句用過去式，only 在主句用 would/could/might。",
+    "examples": [
+      {
+        "test": "✗ If he would study harder, he would pass.",
+        "result": "→ ○ If he studied harder, he would pass. （if 子句不用 would）"
+      },
+      {
+        "test": "✗ If I was you, I would help.",
+        "result": "→ ○ If I were you, I would help. （be 動詞一律用 were，不用 was）"
+      },
+      {
+        "test": "✗ Were she rich, she could buy a house yesterday.",
+        "result": "→ ○ If she had been rich, she could have bought a house. （過去事實用第三條件句）"
+      }
+    ],
+    "note": "記住：「If 子句過去式，主句 would/could/might」是第二條件句的核心，be 動詞永遠用 were。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "If I ",
+        null,
+        " more time, I would complete this project today."
+      ],
+      "blanks": [
+        "had"
+      ],
+      "sentence": "If I had more time, I would complete this project today.",
+      "translation": "如果我有更多時間，我今天就會完成這個項目。",
+      "keywords": [
+        "If + V-ed",
+        "would + V",
+        "假設條件"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " she not afraid of heights, she could become a pilot."
+      ],
+      "blanks": [
+        "Were"
+      ],
+      "sentence": "Were she not afraid of heights, she could become a pilot.",
+      "translation": "如果她不怕高，她就能成為飛行員。",
+      "keywords": [
+        "Were + S",
+        "倒裝形式",
+        "could + V"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "If he ",
+        null,
+        " the truth, his parents would be disappointed."
+      ],
+      "blanks": [
+        "told"
+      ],
+      "sentence": "If he told the truth, his parents would be disappointed.",
+      "translation": "如果他說出真相，他的父母會很失望。",
+      "keywords": [
+        "If + V-ed",
+        "would + V",
+        "假設結果"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "If you studied abroad, you ",
+        null,
+        " gain valuable international experience."
+      ],
+      "blanks": [
+        "could"
+      ],
+      "sentence": "If you studied abroad, you could gain valuable international experience.",
+      "translation": "如果你在國外讀書，你就能獲得寶貴的國際經驗。",
+      "keywords": [
+        "If + V-ed",
+        "could + V",
+        "能力可能性"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "were",
+      "zh": "be 動詞過去式（用於假設）"
+    },
+    {
+      "adj": "would",
+      "zh": "助動詞，表確定的假設結果"
+    },
+    {
+      "adj": "could",
+      "zh": "助動詞，表能力上的可能結果"
+    },
+    {
+      "adj": "might",
+      "zh": "助動詞，表或然率較低的假設結果"
+    },
+    {
+      "adj": "studied",
+      "zh": "動詞過去式（假設條件）"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生（常用的結果動詞）"
+    },
+    {
+      "adj": "disagree",
+      "zh": "不同意（假設條件動詞）"
+    },
+    {
+      "adj": "regret",
+      "zh": "後悔（常見的結果動詞）"
+    },
+    {
+      "adj": "imaginary",
+      "zh": "虛構的、假設的"
+    },
+    {
+      "adj": "contrary",
+      "zh": "相反的、與事實不符的"
+    },
+    {
+      "adj": "unreal",
+      "zh": "非真實的、假設的"
+    },
+    {
+      "adj": "otherwise",
+      "zh": "否則、不然的話"
+    }
+  ],
+  "vocab_table_label": "假設語氣關鍵詞"
+}

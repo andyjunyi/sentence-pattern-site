@@ -1,0 +1,199 @@
+{
+  "code": "3-10",
+  "chapter": 3,
+  "title": "S + V + such + N + that + S + V（結果子句）",
+  "formulas": [
+    {
+      "formula": "such + (a/an) + adj. + N + that + S + V",
+      "zh": "用 such 修飾名詞片語來表達結果，that 引導結果子句，表示「如此…的…以至於…」"
+    },
+    {
+      "formula": "such + adj. + N(複數/不可數) + that + S + V",
+      "zh": "複數名詞或不可數名詞前不用冠詞，直接接 such + adj. + N"
+    }
+  ],
+  "explanation": "such 是修飾名詞的強調詞，與 so...that 句型意義相近但用法不同。such 直接修飾名詞片語（可加冠詞），that 引導結果子句說明造成的結果。單數可數名詞需加 a/an，複數或不可數名詞無需冠詞。注意 such...that 強調名詞本身，而 so...that 強調形容詞或副詞程度。兩種句型可互換改寫，但結構有異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She told such an interesting story that everyone listened carefully.",
+      "chi": "她說了一個如此有趣的故事，以至於每個人都認真聆聽。",
+      "keywords": [
+        "such",
+        "a/an",
+        "that",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It was such bad weather that the outdoor event was cancelled.",
+      "chi": "天氣如此惡劣，以至於戶外活動被取消了。",
+      "keywords": [
+        "such",
+        "不可數名詞",
+        "結果"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "They made such a terrible mistake that the project failed completely.",
+      "chi": "他們犯了如此嚴重的錯誤，以至於整個專案完全失敗。",
+      "keywords": [
+        "such...that",
+        "cause and effect"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "There were such heavy snow that traffic came to a standstill.",
+      "chi": "雪下得如此之大，以至於交通完全停止。",
+      "keywords": [
+        "such",
+        "複數名詞",
+        "後果"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "terrible",
+      "zh": "可怕的"
+    },
+    {
+      "adj": "wonderful",
+      "zh": "很棒的"
+    },
+    {
+      "adj": "dangerous",
+      "zh": "危險的"
+    },
+    {
+      "adj": "stupid",
+      "zh": "愚蠢的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "loud",
+      "zh": "吵雜的"
+    },
+    {
+      "adj": "exciting",
+      "zh": "令人興奮的"
+    },
+    {
+      "adj": "valuable",
+      "zh": "寶貴的"
+    },
+    {
+      "adj": "heavy",
+      "zh": "沉重的"
+    },
+    {
+      "adj": "clever",
+      "zh": "聰明的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 such vs. so 的關鍵：such 直接修飾名詞，so 修飾形容詞或副詞。此句型強調「什麼樣的事物」造成什麼結果；so...that 強調「程度有多深」。不可數名詞或複數名詞前不需要 a/an，這是常見錯誤。",
+    "examples": [
+      {
+        "test": "She is so beautiful that everyone admires her.",
+        "result": "→ 改為 such：She is such a beautiful girl that everyone admires her.（so 修飾形容詞，改寫時加名詞）"
+      },
+      {
+        "test": "✗ Such a students that...",
+        "result": "→ ✓ Such students that...（複數名詞無冠詞）"
+      },
+      {
+        "test": "✗ Such a heavy snow that...",
+        "result": "→ ✓ Such heavy snow that...（不可數名詞無冠詞）"
+      }
+    ],
+    "note": "記憶口訣：Such 配名詞，So 配形容詞；單數加冠詞，複數無冠詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The movie was ",
+        null,
+        " that most audience members fell asleep."
+      ],
+      "blanks": [
+        "such a boring film"
+      ],
+      "sentence": "The movie was such a boring film that most audience members fell asleep.",
+      "translation": "這部電影是如此無聊，以至於大多數觀眾都睡著了。",
+      "keywords": [
+        "such",
+        "a/an",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "He received ",
+        null,
+        " that he decided to accept the job offer."
+      ],
+      "blanks": [
+        "such a high salary"
+      ],
+      "sentence": "He received such a high salary that he decided to accept the job offer.",
+      "translation": "他得到了如此高的薪水，以至於他決定接受這份工作。",
+      "keywords": [
+        "such...that",
+        "名詞片語"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "There was ",
+        null,
+        " that the game had to be postponed."
+      ],
+      "blanks": [
+        "such strong wind"
+      ],
+      "sentence": "There was such strong wind that the game had to be postponed.",
+      "translation": "風如此之大，以至於比賽不得不延期。",
+      "keywords": [
+        "such",
+        "不可數名詞",
+        "無冠詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The restaurant served ",
+        null,
+        " that customers kept coming back."
+      ],
+      "blanks": [
+        "such delicious food"
+      ],
+      "sentence": "The restaurant served such delicious food that customers kept coming back.",
+      "translation": "這家餐廳的食物如此美味，以至於顧客一直回頭光顧。",
+      "keywords": [
+        "such",
+        "複數/不可數名詞"
+      ]
+    }
+  ]
+}

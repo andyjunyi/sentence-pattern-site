@@ -1,0 +1,212 @@
+{
+  "code": "8-23",
+  "chapter": 8,
+  "title": "S + V + rather than + V / N",
+  "formulas": [
+    {
+      "formula": "S + V + rather than + V（原形）/ N",
+      "zh": "主詞 + 動詞 + rather than + 原形動詞/名詞，表示「而不是……」，強調選擇優先"
+    },
+    {
+      "formula": "Rather than + V-ing, S + V",
+      "zh": "Rather than 置句首，後接動名詞，主要子句中動詞為原形，強調轉折選擇"
+    }
+  ],
+  "explanation": "rather than 表達「而不是、寧可……而不……」的概念，用於強調兩個選項間的優先選擇。主要特點：連接相同詞性（動詞連動詞、名詞連名詞），rather than 後接原形動詞或名詞短語；若置句首須用 rather than + V-ing 形式，主要子句動詞保持原形。易混淆點在於不可在 rather than 後用現在分詞或完成式，且應注意與 instead of 的區別——rather than 強調抉擇，instead of 強調替代。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I prefer to stay home rather than go to the crowded party.",
+      "chi": "我寧可待在家裡，也不願去那個擁擠的派對。",
+      "keywords": [
+        "prefer",
+        "rather than",
+        "動詞對比"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She chose to study medicine rather than pursue art as her career.",
+      "chi": "她選擇學習醫學，而不是從事藝術作為職業。",
+      "keywords": [
+        "chose",
+        "rather than",
+        "名詞短語"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Rather than wasting time online, he decided to read books and improve himself.",
+      "chi": "與其浪費時間在網路上，他決定讀書來充實自己。",
+      "keywords": [
+        "Rather than",
+        "動名詞",
+        "句首位置"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "They want quality rather than quantity in their daily purchases.",
+      "chi": "他們在日常購物中追求品質而不是數量。",
+      "keywords": [
+        "want",
+        "rather than",
+        "名詞對比"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：rather than 後需使用與前面相同詞性的詞彙。若前為原形動詞，後也須原形動詞（非現在分詞或過去式）。置句首時必須使用 Rather than + V-ing 形式。常見錯誤是在 rather than 後錯用時態或詞性，導致句子結構不當。",
+    "examples": [
+      {
+        "test": "❌ I prefer to stay home rather than going out.",
+        "result": "→ ✓ I prefer to stay home rather than go out.（rather than 後需原形動詞 go，不能用 going）"
+      },
+      {
+        "test": "❌ Rather than to waste time, he studies hard.",
+        "result": "→ ✓ Rather than wasting time, he studies hard.（句首須用 V-ing 形式 wasting，不能用 to waste）"
+      },
+      {
+        "test": "✓ She chose quality rather than price in her selection.",
+        "result": "→ 正確用法：連接名詞 quality 和 price，詞性一致"
+      }
+    ],
+    "note": "記憶口訣：rather than 後詞性要一致，置句首加 V-ing，置中間用原形動詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I would ",
+        null,
+        " watch television rather than ",
+        null,
+        " on my homework."
+      ],
+      "blanks": [
+        "prefer to",
+        "work"
+      ],
+      "sentence": "I would prefer to watch television rather than work on my homework.",
+      "translation": "我寧可看電視，也不願做功課。",
+      "keywords": [
+        "prefer",
+        "rather than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Rather than ",
+        null,
+        " complaints, she decided to take action and solve the problem."
+      ],
+      "blanks": [
+        "voicing"
+      ],
+      "sentence": "Rather than voicing complaints, she decided to take action and solve the problem.",
+      "translation": "與其抱怨，她決定採取行動解決問題。",
+      "keywords": [
+        "Rather than",
+        "動名詞",
+        "句首位置"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The company chose to invest in ",
+        null,
+        " rather than ",
+        null,
+        " during the recession."
+      ],
+      "blanks": [
+        "innovation",
+        "cuts"
+      ],
+      "sentence": "The company chose to invest in innovation rather than make cuts during the recession.",
+      "translation": "在衰退期間，該公司選擇投資創新，而不是裁員。",
+      "keywords": [
+        "chose",
+        "rather than",
+        "名詞對比"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Most students ",
+        null,
+        " learning practical skills rather than ",
+        null,
+        " only theoretical knowledge."
+      ],
+      "blanks": [
+        "favor",
+        "memorizing"
+      ],
+      "sentence": "Most students favor learning practical skills rather than memorizing only theoretical knowledge.",
+      "translation": "大多數學生偏好學習實用技能，而不是只死記理論知識。",
+      "keywords": [
+        "favor",
+        "rather than",
+        "動名詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "prefer",
+      "zh": "更喜歡、偏好"
+    },
+    {
+      "adj": "choose",
+      "zh": "選擇"
+    },
+    {
+      "adj": "want",
+      "zh": "想要"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "opt",
+      "zh": "選擇"
+    },
+    {
+      "adj": "select",
+      "zh": "選出"
+    },
+    {
+      "adj": "prioritize",
+      "zh": "優先考慮"
+    },
+    {
+      "adj": "favor",
+      "zh": "偏好"
+    },
+    {
+      "adj": "tend",
+      "zh": "傾向"
+    },
+    {
+      "adj": "seek",
+      "zh": "尋求"
+    },
+    {
+      "adj": "advocate",
+      "zh": "提倡"
+    },
+    {
+      "adj": "recommend",
+      "zh": "推薦"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

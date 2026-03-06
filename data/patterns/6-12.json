@@ -1,0 +1,195 @@
+{
+  "code": "6-12",
+  "chapter": 6,
+  "title": "S + be worth + V-ing",
+  "formulas": [
+    {
+      "formula": "S + be worth + V-ing",
+      "zh": "某事值得……（動作）"
+    },
+    {
+      "formula": "S + be worth + N",
+      "zh": "某事值得……（名詞）"
+    }
+  ],
+  "explanation": "be worth 後接動名詞，表示某事物值得進行某個動作。動名詞的邏輯受詞是主句主詞，即主詞是該動作的承受者。例如 The book is worth reading 意為「這本書值得被閱讀」。此句型著重於事物本身具備的價值性。同義表達為 It is worthwhile to V 或 It is worth one's while to V。注意 worth 後不能接不定詞，只能接動名詞或名詞；主詞須是有價值的事物，不能是人。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This movie is worth watching because it has a meaningful message.",
+      "chi": "這部電影值得觀看，因為它有深刻的意義。",
+      "keywords": [
+        "be worth watching",
+        "動名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The historical museum is definitely worth visiting when you come to the city.",
+      "chi": "當你來到這個城市時，這座歷史博物館絕對值得參觀。",
+      "keywords": [
+        "be worth visiting",
+        "definitely"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "These classic novels are worth reading for anyone interested in literature.",
+      "chi": "對於任何對文學感興趣的人來說，這些經典小說都值得閱讀。",
+      "keywords": [
+        "be worth reading",
+        "classic novels"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Your effort is worth making if it can improve your English skills significantly.",
+      "chi": "如果你的努力能顯著改進英文技能，那就值得付出。",
+      "keywords": [
+        "be worth making",
+        "effort"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 worth 的關鍵：主詞必須是可以被「做」的事物（如物品、書、景點），不能是人。動名詞的邏輯受詞永遠是主詞。避免誤用不定詞（×worth to read）或遺漏動名詞結構。",
+    "examples": [
+      {
+        "test": "This book is worth reading.",
+        "result": "✓ 正確。主詞是物品，動名詞 reading 的邏輯受詞是 book。"
+      },
+      {
+        "test": "He is worth helping.",
+        "result": "✗ 避免。通常不用 worth 搭配人作主詞，應改用 worthy of 或 deserving。"
+      },
+      {
+        "test": "The experience is worth to have.",
+        "result": "✗ 錯誤用法。×to have → ✓having（must use gerund）"
+      }
+    ],
+    "note": "記憶口訣：be worth + V-ing = 事物本身值得被做，主詞是動作的對象，非執行者。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The latest technology is ",
+        null,
+        " because it saves much time."
+      ],
+      "blanks": [
+        "worth trying"
+      ],
+      "sentence": "The latest technology is worth trying because it saves much time.",
+      "translation": "最新技術值得嘗試，因為它節省了很多時間。",
+      "keywords": [
+        "be worth trying",
+        "latest technology"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "His autobiography is ",
+        null,
+        " for anyone who wants to understand his life journey."
+      ],
+      "blanks": [
+        "worth reading"
+      ],
+      "sentence": "His autobiography is worth reading for anyone who wants to understand his life journey.",
+      "translation": "他的自傳值得閱讀，對於任何想了解他人生之旅的人。",
+      "keywords": [
+        "be worth reading",
+        "autobiography"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "That remote island is definitely ",
+        null,
+        " during your summer vacation."
+      ],
+      "blanks": [
+        "worth visiting"
+      ],
+      "sentence": "That remote island is definitely worth visiting during your summer vacation.",
+      "translation": "那個偏遠的島嶼在夏假期間絕對值得參觀。",
+      "keywords": [
+        "be worth visiting",
+        "remote island"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "All the preparation work is ",
+        null,
+        " if we can achieve success in the competition."
+      ],
+      "blanks": [
+        "worth making"
+      ],
+      "sentence": "All the preparation work is worth making if we can achieve success in the competition.",
+      "translation": "如果我們能在比賽中取得成功，所有準備工作都值得付出。",
+      "keywords": [
+        "be worth making",
+        "preparation"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "worth",
+      "zh": "值得的"
+    },
+    {
+      "adj": "reading",
+      "zh": "閱讀（動名詞）"
+    },
+    {
+      "adj": "watching",
+      "zh": "觀看（動名詞）"
+    },
+    {
+      "adj": "visiting",
+      "zh": "參觀（動名詞）"
+    },
+    {
+      "adj": "trying",
+      "zh": "嘗試（動名詞）"
+    },
+    {
+      "adj": "considering",
+      "zh": "考慮（動名詞）"
+    },
+    {
+      "adj": "definitely",
+      "zh": "肯定地（副詞）"
+    },
+    {
+      "adj": "certainly",
+      "zh": "當然地（副詞）"
+    },
+    {
+      "adj": "hardly",
+      "zh": "幾乎不（副詞）"
+    },
+    {
+      "adj": "truly",
+      "zh": "確實地（副詞）"
+    },
+    {
+      "adj": "every penny",
+      "zh": "每一分錢（片語）"
+    },
+    {
+      "adj": "one's while",
+      "zh": "值得費力（片語）"
+    }
+  ],
+  "vocab_table_label": "常用 V-ing"
+}

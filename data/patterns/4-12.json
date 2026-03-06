@@ -1,0 +1,207 @@
+{
+  "code": "4-12",
+  "chapter": 4,
+  "title": "非限定關係子句 , who / which...（補充說明）",
+  "formulas": [
+    {
+      "formula": "主句, who/which + V...",
+      "zh": "主句敘述後，用逗號加who/which引導非限定子句，提供補充資訊"
+    },
+    {
+      "formula": "名詞, which + V...",
+      "zh": "which可代替前面整個句子或名詞片語，繼續說明"
+    }
+  ],
+  "explanation": "非限定子句以逗號與主句分隔，提供補充說明而非限制條件，去掉不影響主句完整意義。不可用that。who代替人物名詞，which代替事物名詞或整個前句。此用法常見於學測長文閱讀與寫作題。關鍵在於逗號的出現，區分此句型與限定子句（無逗號）的差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "My English teacher, who has 20 years of experience, always explains grammar clearly.",
+      "chi": "我的英文老師有20年的教學經驗，他總是把文法解釋得很清楚。",
+      "keywords": [
+        "非限定子句",
+        "who",
+        "補充資訊"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The novel was adapted into a film, which won several international awards.",
+      "chi": "這部小說被改編成電影，該電影贏得了多個國際獎項。",
+      "keywords": [
+        "which",
+        "代替事物",
+        "逗號分隔"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "She passed all her exams with excellent grades, which made her parents very proud.",
+      "chi": "她以優異成績通過了所有考試，這使她的父母非常自豪。",
+      "keywords": [
+        "which代替整句",
+        "繼續關係代名詞",
+        "結果說明"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The museum, which opened last year, attracts thousands of visitors monthly.",
+      "chi": "這家去年開幕的博物館每月吸引數千名遊客。",
+      "keywords": [
+        "非限定用法",
+        "時間資訊",
+        "補充描述"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否為非限定子句：試著去掉逗號後的部分，若主句仍完整成立，則該子句為補充說明。限定子句（無逗號）用that，非限定子句（有逗號）不可用that。which常代替整個前句，表達結果或後續情況。",
+    "examples": [
+      {
+        "test": "✗ The student who studied hard passed the test.",
+        "result": "→ 限定子句，無逗號，表示「有哪個學生」；不可改為which"
+      },
+      {
+        "test": "✓ The student, who studied hard, passed the test.",
+        "result": "→ 非限定子句，有逗號，所有學生都通過，只是補充他很認真"
+      },
+      {
+        "test": "✓ He won the competition, which surprised everyone.",
+        "result": "→ which代替整個前句，表達出人意料的結果"
+      }
+    ],
+    "note": "逗號是關鍵：有逗號用who/which補充說明（可刪除），無逗號用that表限制條件（不可刪除）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The CEO, ",
+        null,
+        " founded the company 30 years ago, announced a new strategy yesterday.",
+        ""
+      ],
+      "blanks": [
+        "who"
+      ],
+      "sentence": "The CEO, who founded the company 30 years ago, announced a new strategy yesterday.",
+      "translation": "這位30年前創辦公司的首席執行官昨天宣布了新策略。",
+      "keywords": [
+        "非限定子句",
+        "who代替人物",
+        "補充背景資訊"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She completed the project on time, ",
+        null,
+        " impressed her boss greatly.",
+        ""
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "She completed the project on time, which impressed her boss greatly.",
+      "translation": "她按時完成了專案，這讓她的老闆印象深刻。",
+      "keywords": [
+        "which代替整句",
+        "逗號分隔",
+        "結果表達"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The book, ",
+        null,
+        " was written by a famous author, became a bestseller.",
+        ""
+      ],
+      "blanks": [
+        "which"
+      ],
+      "sentence": "The book, which was written by a famous author, became a bestseller.",
+      "translation": "這本由著名作家撰寫的書成為了暢銷書。",
+      "keywords": [
+        "非限定子句",
+        "which代替物品",
+        "被動語態"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "My classmates, ",
+        null,
+        " are all from different countries, enriched our class culture.",
+        ""
+      ],
+      "blanks": [
+        "who"
+      ],
+      "sentence": "My classmates, who are all from different countries, enriched our class culture.",
+      "translation": "我的同學來自不同國家，他們豐富了我們班級的文化。",
+      "keywords": [
+        "who複數",
+        "多人說明",
+        "非限定用法"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "experience",
+      "zh": "經驗"
+    },
+    {
+      "adj": "award",
+      "zh": "獎項"
+    },
+    {
+      "adj": "proud",
+      "zh": "驕傲的"
+    },
+    {
+      "adj": "excellent",
+      "zh": "優異的"
+    },
+    {
+      "adj": "remarkable",
+      "zh": "著名的、值得注意的"
+    },
+    {
+      "adj": "talented",
+      "zh": "有才華的"
+    },
+    {
+      "adj": "fascinating",
+      "zh": "迷人的"
+    },
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "unexpected",
+      "zh": "意料之外的"
+    },
+    {
+      "adj": "recently",
+      "zh": "最近地"
+    },
+    {
+      "adj": "fortunately",
+      "zh": "幸運地"
+    },
+    {
+      "adj": "unfortunately",
+      "zh": "不幸地"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}

@@ -1,0 +1,199 @@
+{
+  "code": "3-5",
+  "chapter": 3,
+  "title": "too + adj./adv. + to V",
+  "formulas": [
+    {
+      "formula": "too + adj./adv. + (for sb.) + to V",
+      "zh": "太……以致無法……（具否定意涵）"
+    },
+    {
+      "formula": "so + adj./adv. + that + S + can't/cannot V",
+      "zh": "該句型的等價改寫形式"
+    }
+  ],
+  "explanation": "此句型用於表達某事物的程度太高，導致無法完成某動作，具有否定意涵。結構中 too 後接形容詞或副詞，可選擇性加入 for + 受詞以明確指出受影響的主體。常見於學測中比較難度、能力限制的句子。易混淆點：不可用 to 後接被動語態；for sb. 可省略但 to V 不可省。注意 too 表「太過」而非單純的「很」。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This problem is too difficult for high school students to solve in five minutes.",
+      "chi": "這個問題對高中學生來說太難了，無法在五分鐘內解決。",
+      "keywords": [
+        "too difficult",
+        "for students",
+        "to solve"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The music was too loud for us to hear each other clearly.",
+      "chi": "音樂太大聲了，我們無法清楚地相互交流。",
+      "keywords": [
+        "too loud",
+        "for us",
+        "to hear"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He spoke too quickly for anyone to understand what he said.",
+      "chi": "他說話太快了，以至於沒人能聽懂他說的話。",
+      "keywords": [
+        "too quickly",
+        "to understand"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The book is too advanced for beginners to read without a dictionary.",
+      "chi": "這本書對初學者來說太深奧了，沒有字典無法閱讀。",
+      "keywords": [
+        "too advanced",
+        "for beginners",
+        "to read"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "loud",
+      "zh": "大聲的"
+    },
+    {
+      "adj": "heavy",
+      "zh": "沉重的"
+    },
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "tired",
+      "zh": "疲倦的"
+    },
+    {
+      "adj": "weak",
+      "zh": "虛弱的"
+    },
+    {
+      "adj": "advanced",
+      "zh": "高級的、先進的"
+    },
+    {
+      "adj": "quickly",
+      "zh": "快速地"
+    },
+    {
+      "adj": "complex",
+      "zh": "複雜的"
+    },
+    {
+      "adj": "fragile",
+      "zh": "易碎的"
+    },
+    {
+      "adj": "small",
+      "zh": "小的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷依據：句子中若出現「太過～」導致「無法做某事」的否定意涵，應使用 too...to 句型。注意 too 必須修飾形容詞或副詞，不能直接修飾動詞。易錯：混淆 too + adj. to V（無法）與 enough + adj. to V（足以）的正反意涵。",
+    "examples": [
+      {
+        "test": "❌ The box is too heavy to carry it.",
+        "result": "→ ✅ The box is too heavy for me to carry. （省略代詞，避免重複）"
+      },
+      {
+        "test": "❌ The movie is too interesting to watch.",
+        "result": "→ ✅ The movie is so interesting that everyone wants to watch it. （此情境應用 enough 或改寫為 so...that）"
+      },
+      {
+        "test": "❌ He ran too fast to catch him.",
+        "result": "→ ✅ He ran too fast for anyone to catch him. （需加 for + 受詞說明主體）"
+      }
+    ],
+    "note": "too 帶否定意涵，記住『太過無法』；若是『足以做』應改用 enough 或 so...that 正面表述。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The question on the exam was ",
+        null,
+        " for most students to answer correctly."
+      ],
+      "blanks": [
+        "too difficult"
+      ],
+      "sentence": "The question on the exam was too difficult for most students to answer correctly.",
+      "translation": "考試上的那道題對大多數學生來說太難了，無法正確回答。",
+      "keywords": [
+        "too difficult",
+        "for students",
+        "to answer"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "This jacket is ",
+        null,
+        " for a child to wear alone."
+      ],
+      "blanks": [
+        "too heavy"
+      ],
+      "sentence": "This jacket is too heavy for a child to wear alone.",
+      "translation": "這件夾克對孩子來說太重了，無法獨自穿著。",
+      "keywords": [
+        "too heavy",
+        "for a child",
+        "to wear"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She spoke ",
+        null,
+        " for the audience to follow her explanation."
+      ],
+      "blanks": [
+        "too rapidly"
+      ],
+      "sentence": "She spoke too rapidly for the audience to follow her explanation.",
+      "translation": "她講話太快了，聽眾無法跟上她的解釋。",
+      "keywords": [
+        "too rapidly",
+        "for the audience",
+        "to follow"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The project is ",
+        null,
+        " to finish by Friday without additional help."
+      ],
+      "blanks": [
+        "too complicated"
+      ],
+      "sentence": "The project is too complicated to finish by Friday without additional help.",
+      "translation": "這個專案太複雜了，沒有額外幫助無法在週五前完成。",
+      "keywords": [
+        "too complicated",
+        "to finish"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "code": "8-27",
+  "chapter": 8,
+  "title": "S + V + except that / except for + N",
+  "formulas": [
+    {
+      "formula": "S + V + except that + S + V",
+      "zh": "主語＋動詞＋除了……之外（後接子句）"
+    },
+    {
+      "formula": "S + V + except for + N",
+      "zh": "主語＋動詞＋除了……之外（後接名詞）"
+    }
+  ],
+  "explanation": "except that 與 except for 均表達「除了……之外」的例外情況。except that 後接完整子句（含主語與動詞），用於說明某個具體狀況；except for 後接名詞或名詞片語，用於指出某個事物或要素。兩者不可互換。需特別注意與 besides 的區別：besides 表「另外加上」（累加），而 except/except for 表「排除」（減除）。此句型常用於考試、評論或說明完整性時，強調某個例外改變了整體狀況。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The concert was wonderful, except that the sound system failed once.",
+      "chi": "演唱會很精彩，除了音響系統故障了一次。",
+      "keywords": [
+        "except that",
+        "子句",
+        "例外狀況"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Everything is ready for the trip except for the plane tickets.",
+      "chi": "旅行的一切都準備好了，除了飛機票。",
+      "keywords": [
+        "except for",
+        "名詞",
+        "遺漏要素"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The project would have succeeded except that we ran out of budget.",
+      "chi": "這個專案本來會成功，除了我們的預算用完了。",
+      "keywords": [
+        "except that",
+        "條件句",
+        "轉折"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The exam was easy except for the last three questions.",
+      "chi": "考試很簡單，除了最後三題。",
+      "keywords": [
+        "except for",
+        "特定部分",
+        "難度對比"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "successful",
+      "zh": "成功的"
+    },
+    {
+      "adj": "complete",
+      "zh": "完整的"
+    },
+    {
+      "adj": "ready",
+      "zh": "準備好的"
+    },
+    {
+      "adj": "perfect",
+      "zh": "完美的"
+    },
+    {
+      "adj": "available",
+      "zh": "可用的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必需的"
+    },
+    {
+      "adj": "would have + pp",
+      "zh": "本來會……（與過去事實相反）"
+    },
+    {
+      "adj": "ran out of",
+      "zh": "用完、耗盡"
+    },
+    {
+      "adj": "forgot",
+      "zh": "忘記"
+    },
+    {
+      "adj": "failed",
+      "zh": "失敗、故障"
+    },
+    {
+      "adj": "was broken",
+      "zh": "壞掉、受損"
+    },
+    {
+      "adj": "had not arrived",
+      "zh": "沒有到達"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷使用 except that 或 except for 的關鍵：看例外部分是否為完整敘述。若是具體事件或動作狀況，用 except that + 子句；若是單純名詞或物品，用 except for + 名詞。except 表減除，beside/besides 表加上，兩者意義相反。",
+    "examples": [
+      {
+        "test": "The day was perfect __ the rain in the afternoon.",
+        "result": "→ 填 except for（名詞 the rain）；不填 except that（因為主要句無動詞缺失）"
+      },
+      {
+        "test": "Everyone passed the test __ John forgot to submit his answer sheet.",
+        "result": "→ 填 except that（後接完整子句 John forgot...）；不填 except for（except for 後無法直接接子句）"
+      },
+      {
+        "test": "X: I love this restaurant besides the slow service. / O: I love this restaurant except for the slow service.",
+        "result": "→ 此處應用 except for（排除），不用 besides（besides 會變成「我喜歡這間餐廳，另外還喜歡慢的服務」，邏輯錯誤）"
+      }
+    ],
+    "note": "except that 連接『動詞片段』，except for 連接『名詞片段』；except 是減除，besides 是加入。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The meeting was productive ",
+        null,
+        " we ran out of time."
+      ],
+      "blanks": [
+        "except that"
+      ],
+      "sentence": "The meeting was productive except that we ran out of time.",
+      "translation": "會議很有成效，除了我們時間用完了。",
+      "keywords": [
+        "except that",
+        "子句",
+        "時間不足"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The house is in excellent condition ",
+        null,
+        " a few broken windows."
+      ],
+      "blanks": [
+        "except for"
+      ],
+      "sentence": "The house is in excellent condition except for a few broken windows.",
+      "translation": "這間房子狀況很好，除了幾扇破窗。",
+      "keywords": [
+        "except for",
+        "名詞片語",
+        "物品缺陷"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The vacation would have been perfect ",
+        null,
+        " my friend got sick halfway through."
+      ],
+      "blanks": [
+        "except that"
+      ],
+      "sentence": "The vacation would have been perfect except that my friend got sick halfway through.",
+      "translation": "度假本來會完美，除了我朋友到一半時生病了。",
+      "keywords": [
+        "except that",
+        "過去反事實",
+        "意外事件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "All the equipment is working properly ",
+        null,
+        " the printer in the office."
+      ],
+      "blanks": [
+        "except for"
+      ],
+      "sentence": "All the equipment is working properly except for the printer in the office.",
+      "translation": "所有設備都正常運作，除了辦公室的印表機。",
+      "keywords": [
+        "except for",
+        "特定設備",
+        "故障要素"
+      ]
+    }
+  ]
+}

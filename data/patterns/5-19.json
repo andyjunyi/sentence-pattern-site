@@ -1,0 +1,214 @@
+{
+  "code": "5-19",
+  "chapter": 5,
+  "title": "S + see/hear/watch + O + V-ing/V原形（感官動詞）",
+  "formulas": [
+    {
+      "formula": "see/hear/watch/feel/notice + O + V (原形)",
+      "zh": "感官動詞後接受詞和動詞原形，表示目睹或感知整個完整動作"
+    },
+    {
+      "formula": "see/hear/watch/feel/notice + O + V-ing",
+      "zh": "感官動詞後接受詞和現在分詞，表示動作正在進行中"
+    },
+    {
+      "formula": "O + be + seen/heard/watched/felt/noticed + to V (被動式)",
+      "zh": "被動語態時，原形動詞改為to V"
+    }
+  ],
+  "explanation": "感官動詞（see、hear、watch、feel、notice）後接受詞時，可搭配動詞原形或現在分詞。使用原形表示看到或聽到整個完整的動作過程；使用現在分詞表示動作正在進行中。被動語態時，原形動詞需改為to V形式。注意：感官動詞本身不使用進行式；hear與listen的區別在於前者強調客觀感知結果。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I saw the accident happen right in front of the school.",
+      "chi": "我看到那場車禍就在學校門口發生。",
+      "keywords": [
+        "see",
+        "happen",
+        "原形動詞",
+        "完整動作"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She heard someone crying outside her bedroom last night.",
+      "chi": "她昨晚聽到有人在她臥室外哭泣。",
+      "keywords": [
+        "hear",
+        "crying",
+        "現在分詞",
+        "動作進行"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The teacher noticed the students cheating during the exam.",
+      "chi": "老師注意到學生在考試中作弊。",
+      "keywords": [
+        "notice",
+        "cheating",
+        "現在分詞",
+        "進行中"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "A strange light was seen disappearing into the sky by many witnesses.",
+      "chi": "許多目擊者看到一道奇異的光消失在天空中。",
+      "keywords": [
+        "was seen",
+        "disappearing",
+        "被動式",
+        "to V"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷使用原形或現在分詞的關鍵：看到整個動作從開始到結束用原形（He saw the bird fly away）；看到動作正進行時用現在分詞（He saw the bird flying）。被動式時原形變to V（The bird was seen to fly away）。",
+    "examples": [
+      {
+        "test": "I saw him leave the classroom. vs. I saw him leaving the classroom.",
+        "result": "→ 前者表示看到他離開全過程；後者表示看到他離開的過程中（可能還未完全離開）"
+      },
+      {
+        "test": "She was heard to sing beautifully.",
+        "result": "→ 被動式需用to V，不能寫was heard singing（該句為被動式不同結構）"
+      },
+      {
+        "test": "I'm hearing music vs. I hear music.",
+        "result": "→ 感官動詞hear不用進行式，聽覺的狀態用簡單式表達"
+      }
+    ],
+    "note": "原形表終始，分詞表進行；被動改to V，感官動詞勿進行。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I watched the young girl ",
+        null,
+        " into the water and disappear quickly."
+      ],
+      "blanks": [
+        "jump / jumping"
+      ],
+      "sentence": "I watched the young girl jump into the water and disappear quickly.",
+      "translation": "我看著那個小女孩跳入水中並快速消失。",
+      "keywords": [
+        "watch",
+        "jump",
+        "原形",
+        "完整動作序列"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Did you hear someone ",
+        null,
+        " at the door last night?"
+      ],
+      "blanks": [
+        "knock / knocking"
+      ],
+      "sentence": "Did you hear someone knocking at the door last night?",
+      "translation": "你昨晚聽到有人敲門嗎？",
+      "keywords": [
+        "hear",
+        "knocking",
+        "現在分詞",
+        "進行狀態"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The accident was ",
+        null,
+        " by dozens of people who rushed to help."
+      ],
+      "blanks": [
+        "seen to happen"
+      ],
+      "sentence": "The accident was seen to happen by dozens of people who rushed to help.",
+      "translation": "那場事故被許多趕來幫忙的人看到發生。",
+      "keywords": [
+        "was seen to happen",
+        "被動式",
+        "to V形式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She noticed the stranger ",
+        null,
+        " her with suspicion, so she felt uncomfortable."
+      ],
+      "blanks": [
+        "watching / watch"
+      ],
+      "sentence": "She noticed the stranger watching her with suspicion, so she felt uncomfortable.",
+      "translation": "她注意到那個陌生人懷疑地注視著她，所以她感到不舒服。",
+      "keywords": [
+        "notice",
+        "watching",
+        "現在分詞",
+        "持續觀察"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "see",
+      "zh": "看見、看到"
+    },
+    {
+      "adj": "hear",
+      "zh": "聽見、聽到"
+    },
+    {
+      "adj": "watch",
+      "zh": "觀看、注視"
+    },
+    {
+      "adj": "feel",
+      "zh": "感受、感覺"
+    },
+    {
+      "adj": "notice",
+      "zh": "注意到、察覺"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生"
+    },
+    {
+      "adj": "appear",
+      "zh": "出現、顯現"
+    },
+    {
+      "adj": "disappear",
+      "zh": "消失、消減"
+    },
+    {
+      "adj": "approach",
+      "zh": "靠近、接近"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "move",
+      "zh": "移動、運動"
+    },
+    {
+      "adj": "fall",
+      "zh": "摔倒、下落"
+    }
+  ],
+  "vocab_table_label": "常用感官動詞"
+}

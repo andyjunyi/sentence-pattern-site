@@ -1,0 +1,203 @@
+{
+  "code": "5-25",
+  "chapter": 5,
+  "title": "S + had better + V / S + ought to + V",
+  "formulas": [
+    {
+      "formula": "S + had better (not) + V (原形)",
+      "zh": "主詞最好（不要）做某事（帶有警告或不利後果的建議）"
+    },
+    {
+      "formula": "S + ought to + V (原形)",
+      "zh": "主詞應該做某事（表義務、應然或道德責任）"
+    }
+  ],
+  "explanation": "had better 與 ought to 都是助動詞用法，後接原形動詞，無人稱變化。had better 語氣較強，帶有警告意味，暗示不照做會有負面後果；ought to 表示道德義務、應然責任或期望，語氣較溫和。兩者都可用 not 形成否定，had better not 和 ought not to 都正確。學測常混淆 had better 與 should，需注意前者語氣更強。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "You had better finish your homework before watching TV.",
+      "chi": "你最好先完成功課再看電視。",
+      "keywords": [
+        "had better",
+        "原形動詞",
+        "建議"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Students ought to respect their teachers and classmates.",
+      "chi": "學生應該尊重他們的老師和同學。",
+      "keywords": [
+        "ought to",
+        "義務",
+        "應然"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "You had better not be late for the exam tomorrow.",
+      "chi": "你最好明天考試不要遲到。",
+      "keywords": [
+        "had better not",
+        "否定建議",
+        "警告"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Everyone ought to care about environmental protection.",
+      "chi": "每個人都應該關心環境保護。",
+      "keywords": [
+        "ought to",
+        "社會責任",
+        "道德義務"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "had better 的 had 不是過去式，而是助動詞的一部分，整體仍表現在或未來建議。ought to 有時可縮寫為 ought，但正式用法保留 to。兩者都不用加 -s，即使主詞是第三人稱單數。注意 had better 後不加 to，常見錯誤為 had better to do。",
+    "examples": [
+      {
+        "test": "✗ You had better to study hard.",
+        "result": "→ ○ You had better study hard.（had better 後直接接原形，不加 to）"
+      },
+      {
+        "test": "✗ He ought study for the test.",
+        "result": "→ ○ He ought to study for the test.（ought to 中的 to 不可省略）"
+      },
+      {
+        "test": "✗ She ought not study there.",
+        "result": "→ ○ She ought not to study there.（ought 的否定應為 ought not to）"
+      }
+    ],
+    "note": "had better 帶警告（不做有後果），ought to 表義務（道德或責任）；記住 had better 後無 to，ought to 後必有 to。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "If you want to succeed, you ",
+        null,
+        " work hard every day."
+      ],
+      "blanks": [
+        "had better"
+      ],
+      "sentence": "If you want to succeed, you had better work hard every day.",
+      "translation": "如果你想成功，你最好每天努力工作。",
+      "keywords": [
+        "had better",
+        "條件句",
+        "建議"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "All citizens ",
+        null,
+        " obey the laws of their country."
+      ],
+      "blanks": [
+        "ought to"
+      ],
+      "sentence": "All citizens ought to obey the laws of their country.",
+      "translation": "所有公民都應該遵守他們國家的法律。",
+      "keywords": [
+        "ought to",
+        "社會責任",
+        "法律義務"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "You ",
+        null,
+        " not miss this important meeting tomorrow."
+      ],
+      "blanks": [
+        "had better"
+      ],
+      "sentence": "You had better not miss this important meeting tomorrow.",
+      "translation": "你最好明天不要缺席這個重要會議。",
+      "keywords": [
+        "had better not",
+        "否定",
+        "警告"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Young people ",
+        null,
+        " take responsibility for their own future."
+      ],
+      "blanks": [
+        "ought to"
+      ],
+      "sentence": "Young people ought to take responsibility for their own future.",
+      "translation": "年輕人應該為自己的未來負責。",
+      "keywords": [
+        "ought to",
+        "責任",
+        "應然"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "study",
+      "zh": "學習"
+    },
+    {
+      "adj": "respect",
+      "zh": "尊重"
+    },
+    {
+      "adj": "care about",
+      "zh": "關心"
+    },
+    {
+      "adj": "prepare",
+      "zh": "準備"
+    },
+    {
+      "adj": "tell the truth",
+      "zh": "說實話"
+    },
+    {
+      "adj": "help others",
+      "zh": "幫助他人"
+    },
+    {
+      "adj": "be responsible",
+      "zh": "負責任"
+    },
+    {
+      "adj": "follow the rules",
+      "zh": "遵守規則"
+    },
+    {
+      "adj": "stay healthy",
+      "zh": "保持健康"
+    },
+    {
+      "adj": "listen carefully",
+      "zh": "認真聽"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

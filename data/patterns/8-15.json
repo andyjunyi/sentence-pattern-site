@@ -1,0 +1,210 @@
+{
+  "code": "8-15",
+  "chapter": 8,
+  "title": "both...and... / not...but...",
+  "formulas": [
+    {
+      "formula": "Both A and B + 複數動詞",
+      "zh": "表示A和B兩者都，謂語動詞使用複數形式"
+    },
+    {
+      "formula": "Not A but B + 與B一致的動詞",
+      "zh": "表示不是A而是B，謂語動詞與but後的主詞保持一致"
+    }
+  ],
+  "explanation": "Both...and 用於連接兩個並列成分，表達「兩者都」的含義，謂語動詞必須使用複數形式。Not...but 用於對比兩個事物，強調後者而否定前者，謂語動詞與but後的主詞單複數一致。兩個句型都是平行結構，可連接名詞、代詞、動詞或形容詞。注意不要將 both...and 與 either...or 混淆，前者表肯定，後者表選擇。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Both reading and writing are essential skills for learning English effectively.",
+      "chi": "閱讀和寫作對於有效學習英文都是必要的技能。",
+      "keywords": [
+        "both...and",
+        "複數動詞",
+        "並列結構"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Not only the teacher but also the students were excited about the field trip.",
+      "chi": "不只是老師，學生們也對校外教學感到興奮。",
+      "keywords": [
+        "not...but",
+        "not only...but also",
+        "動詞一致"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Both economic development and environmental protection deserve equal attention in policy-making.",
+      "chi": "經濟發展和環境保護在政策制定中都應受到同等重視。",
+      "keywords": [
+        "both...and",
+        "複數謂語",
+        "對等概念"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It was not carelessness but ignorance that caused the accident to happen yesterday.",
+      "chi": "造成昨日事故的不是粗心而是無知。",
+      "keywords": [
+        "not...but",
+        "強調對比",
+        "單數動詞"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷Both...and時，謂語必須複數；判斷Not...but時，謂語與but後主詞一致。注意not only...but also的強調作用，often用於突出後者的重要性。避免混淆both...and（肯定並列）與either...or（選擇性）的用法差異。",
+    "examples": [
+      {
+        "test": "Both the manager and the employees (work/works) hard.",
+        "result": "→ 選work，因both...and後謂語必須複數"
+      },
+      {
+        "test": "Not the students but the teacher (are/is) responsible for the mistake.",
+        "result": "→ 選is，因動詞與but後的teacher（單數）一致"
+      },
+      {
+        "test": "Both swimming and cycling (provide/provides) excellent exercise.",
+        "result": "→ 選provide，兩個動名詞作主詞，視為複數"
+      }
+    ],
+    "note": "Both用複數，Not...but看but後；平行結構需詞性一致，成分對等。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Both patience and ",
+        null,
+        " are required to master a foreign language.",
+        null,
+        ""
+      ],
+      "blanks": [
+        "persistence",
+        "are"
+      ],
+      "sentence": "Both patience and persistence are required to master a foreign language.",
+      "translation": "耐心和毅力都是掌握外語所必需的。",
+      "keywords": [
+        "both...and",
+        "複數動詞",
+        "並列名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Not only the children but also their parents ",
+        null,
+        " interested in the documentary film."
+      ],
+      "blanks": [
+        "were"
+      ],
+      "sentence": "Not only the children but also their parents were interested in the documentary film.",
+      "translation": "不只是孩子們，他們的父母也對這部紀錄片感興趣。",
+      "keywords": [
+        "not only...but also",
+        "複數主詞",
+        "動詞一致"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It was not laziness ",
+        null,
+        " determination that helped him succeed in his career.",
+        null
+      ],
+      "blanks": [
+        "but",
+        "is"
+      ],
+      "sentence": "It was not laziness but determination that helped him succeed in his career.",
+      "translation": "幫助他事業成功的不是懶惰而是決心。",
+      "keywords": [
+        "not...but",
+        "It was that強調句",
+        "單數動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Both the government and private companies ",
+        null,
+        " responsible for promoting renewable energy sources.",
+        null
+      ],
+      "blanks": [
+        "are",
+        "collectively"
+      ],
+      "sentence": "Both the government and private companies are responsible for promoting renewable energy sources.",
+      "translation": "政府和私人公司都應該負責推廣可再生能源。",
+      "keywords": [
+        "both...and",
+        "複數謂語",
+        "責任分擔"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "both",
+      "zh": "兩者都；雙方都"
+    },
+    {
+      "adj": "and",
+      "zh": "和；與"
+    },
+    {
+      "adj": "not only...but also",
+      "zh": "不只...而且；不僅...還"
+    },
+    {
+      "adj": "either...or",
+      "zh": "要麼...要麼；或者...或者"
+    },
+    {
+      "adj": "neither...nor",
+      "zh": "既不...也不"
+    },
+    {
+      "adj": "as well as",
+      "zh": "以及；還有"
+    },
+    {
+      "adj": "in addition to",
+      "zh": "除...之外"
+    },
+    {
+      "adj": "along with",
+      "zh": "連同；一起"
+    },
+    {
+      "adj": "instead of",
+      "zh": "而不是；代替"
+    },
+    {
+      "adj": "rather than",
+      "zh": "而不是；與其...不如"
+    },
+    {
+      "adj": "essential",
+      "zh": "必要的；基本的"
+    },
+    {
+      "adj": "parallel",
+      "zh": "平行的；相等的"
+    }
+  ],
+  "vocab_table_label": "常用連接詞組"
+}

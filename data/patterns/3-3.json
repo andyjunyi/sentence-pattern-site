@@ -1,0 +1,216 @@
+{
+  "code": "3-3",
+  "chapter": 3,
+  "title": "prefer + N/V-ing + to + N/V-ing",
+  "formulas": [
+    {
+      "formula": "prefer + N/V-ing + to + N/V-ing",
+      "zh": "喜歡……勝過……（名詞或動名詞結構）"
+    },
+    {
+      "formula": "prefer to V rather than V",
+      "zh": "寧願做……而不願做……（原形動詞結構）"
+    }
+  ],
+  "explanation": "prefer 表示「更喜歡」或「偏好」，用來比較兩個對象或行為。第一種結構使用 to 作介系詞，後接名詞或動名詞；第二種結構中 prefer to 後接原形動詞，rather than 後也接原形動詞。兩種結構意思相同，但語法結構不同。常見誤用是混淆 to 的身份（介系詞 vs 不定式標記），或在 prefer...to... 結構中錯誤使用原形動詞。此句型強調主觀偏好或選擇傾向。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I prefer reading novels to watching TV in my free time.",
+      "chi": "我喜歡在閒暇時讀小說勝過看電視。",
+      "keywords": [
+        "prefer",
+        "reading",
+        "watching",
+        "動名詞比較"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She prefers coffee to tea because it helps her stay awake.",
+      "chi": "她喜歡咖啡勝過茶，因為咖啡能幫助她保持清醒。",
+      "keywords": [
+        "prefer",
+        "coffee",
+        "tea",
+        "名詞比較"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "My father prefers to travel by train rather than by plane.",
+      "chi": "我父親寧願搭火車而不願搭飛機。",
+      "keywords": [
+        "prefer to",
+        "rather than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Students often prefer online learning to attending classes in person.",
+      "chi": "學生通常喜歡線上學習勝過親自上課。",
+      "keywords": [
+        "prefer",
+        "learning",
+        "attending",
+        "教育情境"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：prefer 後若接名詞或動名詞需用介系詞 to；若接原形動詞需用 prefer to...rather than... 結構。兩邊結構必須對稱：prefer V-ing to V-ing（不可 prefer V-ing to V）。常誤寫成 prefer...than...，此為錯誤。",
+    "examples": [
+      {
+        "test": "❌ I prefer reading than watching TV.",
+        "result": "→ ✅ I prefer reading to watching TV.（to 是介系詞，不是 than）"
+      },
+      {
+        "test": "❌ He prefers to walk to running.",
+        "result": "→ ✅ He prefers walking to running. OR He prefers to walk rather than run.（需要結構對稱）"
+      },
+      {
+        "test": "✅ She prefers online courses to face-to-face classes.",
+        "result": "→ 正確用法：名詞對名詞比較"
+      }
+    ],
+    "note": "prefer + 同形式 + to + 同形式；或 prefer to + 原動詞 + rather than + 原動詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " summer to winter because the weather is warmer."
+      ],
+      "blanks": [
+        "prefer"
+      ],
+      "sentence": "I prefer summer to winter because the weather is warmer.",
+      "translation": "我喜歡夏季勝過冬季，因為天氣較溫暖。",
+      "keywords": [
+        "prefer",
+        "名詞比較",
+        "季節"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "My brother ",
+        null,
+        " playing video games ",
+        null,
+        " doing homework."
+      ],
+      "blanks": [
+        "prefers",
+        "to"
+      ],
+      "sentence": "My brother prefers playing video games to doing homework.",
+      "translation": "我哥哥喜歡玩電玩勝過做功課。",
+      "keywords": [
+        "prefer",
+        "動名詞",
+        "playing",
+        "doing"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "They prefer ",
+        null,
+        " by car rather than ",
+        null,
+        " by bus."
+      ],
+      "blanks": [
+        "to travel",
+        "to travel"
+      ],
+      "sentence": "They prefer to travel by car rather than to travel by bus.",
+      "translation": "他們寧願開車旅行而不願搭巴士旅行。",
+      "keywords": [
+        "prefer to",
+        "rather than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Which do you ",
+        null,
+        " : coffee ",
+        null,
+        " tea?"
+      ],
+      "blanks": [
+        "prefer",
+        "to"
+      ],
+      "sentence": "Which do you prefer: coffee to tea?",
+      "translation": "你比較喜歡哪一個：咖啡還是茶？",
+      "keywords": [
+        "prefer",
+        "選擇",
+        "飲料比較"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "reading",
+      "zh": "閱讀"
+    },
+    {
+      "adj": "writing",
+      "zh": "寫作"
+    },
+    {
+      "adj": "speaking",
+      "zh": "說話"
+    },
+    {
+      "adj": "cooking",
+      "zh": "烹飪"
+    },
+    {
+      "adj": "hiking",
+      "zh": "登山"
+    },
+    {
+      "adj": "swimming",
+      "zh": "游泳"
+    },
+    {
+      "adj": "coffee",
+      "zh": "咖啡"
+    },
+    {
+      "adj": "summer",
+      "zh": "夏季"
+    },
+    {
+      "adj": "casual clothes",
+      "zh": "休閒服裝"
+    },
+    {
+      "adj": "quiet environment",
+      "zh": "安靜的環境"
+    },
+    {
+      "adj": "independent work",
+      "zh": "獨立工作"
+    },
+    {
+      "adj": "face-to-face communication",
+      "zh": "面對面溝通"
+    }
+  ],
+  "vocab_table_label": "常用動名詞"
+}

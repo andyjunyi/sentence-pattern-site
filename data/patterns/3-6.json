@@ -1,0 +1,207 @@
+{
+  "code": "3-6",
+  "chapter": 3,
+  "title": "adj./adv. + enough + to V",
+  "formulas": [
+    {
+      "formula": "adj./adv. + enough + (for sb.) + to V",
+      "zh": "形容詞／副詞 + enough + (給某人) + 不定詞，表示足夠……可以做某事"
+    },
+    {
+      "formula": "so + adj./adv. + that + S + can + V",
+      "zh": "此句型可改寫為 so...that 結構，表達相同意思"
+    }
+  ],
+  "explanation": "此句型用於表達某事物或某人具有足夠的程度、能力或條件，足以完成某項動作。enough 必須置於形容詞或副詞之後，不可前置。若加入 for sb. 則表示「對某人來說足夠」。此結構常見於日常生活與學術文脈，可與 so...that 互換使用。學習者需注意 enough 位置的正確性，避免常見的前置錯誤。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The road is wide enough for two cars to pass each other safely.",
+      "chi": "這條路足夠寬，可以讓兩輛車安全地相互通過。",
+      "keywords": [
+        "wide enough",
+        "for",
+        "to pass"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He spoke clearly enough for everyone in the back to hear him.",
+      "chi": "他說得足夠清楚，使得後排的每個人都能聽到他。",
+      "keywords": [
+        "clearly enough",
+        "for everyone",
+        "to hear"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "This laptop is fast enough to handle complex graphic design tasks.",
+      "chi": "這台筆記型電腦足夠快，可以處理複雜的平面設計工作。",
+      "keywords": [
+        "fast enough",
+        "to handle"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The students were mature enough to understand the serious implications.",
+      "chi": "這些學生足夠成熟，能夠理解其中的嚴重含義。",
+      "keywords": [
+        "mature enough",
+        "to understand"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "wide",
+      "zh": "寬的"
+    },
+    {
+      "adj": "strong",
+      "zh": "強大的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "fast",
+      "zh": "快的"
+    },
+    {
+      "adj": "mature",
+      "zh": "成熟的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰明的"
+    },
+    {
+      "adj": "experienced",
+      "zh": "有經驗的"
+    },
+    {
+      "adj": "carefully",
+      "zh": "仔細地（副詞）"
+    },
+    {
+      "adj": "loudly",
+      "zh": "大聲地（副詞）"
+    },
+    {
+      "adj": "simple",
+      "zh": "簡單的"
+    },
+    {
+      "adj": "sufficient",
+      "zh": "充分的"
+    },
+    {
+      "adj": "flexible",
+      "zh": "靈活的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 enough 是否需要加 for sb.：若句子已有明確的行為者，可省略 for sb.；若需表達「對誰來說足夠」，則加入 for sb.。注意 enough 必須跟在形容詞／副詞後，不可寫成 enough + adj.，此為最常見的錯誤。",
+    "examples": [
+      {
+        "test": "❌ enough cold (錯誤) vs. ✓ cold enough (正確)",
+        "result": "→ enough 位置必須在形容詞之後，cold enough 才正確"
+      },
+      {
+        "test": "✓ large enough to hold 10 people (完整) vs. ✓ large enough (簡潔)",
+        "result": "→ 視上下文，with to V 可選，但通常加入會更明確表達目的"
+      },
+      {
+        "test": "✓ He runs fast enough to win the race. vs. ✓ He is fast enough to win the race.",
+        "result": "→ 副詞修飾動詞，形容詞修飾主詞，兩者都正確但結構不同"
+      }
+    ],
+    "note": "記住「形容詞、副詞 + enough」的順序，enough 永不前置；若有 for sb.，置於 enough 之後。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The explanation was simple ",
+        null,
+        " the children to understand it.",
+        null
+      ],
+      "blanks": [
+        "enough",
+        "for"
+      ],
+      "sentence": "The explanation was simple enough for the children to understand it.",
+      "translation": "這個解釋足夠簡單，使得孩子們能夠理解它。",
+      "keywords": [
+        "simple enough",
+        "for the children",
+        "to understand"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She worked hard ",
+        null,
+        " to earn a scholarship to the top university.",
+        null
+      ],
+      "blanks": [
+        "enough",
+        "for herself"
+      ],
+      "sentence": "She worked hard enough for herself to earn a scholarship to the top university.",
+      "translation": "她足夠努力，為自己獲得了頂尖大學的獎學金。",
+      "keywords": [
+        "hard enough",
+        "to earn",
+        "scholarship"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The bridge is strong ",
+        null,
+        " to support heavy trucks.",
+        null
+      ],
+      "blanks": [
+        "enough",
+        "for"
+      ],
+      "sentence": "The bridge is strong enough for heavy trucks to cross safely.",
+      "translation": "這座橋足夠堅固，可以讓重型卡車安全通過。",
+      "keywords": [
+        "strong enough",
+        "to cross",
+        "bridge"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The speaker spoke slowly ",
+        null,
+        " the audience to follow every word.",
+        null
+      ],
+      "blanks": [
+        "enough",
+        "for"
+      ],
+      "sentence": "The speaker spoke slowly enough for the audience to follow every word.",
+      "translation": "演講者說得足夠慢，使得觀眾能夠跟上每一個詞。",
+      "keywords": [
+        "slowly enough",
+        "for the audience",
+        "to follow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "code": "5-21",
+  "chapter": 5,
+  "title": "S + keep/leave + O + V-ing/adj.（保持狀態）",
+  "formulas": [
+    {
+      "formula": "keep/leave + O + V-ing / adj.",
+      "zh": "讓某人或物保持（某狀態）；也可表示持續做某事"
+    },
+    {
+      "formula": "keep + V-ing",
+      "zh": "持續進行某動作，不間斷地做某事"
+    }
+  ],
+  "explanation": "此句型用於表達保持狀態或持續動作。keep/leave後接受詞（名詞或代詞），再加現在分詞或形容詞，表讓某人或物維持特定狀態。如「keep the door open」。當keep單獨後接V-ing時，表示持續或反覆進行某動作，無受詞。易混淆處：形容詞與現在分詞的選擇需依狀態或動作性質判斷；「leave O adj.」強調靜態狀態。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Please keep the windows open during the day to let fresh air in.",
+      "chi": "請在白天保持窗戶開著以讓新鮮空氣進入。",
+      "keywords": [
+        "keep",
+        "open",
+        "狀態保持"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The teacher left the classroom empty after the final exam ended.",
+      "chi": "期末考結束後，老師讓教室保持空著。",
+      "keywords": [
+        "leave",
+        "empty",
+        "靜態狀態"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He kept calling his friend until someone finally answered the phone.",
+      "chi": "他持續打電話給他的朋友直到有人終於接聽。",
+      "keywords": [
+        "keep",
+        "calling",
+        "持續動作"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Don't keep the light on when you leave the office at night.",
+      "chi": "你晚上離開辦公室時不要讓燈保持開著。",
+      "keywords": [
+        "keep",
+        "on",
+        "動詞片語搭配"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "open",
+      "zh": "開著的"
+    },
+    {
+      "adj": "closed",
+      "zh": "關閉的"
+    },
+    {
+      "adj": "clean",
+      "zh": "乾淨的"
+    },
+    {
+      "adj": "busy",
+      "zh": "忙碌的"
+    },
+    {
+      "adj": "safe",
+      "zh": "安全的"
+    },
+    {
+      "adj": "warm",
+      "zh": "溫暖的"
+    },
+    {
+      "adj": "dry",
+      "zh": "乾的"
+    },
+    {
+      "adj": "silent",
+      "zh": "沉默的"
+    },
+    {
+      "adj": "secret",
+      "zh": "秘密的"
+    },
+    {
+      "adj": "waiting",
+      "zh": "等待中的（現在分詞作形容詞）"
+    },
+    {
+      "adj": "running",
+      "zh": "運行中的（現在分詞作形容詞）"
+    },
+    {
+      "adj": "locked",
+      "zh": "上鎖的（過去分詞作形容詞）"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：若表「靜態狀況」用形容詞（如open, closed, clean）；若表「動態進行」用現在分詞（如calling, working, playing）。keep V-ing不需受詞，表持續反覆；keep O adj./V-ing則需受詞。注意leave O adj.強調狀態留下。",
+    "examples": [
+      {
+        "test": "Keep the door _____ (open/opening) for the guests.",
+        "result": "→ Keep the door open（形容詞，保持開啟狀態）"
+      },
+      {
+        "test": "He kept _____ (talk/talking) about the same topic.",
+        "result": "→ He kept talking（V-ing，持續進行的動作）"
+      },
+      {
+        "test": "Don't leave the children _____ (alone/aloning) in the house.",
+        "result": "→ Don't leave the children alone（形容詞，靜態狀態）"
+      }
+    ],
+    "note": "形容詞→靜態狀態；V-ing→動態進行；keep O adj./V-ing有受詞，keep V-ing無受詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "You should ",
+        null,
+        " your room clean and organized.",
+        null
+      ],
+      "blanks": [
+        "keep",
+        "/"
+      ],
+      "sentence": "You should keep your room clean and organized.",
+      "translation": "你應該保持你的房間乾淨且有序。",
+      "keywords": [
+        "keep",
+        "clean",
+        "形容詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The mother left her baby ",
+        null,
+        " in the crib while she prepared dinner.",
+        null
+      ],
+      "blanks": [
+        "sleeping",
+        "/"
+      ],
+      "sentence": "The mother left her baby sleeping in the crib while she prepared dinner.",
+      "translation": "媽媽在準備晚餐時讓她的嬰兒在嬰兒床裡睡著。",
+      "keywords": [
+        "leave",
+        "sleeping",
+        "現在分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "If you ",
+        null,
+        " trying hard, you will eventually succeed in this project.",
+        null
+      ],
+      "blanks": [
+        "keep",
+        "/"
+      ],
+      "sentence": "If you keep trying hard, you will eventually succeed in this project.",
+      "translation": "如果你持續努力，你最終會在這個專案中成功。",
+      "keywords": [
+        "keep",
+        "trying",
+        "持續動作"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Please ",
+        null,
+        " the windows ",
+        null,
+        " to prevent the rain from coming in.",
+        null
+      ],
+      "blanks": [
+        "keep",
+        "closed",
+        "/"
+      ],
+      "sentence": "Please keep the windows closed to prevent the rain from coming in.",
+      "translation": "請保持窗戶關閉以防止雨水進來。",
+      "keywords": [
+        "keep",
+        "closed",
+        "形容詞"
+      ]
+    }
+  ]
+}

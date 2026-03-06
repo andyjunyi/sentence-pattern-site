@@ -1,0 +1,208 @@
+{
+  "code": "5-1",
+  "chapter": 5,
+  "title": "S + 連綴動詞 + SC（主詞補語）",
+  "formulas": [
+    {
+      "formula": "S + linking V (be/become/seem/feel/look/taste/smell/sound) + adjective",
+      "zh": "主詞+連綴動詞+形容詞作主詞補語"
+    },
+    {
+      "formula": "S + linking V + noun phrase",
+      "zh": "主詞+連綴動詞+名詞片語作主詞補語"
+    }
+  ],
+  "explanation": "連綴動詞本身無實義，用於連接主詞與主詞補語，補語描述主詞的狀態、性質或身分。常見連綴動詞包括be、become、seem、feel、look、taste、smell、sound等。補語位置必須用形容詞或名詞，絕不能用副詞，這是此句型最常見的錯誤。補語與主詞有邏輯關係，共同表達完整意義。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The weather became cold and windy after the storm.",
+      "chi": "暴風雨過後，天氣變得寒冷且刮風。",
+      "keywords": [
+        "became",
+        "形容詞補語",
+        "狀態變化"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She looks very tired today, but she seems happy about the results.",
+      "chi": "她今天看起來很疲倦，但她似乎對結果感到高興。",
+      "keywords": [
+        "looks",
+        "seems",
+        "形容詞補語"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "This coffee tastes bitter, while that one smells wonderful.",
+      "chi": "這杯咖啡嚐起來很苦，而那杯聞起來很香。",
+      "keywords": [
+        "tastes",
+        "smells",
+        "感官動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "My father is a doctor, and he has become an expert in his field.",
+      "chi": "我爸爸是醫生，他已經成為他領域的專家。",
+      "keywords": [
+        "is",
+        "become",
+        "名詞補語"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "happy",
+      "zh": "快樂的"
+    },
+    {
+      "adj": "tired",
+      "zh": "疲倦的"
+    },
+    {
+      "adj": "cold",
+      "zh": "寒冷的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "nervous",
+      "zh": "緊張的"
+    },
+    {
+      "adj": "successful",
+      "zh": "成功的"
+    },
+    {
+      "adj": "disappointed",
+      "zh": "失望的"
+    },
+    {
+      "adj": "confident",
+      "zh": "有信心的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷連綴動詞的關鍵：若動詞後可加「像這樣」且意思通順，則為連綴動詞。常見錯誤是在補語位置誤用副詞（如 *The food tastes deliciously 應為 tastes delicious）。補語應與主詞有邏輯聯繫，表述主詞特性而非動作。",
+    "examples": [
+      {
+        "test": "The student looks carefully at the exam paper.",
+        "result": "→ 錯誤：look為普通動詞，後接副詞修飾動作。應為：The student looks careful（連綴動詞look，形容詞補語）"
+      },
+      {
+        "test": "The music sounds beautifully in the concert hall.",
+        "result": "→ 錯誤：補語位置不能用副詞。應為：The music sounds beautiful（連綴動詞sound，形容詞補語）"
+      },
+      {
+        "test": "He became a teacher after graduation.",
+        "result": "→ 正確：become為連綴動詞，名詞片語a teacher作補語，表示身分變化"
+      }
+    ],
+    "note": "連綴動詞後接形容詞或名詞補語，絕不用副詞；判斷時試著代入「...就是/看起來像...」。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The old man ",
+        null,
+        " sick last winter, so his family was very worried."
+      ],
+      "blanks": [
+        "became"
+      ],
+      "sentence": "The old man became sick last winter, so his family was very worried.",
+      "translation": "去年冬天那位老人變得生病了，所以他的家人非常擔心。",
+      "keywords": [
+        "became",
+        "形容詞補語",
+        "連綴動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "After eating the dessert, her face ",
+        null,
+        " extremely happy and satisfied."
+      ],
+      "blanks": [
+        "looked"
+      ],
+      "sentence": "After eating the dessert, her face looked extremely happy and satisfied.",
+      "translation": "吃完甜點後，她的臉看起來極其開心和滿足。",
+      "keywords": [
+        "looked",
+        "形容詞補語",
+        "感官動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The experiment ",
+        null,
+        " much more difficult than we expected, yet we remained ",
+        null,
+        " throughout the process."
+      ],
+      "blanks": [
+        "proved",
+        "determined"
+      ],
+      "sentence": "The experiment proved much more difficult than we expected, yet we remained determined throughout the process.",
+      "translation": "這項實驗被證實比我們預期的困難得多，但我們在整個過程中保持決心。",
+      "keywords": [
+        "proved",
+        "remained",
+        "形容詞補語"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The cake smells ",
+        null,
+        ", but it tastes ",
+        null,
+        " because of too much salt."
+      ],
+      "blanks": [
+        "delicious",
+        "bitter"
+      ],
+      "sentence": "The cake smells delicious, but it tastes bitter because of too much salt.",
+      "translation": "這個蛋糕聞起來很香，但因為鹽太多，嚐起來很苦。",
+      "keywords": [
+        "smells",
+        "tastes",
+        "形容詞補語",
+        "感官動詞"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "code": "8-6",
+  "chapter": 8,
+  "title": "時間副詞子句 when / while / as",
+  "formulas": [
+    {
+      "formula": "When/While/As + S + V, S + V",
+      "zh": "當/雖然/正當……時，主句動作發生"
+    },
+    {
+      "formula": "S + V + when/while/as + S + V",
+      "zh": "主句動作發生 當/雖然/正當……時"
+    }
+  ],
+  "explanation": "時間副詞子句連接主子句，表示兩動作的時間關係。when表「當某時刻」指單一時間點；while強調兩動作同時進行，常搭進行式；as表「隨著/正當」強調同時進行或逐漸變化。while子句中若只有主詞+be動詞可省略形成分詞構句（While being interviewed → While interviewed）。注意時態搭配：主子句通常用簡單過去式，時間子句也用簡單過去式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "When I arrived at the station, my friend was waiting for me there.",
+      "chi": "當我到達車站時，我的朋友正在那裡等我。",
+      "keywords": [
+        "when",
+        "單一時刻",
+        "進行式",
+        "過去式"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "While she was studying, her brother was playing video games in the next room.",
+      "chi": "當她在唸書時，她哥哥在隔壁房間玩電動。",
+      "keywords": [
+        "while",
+        "同時進行",
+        "兩個進行式",
+        "並列動作"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "As time went by, the old building gradually became more and more dilapidated.",
+      "chi": "隨著時間流逝，這棟老建築逐漸變得更加破舊。",
+      "keywords": [
+        "as",
+        "隨著",
+        "逐漸變化",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "While walking in the park, she suddenly remembered an important meeting.",
+      "chi": "在公園散步時，她突然想起一場重要的會議。",
+      "keywords": [
+        "while",
+        "分詞構句",
+        "省略主詞be動詞",
+        "背景動作"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時間詞用法：when用於單點時刻或過去習慣動作；while強調同時進行須用進行式；as表同步或因果關係。分詞構句(V-ing)時，省略主詞與be動詞，主句主詞須與分詞主詞相同，否則易造成修飾錯誤。",
+    "examples": [
+      {
+        "test": "When I was eating dinner, the phone rang.",
+        "result": "→ 正確。when 接過去式，main clause 用過去簡單式（突發事件）"
+      },
+      {
+        "test": "While I studied, my friend was playing music.（×）",
+        "result": "→ 錯誤。while通常搭進行式，應為 While I was studying, my friend was playing music."
+      },
+      {
+        "test": "Walking to school, I met an old teacher.（=While walking to school...）",
+        "result": "→ 正確。分詞構句省略while + S + be，主詞I須與分詞Walking對應"
+      }
+    ],
+    "note": "when=時刻點、while=同步進行、as=隨著變化；when + S + V 強調截斷，while + S + V-ing 強調背景。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the children were playing in the playground, it started to rain."
+      ],
+      "blanks": [
+        "While"
+      ],
+      "sentence": "While the children were playing in the playground, it started to rain.",
+      "translation": "當孩子們在操場上玩耍時，開始下雨了。",
+      "keywords": [
+        "while",
+        "進行式背景",
+        "突發事件"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " the students entered the classroom, the teacher was writing on the blackboard."
+      ],
+      "blanks": [
+        "When"
+      ],
+      "sentence": "When the students entered the classroom, the teacher was writing on the blackboard.",
+      "translation": "當學生們進入教室時，老師正在黑板上寫字。",
+      "keywords": [
+        "when",
+        "主句過去簡單式",
+        "副句進行式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " her confidence grew, she performed better on stage."
+      ],
+      "blanks": [
+        "As"
+      ],
+      "sentence": "As her confidence grew, she performed better on stage.",
+      "translation": "隨著她的信心增長，她在舞台上表現得更好。",
+      "keywords": [
+        "as",
+        "因果關係",
+        "逐漸變化"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " in the library, he discovered a rare old book."
+      ],
+      "blanks": [
+        "While browsing"
+      ],
+      "sentence": "While browsing in the library, he discovered a rare old book.",
+      "translation": "在圖書館瀏覽時，他發現了一本稀有的舊書。",
+      "keywords": [
+        "分詞構句",
+        "省略while + S + be",
+        "背景動作"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "when",
+      "zh": "當……時（單一時刻、特定時間點）"
+    },
+    {
+      "adj": "while",
+      "zh": "當/雖然……時（強調同時進行、持續動作）"
+    },
+    {
+      "adj": "as",
+      "zh": "正當/隨著……時（強調同時進行或逐漸變化）"
+    },
+    {
+      "adj": "was/were + V-ing",
+      "zh": "過去進行式（進行中的動作）"
+    },
+    {
+      "adj": "suddenly",
+      "zh": "突然地（搭配過去式，表突發事件）"
+    },
+    {
+      "adj": "gradually",
+      "zh": "逐漸地（搭配as，表循序進行）"
+    },
+    {
+      "adj": "at that moment",
+      "zh": "在那一刻（時間點標記）"
+    },
+    {
+      "adj": "simultaneously",
+      "zh": "同時地（兩動作並行）"
+    },
+    {
+      "adj": "throughout",
+      "zh": "整個期間（強調持續性）"
+    },
+    {
+      "adj": "meanwhile",
+      "zh": "同時（並行發生）"
+    },
+    {
+      "adj": "V-ing (分詞)",
+      "zh": "省略while + S + be 形成分詞構句"
+    },
+    {
+      "adj": "simple past",
+      "zh": "簡單過去式（時間子句時態搭配）"
+    }
+  ],
+  "vocab_table_label": "常用時間連接詞"
+}

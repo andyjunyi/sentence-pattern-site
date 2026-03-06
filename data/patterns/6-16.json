@@ -1,0 +1,203 @@
+{
+  "code": "6-16",
+  "chapter": 6,
+  "title": "S + object to / be opposed to + V-ing",
+  "formulas": [
+    {
+      "formula": "S + object to + V-ing",
+      "zh": "主詞反對做某事"
+    },
+    {
+      "formula": "S + be opposed to + V-ing",
+      "zh": "主詞反對做某事"
+    }
+  ],
+  "explanation": "「object to」和「be opposed to」皆表示反對，其後接動名詞（V-ing），其中 to 為介系詞而非不定詞符號。兩者意義相同但用法略異：object to 為動詞片語，be opposed to 為形容詞片語。使用時機為表達立場反對、反抗某行為或計畫。易混淆點是誤將 to 視為不定詞符號，導致接原形動詞。注意 object 為及物動詞，需搭配 to；be opposed to 中 opposed 為過去分詞作形容詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Many parents object to their children spending too much time on social media.",
+      "chi": "許多父母反對他們的孩子花太多時間在社群媒體上。",
+      "keywords": [
+        "object to",
+        "V-ing",
+        "social media"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The government is opposed to raising taxes during the economic recession.",
+      "chi": "政府反對在經濟衰退期間提高稅收。",
+      "keywords": [
+        "be opposed to",
+        "V-ing",
+        "economic"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I don't object to changing the meeting time if everyone agrees.",
+      "chi": "如果每個人都同意，我不反對改變會議時間。",
+      "keywords": [
+        "object to",
+        "changing",
+        "meeting"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The local residents are strongly opposed to building a factory near their community.",
+      "chi": "當地居民強烈反對在他們社區附近建工廠。",
+      "keywords": [
+        "be opposed to",
+        "building",
+        "factory"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷句型的關鍵是識別「object to」或「be opposed to」之後必接 V-ing 形式，而非動詞不定詞。常見錯誤是寫成「object to do」或「opposed to do」，應改為「object to doing」和「opposed to doing」。記住 to 是介系詞，不是不定詞符號。",
+    "examples": [
+      {
+        "test": "❌ The company objects to increase production costs.",
+        "result": "→ ✓ The company objects to increasing production costs.（增加改為V-ing形式）"
+      },
+      {
+        "test": "❌ They are opposed to accept the new policy.",
+        "result": "→ ✓ They are opposed to accepting the new policy.（接受改為V-ing形式）"
+      },
+      {
+        "test": "✓ We don't object to postponing the event.",
+        "result": "→ 正確用法：「postpone」變為 V-ing 形式 「postponing」"
+      }
+    ],
+    "note": "記憶口訣：「反對to的後面是-ing，不是原形動詞do。」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teachers ",
+        null,
+        " students copying answers from each other during the exam."
+      ],
+      "blanks": [
+        "object to"
+      ],
+      "sentence": "The teachers object to students copying answers from each other during the exam.",
+      "translation": "老師們反對學生在考試中互相抄襲答案。",
+      "keywords": [
+        "object to",
+        "copying",
+        "exam"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Many environmentalists ",
+        null,
+        " harmful chemicals in agricultural production."
+      ],
+      "blanks": [
+        "are opposed to using"
+      ],
+      "sentence": "Many environmentalists are opposed to using harmful chemicals in agricultural production.",
+      "translation": "許多環保人士反對在農業生產中使用有害化學物質。",
+      "keywords": [
+        "be opposed to",
+        "using",
+        "chemicals"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Do you ",
+        null,
+        " the original plan if we find a better solution?"
+      ],
+      "blanks": [
+        "object to changing"
+      ],
+      "sentence": "Do you object to changing the original plan if we find a better solution?",
+      "translation": "如果我們找到更好的方案，你反對改變原計畫嗎？",
+      "keywords": [
+        "object to",
+        "changing",
+        "plan"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The local community ",
+        null,
+        " a new shopping mall in the residential area."
+      ],
+      "blanks": [
+        "is opposed to constructing"
+      ],
+      "sentence": "The local community is opposed to constructing a new shopping mall in the residential area.",
+      "translation": "當地社區反對在住宅區興建新商場。",
+      "keywords": [
+        "be opposed to",
+        "constructing",
+        "shopping mall"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "object to",
+      "zh": "反對（動詞片語）"
+    },
+    {
+      "adj": "be opposed to",
+      "zh": "反對（形容詞片語）"
+    },
+    {
+      "adj": "strongly",
+      "zh": "強烈地（副詞修飾反對程度）"
+    },
+    {
+      "adj": "be against",
+      "zh": "反對（相似用法，接V-ing或N）"
+    },
+    {
+      "adj": "disagree with",
+      "zh": "不同意（相似用法）"
+    },
+    {
+      "adj": "resist",
+      "zh": "抗拒、反抗"
+    },
+    {
+      "adj": "protest against",
+      "zh": "抗議"
+    },
+    {
+      "adj": "be against",
+      "zh": "反對"
+    },
+    {
+      "adj": "refuse to",
+      "zh": "拒絕（接動詞不定詞）"
+    },
+    {
+      "adj": "reject",
+      "zh": "拒絕、反對"
+    },
+    {
+      "adj": "vehemently",
+      "zh": "激烈地、強烈地"
+    },
+    {
+      "adj": "unanimously",
+      "zh": "一致地"
+    }
+  ],
+  "vocab_table_label": "常用反對片語"
+}

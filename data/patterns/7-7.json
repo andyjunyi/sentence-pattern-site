@@ -1,0 +1,203 @@
+{
+  "code": "7-7",
+  "chapter": 7,
+  "title": "分詞構句（被動）p.p. / Having been p.p....",
+  "formulas": [
+    {
+      "formula": "P.P. + ..., S + V...",
+      "zh": "過去分詞開頭的分詞構句，代替被動副詞子句"
+    },
+    {
+      "formula": "Having been + P.P. + ..., S + V...",
+      "zh": "強調先完成的被動動作，再進行主句動作"
+    }
+  ],
+  "explanation": "被動分詞構句省略 being 或 having been，以過去分詞開頭代替被動副詞子句（because/when + S + was/were + p.p.）。單純 P.P. 表示與主句動作同時或之後的被動狀態；Having been + P.P. 強調在主句動作前已完成的被動動作。注意：主詞必須與分詞邏輯主詞相同，避免懸垂修飾詞錯誤。此句型常見於學測閱讀與寫作題。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Defeated in the battle, the general surrendered to the enemy.",
+      "chi": "在戰役中被擊敗，那位將軍向敵人投降了。",
+      "keywords": [
+        "defeated",
+        "過去分詞",
+        "被動狀態"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Having been rejected three times, she finally gave up on her dream.",
+      "chi": "被拒絕了三次之後，她最終放棄了夢想。",
+      "keywords": [
+        "Having been rejected",
+        "先完成動作",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Shocked by the news, the students couldn't focus on their studies.",
+      "chi": "被這個消息震驚，學生們無法專心讀書。",
+      "keywords": [
+        "Shocked",
+        "情感被動",
+        "結果狀態"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Having been trained for years, the athlete won the gold medal easily.",
+      "chi": "經過多年訓練，那位運動員輕鬆贏得金牌。",
+      "keywords": [
+        "Having been trained",
+        "過程完成",
+        "後續成果"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷依據：看句首是否為過去分詞形式（-ed 或不規則 p.p.）。若要表達「在某動作完成後」才進行主句動作，必用 Having been + p.p.；若只表達同時的被動狀態，用 P.P. 即可。留意主詞一致性：分詞的邏輯主詞必須是主句主詞。",
+    "examples": [
+      {
+        "test": "Shocked by the accident, he forgot what to do. vs. Having been shocked...",
+        "result": "→ 第一句表同時狀態（恐慌時忘記）；第二句強調先被嚇到，後忘記（時間順序明確）"
+      },
+      {
+        "test": "❌ Injured in the accident, the car was damaged. vs. ✓ Injured in the accident, John was hospitalized.",
+        "result": "→ 第一句錯誤（分詞主詞應是 John 非 car）；第二句正確"
+      },
+      {
+        "test": "Having been criticized repeatedly, the plan was abandoned. vs. Criticized repeatedly, the plan was abandoned.",
+        "result": "→ 第一句強調多次批評後才放棄；第二句同時敘述，兩者都可但語氣不同"
+      }
+    ],
+    "note": "口訣：「分詞主詞要一致，Having been 強調時間序」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        null,
+        " by the storm, the farmer decided to postpone the harvest.",
+        null
+      ],
+      "blanks": [
+        "Battered"
+      ],
+      "sentence": "Battered by the storm, the farmer decided to postpone the harvest.",
+      "translation": "被暴風雨摧殘，農民決定延後收割。",
+      "keywords": [
+        "被動分詞",
+        "Battered",
+        "過去分詞開頭"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " for six months, she finally completed her research project.",
+        null
+      ],
+      "blanks": [
+        "Having been assigned"
+      ],
+      "sentence": "Having been assigned the task for six months, she finally completed her research project.",
+      "translation": "被分配這項任務六個月後，她終於完成了研究專案。",
+      "keywords": [
+        "Having been",
+        "先完成",
+        "時間順序"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        " three times, the applicant was determined to try once more.",
+        null
+      ],
+      "blanks": [
+        "Rejected"
+      ],
+      "sentence": "Rejected three times, the applicant was determined to try once more.",
+      "translation": "被拒絕三次，申請人決心再試一次。",
+      "keywords": [
+        "Rejected",
+        "被動狀態",
+        "經歷表達"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " for academic excellence, the student became more confident in class.",
+        null
+      ],
+      "blanks": [
+        "Having been recognized"
+      ],
+      "sentence": "Having been recognized for academic excellence, the student became more confident in class.",
+      "translation": "因為在學術上獲得認可，這位學生在課堂上變得更有信心。",
+      "keywords": [
+        "Having been recognized",
+        "先發生事件",
+        "後來變化"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "defeated",
+      "zh": "被擊敗的"
+    },
+    {
+      "adj": "rejected",
+      "zh": "被拒絕的"
+    },
+    {
+      "adj": "shocked",
+      "zh": "被震驚的"
+    },
+    {
+      "adj": "trained",
+      "zh": "被訓練的"
+    },
+    {
+      "adj": "wounded",
+      "zh": "被傷害的"
+    },
+    {
+      "adj": "published",
+      "zh": "被出版的"
+    },
+    {
+      "adj": "discovered",
+      "zh": "被發現的"
+    },
+    {
+      "adj": "praised",
+      "zh": "被表揚的"
+    },
+    {
+      "adj": "invited",
+      "zh": "被邀請的"
+    },
+    {
+      "adj": "exhausted",
+      "zh": "被耗盡的"
+    },
+    {
+      "adj": "disappointed",
+      "zh": "被失望的"
+    },
+    {
+      "adj": "assigned",
+      "zh": "被指派的"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

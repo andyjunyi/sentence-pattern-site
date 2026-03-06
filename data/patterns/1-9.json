@@ -1,0 +1,201 @@
+{
+  "code": "1-9",
+  "chapter": 1,
+  "title": "What + S + V + is/was + (that) 子句／名詞",
+  "formulas": [
+    {
+      "formula": "What + S + V + is + 名詞子句 (that + S + V ...)",
+      "zh": "……的事情是……（強調後方資訊）"
+    },
+    {
+      "formula": "What + S + V + is + 名詞 / 名詞片語",
+      "zh": "……的東西／事情是……（用 What 子句當主詞，突顯補語重點）"
+    }
+  ],
+  "explanation": "此句型以 What 引導的名詞子句作為句子主詞，再用 be 動詞連接補語，目的是將最重要的資訊放在 is 之後，達到強調效果。What 在此等於 the thing(s) that，整個 What 子句視為第三人稱單數，故 be 動詞通常用 is / was。補語可以是名詞、名詞片語，也可以是 that 引導的名詞子句。注意不可與 It is... that... 的分裂句混淆，兩者強調對象不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "What the teacher said in class is that we should never give up on our dreams.",
+      "chi": "老師在課堂上說的是，我們絕不應該放棄夢想。",
+      "keywords": [
+        "What",
+        "is that"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "What she needs most right now is a good rest and some quiet time alone.",
+      "chi": "她現在最需要的是好好休息和一些獨處的安靜時光。",
+      "keywords": [
+        "What",
+        "needs",
+        "is"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "What surprised us the most was the kindness of the strangers we met on the trip.",
+      "chi": "最讓我們驚訝的是旅途中遇到的陌生人的善意。",
+      "keywords": [
+        "What",
+        "surprised",
+        "was"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "What makes this city special is its rich history and diverse cultural traditions.",
+      "chi": "讓這座城市與眾不同的是它豐富的歷史和多元的文化傳統。",
+      "keywords": [
+        "What",
+        "makes",
+        "is"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看到句首 What 後面接「主詞＋動詞」，而非問號結尾，就知道這是名詞子句當主詞，不是疑問句。What 子句整體視為單數，be 動詞用 is / was。若要強調的資訊是一件事，用 is + that 子句；若是具體事物，直接接名詞即可。",
+    "examples": [
+      {
+        "test": "What he said is important. ← What 子句當主詞，is 後接形容詞補語",
+        "result": "→ 正確，但此句強調的是形容詞描述，非本句型的核心焦點用法。"
+      },
+      {
+        "test": "What he said is that we must work harder. ← is 後接 that 子句",
+        "result": "→ 正確，完全符合本句型，強調 that 子句的內容。"
+      },
+      {
+        "test": "That he said is surprising. ← 用 That 開頭想代替 What",
+        "result": "→ 錯誤。What = the thing that，不可直接用 That 替代。應改為 What he said is surprising."
+      }
+    ],
+    "note": "「What 帶頭當主詞，is 後面放重點」——前因後果一目了然。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " me most was her courage to speak up in front of the whole school."
+      ],
+      "blanks": [
+        "What impressed"
+      ],
+      "sentence": "What impressed me most was her courage to speak up in front of the whole school.",
+      "translation": "最令我印象深刻的是她在全校面前勇敢發言的勇氣。",
+      "keywords": [
+        "What",
+        "impressed",
+        "was"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "What the research shows ",
+        null,
+        " regular exercise can greatly improve our mental health."
+      ],
+      "blanks": [
+        "is that"
+      ],
+      "sentence": "What the research shows is that regular exercise can greatly improve our mental health.",
+      "translation": "研究顯示的是，規律運動能大幅改善我們的心理健康。",
+      "keywords": [
+        "What",
+        "is that"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " is a clear plan and strong teamwork among all the members."
+      ],
+      "blanks": [
+        "What we need most"
+      ],
+      "sentence": "What we need most is a clear plan and strong teamwork among all the members.",
+      "translation": "我們最需要的是一個明確的計畫和所有成員之間的緊密合作。",
+      "keywords": [
+        "What",
+        "need",
+        "is"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "What makes this book worth reading ",
+        null,
+        " its honest description of teenage life."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "What makes this book worth reading is its honest description of teenage life.",
+      "translation": "讓這本書值得一讀的是它對青少年生活的真實描寫。",
+      "keywords": [
+        "What",
+        "makes",
+        "is"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "What ... need(s)",
+      "zh": "……所需要的"
+    },
+    {
+      "adj": "What ... want(s)",
+      "zh": "……所想要的"
+    },
+    {
+      "adj": "What ... matter(s)",
+      "zh": "……重要的事"
+    },
+    {
+      "adj": "What ... surprise(s)",
+      "zh": "……令人驚訝的事"
+    },
+    {
+      "adj": "What ... concern(s)",
+      "zh": "……令人擔憂的事"
+    },
+    {
+      "adj": "What ... impress(es)",
+      "zh": "……令人印象深刻的事"
+    },
+    {
+      "adj": "What ... bother(s)",
+      "zh": "……令人困擾的事"
+    },
+    {
+      "adj": "What ... inspire(s)",
+      "zh": "……激勵人的事"
+    },
+    {
+      "adj": "What ... lack(s)",
+      "zh": "……所缺乏的"
+    },
+    {
+      "adj": "What ... value(s)",
+      "zh": "……所重視的"
+    },
+    {
+      "adj": "What ... mean(s)",
+      "zh": "……所意味的"
+    },
+    {
+      "adj": "What ... make(s) ... special",
+      "zh": "讓……特別的事"
+    }
+  ],
+  "vocab_table_label": "核心句型結構"
+}

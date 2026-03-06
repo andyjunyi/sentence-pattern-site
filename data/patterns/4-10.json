@@ -1,0 +1,203 @@
+{
+  "code": "4-10",
+  "chapter": 4,
+  "title": "關係副詞 where / when / why（形容詞子句）",
+  "formulas": [
+    {
+      "formula": "N + where + S + V... (其中 where = in/at which)",
+      "zh": "名詞 + where引導的關係子句（修飾地點名詞）"
+    },
+    {
+      "formula": "N + when + S + V... (其中 when = in/on/at which) / N + why + S + V... (其中 why = for which)",
+      "zh": "名詞 + when/why引導的關係子句（修飾時間或原因名詞）"
+    }
+  ],
+  "explanation": "此句型使用關係副詞 where、when、why 引導關係子句，修飾先行詞（地點、時間或原因名詞）。where 相當於『介系詞 + which』，修飾地點；when 相當於『時間介系詞 + which』，修飾時間點；why 相當於『for which』，修飾 reason。此句型避免了繁瑣的介系詞 + which 結構，使句子更簡潔。關係副詞在子句中不占語法位置，需注意先行詞的名詞性質（地點、時間或原因）來選擇適當的關係副詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The library where we study together is very quiet and comfortable.",
+      "chi": "我們一起讀書的那家圖書館非常安靜舒適。",
+      "keywords": [
+        "where修飾地點名詞",
+        "關係副詞",
+        "library"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The morning when the accident happened, everyone was shocked and frightened.",
+      "chi": "事故發生的那個上午，每個人都感到震驚和害怕。",
+      "keywords": [
+        "when修飾時間名詞",
+        "關係副詞",
+        "morning"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The reason why he quit his job was that he wanted to pursue his dream.",
+      "chi": "他辭職的原因是他想追求自己的夢想。",
+      "keywords": [
+        "why修飾reason",
+        "關係副詞",
+        "reason"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The restaurant where they had their first date is now closed permanently.",
+      "chi": "他們初次約會的餐廳現在已經永久關閉了。",
+      "keywords": [
+        "where修飾地點名詞",
+        "關係副詞",
+        "restaurant"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷使用哪個關係副詞的關鍵：先看先行詞（名詞）的性質。若為地點名詞（place, location, room, school），用where；若為時間名詞（day, time, moment, year），用when；若先行詞是reason，一定用why。特別注意：不能同時用which和where/when/why混用。",
+    "examples": [
+      {
+        "test": "The school _____ he studied has a great reputation.",
+        "result": "→ 填where（或in which）。school是地點名詞，先行詞修飾需用where"
+      },
+      {
+        "test": "The year _____ she was born was 2005.",
+        "result": "→ 填when（或in which）。year是時間名詞，先行詞修飾需用when"
+      },
+      {
+        "test": "The reason _____ I left early is that I had an appointment.",
+        "result": "→ 填why（或for which）。reason是原因名詞，只能用why不能用which"
+      }
+    ],
+    "note": "地點用where、時間用when、原因用why，三個關係副詞的先行詞詞性決定了該使用哪一個。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The café ",
+        null,
+        " they spent their first date is now a famous landmark in the city."
+      ],
+      "blanks": [
+        "where"
+      ],
+      "sentence": "The café where they spent their first date is now a famous landmark in the city.",
+      "translation": "他們初次約會的那家咖啡館現在是城市裡著名的地標。",
+      "keywords": [
+        "where",
+        "地點名詞",
+        "關係副詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The summer ",
+        null,
+        " we traveled abroad was the most unforgettable experience of my life."
+      ],
+      "blanks": [
+        "when"
+      ],
+      "sentence": "The summer when we traveled abroad was the most unforgettable experience of my life.",
+      "translation": "我們去國外旅遊的那個夏天是我人生中最難忘的經驗。",
+      "keywords": [
+        "when",
+        "時間名詞",
+        "關係副詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The reason ",
+        null,
+        " she studies English hard is that she wants to study abroad next year."
+      ],
+      "blanks": [
+        "why"
+      ],
+      "sentence": "The reason why she studies English hard is that she wants to study abroad next year.",
+      "translation": "她努力學英文的原因是她想明年出國留學。",
+      "keywords": [
+        "why",
+        "原因名詞",
+        "關係副詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The office building ",
+        null,
+        " our company moved to last month has excellent facilities and equipment."
+      ],
+      "blanks": [
+        "where"
+      ],
+      "sentence": "The office building where our company moved to last month has excellent facilities and equipment.",
+      "translation": "我們公司上個月搬到的那棟辦公大樓設施和設備都很優秀。",
+      "keywords": [
+        "where",
+        "地點名詞",
+        "關係副詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "where",
+      "zh": "關係副詞，修飾地點名詞（= in/at which）"
+    },
+    {
+      "adj": "when",
+      "zh": "關係副詞，修飾時間名詞（= in/on/at which）"
+    },
+    {
+      "adj": "why",
+      "zh": "關係副詞，修飾reason（= for which）"
+    },
+    {
+      "adj": "location",
+      "zh": "地點名詞，常與where搭配"
+    },
+    {
+      "adj": "place",
+      "zh": "地點名詞，常與where搭配"
+    },
+    {
+      "adj": "moment",
+      "zh": "時間名詞，常與when搭配"
+    },
+    {
+      "adj": "time",
+      "zh": "時間名詞，常與when搭配"
+    },
+    {
+      "adj": "reason",
+      "zh": "原因名詞，常與why搭配"
+    },
+    {
+      "adj": "day",
+      "zh": "時間名詞，常與when搭配"
+    },
+    {
+      "adj": "year",
+      "zh": "時間名詞，常與when搭配"
+    },
+    {
+      "adj": "situation",
+      "zh": "情境名詞，可與where或when搭配"
+    },
+    {
+      "adj": "circumstance",
+      "zh": "情況名詞，可與why或when搭配"
+    }
+  ],
+  "vocab_table_label": "關係副詞"
+}

@@ -1,0 +1,201 @@
+{
+  "code": "8-4",
+  "chapter": 8,
+  "title": "although / though / even though + S + V（讓步子句）",
+  "formulas": [
+    {
+      "formula": "Although/Though/Even though + S + V, S + V",
+      "zh": "雖然……但是……；讓步副詞子句表達轉折關係"
+    },
+    {
+      "formula": "S + V, although/though + S + V",
+      "zh": "主句在前，讓步子句在後（though 可置句尾）"
+    }
+  ],
+  "explanation": "讓步副詞子句用來表達兩個相對立的事實。Although、though、even though 都可引導讓步子句，但 even though 語氣最強，強調事實的對比性。關鍵注意：讓步子句與主句不能同時使用 but；though 具有靈活性，可置於句首或句尾；although 通常置於句首。此句型考察轉折邏輯與複句結構掌握。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Although she studied hard, she failed the exam.",
+      "chi": "雖然她很用功，但她仍然考試不及格。",
+      "keywords": [
+        "although",
+        "轉折",
+        "讓步"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Even though the weather was terrible, the event proceeded as planned.",
+      "chi": "儘管天氣很糟糕，這項活動仍按計劃進行。",
+      "keywords": [
+        "even though",
+        "事實對比",
+        "強語氣"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Though he was rich, he lived a simple life.",
+      "chi": "雖然他很富有，但他過著簡樸的生活。",
+      "keywords": [
+        "though",
+        "句首使用"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She succeeded in her dream, though many people doubted her.",
+      "chi": "她實現了夢想，儘管許多人懷疑她。",
+      "keywords": [
+        "though句尾",
+        "靈活位置",
+        "讓步"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "容易混淆點：although/though/even though 引導子句（後接 S+V），而 despite/in spite of 為介詞，後接名詞或動名詞。不可將讓步子句與 but 同用；若已用 although，不需再用 but。though 置於句尾時語氣較輕鬆。",
+    "examples": [
+      {
+        "test": "❌ Although he studied hard, but he failed.",
+        "result": "→ ✅ Although he studied hard, he failed. 或 He studied hard, but he failed.（不可同時使用 although 與 but）"
+      },
+      {
+        "test": "❌ Even though his difficulty, he never gave up.",
+        "result": "→ ✅ Even though he had difficulties, he never gave up. 或 Despite his difficulties, he never gave up.（difficulty 後需接 had；或改用介詞 despite）"
+      },
+      {
+        "test": "✅ He went to work, though he was sick.",
+        "result": "→ though 置於句尾，語氣輕鬆自然，表達「不過他生病了」"
+      }
+    ],
+    "note": "記憶口訣：「Although/Though 接完整子句，不與 but 為友；Despite/In spite of 接名詞詞組。」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "He won the award ",
+        null,
+        " many competitors were more experienced."
+      ],
+      "blanks": [
+        "even though"
+      ],
+      "sentence": "He won the award even though many competitors were more experienced.",
+      "translation": "儘管許多競爭對手經驗更豐富，他仍然贏得了獎項。",
+      "keywords": [
+        "even though",
+        "讓步轉折",
+        "強對比"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " it was raining heavily, the children played outside happily."
+      ],
+      "blanks": [
+        "Although"
+      ],
+      "sentence": "Although it was raining heavily, the children played outside happily.",
+      "translation": "雖然下著大雨，孩子們仍然開心地在外面玩耍。",
+      "keywords": [
+        "although",
+        "句首位置",
+        "讓步子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She decided to pursue her passion for art, ",
+        null,
+        " her parents opposed the idea."
+      ],
+      "blanks": [
+        "though"
+      ],
+      "sentence": "She decided to pursue her passion for art, though her parents opposed the idea.",
+      "translation": "她決定追求對藝術的熱情，儘管她的父母反對這個想法。",
+      "keywords": [
+        "though句尾",
+        "靈活使用",
+        "讓步"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The project was completed successfully ",
+        null,
+        " the team faced numerous obstacles."
+      ],
+      "blanks": [
+        "even though"
+      ],
+      "sentence": "The project was completed successfully even though the team faced numerous obstacles.",
+      "translation": "儘管團隊遇到了許多障礙，該項目仍然順利完成了。",
+      "keywords": [
+        "even though",
+        "事實對比",
+        "強語氣"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "although",
+      "zh": "雖然；儘管"
+    },
+    {
+      "adj": "though",
+      "zh": "雖然；不過"
+    },
+    {
+      "adj": "even though",
+      "zh": "即使；儘管（語氣更強）"
+    },
+    {
+      "adj": "despite",
+      "zh": "儘管（介詞，後接名詞）"
+    },
+    {
+      "adj": "in spite of",
+      "zh": "儘管（介詞片語）"
+    },
+    {
+      "adj": "hard",
+      "zh": "努力地"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "fail",
+      "zh": "失敗"
+    },
+    {
+      "adj": "challenging",
+      "zh": "具有挑戰性的"
+    },
+    {
+      "adj": "unexpected",
+      "zh": "意外的"
+    },
+    {
+      "adj": "contrary to",
+      "zh": "與……相反"
+    }
+  ],
+  "vocab_table_label": "常用讓步連接詞"
+}

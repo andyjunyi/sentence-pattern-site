@@ -1,0 +1,203 @@
+{
+  "code": "8-11",
+  "chapter": 8,
+  "title": "as soon as / the moment / once + S + V",
+  "formulas": [
+    {
+      "formula": "As soon as / The moment / Once + S + V, S + V",
+      "zh": "一……就……，表示兩個動作緊密相連，前一動作完成立刻引發後一動作"
+    },
+    {
+      "formula": "S + V as soon as / the moment / once + S + V",
+      "zh": "後置型：主要子句在前，時間連接詞子句在後"
+    }
+  ],
+  "explanation": "此句型用於表達兩動作的立即先後關係，強調時間上的緊密銜接。三個連接詞中，as soon as最常用且最直接；the moment帶有瞬間性；once則強調第一次發生的條件含義。關鍵點：時間子句必須用現在式表未來，不能用將來式；主要子句可用任何時態。常見錯誤是使用will在時間子句中，或混淆as soon as與when的細微差別（as soon as更強調立即性）。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "As soon as you arrive at the airport, please call me.",
+      "chi": "你一到達機場，請立刻打電話給我。",
+      "keywords": [
+        "as soon as",
+        "現在式代未來",
+        "立即性"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The moment the teacher enters the classroom, students stop talking.",
+      "chi": "老師一進教室，學生們就停止說話。",
+      "keywords": [
+        "the moment",
+        "條件反射",
+        "規律性動作"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Once you finish your homework, you can watch TV for one hour.",
+      "chi": "一旦你完成功課，你就可以看一個小時的電視。",
+      "keywords": [
+        "once",
+        "第一次發生",
+        "條件許可"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She will inform us the moment she receives the test results.",
+      "chi": "她一收到考試成績就會告知我們。",
+      "keywords": [
+        "the moment",
+        "後置型結構",
+        "將來式主句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：看是否要表達「一……就……」的立即因果關係。時間子句不可用will，應用現在式。Once強調條件（一旦第一次），而as soon as只強調時間點的接近性。若要表達習慣性反應，用the moment最貼切。",
+    "examples": [
+      {
+        "test": "❌ As soon as you will arrive, I will pick you up.",
+        "result": "→ ✓ As soon as you arrive, I will pick you up.（時間子句用現在式，不用will）"
+      },
+      {
+        "test": "❌ Once you finished your work, you can leave.",
+        "result": "→ ✓ Once you finish your work, you can leave.（時間子句須用現在式，非過去式）"
+      },
+      {
+        "test": "✓ The moment I saw her face, I knew she was upset.",
+        "result": "→ 過去式：表過去完成的立即反應，時態保持一致"
+      }
+    ],
+    "note": "時間子句永遠用現在式（代未來）或過去式（代過去），絕不用將來式；三詞詞根：as soon as=最快速、once=第一次、the moment=瞬間點。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the airport, send me a text message."
+      ],
+      "blanks": [
+        "As soon as you arrive at"
+      ],
+      "sentence": "As soon as you arrive at the airport, send me a text message.",
+      "translation": "你一到達機場，就傳簡訊給我。",
+      "keywords": [
+        "as soon as",
+        "arrive",
+        "現在式代未來"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The moment the concert",
+        null,
+        ", the audience started cheering."
+      ],
+      "blanks": [
+        "began"
+      ],
+      "sentence": "The moment the concert began, the audience started cheering.",
+      "translation": "音樂會一開始，觀眾就歡呼起來。",
+      "keywords": [
+        "the moment",
+        "過去式",
+        "立即反應"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " you understand this concept, the exam will be easier for you."
+      ],
+      "blanks": [
+        "Once"
+      ],
+      "sentence": "Once you understand this concept, the exam will be easier for you.",
+      "translation": "一旦你理解了這個概念，考試對你來說就會容易得多。",
+      "keywords": [
+        "once",
+        "條件含義",
+        "第一次掌握"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "I will let you know ",
+        null,
+        " I receive the confirmation email."
+      ],
+      "blanks": [
+        "the moment"
+      ],
+      "sentence": "I will let you know the moment I receive the confirmation email.",
+      "translation": "我一收到確認郵件，就會通知你。",
+      "keywords": [
+        "the moment",
+        "後置型",
+        "將來式主句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "receive",
+      "zh": "收到"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "begin",
+      "zh": "開始"
+    },
+    {
+      "adj": "enter",
+      "zh": "進入"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立刻"
+    },
+    {
+      "adj": "right away",
+      "zh": "馬上"
+    },
+    {
+      "adj": "without delay",
+      "zh": "沒有延遲地"
+    },
+    {
+      "adj": "instantaneous",
+      "zh": "瞬間的"
+    },
+    {
+      "adj": "consecutive",
+      "zh": "連貫的"
+    },
+    {
+      "adj": "simultaneous",
+      "zh": "同時的"
+    },
+    {
+      "adj": "prompt",
+      "zh": "迅速的"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

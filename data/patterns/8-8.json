@@ -1,0 +1,203 @@
+{
+  "code": "8-8",
+  "chapter": 8,
+  "title": "時間副詞子句 before / after / until",
+  "formulas": [
+    {
+      "formula": "Before/After/Until + S + V, S + V",
+      "zh": "時間從句置於主句前，用逗號分隔"
+    },
+    {
+      "formula": "S + V + before/after/until + S + V",
+      "zh": "時間從句置於主句後，通常不加逗號"
+    }
+  ],
+  "explanation": "before/after/until 引導時間從句，表達動作發生的時間關係。before 指主句動作在從句動作之前完成；after 指主句動作在從句動作之後；until 指主句動作持續到從句動作發生為止。not...until 強調「直到才」的延遲關係。從句可放在主句前（加逗號）或後（通常不加逗號）。時態上，從句通常用簡單式表示，主句根據上下文選用。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Before you leave, please turn off all the lights in the classroom.",
+      "chi": "在你離開之前，請關掉教室裡的所有燈。",
+      "keywords": [
+        "before",
+        "時間順序",
+        "祈使句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "After the exam was finished, all students felt relieved and excited.",
+      "chi": "考試結束後，所有學生都感到鬆了一口氣，也很興奮。",
+      "keywords": [
+        "after",
+        "完成體",
+        "情感反應"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "You should wait until your father comes home before making any decisions.",
+      "chi": "你應該等到你父親回家後再做任何決定。",
+      "keywords": [
+        "until",
+        "等待",
+        "條件"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She didn't realize how important the project was until she started working on it.",
+      "chi": "直到她開始做這個專案，她才意識到它有多重要。",
+      "keywords": [
+        "not...until",
+        "延遲認知",
+        "轉折"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分 until 與 before：until 強調動作持續到某點停止，before 強調時間點前已完成。not...until 中，not 修飾主句動詞，整句強調延遲或相反的預期。確保主句與從句的時態搭配邏輯，避免無關或混亂的時間關係。",
+    "examples": [
+      {
+        "test": "He studied hard before the exam.",
+        "result": "→ 正確。exam 前有時間點，studied 在 exam 前完成。"
+      },
+      {
+        "test": "He studied until the exam started. (He studied hard until the exam started.)",
+        "result": "→ 正確。studied 這個動作持續到 exam started 為止。"
+      },
+      {
+        "test": "He didn't study until the exam started.",
+        "result": "→ 正確。不study 這個動作延續到 exam started 這一刻才停止，暗示浪費時間。"
+      }
+    ],
+    "note": "before=提前完成，until=持續到那刻，not...until=延遲到那刻才做。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "We cannot go outside ",
+        null,
+        " the rain stops."
+      ],
+      "blanks": [
+        "until"
+      ],
+      "sentence": "We cannot go outside until the rain stops.",
+      "translation": "直到雨停為止，我們都不能出去。",
+      "keywords": [
+        "until",
+        "持續狀態",
+        "否定"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " you finish your homework, you may watch television.",
+        ""
+      ],
+      "blanks": [
+        "After"
+      ],
+      "sentence": "After you finish your homework, you may watch television.",
+      "translation": "你完成作業後，就可以看電視。",
+      "keywords": [
+        "after",
+        "時間順序",
+        "條件許可"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Students didn't know the test results ",
+        null,
+        " the teacher announced them in class."
+      ],
+      "blanks": [
+        "until"
+      ],
+      "sentence": "Students didn't know the test results until the teacher announced them in class.",
+      "translation": "直到老師在課堂上宣布成績，學生們才知道測驗結果。",
+      "keywords": [
+        "not...until",
+        "延遲認知",
+        "轉折"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " we arrived at the station, the train had already left.",
+        ""
+      ],
+      "blanks": [
+        "Before"
+      ],
+      "sentence": "Before we arrived at the station, the train had already left.",
+      "translation": "在我們到達車站之前，火車已經離開了。",
+      "keywords": [
+        "before",
+        "過去完成式",
+        "先後順序"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "before",
+      "zh": "在……之前"
+    },
+    {
+      "adj": "after",
+      "zh": "在……之後"
+    },
+    {
+      "adj": "until/till",
+      "zh": "直到、一直到"
+    },
+    {
+      "adj": "not...until",
+      "zh": "直到……才"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "complete",
+      "zh": "完成、補全"
+    },
+    {
+      "adj": "arrive",
+      "zh": "抵達、到達"
+    },
+    {
+      "adj": "return",
+      "zh": "返回"
+    },
+    {
+      "adj": "wait",
+      "zh": "等待"
+    },
+    {
+      "adj": "continue",
+      "zh": "繼續"
+    },
+    {
+      "adj": "realize",
+      "zh": "意識到"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    }
+  ],
+  "vocab_table_label": "常用時間連接詞"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "5-30",
+  "chapter": 5,
+  "title": "S + should have + p.p.（過去應該做而沒做）",
+  "formulas": [
+    {
+      "formula": "S + should/ought to + have + p.p.",
+      "zh": "主詞應該做某事（過去），但實際沒做；表示對過去行為的責備、遺憾或後悔"
+    },
+    {
+      "formula": "S + should/ought to + have + p.p. + (time expression)",
+      "zh": "加入時間副詞，強調過去特定時刻應該做但未做的事"
+    }
+  ],
+  "explanation": "此句型由情態動詞 should/ought to 加完成式構成，用於表達對過去行為的責備、遺憾或否定評價。結構為：should/ought to + have + 過去分詞。主要用於：(1)責備他人未履行責任，(2)表達自我悔恨，(3)提出建議性批評。注意 should have 和 ought to have 意義相同，但 should 更常用且更自然。不可與現在簡單式或現在進行式混用，避免時態錯誤。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "You should have studied harder before the exam instead of playing games.",
+      "chi": "你本應該在考試前更努力讀書，而不是玩遊戲。",
+      "keywords": [
+        "should have",
+        "過去責備",
+        "對比"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She ought to have told him the truth from the beginning.",
+      "chi": "她從一開始就應該告訴他真相。",
+      "keywords": [
+        "ought to have",
+        "遺憾",
+        "過去行為"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We should have arrived earlier, but the traffic was terrible.",
+      "chi": "我們應該早點到達，但交通太糟糕了。",
+      "keywords": [
+        "should have",
+        "後悔",
+        "原因說明"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He should have listened to his parents' advice about his career.",
+      "chi": "他應該聽他父母關於職涯的建議。",
+      "keywords": [
+        "should have",
+        "後悔",
+        "建議未採納"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵是識別過去時間背景與後悔/責備情感。若句子強調過去應做但未做的事，優先選用此句型。避免與 'would have + p.p.'（虛擬條件）混淆，should have 是直接評價，would have 是假設情境。注意 have 後必須是過去分詞，不能是動詞原形。",
+    "examples": [
+      {
+        "test": "You should have gone to the party last night.",
+        "result": "✓ 正確。表達責備或遺憾，have + gone 為過去分詞形式。"
+      },
+      {
+        "test": "You should go to the party last night.",
+        "result": "✗ 錯誤。time expression 為過去時，應使用完成式，改為 should have gone。"
+      },
+      {
+        "test": "If you had studied harder, you would have passed the exam.",
+        "result": "→ 虛擬條件句，與 should have 不同；強調假設情境下的後果。"
+      }
+    ],
+    "note": "「應該做但沒做」用 should have + p.p.，聽到過去時間詞立即想到完成式結構。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " called you earlier, but my phone was dead."
+      ],
+      "blanks": [
+        "should have"
+      ],
+      "sentence": "I should have called you earlier, but my phone was dead.",
+      "translation": "我應該早點打電話給你，但我的手機沒電了。",
+      "keywords": [
+        "should have",
+        "過去責備",
+        "解釋"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "They ",
+        null,
+        " informed us about the change in schedule."
+      ],
+      "blanks": [
+        "ought to have"
+      ],
+      "sentence": "They ought to have informed us about the change in schedule.",
+      "translation": "他們應該通知我們日程的改變。",
+      "keywords": [
+        "ought to have",
+        "責任未履行",
+        "過去式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She ",
+        null,
+        " that her decision was wrong instead of defending it stubbornly."
+      ],
+      "blanks": [
+        "should have admitted"
+      ],
+      "sentence": "She should have admitted that her decision was wrong instead of defending it stubbornly.",
+      "translation": "她應該承認她的決定是錯的，而不是固執地為之辯護。",
+      "keywords": [
+        "should have",
+        "對比",
+        "反省"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "We ",
+        null,
+        " more time preparing for the presentation before the deadline."
+      ],
+      "blanks": [
+        "should have spent"
+      ],
+      "sentence": "We should have spent more time preparing for the presentation before the deadline.",
+      "translation": "在截止日期前，我們應該花更多時間準備簡報。",
+      "keywords": [
+        "should have",
+        "後悔",
+        "時間管理"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "regret",
+      "zh": "遺憾、後悔"
+    },
+    {
+      "adj": "feel sorry about",
+      "zh": "為…感到抱歉"
+    },
+    {
+      "adj": "blame",
+      "zh": "責備、指責"
+    },
+    {
+      "adj": "criticize",
+      "zh": "批評"
+    },
+    {
+      "adj": "disappoint",
+      "zh": "使失望"
+    },
+    {
+      "adj": "miss",
+      "zh": "錯過"
+    },
+    {
+      "adj": "realize",
+      "zh": "意識到（常用於悔悟前）"
+    },
+    {
+      "adj": "fail to",
+      "zh": "未能"
+    },
+    {
+      "adj": "neglect",
+      "zh": "忽視、疏忽"
+    },
+    {
+      "adj": "waste",
+      "zh": "浪費"
+    },
+    {
+      "adj": "lose the opportunity to",
+      "zh": "失去…的機會"
+    },
+    {
+      "adj": "instead of",
+      "zh": "而不是、反而"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

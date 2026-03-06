@@ -1,0 +1,207 @@
+{
+  "code": "4-22",
+  "chapter": 4,
+  "title": "the fact that + S + V（同位語子句）",
+  "formulas": [
+    {
+      "formula": "the fact/news/idea/belief + that + S + V",
+      "zh": "同位語子句：用 that 子句說明前面名詞的具體內容"
+    },
+    {
+      "formula": "the possibility/hope/thought + that + S + V",
+      "zh": "同位語子句：表達可能性、願望或想法的名詞後接 that 子句"
+    }
+  ],
+  "explanation": "同位語子句用來說明或進一步解釋前面名詞的具體內容。該名詞通常為抽象名詞，如 fact、news、idea、belief、hope、possibility 等。that 引導的子句直接補充說明該名詞。注意：同位語子句的 that 不能省略，也不能用 which 替代。that 子句內容為肯定或否定陳述句。此結構常見於新聞報導、學術表達或正式文體中。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The fact that climate change threatens our planet is undeniable.",
+      "chi": "氣候變化威脅我們星球這個事實是不可否認的。",
+      "keywords": [
+        "fact",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The news that she won the scholarship made her family very proud.",
+      "chi": "她獲得獎學金的消息使她的家人非常驕傲。",
+      "keywords": [
+        "news",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We share the belief that education is the key to success.",
+      "chi": "我們都認為教育是成功的關鍵這一信念。",
+      "keywords": [
+        "belief",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The possibility that remote work becomes permanent is increasing rapidly.",
+      "chi": "遠距工作成為永久制度的可能性正在迅速增加。",
+      "keywords": [
+        "possibility",
+        "that",
+        "同位語子句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否為同位語子句：若 that 子句內容直接補充說明前面名詞，且名詞為抽象名詞，則為同位語。勿與定語從句混淆：定語從句用 that/which 修飾，同位語子句的 that 不可省略且不用 which。",
+    "examples": [
+      {
+        "test": "The idea that she proposed is excellent.",
+        "result": "→ idea 後為定語從句（修飾 idea），that 可省略為 she proposed"
+      },
+      {
+        "test": "The idea that she is talented impressed everyone.",
+        "result": "→ idea 後為同位語子句（說明 idea 的內容），that 不可省略"
+      },
+      {
+        "test": "We rejected the assumption that the project would fail.",
+        "result": "→ that 子句說明 assumption 的具體內容，為同位語子句，that 必須保留"
+      }
+    ],
+    "note": "同位語子句用 that 補充說明抽象名詞內容，that 必保留，內容為完整句子。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The fact ",
+        null,
+        " online shopping has transformed retail is widely accepted.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The fact that online shopping has transformed retail is widely accepted.",
+      "translation": "線上購物改變零售業這個事實被廣泛接受。",
+      "keywords": [
+        "fact",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We all share the belief ",
+        null,
+        " teamwork leads to better results.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "We all share the belief that teamwork leads to better results.",
+      "translation": "我們都相信團隊合作能帶來更好的結果這一信念。",
+      "keywords": [
+        "belief",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The news ",
+        null,
+        " he was appointed as CEO surprised the board members.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The news that he was appointed as CEO surprised the board members.",
+      "translation": "他被任命為執行長的消息讓董事會成員感到驚訝。",
+      "keywords": [
+        "news",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The possibility ",
+        null,
+        " artificial intelligence will replace human workers cannot be ignored.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The possibility that artificial intelligence will replace human workers cannot be ignored.",
+      "translation": "人工智能將取代人類工作者的可能性不能被忽視。",
+      "keywords": [
+        "possibility",
+        "that",
+        "同位語子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "fact",
+      "zh": "事實"
+    },
+    {
+      "adj": "news",
+      "zh": "消息、新聞"
+    },
+    {
+      "adj": "idea",
+      "zh": "想法、概念"
+    },
+    {
+      "adj": "belief",
+      "zh": "信念、信仰"
+    },
+    {
+      "adj": "hope",
+      "zh": "希望"
+    },
+    {
+      "adj": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "adj": "thought",
+      "zh": "想法、思想"
+    },
+    {
+      "adj": "assumption",
+      "zh": "假設、假定"
+    },
+    {
+      "adj": "evidence",
+      "zh": "證據"
+    },
+    {
+      "adj": "argument",
+      "zh": "論點、論據"
+    },
+    {
+      "adj": "claim",
+      "zh": "宣稱、主張"
+    },
+    {
+      "adj": "concern",
+      "zh": "關切、擔憂"
+    }
+  ],
+  "vocab_table_label": "常用同位語名詞"
+}

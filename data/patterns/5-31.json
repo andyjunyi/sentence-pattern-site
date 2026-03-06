@@ -1,0 +1,205 @@
+{
+  "code": "5-31",
+  "chapter": 5,
+  "title": "S + must have + p.p.（對過去的推測）",
+  "formulas": [
+    {
+      "formula": "S + must have + p.p.",
+      "zh": "主詞必定已經…（對過去強烈肯定的推測）"
+    },
+    {
+      "formula": "S + may/might have + p.p. / S + can't have + p.p.",
+      "zh": "主詞可能已經…／主詞不可能已經…（過去推測的其他表達）"
+    }
+  ],
+  "explanation": "must have + 過去分詞用於對過去事實的強烈肯定推測，表示說話者對某事幾乎確定。此句型強度介於一般過去式的陳述與推測之間。may/might have表示可能性較低的推測；can't have則表否定推測，語氣強烈。三者均涉及對過去情況的態度判斷，而非事實敘述。常見混淆點：confuse with「must + V」（現在義務）；must have強調過去推測基礎。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She must have studied hard before the exam because she got an A.",
+      "chi": "她考試前一定很認真讀書，因為她考了A。",
+      "keywords": [
+        "must have",
+        "過去推測",
+        "肯定"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He didn't answer the phone; he must have been sleeping when I called.",
+      "chi": "他沒接電話；我打電話時他一定在睡覺。",
+      "keywords": [
+        "must have been",
+        "過去進行",
+        "推測"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The accident might have happened during rush hour, but we're not sure.",
+      "chi": "車禍可能在尖峰時間發生，但我們不確定。",
+      "keywords": [
+        "might have",
+        "低確定度推測"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "You can't have forgotten the meeting; it was yesterday at 3 p.m.",
+      "chi": "你不可能忘記昨天下午三點的會議。",
+      "keywords": [
+        "can't have",
+        "否定推測",
+        "強烈語氣"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷推測強度：must have最強（95%肯定）→ may/might have較弱（50%可能）→ can't have為完全否定。注意與「should have / could have」的區別：前兩者是過去未實現的遺憾，不純粹推測。時間詞（ago, yesterday, last week）常與此句型搭配。",
+    "examples": [
+      {
+        "test": "She didn't come to the party last night.",
+        "result": "→ She must have been busy.（她一定很忙）VS. She might have forgotten.（她可能忘了）"
+      },
+      {
+        "test": "He scored perfectly on the test.",
+        "result": "→ He must have studied very carefully.（他一定很認真讀書）VS. ✗ He must study carefully.（錯：無法表達推測）"
+      },
+      {
+        "test": "Nobody saw him at the meeting.",
+        "result": "→ He can't have attended.（他不可能出席）vs. He might not have attended.（他可能沒出席）"
+      }
+    ],
+    "note": "記憶口訣：「must最強，may最弱，can't否定」；推測過去用完成式（have + p.p.），推測現在用簡單式（must be）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The window is broken. Someone ",
+        null,
+        " during the night."
+      ],
+      "blanks": [
+        "must have broken it"
+      ],
+      "sentence": "The window is broken. Someone must have broken it during the night.",
+      "translation": "窗戶破了。一定是有人在晚上把它打破的。",
+      "keywords": [
+        "must have",
+        "過去推測",
+        "肯定語氣"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "He didn't answer his phone yesterday. He ",
+        null,
+        " or ",
+        null,
+        "."
+      ],
+      "blanks": [
+        "might have been busy",
+        "could have forgotten it"
+      ],
+      "sentence": "He didn't answer his phone yesterday. He might have been busy or could have forgotten it.",
+      "translation": "他昨天沒接電話。他可能很忙，或者可能忘了帶手機。",
+      "keywords": [
+        "might have",
+        "could have",
+        "推測可能性"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The accident ",
+        null,
+        " because nobody was on the road at that time."
+      ],
+      "blanks": [
+        "can't have happened"
+      ],
+      "sentence": "The accident can't have happened because nobody was on the road at that time.",
+      "translation": "事故不可能發生，因為那時沒有人在路上。",
+      "keywords": [
+        "can't have",
+        "否定推測",
+        "完全排除"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She got the job offer! She ",
+        null,
+        " very well in the interview."
+      ],
+      "blanks": [
+        "must have performed"
+      ],
+      "sentence": "She got the job offer! She must have performed very well in the interview.",
+      "translation": "她收到了工作錄取通知！她一定在面試中表現得很好。",
+      "keywords": [
+        "must have",
+        "肯定推測",
+        "因果關係"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "must have",
+      "zh": "必定已經（強烈肯定推測）"
+    },
+    {
+      "adj": "may have",
+      "zh": "可能已經（低確定度推測）"
+    },
+    {
+      "adj": "might have",
+      "zh": "可能已經（同may，更不確定）"
+    },
+    {
+      "adj": "can't have",
+      "zh": "不可能已經（否定推測）"
+    },
+    {
+      "adj": "couldn't have",
+      "zh": "不可能已經（同can't have，較正式）"
+    },
+    {
+      "adj": "could have",
+      "zh": "本可能已經（過去能力或可能性）"
+    },
+    {
+      "adj": "should have",
+      "zh": "本應該已經（後悔或未實現之事）"
+    },
+    {
+      "adj": "been",
+      "zh": "（與have搭配構成完成進行式）"
+    },
+    {
+      "adj": "过去分詞",
+      "zh": "表示已完成的動作"
+    },
+    {
+      "adj": "evidence",
+      "zh": "證據（推測的依據）"
+    },
+    {
+      "adj": "probably",
+      "zh": "可能地（與must have同義強化）"
+    },
+    {
+      "adj": "certainly",
+      "zh": "肯定地（肯定推測的強調）"
+    }
+  ],
+  "vocab_table_label": "常用情態動詞推測"
+}

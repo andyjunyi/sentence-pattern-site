@@ -1,0 +1,203 @@
+{
+  "code": "8-30",
+  "chapter": 8,
+  "title": "Not until + 時間/子句 + did + S + V（倒裝）",
+  "formulas": [
+    {
+      "formula": "Not until + 時間/子句 + did + S + V + ...",
+      "zh": "直到……才……（倒裝強調句型）"
+    },
+    {
+      "formula": "Not until + 時間/子句 + did + S + 助動詞 + V + ...",
+      "zh": "主句動詞以助動詞 did 倒裝強調"
+    }
+  ],
+  "explanation": "Not until 倒裝句用來強調「直到……才……」的時間點或條件，具有強調語氣。結構上，Not until 置於句首，主句中的助動詞 did（或 does/will 等）必須提前，形成倒裝；until 後面的時間子句或時間詞不倒裝。此句型常見於考試強調題。易混淆點：不能將 until 子句也倒裝；未倒裝時應使用 until 而非 not until。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Not until he finished his homework did he go out to play with friends.",
+      "chi": "直到他完成功課他才出去和朋友一起玩。",
+      "keywords": [
+        "Not until",
+        "did倒裝",
+        "時間強調"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Not until the teacher arrived did the students stop talking loudly in class.",
+      "chi": "直到老師到達，學生們才停止在課堂上大聲說話。",
+      "keywords": [
+        "Not until",
+        "助動詞倒裝",
+        "事件順序"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Not until I received her letter did I understand what had happened between us.",
+      "chi": "直到我收到她的信，我才理解我們之間發生了什麼。",
+      "keywords": [
+        "Not until",
+        "過去式倒裝",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Not until the last moment did he realize his serious mistakes in the exam.",
+      "chi": "直到最後一刻，他才意識到他在考試中犯的嚴重錯誤。",
+      "keywords": [
+        "Not until",
+        "時間點強調",
+        "認知轉變"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷方法：看句首是否有 Not until，若有則必須倒裝主句助動詞。常見錯誤：將 until 子句也倒裝（錯誤），或遺漏助動詞倒裝。記住：Not until 置首 → 主句必倒裝，until 子句保持正常語序。",
+    "examples": [
+      {
+        "test": "❌ Not until he arrived did he understood the problem.",
+        "result": "→ ✅ Not until he arrived did he understand the problem.（understand 用原形，did 已是倒裝助動詞）"
+      },
+      {
+        "test": "❌ He did not understand until he arrived.",
+        "result": "→ ✅ Not until he arrived did he understand.（改為倒裝強調句，強調時間點）"
+      },
+      {
+        "test": "❌ Not until he did arrive did he understand the problem.",
+        "result": "→ ✅ Not until he arrived did he understand the problem.（until 子句不倒裝）"
+      }
+    ],
+    "note": "Not until 在首 → 主句 did 倒裝；until 子句永遠正常序，不跟著倒裝。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Not until she completed her project ",
+        null,
+        " she take a rest."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not until she completed her project did she take a rest.",
+      "translation": "直到她完成專案，她才休息。",
+      "keywords": [
+        "Not until",
+        "did倒裝",
+        "時間強調"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Not until the bell rang ",
+        null,
+        " the students leave the classroom."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not until the bell rang did the students leave the classroom.",
+      "translation": "直到鐘聲響起，學生們才離開教室。",
+      "keywords": [
+        "Not until",
+        "助動詞倒裝",
+        "事件時序"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Not until he read the news report ",
+        null,
+        " he aware of the serious situation."
+      ],
+      "blanks": [
+        "did become"
+      ],
+      "sentence": "Not until he read the news report did he become aware of the serious situation.",
+      "translation": "直到他讀了新聞報導，他才意識到這個嚴重的情況。",
+      "keywords": [
+        "Not until",
+        "become aware",
+        "倒裝強調"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Not until the accident happened ",
+        null,
+        " people realize the importance of safety."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not until the accident happened did people realize the importance of safety.",
+      "translation": "直到事故發生，人們才意識到安全的重要性。",
+      "keywords": [
+        "Not until",
+        "did倒裝",
+        "因果反思"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "finished",
+      "zh": "完成的"
+    },
+    {
+      "adj": "arrived",
+      "zh": "抵達的"
+    },
+    {
+      "adj": "received",
+      "zh": "收到的"
+    },
+    {
+      "adj": "realized",
+      "zh": "意識到的"
+    },
+    {
+      "adj": "graduated",
+      "zh": "畢業的"
+    },
+    {
+      "adj": "returned",
+      "zh": "返回的"
+    },
+    {
+      "adj": "last moment",
+      "zh": "最後時刻"
+    },
+    {
+      "adj": "yesterday",
+      "zh": "昨天"
+    },
+    {
+      "adj": "late afternoon",
+      "zh": "傍晚"
+    },
+    {
+      "adj": "many years later",
+      "zh": "許多年後"
+    },
+    {
+      "adj": "the next morning",
+      "zh": "隔天早上"
+    },
+    {
+      "adj": "subsequently",
+      "zh": "隨後地"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

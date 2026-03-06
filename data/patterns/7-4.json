@@ -1,0 +1,203 @@
+{
+  "code": "7-4",
+  "chapter": 7,
+  "title": "S + V, V-ing...（分詞構句，主動）",
+  "formulas": [
+    {
+      "formula": "V-ing + ..., S + V...",
+      "zh": "現在分詞片語置於句首，後接主句；表示與主句動作同時發生或連續動作"
+    },
+    {
+      "formula": "S + V..., V-ing + ...",
+      "zh": "主句後接現在分詞片語；表示連續的動作或附加說明"
+    }
+  ],
+  "explanation": "現在分詞構句是用 V-ing 形式取代副詞子句或對等連接詞，使句子更簡潔。其邏輯主詞必須與主句主詞一致，否則應使用獨立分詞構句（含邏輯主詞）。常用於表同時動作（When/While）、連續動作（and then）或原因（Because）。注意分詞的時態：現在分詞表同時或習慣性，完成式分詞表先行動作。避免邏輯主詞不符導致句義不清。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Walking down the street, she noticed a beautiful old bookstore.",
+      "chi": "走在街上時，她注意到一間美麗的老書店。",
+      "keywords": [
+        "現在分詞",
+        "同時動作",
+        "V-ing置句首"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The students discussed the project, sharing their ideas and suggestions.",
+      "chi": "學生們討論這個計畫，分享他們的想法和建議。",
+      "keywords": [
+        "現在分詞",
+        "連續動作",
+        "V-ing置句末"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Seeing the heavy rain, they decided to postpone the outdoor event.",
+      "chi": "看到大雨，他們決定延期戶外活動。",
+      "keywords": [
+        "現在分詞",
+        "原因",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Having finished her homework, Mary watched her favorite TV show.",
+      "chi": "完成功課後，瑪麗看她最喜歡的電視節目。",
+      "keywords": [
+        "完成式分詞",
+        "先行動作",
+        "時序關係"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷邏輯主詞是否與主句主詞一致是關鍵。若分詞片語的邏輯主詞與主句主詞不同，該分詞構句為錯誤，須改用含邏輯主詞的獨立分詞構句（如：The bus being late, we missed the meeting）或完整副詞子句。同時留意分詞時態：簡單式表同時/習慣，完成式表先行。",
+    "examples": [
+      {
+        "test": "❌ Entering the classroom, the lights went off.",
+        "result": "→ ✓ Entering the classroom, he saw the lights go off. / As he entered, the lights went off.（邏輯主詞應為人，不是燈）"
+      },
+      {
+        "test": "✓ Winning the competition, Sarah felt extremely proud.",
+        "result": "→ 邏輯主詞 Sarah 與主句主詞一致，表達贏得比賽後感到驕傲的同時狀態"
+      },
+      {
+        "test": "✓ Having studied for hours, the students took the exam confidently.",
+        "result": "→ 完成式分詞表示讀書發生在考試前，強調時序關係"
+      }
+    ],
+    "note": "記住口訣：『V-ing的邏輯主詞等於主句主詞，才能用現在分詞構句；邏輯主詞不同時用獨立分詞構句。』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the exam, the student felt confident."
+      ],
+      "blanks": [
+        "Having prepared for"
+      ],
+      "sentence": "Having prepared for the exam, the student felt confident.",
+      "translation": "做好考試準備後，那名學生感到很有自信。",
+      "keywords": [
+        "完成式分詞",
+        "先行動作",
+        "時序"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " a noise outside, the dog started barking."
+      ],
+      "blanks": [
+        "Hearing"
+      ],
+      "sentence": "Hearing a noise outside, the dog started barking.",
+      "translation": "聽到外面的聲音，狗開始吠叫。",
+      "keywords": [
+        "現在分詞",
+        "V-ing置句首",
+        "同時動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The children played in the park, ",
+        null,
+        " loudly and happily."
+      ],
+      "blanks": [
+        "laughing"
+      ],
+      "sentence": "The children played in the park, laughing loudly and happily.",
+      "translation": "孩子們在公園裡玩，開心地大笑。",
+      "keywords": [
+        "現在分詞",
+        "V-ing置句末",
+        "連續動作"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " a dark cloud approaching, we decided to go home immediately."
+      ],
+      "blanks": [
+        "Seeing"
+      ],
+      "sentence": "Seeing a dark cloud approaching, we decided to go home immediately.",
+      "translation": "看到烏雲接近，我們決定立即回家。",
+      "keywords": [
+        "現在分詞",
+        "原因",
+        "因果"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "walking",
+      "zh": "走著；行走"
+    },
+    {
+      "adj": "running",
+      "zh": "跑著；奔跑"
+    },
+    {
+      "adj": "seeing",
+      "zh": "看到；察覺"
+    },
+    {
+      "adj": "hearing",
+      "zh": "聽到；聽見"
+    },
+    {
+      "adj": "knowing",
+      "zh": "知道；明白"
+    },
+    {
+      "adj": "realizing",
+      "zh": "意識到；領悟"
+    },
+    {
+      "adj": "finishing",
+      "zh": "完成；結束"
+    },
+    {
+      "adj": "studying",
+      "zh": "研究；學習"
+    },
+    {
+      "adj": "working",
+      "zh": "工作；運作"
+    },
+    {
+      "adj": "speaking",
+      "zh": "說話；發言"
+    },
+    {
+      "adj": "reading",
+      "zh": "閱讀；讀"
+    },
+    {
+      "adj": "considering",
+      "zh": "考慮；思考"
+    }
+  ],
+  "vocab_table_label": "常用 V-ing 形式"
+}

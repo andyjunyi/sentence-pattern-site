@@ -1,0 +1,207 @@
+{
+  "code": "8-31",
+  "chapter": 8,
+  "title": "Only + 副詞/子句 + 助動詞 + S + V（only 倒裝）",
+  "formulas": [
+    {
+      "formula": "Only + 副詞/副詞片語 + 助動詞 + S + V",
+      "zh": "只有在...時/經過...後，主詞才會...（副詞修飾引發倒裝）"
+    },
+    {
+      "formula": "Only + 子句 + 主句倒裝（Only when/after/by + clause, aux + S + V）",
+      "zh": "只有當...時，主詞才會...（時間或條件子句引發倒裝）"
+    }
+  ],
+  "explanation": "Only 修飾副詞、副詞片語或時間/條件子句時，置於句首會引發主句倒裝。倒裝形式為：助動詞提前至主詞之前。此句型常見搭配包括 only then、only when、only after、only by 等。倒裝強調了 only 所修飾成分的限制性和重要性，表示「只有在該條件/時間點」才會發生該動作。注意不能與其他倒裝句混淆，only 修飾主詞時則無倒裝。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Only then did we realize the importance of teamwork and cooperation.",
+      "chi": "只有到那時我們才意識到團隊合作的重要性。",
+      "keywords": [
+        "Only then",
+        "did",
+        "倒裝",
+        "時間副詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Only when you practice consistently will you improve your English skills.",
+      "chi": "只有當你持續練習時，你的英文能力才會進步。",
+      "keywords": [
+        "Only when",
+        "will you",
+        "時間子句",
+        "倒裝"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Only after graduation did he understand what his parents had sacrificed.",
+      "chi": "只有在畢業後，他才明白父母所做的犧牲。",
+      "keywords": [
+        "Only after",
+        "did he",
+        "時間片語",
+        "完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Only by learning from mistakes can we become wiser and more responsible.",
+      "chi": "只有通過從錯誤中學習，我們才能變得更聰慧和負責任。",
+      "keywords": [
+        "Only by",
+        "can we",
+        "方式介詞片語",
+        "情態動詞"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷倒裝：Only 後接副詞/片語/子句置句首時必倒裝，助動詞提前。若 only 修飾主詞或受詞則不倒裝。易錯點是忘記倒裝或倒裝形式錯誤。記得時態和助動詞要與原句相符。",
+    "examples": [
+      {
+        "test": "Only yesterday did I discover this amazing restaurant.",
+        "result": "→ 正確倒裝。Only + 時間副詞在句首，主句倒裝。"
+      },
+      {
+        "test": "✗ Only I know the secret. (我是唯一知道秘密的人)",
+        "result": "→ Only 修飾主詞「I」，不引發倒裝。保持正常語序。"
+      },
+      {
+        "test": "Only if you study hard will you pass the exam.",
+        "result": "→ 正確倒裝。Only if + 條件子句引發主句倒裝。"
+      }
+    ],
+    "note": "Only + 副詞/片語/子句在句首 → 主句倒裝（助動詞前移）；Only 修飾主詞或受詞 → 無倒裝。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Only then ",
+        null,
+        " I understand what true friendship means."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Only then did I understand what true friendship means.",
+      "translation": "只有到那時，我才明白真摯友誼的真正含義。",
+      "keywords": [
+        "Only then",
+        "過去式倒裝",
+        "助動詞did"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Only when we work together ",
+        null,
+        " we achieve great success in this project."
+      ],
+      "blanks": [
+        "can"
+      ],
+      "sentence": "Only when we work together can we achieve great success in this project.",
+      "translation": "只有當我們一起工作時，我們才能在這個項目中取得巨大成功。",
+      "keywords": [
+        "Only when",
+        "情態動詞倒裝",
+        "can"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Only after years of hard work and dedication ",
+        null,
+        " she become a professional dancer."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Only after years of hard work and dedication did she become a professional dancer.",
+      "translation": "只有經過多年的努力和奉獻，她才成為一名專業舞者。",
+      "keywords": [
+        "Only after",
+        "過去式倒裝",
+        "時間片語"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Only by reading widely ",
+        null,
+        " we expand our knowledge and broaden our horizons."
+      ],
+      "blanks": [
+        "can"
+      ],
+      "sentence": "Only by reading widely can we expand our knowledge and broaden our horizons.",
+      "translation": "只有通過廣泛閱讀，我們才能擴展知識和開闊視野。",
+      "keywords": [
+        "Only by",
+        "情態動詞倒裝",
+        "方式介詞片語"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "then",
+      "zh": "那時（時間副詞）"
+    },
+    {
+      "adj": "when",
+      "zh": "當...時（時間連接詞）"
+    },
+    {
+      "adj": "after",
+      "zh": "...之後（時間前置詞）"
+    },
+    {
+      "adj": "by",
+      "zh": "通過、藉由（方式前置詞）"
+    },
+    {
+      "adj": "realize",
+      "zh": "意識到、了解"
+    },
+    {
+      "adj": "practice",
+      "zh": "練習、實踐"
+    },
+    {
+      "adj": "improve",
+      "zh": "改進、進步"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解、明白"
+    },
+    {
+      "adj": "sacrifice",
+      "zh": "犧牲、奉獻"
+    },
+    {
+      "adj": "learn",
+      "zh": "學習、從中吸取教訓"
+    },
+    {
+      "adj": "become",
+      "zh": "變成、成為"
+    },
+    {
+      "adj": "achieve",
+      "zh": "達成、實現"
+    }
+  ],
+  "vocab_table_label": "常用時間副詞"
+}

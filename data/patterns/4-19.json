@@ -1,0 +1,222 @@
+{
+  "code": "4-19",
+  "chapter": 4,
+  "title": "疑問詞 + S + V（間接問句）",
+  "formulas": [
+    {
+      "formula": "S + V + wh- + S + V（直述句語序）",
+      "zh": "主詞 + 動詞 + 疑問詞 + 主詞 + 動詞，間接問句使用直述句語序，不倒裝"
+    },
+    {
+      "formula": "S + V + wh- + S + V + O/C（擴展形式）",
+      "zh": "間接問句可包含受詞或補語，整體句型保持直述語序"
+    }
+  ],
+  "explanation": "間接問句（indirect question）是以名詞子句形式出現的疑問，由know、wonder、tell、ask等動詞引導。關鍵特徵是wh-疑問詞後接直述句語序（主詞+動詞），不需倒裝。這與直接問句（Do you know where is the station?為誤用）形成對比。常用於報導或詢問他人資訊時，使語氣更婉轉禮貌。務必區分：直接問句倒裝，間接問句不倒裝。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I don't know what time the meeting starts tomorrow.",
+      "chi": "我不知道明天會議幾點開始。",
+      "keywords": [
+        "know",
+        "what time",
+        "直述句語序",
+        "間接問句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Can you tell me where your friend lives in Taipei?",
+      "chi": "你能告訴我你朋友住在台北哪裡嗎？",
+      "keywords": [
+        "tell",
+        "where",
+        "lives",
+        "間接問句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "She wondered why he didn't attend the important conference.",
+      "chi": "她想知道他為什麼沒有參加那場重要的會議。",
+      "keywords": [
+        "wonder",
+        "why",
+        "didn't attend",
+        "過去式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Ask him how long he has been working for that company.",
+      "chi": "問他在那家公司工作多久了。",
+      "keywords": [
+        "ask",
+        "how long",
+        "has been working",
+        "現在完成式"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分直接問句與間接問句的語序：直接問句需倒裝（Where does he live?），間接問句用直述句語序（I know where he lives）。記住wh-疑問詞後面跟著正常的主詞+動詞順序，不要將直接問句的倒裝套用於間接問句。",
+    "examples": [
+      {
+        "test": "❌ I don't know where does he come from. / ✓ I don't know where he comes from.",
+        "result": "→ 間接問句中『where he comes from』使用直述句語序，不倒裝『does he』"
+      },
+      {
+        "test": "❌ Can you tell me what time starts the movie? / ✓ Can you tell me what time the movie starts?",
+        "result": "→ 『what time the movie starts』為間接問句，『the movie』是主詞應置於『starts』之前"
+      },
+      {
+        "test": "✓ I wonder why she didn't come to the party. / ❌ I wonder why didn't she come to the party.",
+        "result": "→ 『why she didn't come』為間接問句語序，過去式否定形式『didn't』跟在主詞後"
+      }
+    ],
+    "note": "間接問句口訣：『問詞後面接直述，主詞動詞不倒裝』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I want to know ",
+        null,
+        " your English teacher is.",
+        null,
+        " the exam will be held."
+      ],
+      "blanks": [
+        "who",
+        "when"
+      ],
+      "sentence": "I want to know who your English teacher is, and when the exam will be held.",
+      "translation": "我想知道誰是你的英文老師，以及考試什麼時候舉行。",
+      "keywords": [
+        "know",
+        "who",
+        "when",
+        "間接問句",
+        "複合句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Can you tell me ",
+        null,
+        " you finished this difficult project?"
+      ],
+      "blanks": [
+        "how"
+      ],
+      "sentence": "Can you tell me how you finished this difficult project?",
+      "translation": "你能告訴我你怎樣完成這個困難的專案嗎？",
+      "keywords": [
+        "tell",
+        "how",
+        "finished",
+        "直述句語序"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She asked me ",
+        null,
+        " I had been living in this city, and ",
+        null,
+        " I liked it."
+      ],
+      "blanks": [
+        "how long",
+        "whether/if"
+      ],
+      "sentence": "She asked me how long I had been living in this city, and whether I liked it.",
+      "translation": "她問我在這個城市住了多久，以及我是否喜歡它。",
+      "keywords": [
+        "asked",
+        "how long",
+        "whether",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Nobody understood ",
+        null,
+        " the ancient temple ",
+        null,
+        " such an important place in the region."
+      ],
+      "blanks": [
+        "why",
+        "was"
+      ],
+      "sentence": "Nobody understood why the ancient temple was such an important place in the region.",
+      "translation": "沒有人明白為什麼那座古廟在該地區是如此重要的地方。",
+      "keywords": [
+        "understood",
+        "why",
+        "was",
+        "間接問句",
+        "過去式"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、好奇"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    },
+    {
+      "adj": "ask",
+      "zh": "詢問"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解、明白"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "discover",
+      "zh": "發現"
+    },
+    {
+      "adj": "realize",
+      "zh": "意識到"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記"
+    },
+    {
+      "adj": "figure out",
+      "zh": "弄清楚"
+    },
+    {
+      "adj": "investigate",
+      "zh": "調查"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

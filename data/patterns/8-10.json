@@ -1,0 +1,203 @@
+{
+  "code": "8-10",
+  "chapter": 8,
+  "title": "as soon as / the moment + S + V（一……就……）",
+  "formulas": [
+    {
+      "formula": "As soon as / The moment / Once + S + V, S + V",
+      "zh": "一……就……；強調兩個動作緊接發生，子句用現在式代未來"
+    },
+    {
+      "formula": "No sooner + had + S + V + than + S + V（倒裝）",
+      "zh": "倒裝表達「剛……就……」，主句用過去完成式"
+    }
+  ],
+  "explanation": "此句型用來表達兩個動作的緊接發生關係。時間副詞子句（as soon as / the moment / once）引導前置動作，主句表後續動作。重點是子句縱使指未來事件，仍用現在式，不用未來式。倒裝形式 no sooner...than、hardly...when 意義相同但語氣更強，使用過去完成式。易混淆之處在於忘記用現在式替代未來式，或混淆倒裝與非倒裝的時態搭配。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "As soon as you arrive at the airport, call me immediately.",
+      "chi": "你一到達機場，就立刻打電話給我。",
+      "keywords": [
+        "as soon as",
+        "arrive",
+        "現在式代未來"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The moment the teacher enters the classroom, all students stop talking.",
+      "chi": "老師一進教室，所有學生就停止說話。",
+      "keywords": [
+        "the moment",
+        "enters",
+        "緊接發生"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Once you finish your homework, you can play video games.",
+      "chi": "你一完成功課，就可以玩電動。",
+      "keywords": [
+        "once",
+        "finish",
+        "條件時間"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "No sooner had he heard the news than he rushed to the hospital.",
+      "chi": "他剛聽到這個消息就趕往醫院。",
+      "keywords": [
+        "no sooner...than",
+        "倒裝",
+        "過去完成式"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時態時，記住：時間副詞子句縱使表未來，仍用現在式。倒裝形式 no sooner/hardly/scarcely 必搭過去完成式在主句，than/when 後用簡單過去式。若混淆時態會導致文法錯誤。",
+    "examples": [
+      {
+        "test": "✗ As soon as you will arrive, I will pick you up.",
+        "result": "→ ✓ As soon as you arrive, I will pick you up.（子句用現在式）"
+      },
+      {
+        "test": "✗ No sooner did he leave than his boss called.",
+        "result": "→ ✓ No sooner had he left than his boss called.（主句用過去完成式）"
+      },
+      {
+        "test": "✓ The moment she enters, everyone applauds.",
+        "result": "→ 現在式背景下的標準用法，表習慣性動作"
+      }
+    ],
+    "note": "時間副詞子句永遠現在式，倒裝形式主句用過去完成式——三個關鍵不能混。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "As soon as the meeting ",
+        null,
+        ", everyone left the room."
+      ],
+      "blanks": [
+        "ended / ends"
+      ],
+      "sentence": "As soon as the meeting ends, everyone left the room.",
+      "translation": "會議一結束，每個人都離開了房間。",
+      "keywords": [
+        "as soon as",
+        "ends",
+        "現在式代未來"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The moment you ",
+        null,
+        " this form, submit it to the office."
+      ],
+      "blanks": [
+        "complete / completed"
+      ],
+      "sentence": "The moment you complete this form, submit it to the office.",
+      "translation": "你一填完這個表格，就提交到辦公室。",
+      "keywords": [
+        "the moment",
+        "complete",
+        "現在式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "No sooner had she ",
+        null,
+        " the news than she called her parents."
+      ],
+      "blanks": [
+        "heard"
+      ],
+      "sentence": "No sooner had she heard the news than she called her parents.",
+      "translation": "她剛聽到消息就打電話給父母。",
+      "keywords": [
+        "no sooner...than",
+        "had heard",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Once the students ",
+        null,
+        " the exam, they can go home."
+      ],
+      "blanks": [
+        "finish / finished"
+      ],
+      "sentence": "Once the students finish the exam, they can go home.",
+      "translation": "學生一完成考試，就可以回家。",
+      "keywords": [
+        "once",
+        "finish",
+        "條件時間"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "as soon as",
+      "zh": "一……就……（最常見，任何時態背景）"
+    },
+    {
+      "adj": "the moment",
+      "zh": "一……就……（強調時間點，較正式）"
+    },
+    {
+      "adj": "once",
+      "zh": "一旦；一……就……（帶有條件色彩）"
+    },
+    {
+      "adj": "no sooner...than",
+      "zh": "剛……就……（倒裝，過去完成式）"
+    },
+    {
+      "adj": "hardly...when",
+      "zh": "剛……就……（倒裝，過去完成式）"
+    },
+    {
+      "adj": "scarcely...when",
+      "zh": "幾乎沒有……就……（倒裝，書面語）"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "hear",
+      "zh": "聽到"
+    },
+    {
+      "adj": "see",
+      "zh": "看到"
+    },
+    {
+      "adj": "learn",
+      "zh": "得知"
+    },
+    {
+      "adj": "return",
+      "zh": "返回"
+    }
+  ],
+  "vocab_table_label": "常用即時連接詞"
+}

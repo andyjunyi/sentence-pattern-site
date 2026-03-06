@@ -1,0 +1,203 @@
+{
+  "code": "4-1",
+  "chapter": 4,
+  "title": "S + V + N + who/that + V（限定關係子句）",
+  "formulas": [
+    {
+      "formula": "N + who + V...",
+      "zh": "名詞（人）+ 關係代名詞who + 動詞...，who引導限定用法修飾人"
+    },
+    {
+      "formula": "N + that + V...",
+      "zh": "名詞（人）+ 關係代名詞that + 動詞...，that引導限定用法修飾人"
+    }
+  ],
+  "explanation": "關係代名詞who/that在限定用法中修飾先行詞（人），用以限定、縮小該人物的範圍。去掉who/that引導的子句後，句子意思會改變，說明該子句為不可或缺的限定資訊。who較正式，that較非正式，兩者在修飾人時常可互換，但在口語中that使用率高。留意：限定用法無逗號，非限定用法（補充說明）需加逗號。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The student who won the first prize is from Taipei.",
+      "chi": "獲得第一名的學生來自台北。",
+      "keywords": [
+        "who引導限定",
+        "修飾人",
+        "縮小範圍"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "We need employees that have at least three years of experience.",
+      "chi": "我們需要至少有三年經驗的員工。",
+      "keywords": [
+        "that引導限定",
+        "修飾人",
+        "工作經驗"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The teacher who teaches chemistry is very strict with us.",
+      "chi": "教化學的那位老師對我們很嚴格。",
+      "keywords": [
+        "who引導",
+        "職業身份",
+        "性格特徵"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Anyone that helps elderly people deserves our respect.",
+      "chi": "任何幫助老年人的人都值得我們尊敬。",
+      "keywords": [
+        "that引導",
+        "不定代名詞",
+        "道德品質"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否為限定用法：若刪除who/that子句後，句意不完整或範圍混亂，即為限定用法（無逗號）。非限定用法（加逗號）是補充說明，刪除後句意仍清楚。台灣學測考試常考限定用法的識別與翻譯。",
+    "examples": [
+      {
+        "test": "限定：The man who called yesterday is my uncle.",
+        "result": "→ 強調特定哪個男人（昨天打電話的那位），去掉子句意思改變，須用who，無逗號"
+      },
+      {
+        "test": "非限定：My uncle, who called yesterday, is my uncle. (錯)",
+        "result": "→ 應為『My uncle, who called yesterday, is visiting us.』，加逗號表補充說明"
+      },
+      {
+        "test": "who vs that：He is a lawyer who/that helps poor people.",
+        "result": "→ 修飾人時兩者可互換，who較正式，that較口語；在限定用法中both acceptable"
+      }
+    ],
+    "note": "限定用法：無逗號、定義範圍；非限定用法：加逗號、補充資訊。記住『刪除子句後句意改變 = 限定』。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The woman ",
+        null,
+        " the project last year is now the manager."
+      ],
+      "blanks": [
+        "who led"
+      ],
+      "sentence": "The woman who led the project last year is now the manager.",
+      "translation": "去年帶領這項專案的那位女性現在是經理。",
+      "keywords": [
+        "who引導限定",
+        "過去式",
+        "修飾人"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We are looking for someone ",
+        null,
+        " and honest."
+      ],
+      "blanks": [
+        "that is reliable"
+      ],
+      "sentence": "We are looking for someone that is reliable and honest.",
+      "translation": "我們在尋找可靠又誠實的人。",
+      "keywords": [
+        "that引導",
+        "形容詞補語",
+        "人物特質"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "All the students ",
+        null,
+        " will receive awards next week."
+      ],
+      "blanks": [
+        "who passed the exam"
+      ],
+      "sentence": "All the students who passed the exam will receive awards next week.",
+      "translation": "所有通過考試的學生將在下週獲得獎項。",
+      "keywords": [
+        "who引導限定",
+        "過去式被動",
+        "範圍限定"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The doctor ",
+        null,
+        " is highly respected by his patients."
+      ],
+      "blanks": [
+        "that treats serious diseases"
+      ],
+      "sentence": "The doctor that treats serious diseases is highly respected by his patients.",
+      "translation": "治療重病的那位醫生受到患者高度尊敬。",
+      "keywords": [
+        "that引導限定",
+        "職業身份",
+        "動作修飾"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "win / won",
+      "zh": "贏、獲得"
+    },
+    {
+      "adj": "teach",
+      "zh": "教授、教導"
+    },
+    {
+      "adj": "help",
+      "zh": "幫助"
+    },
+    {
+      "adj": "work",
+      "zh": "工作"
+    },
+    {
+      "adj": "study",
+      "zh": "學習、研究"
+    },
+    {
+      "adj": "live",
+      "zh": "居住、生活"
+    },
+    {
+      "adj": "volunteer",
+      "zh": "志願服務"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "experienced",
+      "zh": "有經驗的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰慧的"
+    },
+    {
+      "adj": "dedicated",
+      "zh": "專心的、獻身的"
+    },
+    {
+      "adj": "successful",
+      "zh": "成功的"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

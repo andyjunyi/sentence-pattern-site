@@ -1,0 +1,203 @@
+{
+  "code": "3-13",
+  "chapter": 3,
+  "title": "the + 比較級..., the + 比較級...",
+  "formulas": [
+    {
+      "formula": "The + 比較級 + S + V, the + 比較級 + S + V",
+      "zh": "越……就越……；表示兩件事物呈正相關或平行變化的關係"
+    },
+    {
+      "formula": "The + 比較級 + S + V, the + 比較級 + S + V(省略相同部分)",
+      "zh": "第二子句可省略重複的動詞或其他成分，使句子更簡潔"
+    }
+  ],
+  "explanation": "此句型用於表達兩個事物之間的平行比較關係，強調「越……就越……」的因果或相關性。結構為：the + 比較級形容詞/副詞 + 主詞 + 動詞，後接逗號，再重複相同結構。兩個子句通常表現為：前句變因改變，後句結果隨之改變。使用時機為需要強調量化關係或比例變化時。易混淆點：務必用 the 修飾比較級，不能用 a 或省略冠詞；第二子句中相同元素可省略以避免重複。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The harder you work, the better results you will achieve.",
+      "chi": "你越努力，你就會取得越好的成績。",
+      "keywords": [
+        "the harder",
+        "the better",
+        "比較級平行結構"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The more you practice English, the more fluent you become.",
+      "chi": "你英文練習得越多，你就變得越流利。",
+      "keywords": [
+        "the more",
+        "平行變化",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The sooner we start the project, the earlier we can finish it.",
+      "chi": "我們開始這個計劃越早，我們就能越早完成它。",
+      "keywords": [
+        "the sooner",
+        "the earlier",
+        "時間比較"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The less time you spend on social media, the more productive you are.",
+      "chi": "你在社群媒體上花的時間越少，你就越有生產力。",
+      "keywords": [
+        "the less",
+        "the more",
+        "反向比較"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：找出哪個因素變化（cause），再找出相應的結果變化（effect），兩個子句的比較級必須用 the 修飾。常見錯誤是遺漏 the、混用比較級和原級、或兩子句因果關係不符。",
+    "examples": [
+      {
+        "test": "✗ More you study, more you learn.",
+        "result": "→ ✓ The more you study, the more you learn. (必須在比較級前加 the)"
+      },
+      {
+        "test": "✗ The more expensive the item, the good it is.",
+        "result": "→ ✓ The more expensive the item, the better it is. (結果端也須用比較級)"
+      },
+      {
+        "test": "✓ The higher the temperature, the faster the reaction.",
+        "result": "→ 正確：溫度越高，反應越快（因果關係合理）"
+      }
+    ],
+    "note": "記憶口訣：「兩個 the + 比較級」構成「越……就越……」的平行結構，前後子句因果相關。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The more effort you put into your studies,",
+        null,
+        "your grades will be."
+      ],
+      "blanks": [
+        "the better"
+      ],
+      "sentence": "The more effort you put into your studies, the better your grades will be.",
+      "translation": "你投入學習的努力越多，你的成績就會越好。",
+      "keywords": [
+        "the more",
+        "the better",
+        "effort"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        "the cities are, the more expensive the cost of living",
+        "."
+      ],
+      "blanks": [
+        "The larger"
+      ],
+      "sentence": "The larger the cities are, the more expensive the cost of living.",
+      "translation": "城市越大，生活成本就越昂貴。",
+      "keywords": [
+        "the larger",
+        "平行比較",
+        "城市規模"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The less time you waste on unnecessary activities,",
+        null,
+        "you can achieve."
+      ],
+      "blanks": [
+        "the more goals"
+      ],
+      "sentence": "The less time you waste on unnecessary activities, the more goals you can achieve.",
+      "translation": "你在不必要的活動上浪費的時間越少，你就能達成越多的目標。",
+      "keywords": [
+        "the less",
+        "the more",
+        "時間管理"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The sooner you apply for the internship,",
+        null,
+        "your chances of acceptance."
+      ],
+      "blanks": [
+        "the better"
+      ],
+      "sentence": "The sooner you apply for the internship, the better your chances of acceptance.",
+      "translation": "你申請實習越早，你被接受的機會就越好。",
+      "keywords": [
+        "the sooner",
+        "the better",
+        "機會"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "hard",
+      "zh": "努力"
+    },
+    {
+      "adj": "more",
+      "zh": "更多"
+    },
+    {
+      "adj": "sooner",
+      "zh": "更早"
+    },
+    {
+      "adj": "longer",
+      "zh": "更長"
+    },
+    {
+      "adj": "less",
+      "zh": "更少"
+    },
+    {
+      "adj": "higher",
+      "zh": "更高"
+    },
+    {
+      "adj": "faster",
+      "zh": "更快"
+    },
+    {
+      "adj": "better",
+      "zh": "更好"
+    },
+    {
+      "adj": "more fluent",
+      "zh": "更流利"
+    },
+    {
+      "adj": "earlier",
+      "zh": "更早"
+    },
+    {
+      "adj": "more productive",
+      "zh": "更有生產力"
+    },
+    {
+      "adj": "greater",
+      "zh": "更大"
+    }
+  ],
+  "vocab_table_label": "常用形容詞／副詞"
+}

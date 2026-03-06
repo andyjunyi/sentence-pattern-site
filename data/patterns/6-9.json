@@ -1,0 +1,201 @@
+{
+  "code": "6-9",
+  "chapter": 6,
+  "title": "too + adj. + to V / adj. + enough + to V",
+  "formulas": [
+    {
+      "formula": "too + adj./adv. + to V",
+      "zh": "太…以致不能；表示程度過高導致無法進行某動作"
+    },
+    {
+      "formula": "adj./adv. + enough + to V",
+      "zh": "足夠…可以；表示程度足夠可以進行某動作"
+    },
+    {
+      "formula": "too + adj./adv. + (for + sb./sth.) + to V",
+      "zh": "對於…來說太…以致不能"
+    },
+    {
+      "formula": "adj./adv. + enough + (for + sb./sth.) + to V",
+      "zh": "對於…來說足夠…可以"
+    }
+  ],
+  "explanation": "此句型用不定詞表結果，區分程度的肯定與否定。「too...to」強調超過限度而無法進行，常見於negative情境；「enough...to」表程度達標可進行，多用positive情境。兩者皆可加「for + 受詞」明確指出主體，其中for後接人稱代詞時需用受格(me/him/her)。務必注意enough置於形容詞或副詞之後，而too總在形容詞或副詞之前。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This book is too difficult for beginners to understand completely.",
+      "chi": "這本書對初學者來說太困難了，無法完全理解。",
+      "keywords": [
+        "too...to",
+        "for + 受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She is old enough to make her own decisions about her future.",
+      "chi": "她已經夠大了，可以為自己的未來做決定。",
+      "keywords": [
+        "enough...to",
+        "old enough"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The music was too loud to have a conversation.",
+      "chi": "音樂太大聲了，以至於無法進行對話。",
+      "keywords": [
+        "too...to",
+        "無for子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He spoke clearly enough for everyone in the back to hear him.",
+      "chi": "他說得足夠清楚，後排的每個人都能聽到他。",
+      "keywords": [
+        "enough...to",
+        "for + 受詞"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "young",
+      "zh": "年輕的"
+    },
+    {
+      "adj": "old",
+      "zh": "年老的"
+    },
+    {
+      "adj": "small",
+      "zh": "小的"
+    },
+    {
+      "adj": "large",
+      "zh": "大的"
+    },
+    {
+      "adj": "fast",
+      "zh": "快的"
+    },
+    {
+      "adj": "slow",
+      "zh": "慢的"
+    },
+    {
+      "adj": "strong",
+      "zh": "強壯的"
+    },
+    {
+      "adj": "weak",
+      "zh": "虛弱的"
+    },
+    {
+      "adj": "loud",
+      "zh": "大聲的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰明的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷要點：「too...to」表能力不足、程度過高（否定含義），句子通常傳達消極訊息；「enough...to」表能力足夠、程度達標（肯定含義），通常傳達積極訊息。注意enough位置必在形容詞/副詞後；too必在前。常見錯誤：寫成「enough too」或「too enough」，兩者不能並用。",
+    "examples": [
+      {
+        "test": "He is too young to drive.",
+        "result": "✓ 正確。年紀太小無法駕駛（too在形容詞前）"
+      },
+      {
+        "test": "He is young enough to learn quickly.",
+        "result": "✓ 正確。夠年輕可以學得快（enough在形容詞後）"
+      },
+      {
+        "test": "The movie was too long for the children to sit through.",
+        "result": "✓ 正確。電影對孩子來說太長了（含for + 受詞說明主體）"
+      }
+    ],
+    "note": "記憶訣竅：「too」在前表「太過」無法，「enough」在後表「足夠」可以；需要時加「for+人/物」明確指出受影響者。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The exam was ",
+        null,
+        " for most students to finish in the given time."
+      ],
+      "blanks": [
+        "too difficult"
+      ],
+      "sentence": "The exam was too difficult for most students to finish in the given time.",
+      "translation": "那場考試對大多數學生來說太困難了，無法在規定時間內完成。",
+      "keywords": [
+        "too...to",
+        "for + 受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She is experienced ",
+        null,
+        " to handle this challenging project alone."
+      ],
+      "blanks": [
+        "enough"
+      ],
+      "sentence": "She is experienced enough to handle this challenging project alone.",
+      "translation": "她有足夠的經驗可以獨自處理這個具挑戰性的專案。",
+      "keywords": [
+        "enough...to",
+        "experienced"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The package is ",
+        null,
+        " for one person to carry up the stairs."
+      ],
+      "blanks": [
+        "too heavy"
+      ],
+      "sentence": "The package is too heavy for one person to carry up the stairs.",
+      "translation": "這個包裹對一個人來說太重了，無法搬上樓梯。",
+      "keywords": [
+        "too...to",
+        "for單數"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "He spoke ",
+        null,
+        " for the audience in the back row to hear what he said."
+      ],
+      "blanks": [
+        "loudly enough"
+      ],
+      "sentence": "He spoke loudly enough for the audience in the back row to hear what he said.",
+      "translation": "他說話的聲音足夠大，後排觀眾能聽到他說的話。",
+      "keywords": [
+        "副詞+enough",
+        "for+受詞"
+      ]
+    }
+  ]
+}

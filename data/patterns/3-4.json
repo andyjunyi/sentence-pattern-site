@@ -1,0 +1,203 @@
+{
+  "code": "3-4",
+  "chapter": 3,
+  "title": "as + adj./adv. + as possible",
+  "formulas": [
+    {
+      "formula": "as + adj./adv. + as possible",
+      "zh": "盡可能地……（形容詞或副詞 + as possible）"
+    },
+    {
+      "formula": "as + adj./adv. + as + S + can/could",
+      "zh": "盡可能地……（形容詞或副詞 + as + 主詞 + can/could）"
+    }
+  ],
+  "explanation": "此句型用於表達「盡可能地達到某種程度」，強調最大限度或極限。公式結構為「as + 形容詞/副詞 + as possible」或「as + 形容詞/副詞 + as + 主詞 + can/could」。前者更簡潔常見，後者強調個人能力限度。常見搭配如 as soon as possible（盡快）、as quickly as possible（盡快）、as carefully as possible（盡可能仔細地）。使用時機為表達目標、要求或願望。需注意 possible 不可改為其他詞，且中間的形容詞/副詞須符合比較級前置規則。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Please submit your assignment as soon as possible before the deadline.",
+      "chi": "請盡快在截止期限前提交你的作業。",
+      "keywords": [
+        "as soon as possible",
+        "deadline",
+        "submit"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She drives as carefully as she can to avoid accidents on the road.",
+      "chi": "她盡可能地小心駕駛以避免在路上發生事故。",
+      "keywords": [
+        "as carefully as",
+        "can",
+        "drive"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We need to solve this problem as quickly as possible without making mistakes.",
+      "chi": "我們需要盡快解決這個問題，但不能出錯。",
+      "keywords": [
+        "as quickly as possible",
+        "solve",
+        "without"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The doctor told him to exercise as regularly as possible for better health.",
+      "chi": "醫生告訴他要盡可能規律地運動以改善健康。",
+      "keywords": [
+        "as regularly as possible",
+        "exercise",
+        "health"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷標準：若需強調極限或個人能力，使用「as + adj./adv. + as S + can」；若為普遍要求或客觀事實，用「as + adj./adv. + as possible」。注意 possible 是固定用法，不可用 probable、likely 替換。避免混淆「as...as」比較級用法（表同等程度）與此句型（表極限程度）。",
+    "examples": [
+      {
+        "test": "He finished the work as quickly as possible. vs. He finished the work as quickly as he could.",
+        "result": "→ 兩句意思相近，前者更普遍客觀，後者強調他個人的努力極限。兩者都正確。"
+      },
+      {
+        "test": "❌ She speaks English as fluent as possible. vs. ✅ She speaks English as fluently as possible.",
+        "result": "→ 需使用副詞 fluently，不能用形容詞 fluent。「as...as possible」修飾動詞時必用副詞。"
+      },
+      {
+        "test": "Please call me as soon as you can. vs. Please call me as soon as possible.",
+        "result": "→ 意思幾乎相同，前者強調你的能力限度，後者為更直接的要求。兩者都適用於日常表達。"
+      }
+    ],
+    "note": "核心記憶：「as...as possible/can」= 盡極限，前半為「as + 形容詞/副詞」，後半固定為「possible」或「主詞 + can/could」。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Please reply to my email ",
+        null,
+        " so I can proceed with the plan."
+      ],
+      "blanks": [
+        "as soon as possible"
+      ],
+      "sentence": "Please reply to my email as soon as possible so I can proceed with the plan.",
+      "translation": "請盡快回覆我的電郵，這樣我才能推進計畫。",
+      "keywords": [
+        "as soon as possible",
+        "reply",
+        "email"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The team worked ",
+        null,
+        " to meet the deadline yesterday."
+      ],
+      "blanks": [
+        "as efficiently as they could"
+      ],
+      "sentence": "The team worked as efficiently as they could to meet the deadline yesterday.",
+      "translation": "昨天這個團隊儘可能地有效率地工作以趕上截止期限。",
+      "keywords": [
+        "as efficiently as",
+        "could",
+        "deadline"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "You should exercise ",
+        null,
+        " to maintain good physical health."
+      ],
+      "blanks": [
+        "as regularly as possible"
+      ],
+      "sentence": "You should exercise as regularly as possible to maintain good physical health.",
+      "translation": "你應該盡可能規律地運動以維持良好的身體健康。",
+      "keywords": [
+        "as regularly as possible",
+        "exercise",
+        "health"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The surgeon performed the operation ",
+        null,
+        " to ensure the patient's safety."
+      ],
+      "blanks": [
+        "as carefully as possible"
+      ],
+      "sentence": "The surgeon performed the operation as carefully as possible to ensure the patient's safety.",
+      "translation": "外科醫生盡可能謹慎地進行手術以確保患者的安全。",
+      "keywords": [
+        "as carefully as possible",
+        "surgeon",
+        "safety"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "soon",
+      "zh": "soon（盡快）"
+    },
+    {
+      "adj": "quickly",
+      "zh": "quickly（快速地）"
+    },
+    {
+      "adj": "carefully",
+      "zh": "carefully（仔細地）"
+    },
+    {
+      "adj": "early",
+      "zh": "early（盡早）"
+    },
+    {
+      "adj": "efficiently",
+      "zh": "efficiently（有效率地）"
+    },
+    {
+      "adj": "smoothly",
+      "zh": "smoothly（順利地）"
+    },
+    {
+      "adj": "clearly",
+      "zh": "clearly（清楚地）"
+    },
+    {
+      "adj": "regularly",
+      "zh": "regularly（規律地）"
+    },
+    {
+      "adj": "quietly",
+      "zh": "quietly（安靜地）"
+    },
+    {
+      "adj": "accurately",
+      "zh": "accurately（準確地）"
+    },
+    {
+      "adj": "fairly",
+      "zh": "fairly（公平地）"
+    },
+    {
+      "adj": "comfortably",
+      "zh": "comfortably（舒適地）"
+    }
+  ],
+  "vocab_table_label": "常用副詞"
+}

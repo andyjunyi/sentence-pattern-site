@@ -1,0 +1,212 @@
+{
+  "code": "8-28",
+  "chapter": 8,
+  "title": "No sooner + had + S + p.p. + than + S + V",
+  "formulas": [
+    {
+      "formula": "No sooner + had + S + p.p. + than + S + V（過去式）",
+      "zh": "一……就……；表達兩個過去事件的緊接先後順序，前事件完成後立即發生後事件"
+    },
+    {
+      "formula": "Hardly + had + S + p.p. + when + S + V（過去式）",
+      "zh": "同義變體，用 hardly 或 scarcely 替代 no sooner，when 替代 than"
+    }
+  ],
+  "explanation": "此倒裝句型強調兩個過去動作的緊密時間關係，表「剛……就……」。結構特點：no sooner 置句首引發助動詞 had 提前倒裝，than 後恢復正常語序。需注意前半部分用過去完成式（had + p.p.），後半部分用過去簡單式。此句型較 as soon as 更強調立即性和戲劇效果，常見於正式文章或敘述性文本，增添敘述張力。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "No sooner had she arrived at the station than the train departed.",
+      "chi": "她一到達車站，火車就開走了。",
+      "keywords": [
+        "No sooner had",
+        "than",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "No sooner had the game ended than the crowd rushed onto the field.",
+      "chi": "比賽一結束，群眾就衝上了球場。",
+      "keywords": [
+        "倒裝",
+        "緊接先後順序",
+        "過去式"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "No sooner had he finished his homework than his phone rang.",
+      "chi": "他剛做完功課，電話就響了。",
+      "keywords": [
+        "No sooner...than",
+        "突然發生",
+        "戲劇效果"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "No sooner had the company announced the news than the stock price fell.",
+      "chi": "公司一宣布新聞，股價就下跌了。",
+      "keywords": [
+        "因果關係",
+        "即時反應",
+        "正式文體"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "辨別重點：(1) 前半部分必須用過去完成式 had + p.p.，不能用過去簡單式；(2) No sooner 置句首時 had 必倒裝，than 後不倒裝；(3) 可與 hardly...when 或 scarcely...when 互換，表意相同。常誤用為 No sooner had...when（錯誤）。",
+    "examples": [
+      {
+        "test": "❌ No sooner the bell rang than students left.",
+        "result": "→ ✓ No sooner had the bell rung than students left.（需倒裝與過去完成式）"
+      },
+      {
+        "test": "❌ No sooner he arrived when the meeting started.",
+        "result": "→ ✓ No sooner had he arrived than the meeting started.（than 不 when）"
+      },
+      {
+        "test": "✓ Hardly had we begun when it started to rain.",
+        "result": "→ 與 No sooner 句型同義，hardly...when 可互換使用"
+      }
+    ],
+    "note": "記憶口訣：「No sooner 倒裝 had，前完美後簡單，than 後莫倒裝」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "No sooner ",
+        null,
+        " the exam than everyone celebrated.",
+        null
+      ],
+      "blanks": [
+        "had they finished",
+        ""
+      ],
+      "sentence": "No sooner had they finished the exam than everyone celebrated.",
+      "translation": "他們一考完，大家就歡慶了。",
+      "keywords": [
+        "No sooner had",
+        "過去完成式",
+        "倒裝"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "No sooner ",
+        null,
+        " the announcement ",
+        null,
+        " the market crashed."
+      ],
+      "blanks": [
+        "had the CEO made",
+        "than"
+      ],
+      "sentence": "No sooner had the CEO made the announcement than the market crashed.",
+      "translation": "執行長一做出公告，市場就崩盤了。",
+      "keywords": [
+        "had + p.p.",
+        "than + V過去式",
+        "緊接先後"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "No sooner ",
+        null,
+        " his keys ",
+        null,
+        " he realized they were lost."
+      ],
+      "blanks": [
+        "had he found",
+        "than"
+      ],
+      "sentence": "No sooner had he found his keys than he realized they were lost.",
+      "translation": "他才找到鑰匙，卻立刻發現它們不見了。",
+      "keywords": [
+        "倒裝結構",
+        "戲劇張力",
+        "時間關連"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " had the storm begun ",
+        " the power went out."
+      ],
+      "blanks": [
+        "No sooner",
+        "than"
+      ],
+      "sentence": "No sooner had the storm begun than the power went out.",
+      "translation": "暴雨一開始，電就停了。",
+      "keywords": [
+        "句首倒裝",
+        "No sooner...than",
+        "過去時態搭配"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "end",
+      "zh": "結束"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "leave",
+      "zh": "離開"
+    },
+    {
+      "adj": "announce",
+      "zh": "宣布"
+    },
+    {
+      "adj": "open",
+      "zh": "打開"
+    },
+    {
+      "adj": "begin",
+      "zh": "開始"
+    },
+    {
+      "adj": "ring",
+      "zh": "響起"
+    },
+    {
+      "adj": "turn around",
+      "zh": "轉身"
+    },
+    {
+      "adj": "step out",
+      "zh": "踏出"
+    },
+    {
+      "adj": "barely",
+      "zh": "幾乎不"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立即地"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

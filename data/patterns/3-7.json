@@ -1,0 +1,201 @@
+{
+  "code": "3-7",
+  "chapter": 3,
+  "title": "so + adj./adv. + that + 子句",
+  "formulas": [
+    {
+      "formula": "so + adj./adv. + that + S + V",
+      "zh": "如此……以致於……；表示程度如此之深，導致某種結果發生"
+    },
+    {
+      "formula": "so + adj./adv. + that + S + V(結果)",
+      "zh": "強調原因的程度，導致後面子句的結果"
+    }
+  ],
+  "explanation": "此句型用於表達因果關係，強調前半部分的程度之深足以引起後半部分的結果。so 後接形容詞或副詞修飾程度，that 引導結果子句。與 such 的區別在於：so 接形容詞或副詞，such 接名詞片語（如 such a big house）。常見於描述令人驚訝、困難或極端的情況。注意 so...that 中的結果子句通常使用簡單式，有時帶有否定意涵。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The movie was so interesting that we watched it twice.",
+      "chi": "這部電影非常有趣，以至於我們看了兩遍。",
+      "keywords": [
+        "so interesting that",
+        "程度",
+        "結果"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She spoke so quickly that I couldn't understand what she said.",
+      "chi": "她說得如此快速，以至於我無法理解她的意思。",
+      "keywords": [
+        "so quickly",
+        "副詞修飾",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The weather was so bad that the game was cancelled.",
+      "chi": "天氣極為惡劣，以至於比賽被取消了。",
+      "keywords": [
+        "so bad that",
+        "條件結果",
+        "被動語態"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He was so tired that he fell asleep during the lecture.",
+      "chi": "他累得如此厲害，以至於在講座中睡著了。",
+      "keywords": [
+        "so tired that",
+        "形容詞",
+        "時間副詞短語"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "quickly",
+      "zh": "快速地"
+    },
+    {
+      "adj": "carefully",
+      "zh": "仔細地"
+    },
+    {
+      "adj": "tired",
+      "zh": "疲勞的"
+    },
+    {
+      "adj": "cold",
+      "zh": "寒冷的"
+    },
+    {
+      "adj": "loud",
+      "zh": "響亮的"
+    },
+    {
+      "adj": "bright",
+      "zh": "明亮的"
+    },
+    {
+      "adj": "slowly",
+      "zh": "緩慢地"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷要點：so 後必接形容詞或副詞，不能接名詞。若要修飾名詞，改用 such。常見錯誤是混淆 so 與 such 的使用對象。記住：so 修飾品質程度（形容詞/副詞），such 修飾名詞本身。結果子句往往帶有不預期或令人驚訝的涵義。",
+    "examples": [
+      {
+        "test": "❌ The city is so large city that... vs ✓ The city is such a large city that...",
+        "result": "→ 修飾名詞時用 such a/an + n，不用 so"
+      },
+      {
+        "test": "❌ He ran so fast that he could catch... vs ✓ He ran so fast that he could catch the thief.",
+        "result": "→ so + adv. 修飾動作方式，結果子句需完整"
+      },
+      {
+        "test": "✓ The test was so difficult that many students failed. vs ✓ It was such a difficult test that many students failed.",
+        "result": "→ 同義表達：so difficult that = such a difficult...that"
+      }
+    ],
+    "note": "口訣：『So 接詞（形容詞/副詞），Such 接詞組（名詞片語）』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The book was ",
+        null,
+        " that I finished it in one day."
+      ],
+      "blanks": [
+        "so interesting"
+      ],
+      "sentence": "The book was so interesting that I finished it in one day.",
+      "translation": "這本書如此有趣，以至於我一天內就看完了。",
+      "keywords": [
+        "so + adj.",
+        "結果子句",
+        "過去式"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She sang ",
+        null,
+        " that everyone stopped to listen."
+      ],
+      "blanks": [
+        "so beautifully"
+      ],
+      "sentence": "She sang so beautifully that everyone stopped to listen.",
+      "translation": "她唱得如此優美，以至於每個人都停下來聽。",
+      "keywords": [
+        "so + adv.",
+        "副詞修飾",
+        "that 子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The problem was ",
+        null,
+        " that we needed expert help to solve it."
+      ],
+      "blanks": [
+        "so complex"
+      ],
+      "sentence": "The problem was so complex that we needed expert help to solve it.",
+      "translation": "這個問題非常複雜，以至於我們需要專家的幫助才能解決。",
+      "keywords": [
+        "so + adj.",
+        "結果表達",
+        "不定式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The baby cried ",
+        null,
+        " that her mother couldn't calm her down."
+      ],
+      "blanks": [
+        "so loudly"
+      ],
+      "sentence": "The baby cried so loudly that her mother couldn't calm her down.",
+      "translation": "嬰兒哭得如此大聲，以至於她的母親無法讓她平靜下來。",
+      "keywords": [
+        "so + adv.",
+        "情態動詞 could",
+        "否定結果"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "code": "5-28",
+  "chapter": 5,
+  "title": "S + dare (not) + V（dare 的用法）",
+  "formulas": [
+    {
+      "formula": "S + dare (not) + V",
+      "zh": "主詞 + dare（不）+ 原形動詞（情態動詞用法）"
+    },
+    {
+      "formula": "S + dare (to) V / S + doesn't dare to V",
+      "zh": "主詞 + dare (to) + 動詞 / 主詞 + doesn't dare to + 動詞（一般動詞用法）"
+    }
+  ],
+  "explanation": "dare 可作情態動詞或一般動詞，表達「敢/不敢」之意。情態動詞用法（dare not + 原形）多見於疑問句和否定句，現代英文漸少；一般動詞用法（dare to V）在肯定、否定、疑問句皆可使用，為現代慣用。注意：疑問句常用 dare you...? 表示驚奇或挑戰；否定句用 doesn't dare to V 較為常見。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "He doesn't dare to speak up in front of his boss.",
+      "chi": "他不敢在老闆面前說出來。",
+      "keywords": [
+        "dare",
+        "doesn't dare to",
+        "speak up"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "How dare you treat me so rudely?",
+      "chi": "你怎麼敢那樣對待我？",
+      "keywords": [
+        "dare",
+        "how dare",
+        "疑問句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The young athlete dared to challenge the champion.",
+      "chi": "年輕運動員敢於挑戰冠軍。",
+      "keywords": [
+        "dare to",
+        "dared",
+        "challenge"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "I dare say that most students find this exam difficult.",
+      "chi": "我敢說大多數學生覺得這場考試很難。",
+      "keywords": [
+        "dare say",
+        "習慣用語",
+        "表達意見"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時機：dare not（情態）多用於文學或正式文體、疑問句；doesn't dare to（一般動詞）為現代日常用語。常見錯誤：混淆 dare not 與 doesn't dare to 的語境，或遺漏 to；記住疑問句 \"How dare you...?\" 為固定驚嘆句型。",
+    "examples": [
+      {
+        "test": "He dare not refuse.",
+        "result": "→ 正式/文學用法（情態動詞），現代改為 He doesn't dare to refuse."
+      },
+      {
+        "test": "How dare you lie to me?",
+        "result": "→ 固定疑問句，表驚奇或責備，不可改為陳述句用法"
+      },
+      {
+        "test": "I dare to try this new sport.",
+        "result": "→ 一般動詞用法，可用於肯定句，亦可作 I dare say（我敢說）"
+      }
+    ],
+    "note": "dare not 為文學，doesn't dare to 為現代；How dare you 為驚奇；I dare say 為表達意見慣用語。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The student ",
+        null,
+        " ask the teacher a difficult question."
+      ],
+      "blanks": [
+        "doesn't dare to"
+      ],
+      "sentence": "The student doesn't dare to ask the teacher a difficult question.",
+      "translation": "這名學生不敢向老師問一個困難的問題。",
+      "keywords": [
+        "doesn't dare to",
+        "一般動詞",
+        "否定句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " you speak to your parents like that?"
+      ],
+      "blanks": [
+        "How dare"
+      ],
+      "sentence": "How dare you speak to your parents like that?",
+      "translation": "你怎麼敢那樣對父母講話？",
+      "keywords": [
+        "How dare",
+        "疑問句",
+        "驚奇"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She ",
+        null,
+        " explore the unknown forest yesterday."
+      ],
+      "blanks": [
+        "dared to"
+      ],
+      "sentence": "She dared to explore the unknown forest yesterday.",
+      "translation": "她昨天敢於去探索那個陌生的森林。",
+      "keywords": [
+        "dared to",
+        "過去式",
+        "肯定句"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "I ",
+        null,
+        " say that this is the best movie I've ever seen."
+      ],
+      "blanks": [
+        "dare"
+      ],
+      "sentence": "I dare say that this is the best movie I've ever seen.",
+      "translation": "我敢說這是我看過最好的電影。",
+      "keywords": [
+        "dare say",
+        "固定搭配",
+        "表達意見"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "dare (not)",
+      "zh": "敢（不敢）"
+    },
+    {
+      "adj": "dare to",
+      "zh": "敢於"
+    },
+    {
+      "adj": "doesn't dare to",
+      "zh": "不敢"
+    },
+    {
+      "adj": "How dare",
+      "zh": "你怎麼敢（驚奇/責備）"
+    },
+    {
+      "adj": "I dare say",
+      "zh": "我敢說（慣用語）"
+    },
+    {
+      "adj": "bold",
+      "zh": "大膽的"
+    },
+    {
+      "adj": "courageous",
+      "zh": "勇敢的"
+    },
+    {
+      "adj": "timid",
+      "zh": "膽小的"
+    },
+    {
+      "adj": "nervous",
+      "zh": "緊張的"
+    },
+    {
+      "adj": "challenge",
+      "zh": "挑戰"
+    },
+    {
+      "adj": "risk",
+      "zh": "冒險"
+    },
+    {
+      "adj": "afraid",
+      "zh": "害怕的"
+    }
+  ],
+  "vocab_table_label": "dare 的常見用法"
+}

@@ -1,0 +1,210 @@
+{
+  "code": "4-14",
+  "chapter": 4,
+  "title": "S + V + N + as + S + V（as 引導關係子句）",
+  "formulas": [
+    {
+      "formula": "such + N + as + S + V",
+      "zh": "像...一樣的名詞；用以指出具有相同特質的人或事物"
+    },
+    {
+      "formula": "the same + N + as + S + V",
+      "zh": "與...相同的名詞；表示兩者在某方面完全相同"
+    },
+    {
+      "formula": "As + S + V..., S + V...",
+      "zh": "雖然...；讓步子句，as引導讓步概念"
+    }
+  ],
+  "explanation": "as在此句型中有兩種主要用法：(1)作關係代名詞，在such/the same結構中指代前面的名詞，引導定義性或描述性子句；(2)作從屬連接詞，引導讓步子句。such...as表示「像...一樣的」，強調相似性；the same...as表示「與...相同的」，強調完全一致。As引導的讓步子句置於句首時，後接主句。學生常混淆as與that的用法，應注意as具有對比或比較意義。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Such problems as you mentioned require careful analysis and discussion.",
+      "chi": "像你提到的這類問題需要仔細分析和討論。",
+      "keywords": [
+        "such...as",
+        "關係代名詞",
+        "定義性"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She has the same passion for music as her mother had in her youth.",
+      "chi": "她對音樂的熱情與她母親年輕時一樣。",
+      "keywords": [
+        "the same...as",
+        "比較",
+        "相同性"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "As the old saying goes, practice makes perfect in learning English.",
+      "chi": "正如古諺所說，在英文學習中熟能生巧。",
+      "keywords": [
+        "as引導讓步",
+        "成語",
+        "事實陳述"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Young as he was, he showed remarkable courage and determination in facing challenges.",
+      "chi": "雖然他年輕，但他在面對挑戰時表現出非凡的勇氣和決心。",
+      "keywords": [
+        "as引導讓步",
+        "語序倒裝",
+        "對比"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "remarkable",
+      "zh": "值得注意的；傑出的"
+    },
+    {
+      "adj": "significant",
+      "zh": "重要的；顯著的"
+    },
+    {
+      "adj": "similar",
+      "zh": "相似的"
+    },
+    {
+      "adj": "identical",
+      "zh": "完全相同的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的；正確的"
+    },
+    {
+      "adj": "evident",
+      "zh": "顯而易見的"
+    },
+    {
+      "adj": "paradoxical",
+      "zh": "矛盾的；看似荒謬的"
+    },
+    {
+      "adj": "profound",
+      "zh": "深刻的；深遠的"
+    },
+    {
+      "adj": "notable",
+      "zh": "值得注意的；著名的"
+    },
+    {
+      "adj": "striking",
+      "zh": "引人注目的；令人印象深刻的"
+    },
+    {
+      "adj": "ironic",
+      "zh": "諷刺的；出乎意料的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷as的角色：若as後接完整子句且前有such/the same，則as為關係代名詞；若as位於句首後跟形容詞或分詞，則引導讓步子句。注意such...as中的as不能改為that，而the same...as中的as不能改為with或like。",
+    "examples": [
+      {
+        "test": "Such students as work hard will succeed.",
+        "result": "✓ 正確。as為關係代名詞，指代students"
+      },
+      {
+        "test": "Such students that work hard will succeed.",
+        "result": "✗ 錯誤。應用as不用that，as具比較含義"
+      },
+      {
+        "test": "As difficult as the task was, they completed it successfully.",
+        "result": "✓ 正確。As引導讓步子句，表示雖然任務困難"
+      }
+    ],
+    "note": "記住：such/the same後一定搭配as；As開頭通常引導讓步，表示「雖然...」。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Such challenges ",
+        null,
+        " you face in your studies demand both patience and strategy."
+      ],
+      "blanks": [
+        "as"
+      ],
+      "sentence": "Such challenges as you face in your studies demand both patience and strategy.",
+      "translation": "像你在學習中所面臨的這類挑戰需要耐心和策略。",
+      "keywords": [
+        "such...as",
+        "關係代名詞",
+        "挑戰"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "He has the same ",
+        null,
+        " for literature ",
+        null,
+        " his grandfather had decades ago."
+      ],
+      "blanks": [
+        "passion",
+        "as"
+      ],
+      "sentence": "He has the same passion for literature as his grandfather had decades ago.",
+      "translation": "他對文學的熱情與他祖父幾十年前的一樣。",
+      "keywords": [
+        "the same...as",
+        "比較",
+        "代間相似"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        " important ",
+        null,
+        " the goal is, we must never lose sight of our principles."
+      ],
+      "blanks": [
+        "As",
+        "as"
+      ],
+      "sentence": "As important as the goal is, we must never lose sight of our principles.",
+      "translation": "雖然目標很重要，但我們絕不能忽視我們的原則。",
+      "keywords": [
+        "as引導讓步",
+        "語序倒裝",
+        "原則"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Such opportunities ",
+        null,
+        " rarely come your way deserve your full attention and commitment."
+      ],
+      "blanks": [
+        "as"
+      ],
+      "sentence": "Such opportunities as rarely come your way deserve your full attention and commitment.",
+      "translation": "像那些很少來臨的機會應該得到你的充分關注和承諾。",
+      "keywords": [
+        "such...as",
+        "機會",
+        "稀有性"
+      ]
+    }
+  ]
+}

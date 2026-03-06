@@ -1,0 +1,203 @@
+{
+  "code": "8-32",
+  "chapter": 8,
+  "title": "Seldom/Rarely/Never + 助動詞 + S + V（否定副詞倒裝）",
+  "formulas": [
+    {
+      "formula": "Seldom/Rarely/Never/Hardly + 助動詞 + S + V",
+      "zh": "否定副詞置句首引發倒裝，助動詞提前，強調否定意義"
+    },
+    {
+      "formula": "No sooner + had + S + V + than...",
+      "zh": "剛一...就...，表示兩個動作快速連續發生"
+    }
+  ],
+  "explanation": "此句型將否定副詞（seldom, rarely, never, hardly, scarcely, little等）置於句首，引發助動詞倒裝提前，強調否定或稀少的意義。結構為：否定詞+助動詞（do/does/did/have/has/had）+主詞+動詞原型。用於強調某事幾乎不發生或從未發生。注意與簡單否定句的區別：此句型強調程度與語氣，倒裝形式使表達更有力度。No sooner...than為特殊用法，表「剛一...就...」。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Seldom does she go to the party without bringing a gift.",
+      "chi": "她很少去參加派對而不帶禮物。",
+      "keywords": [
+        "seldom",
+        "倒裝",
+        "助動詞does"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Never have I seen such a beautiful sunset in my life.",
+      "chi": "我這輩子從未見過如此美麗的日落。",
+      "keywords": [
+        "never",
+        "have倒裝",
+        "強調"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Hardly had he finished his homework when his mother called him.",
+      "chi": "他剛做完功課，他媽媽就叫他。",
+      "keywords": [
+        "hardly",
+        "had倒裝",
+        "時間連貫"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "No sooner had the meeting started than an urgent email arrived.",
+      "chi": "會議才剛開始，一封緊急郵件就到了。",
+      "keywords": [
+        "no sooner",
+        "than",
+        "連續動作"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷何時使用倒裝：若副詞具強負面或稀少意義且置句首，必須倒裝。常見錯誤：忘記倒裝或倒裝形式錯誤。記住：否定副詞句首→必須倒裝助動詞。若句子無助動詞，用do/does/did幫助倒裝。",
+    "examples": [
+      {
+        "test": "✗ Never she has seen this movie.",
+        "result": "→ ✓ Never has she seen this movie.（助動詞has須提前）"
+      },
+      {
+        "test": "✗ Hardly the train arrived when he got on.",
+        "result": "→ ✓ Hardly had the train arrived when he got on.（需用had倒裝）"
+      },
+      {
+        "test": "✗ Seldom they go there.",
+        "result": "→ ✓ Seldom do they go there.（現在簡單式需用do倒裝）"
+      }
+    ],
+    "note": "否定詞句首即倒裝，助動詞必定提前於主詞之前，此為固定語法結構。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Seldom ",
+        null,
+        " he leave his hometown without visiting his parents."
+      ],
+      "blanks": [
+        "does"
+      ],
+      "sentence": "Seldom does he leave his hometown without visiting his parents.",
+      "translation": "他很少離開家鄉而不去看望父母。",
+      "keywords": [
+        "seldom",
+        "does倒裝",
+        "現在簡單式"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Never ",
+        null,
+        " I imagined that she would become a famous scientist."
+      ],
+      "blanks": [
+        "had"
+      ],
+      "sentence": "Never had I imagined that she would become a famous scientist.",
+      "translation": "我從未想過她會成為著名的科學家。",
+      "keywords": [
+        "never",
+        "had倒裝",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "No sooner ",
+        null,
+        " I entered the classroom than the teacher announced a quiz."
+      ],
+      "blanks": [
+        "had"
+      ],
+      "sentence": "No sooner had I entered the classroom than the teacher announced a quiz.",
+      "translation": "我才進教室，老師就宣布了小考。",
+      "keywords": [
+        "no sooner",
+        "than",
+        "連續動作"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Hardly ",
+        null,
+        " the rain stopped when the children ran outside to play."
+      ],
+      "blanks": [
+        "had"
+      ],
+      "sentence": "Hardly had the rain stopped when the children ran outside to play.",
+      "translation": "雨才剛停，孩子們就跑出去玩了。",
+      "keywords": [
+        "hardly",
+        "had倒裝",
+        "時間先後"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "seldom",
+      "zh": "很少；難得"
+    },
+    {
+      "adj": "rarely",
+      "zh": "很少；罕見地"
+    },
+    {
+      "adj": "never",
+      "zh": "從不；絕不"
+    },
+    {
+      "adj": "hardly",
+      "zh": "幾乎不；剛剛"
+    },
+    {
+      "adj": "scarcely",
+      "zh": "幾乎不；勉強"
+    },
+    {
+      "adj": "little",
+      "zh": "很少（與not連用）"
+    },
+    {
+      "adj": "no sooner",
+      "zh": "剛一；才...就..."
+    },
+    {
+      "adj": "in no way",
+      "zh": "絕不；一點也不"
+    },
+    {
+      "adj": "do/does/did",
+      "zh": "助動詞，用於倒裝"
+    },
+    {
+      "adj": "have/has/had",
+      "zh": "助動詞，用於完成式倒裝"
+    },
+    {
+      "adj": "than",
+      "zh": "比...更；隨後（與no sooner搭配）"
+    },
+    {
+      "adj": "when",
+      "zh": "當...時；這時"
+    }
+  ],
+  "vocab_table_label": "常用頻率副詞"
+}

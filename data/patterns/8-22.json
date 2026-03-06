@@ -1,0 +1,203 @@
+{
+  "code": "8-22",
+  "chapter": 8,
+  "title": "S + V + as well as / in addition to + N/V-ing",
+  "formulas": [
+    {
+      "formula": "S + V + as well as + N/V-ing",
+      "zh": "主詞＋動詞＋as well as（除……之外還）＋名詞/動名詞"
+    },
+    {
+      "formula": "S + V + in addition to + N/V-ing",
+      "zh": "主詞＋動詞＋in addition to（除……之外還）＋名詞/動名詞"
+    }
+  ],
+  "explanation": "as well as 與 in addition to 均表「除……之外還有」的附加關係。重點是動詞與主要主詞一致，不受後接的名詞或動名詞影響。as well as 用於正式與非正式場合；in addition to 較正式，後接名詞或動名詞形式。兩者都用來補充說明主詞的額外行為或屬性。需注意主動詞時態要與主要主詞相符，不因後接詞彙而改變。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She speaks English as well as French fluently.",
+      "chi": "她不但說英文流利，法文也說得流利。",
+      "keywords": [
+        "as well as",
+        "補充說明",
+        "並列"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The director in addition to the actors attended the premiere event.",
+      "chi": "除了演員之外，導演也參加了首映式。",
+      "keywords": [
+        "in addition to",
+        "正式用法",
+        "動詞單數"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Playing the piano as well as composing music is his passion.",
+      "chi": "彈鋼琴和作曲都是他的熱情所在。",
+      "keywords": [
+        "as well as",
+        "動名詞並列",
+        "單數動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The company will expand sales in addition to improving product quality.",
+      "chi": "除了改善產品品質外，公司還將擴大銷售。",
+      "keywords": [
+        "in addition to",
+        "V-ing",
+        "計畫行動"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "動詞單複數由主要主詞決定，不因 as well as/in addition to 後的詞彙而改變。in addition to 後須接名詞或 V-ing 形式，不接原形動詞。注意主要主詞若為單數，動詞必須單數；若為複數，動詞必須複數。",
+    "examples": [
+      {
+        "test": "The teacher as well as the students (is/are) happy.",
+        "result": "→ 正確：is（以 teacher 為主）；錯誤：are（忽視主要主詞）"
+      },
+      {
+        "test": "He enjoys reading in addition to (write/writing) novels.",
+        "result": "→ 正確：writing（in addition to 後接 V-ing）；錯誤：write（違反語法）"
+      },
+      {
+        "test": "She speaks French as well as English (good/well).",
+        "result": "→ 正確：well（修飾動詞 speaks，用副詞）；錯誤：good（應為副詞）"
+      }
+    ],
+    "note": "記住：主要主詞決定動詞，後接詞只是補充；in addition to 後一定是名詞或 V-ing。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The manager ",
+        null,
+        " the staff enjoys the new office environment."
+      ],
+      "blanks": [
+        "as well as"
+      ],
+      "sentence": "The manager as well as the staff enjoys the new office environment.",
+      "translation": "經理和全體職員都喜歡新辦公室環境。",
+      "keywords": [
+        "as well as",
+        "動詞單數",
+        "補充主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "In addition to ",
+        null,
+        ", students must complete homework assignments."
+      ],
+      "blanks": [
+        "attending classes"
+      ],
+      "sentence": "In addition to attending classes, students must complete homework assignments.",
+      "translation": "除了上課之外，學生還必須完成家庭作業。",
+      "keywords": [
+        "in addition to",
+        "V-ing",
+        "補充要求"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The athlete practices basketball ",
+        null,
+        " swimming every day."
+      ],
+      "blanks": [
+        "as well as"
+      ],
+      "sentence": "The athlete practices basketball as well as swimming every day.",
+      "translation": "這位運動員每天既練籃球也練游泳。",
+      "keywords": [
+        "as well as",
+        "並列活動",
+        "日常習慣"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "In addition to improving customer service, the company will ",
+        null,
+        " its product line."
+      ],
+      "blanks": [
+        "expand"
+      ],
+      "sentence": "In addition to improving customer service, the company will expand its product line.",
+      "translation": "除了改善客服之外，公司還將擴大產品線。",
+      "keywords": [
+        "in addition to",
+        "未來計畫",
+        "並列行動"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "as well as",
+      "zh": "除……之外還；同時"
+    },
+    {
+      "adj": "in addition to",
+      "zh": "除了……之外；加上"
+    },
+    {
+      "adj": "besides",
+      "zh": "除……之外還"
+    },
+    {
+      "adj": "along with",
+      "zh": "和……一起；除……外"
+    },
+    {
+      "adj": "fluently",
+      "zh": "流利地"
+    },
+    {
+      "adj": "attend",
+      "zh": "參加"
+    },
+    {
+      "adj": "passion",
+      "zh": "熱情"
+    },
+    {
+      "adj": "expand",
+      "zh": "擴張"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善"
+    },
+    {
+      "adj": "compose",
+      "zh": "作曲"
+    },
+    {
+      "adj": "additional",
+      "zh": "額外的"
+    },
+    {
+      "adj": "supplement",
+      "zh": "補充"
+    }
+  ],
+  "vocab_table_label": "常用附加連接詞"
+}

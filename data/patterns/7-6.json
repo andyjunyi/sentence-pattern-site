@@ -1,0 +1,203 @@
+{
+  "code": "7-6",
+  "chapter": 7,
+  "title": "P.P. + ..., S + V...（分詞構句，被動）",
+  "formulas": [
+    {
+      "formula": "p.p. + ..., S + V...",
+      "zh": "過去分詞（短語）開頭，後接獨立主句，表示主詞被動作後的狀態或原因"
+    },
+    {
+      "formula": "Because/When + S + was p.p., S + V... = p.p. + ..., S + V...",
+      "zh": "過去分詞構句可轉換為被動副詞子句，省略 Being/Having been"
+    }
+  ],
+  "explanation": "過去分詞構句用於替代被動語態的副詞子句，主詞被某動作執行後的狀態或時間點作為背景資訊。結構為：過去分詞（可含受詞或補語）置於句首，後接獨立主句。省略 being 或 having been，使句子更簡潔。使用時須確保過去分詞的邏輯主詞與主句主詞相同。易混淆點：勿與主動分詞混淆；注意時態一致性。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Frightened by the loud noise, the child started crying immediately.",
+      "chi": "被巨大的噪音嚇到，小孩立刻開始哭泣。",
+      "keywords": [
+        "過去分詞",
+        "情緒狀態",
+        "原因"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Given this opportunity, she decided to study abroad for further education.",
+      "chi": "被賦予這個機會，她決定出國深造。",
+      "keywords": [
+        "過去分詞",
+        "條件",
+        "決定"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Surrounded by loyal friends, he felt confident to face any challenge.",
+      "chi": "被忠實的朋友包圍著，他有信心面對任何挑戰。",
+      "keywords": [
+        "過去分詞",
+        "環境狀態",
+        "心理感受"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Exhausted by the long journey, the tourists rested in the hotel for hours.",
+      "chi": "被長途旅行弄得筋疲力盡，遊客在飯店休息了好幾小時。",
+      "keywords": [
+        "過去分詞",
+        "身體狀態",
+        "後續行動"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用過去分詞構句：看前後兩動作是否有「被動關係」。若主詞是被執行某動作，用過去分詞；若主詞主動執行，用現在分詞。避免邏輯主詞不一致產生的懸垂分詞（dangling participle）。",
+    "examples": [
+      {
+        "test": "❌ Driving to the office, the rain started.",
+        "result": "→ ✓ Driving to the office, I noticed the rain started.（邏輯主詞不一致）主詞應為動作執行者"
+      },
+      {
+        "test": "❌ Forgotten by everyone, Tom still felt happy.",
+        "result": "→ ✓ Forgotten by everyone, he still felt happy.（邏輯一致，正確用法）"
+      },
+      {
+        "test": "❌ Warned of the danger, the tourists ignored the warning.",
+        "result": "→ ✓ Warned of the danger, the tourists heeded the warning.（與後句意思搭配）"
+      }
+    ],
+    "note": "口訣：「主詞被動有過分，邏輯一致最關鍵，前被後主要相同」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        null,
+        " by the thunderstorm, the hiker decided to stay in the cabin.",
+        ""
+      ],
+      "blanks": [
+        "Trapped"
+      ],
+      "sentence": "Trapped by the thunderstorm, the hiker decided to stay in the cabin.",
+      "translation": "被雷暴困住，登山者決定留在小屋裡。",
+      "keywords": [
+        "過去分詞",
+        "被動狀態",
+        "原因"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " that she had won the competition, Maria jumped with joy.",
+        ""
+      ],
+      "blanks": [
+        "Informed"
+      ],
+      "sentence": "Informed that she had won the competition, Maria jumped with joy.",
+      "translation": "被告知她贏得了比賽，瑪麗亞高興地跳了起來。",
+      "keywords": [
+        "過去分詞",
+        "資訊傳遞",
+        "情緒反應"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        " with proper training, the new employees performed excellently in their first week.",
+        ""
+      ],
+      "blanks": [
+        "Equipped"
+      ],
+      "sentence": "Equipped with proper training, the new employees performed excellently in their first week.",
+      "translation": "配備適當的培訓，新員工在第一週表現優異。",
+      "keywords": [
+        "過去分詞",
+        "條件具備",
+        "結果"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " from years of hard work, the athlete finally achieved his Olympic dream.",
+        ""
+      ],
+      "blanks": [
+        "Rewarded"
+      ],
+      "sentence": "Rewarded from years of hard work, the athlete finally achieved his Olympic dream.",
+      "translation": "因多年辛苦工作得到回報，運動員終於實現了他的奧運夢想。",
+      "keywords": [
+        "過去分詞",
+        "因果關係",
+        "成就"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "frightened",
+      "zh": "驚恐的、被嚇到的"
+    },
+    {
+      "adj": "exhausted",
+      "zh": "筋疲力盡的、被耗盡的"
+    },
+    {
+      "adj": "surprised",
+      "zh": "驚訝的、被驚嚇的"
+    },
+    {
+      "adj": "given",
+      "zh": "被給予的、假定"
+    },
+    {
+      "adj": "surrounded",
+      "zh": "被包圍的、周圍環繞"
+    },
+    {
+      "adj": "motivated",
+      "zh": "被激勵的、有動機的"
+    },
+    {
+      "adj": "inspired",
+      "zh": "被啟發的、受到鼓舞的"
+    },
+    {
+      "adj": "determined",
+      "zh": "被決定的、堅定的"
+    },
+    {
+      "adj": "confused",
+      "zh": "被困惑的、混亂的"
+    },
+    {
+      "adj": "disappointed",
+      "zh": "被失望的、感到失望的"
+    },
+    {
+      "adj": "encouraged",
+      "zh": "被鼓勵的、受到鼓舞的"
+    },
+    {
+      "adj": "troubled",
+      "zh": "被困擾的、煩惱的"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞"
+}

@@ -1,0 +1,215 @@
+{
+  "code": "6-4",
+  "chapter": 6,
+  "title": "S + V + O + to V（不定詞作受詞補語）",
+  "formulas": [
+    {
+      "formula": "S + ask/tell/want/allow/expect/force + O + to V",
+      "zh": "主詞 + 要求/告訴/想要/允許/期望/強迫 + 受詞 + 不定詞"
+    },
+    {
+      "formula": "S + encourage/persuade/remind + O + to V",
+      "zh": "主詞 + 鼓勵/說服/提醒 + 受詞 + 不定詞"
+    }
+  ],
+  "explanation": "此句型為「複雜及物動詞」結構，動詞後接受詞，再接不定詞作為受詞補語，表達對他人的要求、期望或影響。關鍵在於受詞與不定詞的對應關係──受詞是不定詞動作的執行者。常見動詞包括ask、tell、want、allow、expect、force、encourage、persuade、remind等。使用時應注意：(1)這些動詞後必須接完整的受詞+不定詞結構；(2)不能直接接that子句；(3)受詞可為名詞或代詞，不定詞前不加to的情況極少見。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher asked the students to submit their homework on time.",
+      "chi": "老師要求學生準時繳交作業。",
+      "keywords": [
+        "ask",
+        "to submit",
+        "受詞補語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "My parents want me to study engineering at university.",
+      "chi": "我的父母想要我在大學裡讀工程系。",
+      "keywords": [
+        "want",
+        "to study",
+        "受詞代詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company expects its employees to work efficiently and meet deadlines.",
+      "chi": "公司期望員工們工作有效率並準時完成任務。",
+      "keywords": [
+        "expect",
+        "to work",
+        "複合不定詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "I reminded him to bring his passport before the flight.",
+      "chi": "我提醒他在飛行前帶護照。",
+      "keywords": [
+        "remind",
+        "to bring",
+        "時間副詞"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷標準：若動詞後有「人/物（受詞）」且該人/物是下一個動作的執行者，就用「O + to V」結構。勿混淆with結構（如help sb. with sth.）或that子句用法。易錯點：force/allow後仍需加to，不能省略。",
+    "examples": [
+      {
+        "test": "I want you finish the project.",
+        "result": "✗ 錯誤 → I want you to finish the project. 須加to"
+      },
+      {
+        "test": "He told me studying hard is important.",
+        "result": "✗ 錯誤 → He told me to study hard. 動名詞改為不定詞"
+      },
+      {
+        "test": "The coach persuaded the players to practice every day.",
+        "result": "✓ 正確 → 受詞與to V形成邏輯關係，表達說服內容"
+      }
+    ],
+    "note": "「受詞執行者」是關鍵：受詞做不定詞的主語，不定詞前必加to。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The principal ",
+        null,
+        " all students ",
+        null,
+        " respectful and honest in school."
+      ],
+      "blanks": [
+        "expects",
+        "to be"
+      ],
+      "sentence": "The principal expects all students to be respectful and honest in school.",
+      "translation": "校長期望所有學生在學校裡表現尊重他人且誠實。",
+      "keywords": [
+        "expects",
+        "to be",
+        "形容詞補語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "My friend ",
+        null,
+        " me ",
+        null,
+        " her painting exhibition next week."
+      ],
+      "blanks": [
+        "encouraged",
+        "to attend"
+      ],
+      "sentence": "My friend encouraged me to attend her painting exhibition next week.",
+      "translation": "我的朋友鼓勵我參加她下週的繪畫展覽。",
+      "keywords": [
+        "encouraged",
+        "to attend",
+        "時間副詞短語"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The law ",
+        null,
+        " companies ",
+        null,
+        " hazardous waste properly."
+      ],
+      "blanks": [
+        "requires",
+        "to dispose of"
+      ],
+      "sentence": "The law requires companies to dispose of hazardous waste properly.",
+      "translation": "法律要求公司妥善處理危險廢棄物。",
+      "keywords": [
+        "requires",
+        "to dispose of",
+        "片語動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Her parents didn't ",
+        null,
+        " her ",
+        null,
+        " out late every night."
+      ],
+      "blanks": [
+        "allow",
+        "to stay"
+      ],
+      "sentence": "Her parents didn't allow her to stay out late every night.",
+      "translation": "她的父母不允許她每晚待在外面很晚。",
+      "keywords": [
+        "allow",
+        "to stay",
+        "否定結構"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "ask",
+      "zh": "要求、詢問"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴、命令"
+    },
+    {
+      "adj": "want",
+      "zh": "想要、需要"
+    },
+    {
+      "adj": "allow",
+      "zh": "允許、准許"
+    },
+    {
+      "adj": "expect",
+      "zh": "期望、預期"
+    },
+    {
+      "adj": "force",
+      "zh": "強迫、迫使"
+    },
+    {
+      "adj": "encourage",
+      "zh": "鼓勵、促進"
+    },
+    {
+      "adj": "persuade",
+      "zh": "說服、勸說"
+    },
+    {
+      "adj": "remind",
+      "zh": "提醒、使想起"
+    },
+    {
+      "adj": "require",
+      "zh": "要求、需要"
+    },
+    {
+      "adj": "urge",
+      "zh": "催促、力勸"
+    },
+    {
+      "adj": "enable",
+      "zh": "使能夠、使可能"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

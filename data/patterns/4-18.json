@@ -1,0 +1,202 @@
+{
+  "code": "4-18",
+  "chapter": 4,
+  "title": "whether/if + S + V（名詞子句）",
+  "formulas": [
+    {
+      "formula": "S + V + whether + S + V",
+      "zh": "主詞 + 動詞 + whether 引導的名詞子句"
+    },
+    {
+      "formula": "S + V + if + S + V",
+      "zh": "主詞 + 動詞 + if 引導的名詞子句（作受詞時）"
+    }
+  ],
+  "explanation": "whether/if 引導名詞子句表達「是否……」的不確定性。whether 可作主詞或受詞位置，具有更正式的語氣；if 只能作受詞（如作賓語），不能作主詞。whether...or not 結構強調雙重可能性。此句型常用於表達疑問、不確定、選擇或調查。注意：作主詞時必用 whether；作受詞時兩者皆可，但 whether 更正式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She asked whether he would attend the meeting tomorrow.",
+      "chi": "她問他明天是否會參加會議。",
+      "keywords": [
+        "whether",
+        "間接問句",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whether the project succeeds or not depends on team cooperation.",
+      "chi": "專案是否成功取決於團隊合作。",
+      "keywords": [
+        "Whether...or not",
+        "作主詞",
+        "強調兩種可能"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I wonder if you have finished your homework yet.",
+      "chi": "我想知道你是否已經完成功課。",
+      "keywords": [
+        "if",
+        "作受詞",
+        "非正式用法"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The manager will decide whether to hire more staff based on sales performance.",
+      "chi": "經理將根據銷售表現決定是否聘請更多員工。",
+      "keywords": [
+        "whether to do",
+        "決策動詞",
+        "名詞子句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用 whether 或 if：若填空處於句首或作主詞，必用 whether。作受詞時，whether 更正式，if 更口語。whether...or not 強調兩種結果都可能，不能用 if 替換。",
+    "examples": [
+      {
+        "test": "Whether he comes or not is still unknown. (不能用 If)",
+        "result": "→ 作主詞位置，只能用 whether；if 在此位置文法錯誤"
+      },
+      {
+        "test": "I don't know if/whether you're ready. (兩者皆可)",
+        "result": "→ 作受詞，if 更口語，whether 更正式，but whether...or not = 強調雙重可能"
+      },
+      {
+        "test": "Whether or not she agrees, we will proceed. (不能用 If or not)",
+        "result": "→ whether...or not 句型固定搭配，if 不能與 or not 並用"
+      }
+    ],
+    "note": "主詞用 whether，受詞用 whether 或 if；whether...or not 固定搭配強調兩種結果。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teacher is asking ",
+        null,
+        " the students completed their assignments."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The teacher is asking whether the students completed their assignments.",
+      "translation": "老師在問學生們是否完成了他們的作業。",
+      "keywords": [
+        "whether",
+        "ask",
+        "間接問句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " you travel by plane or train doesn't matter to us."
+      ],
+      "blanks": [
+        "Whether"
+      ],
+      "sentence": "Whether you travel by plane or train doesn't matter to us.",
+      "translation": "你坐飛機還是火車旅行對我們無關緊要。",
+      "keywords": [
+        "Whether...or",
+        "作主詞",
+        "選擇"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Scientists are investigating ",
+        null,
+        " climate change is affecting ocean ecosystems."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "Scientists are investigating whether climate change is affecting ocean ecosystems.",
+      "translation": "科學家正在調查氣候變化是否影響海洋生態系統。",
+      "keywords": [
+        "whether",
+        "investigate",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The success of the plan depends on ",
+        null,
+        " all team members cooperate effectively."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The success of the plan depends on whether all team members cooperate effectively.",
+      "translation": "計畫的成功取決於所有團隊成員是否有效合作。",
+      "keywords": [
+        "whether",
+        "depends on",
+        "條件"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "ask",
+      "zh": "問"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道"
+    },
+    {
+      "adj": "doubt",
+      "zh": "懷疑"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "uncertain",
+      "zh": "不確定的"
+    },
+    {
+      "adj": "depends on",
+      "zh": "取決於"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "discuss",
+      "zh": "討論"
+    },
+    {
+      "adj": "investigate",
+      "zh": "調查"
+    },
+    {
+      "adj": "consider",
+      "zh": "考慮"
+    },
+    {
+      "adj": "uncertain whether",
+      "zh": "不確定是否"
+    },
+    {
+      "adj": "be concerned",
+      "zh": "擔心"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

@@ -1,0 +1,210 @@
+{
+  "code": "5-20",
+  "chapter": 5,
+  "title": "S + help + O + (to) V（help 用法）",
+  "formulas": [
+    {
+      "formula": "S + help + O + (to) V",
+      "zh": "主詞幫助受詞做某事（to可省略）"
+    },
+    {
+      "formula": "S + help + (to) V",
+      "zh": "主詞幫忙做某事（不及物用法）"
+    },
+    {
+      "formula": "cannot help + V-ing",
+      "zh": "忍不住做某事（特殊用法，表被動意涵）"
+    }
+  ],
+  "explanation": "help後可直接接受詞加原形動詞或加to的不定詞，兩種形式意義相同。當help為及物動詞時，句型為「S + help + O + (to) V」，to可省略；當help為不及物動詞時，用「S + help + (to) V」。特殊用法「cannot help + V-ing」表示「忍不住、無法抗拒」，常用於表達被迫的反應或情感。注意此時help後跟動名詞，意思與普通用法截然不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I helped my younger brother (to) finish his homework yesterday.",
+      "chi": "我昨天幫助弟弟完成作業。",
+      "keywords": [
+        "help",
+        "受詞",
+        "不定詞",
+        "to可省"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The teacher helped the struggling student understand the difficult concept.",
+      "chi": "老師幫助那位困難的學生理解這個困難的概念。",
+      "keywords": [
+        "help",
+        "及物用法",
+        "目的",
+        "動詞原形"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We all helped prepare for the upcoming school festival.",
+      "chi": "我們都幫忙準備即將到來的校園慶典。",
+      "keywords": [
+        "help",
+        "不及物用法",
+        "共同參與"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "I cannot help laughing when I saw that funny video.",
+      "chi": "當我看到那支有趣的影片時，忍不住笑了。",
+      "keywords": [
+        "cannot help",
+        "V-ing",
+        "忍不住",
+        "特殊用法"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷help用法的關鍵：看後面是否直接有受詞。有受詞用「help + O + (to) V」；無受詞用「help + (to) V」。「cannot help + V-ing」是固定片語，專表「忍不住」，語意上通常代表無法控制的行為反應。",
+    "examples": [
+      {
+        "test": "I helped him finish the project. vs. I helped finish the project.",
+        "result": "→ 前者有受詞him，後者無受詞。兩句皆正確，只是及物與不及物的區別。"
+      },
+      {
+        "test": "I cannot help but laugh. vs. I cannot help laughing.",
+        "result": "→ 兩種形式皆可接受，皆表「忍不住笑」，但cannot help + V-ing最為常用。"
+      },
+      {
+        "test": "錯誤：I helped him to go there. 正確：I helped him go there.",
+        "result": "→ 在help句型中，to可省略。省略to會更自然且更常見。"
+      }
+    ],
+    "note": "help後有受詞時to可省；cannot help固定搭配V-ing；記住「幫助」與「忍不住」兩大用法分野。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The coach helped the young athletes ",
+        null,
+        " their skills and techniques."
+      ],
+      "blanks": [
+        "(to) improve"
+      ],
+      "sentence": "The coach helped the young athletes (to) improve their skills and techniques.",
+      "translation": "教練幫助年輕運動員改進他們的技巧和技術。",
+      "keywords": [
+        "help",
+        "及物用法",
+        "to可省"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We all helped ",
+        null,
+        " the classroom before the principal's visit."
+      ],
+      "blanks": [
+        "(to) clean"
+      ],
+      "sentence": "We all helped (to) clean the classroom before the principal's visit.",
+      "translation": "在校長視察前，我們都幫忙打掃教室。",
+      "keywords": [
+        "help",
+        "不及物用法",
+        "共同動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She cannot help ",
+        null,
+        " when her favorite song plays on the radio."
+      ],
+      "blanks": [
+        "dancing"
+      ],
+      "sentence": "She cannot help dancing when her favorite song plays on the radio.",
+      "translation": "當她最喜歡的歌曲在廣播中播放時，她忍不住跳舞。",
+      "keywords": [
+        "cannot help",
+        "V-ing",
+        "忍不住"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The doctor helped the elderly patient ",
+        null,
+        " the medication correctly."
+      ],
+      "blanks": [
+        "(to) take"
+      ],
+      "sentence": "The doctor helped the elderly patient (to) take the medication correctly.",
+      "translation": "醫生幫助老年患者正確服用藥物。",
+      "keywords": [
+        "help",
+        "受詞",
+        "不定詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "prepare",
+      "zh": "準備"
+    },
+    {
+      "adj": "solve",
+      "zh": "解決"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "laugh",
+      "zh": "笑"
+    },
+    {
+      "adj": "cry",
+      "zh": "哭"
+    },
+    {
+      "adj": "think",
+      "zh": "認為"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
+    },
+    {
+      "adj": "feel",
+      "zh": "感受"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

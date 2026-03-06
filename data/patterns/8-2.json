@@ -1,0 +1,198 @@
+{
+  "code": "8-2",
+  "chapter": 8,
+  "title": "because / since / as + S + V（原因副詞子句）",
+  "formulas": [
+    {
+      "formula": "Because/Since/As + S + V, S + V.",
+      "zh": "因為...，所以...（表達原因的複句結構）"
+    },
+    {
+      "formula": "S + V + because/since/as + S + V.",
+      "zh": "...因為/既然/由於...（主句在前，原因子句在後）"
+    }
+  ],
+  "explanation": "此句型用來表達因果關係，三個連接詞語氣遞減：because 語氣最強，表直接原因，常用於回答 Why 疑問句；since 表已知或顯而易知的原因；as 表附帶理由或伴隨原因，語氣最弱。原因子句可置於主句前或後。注意：不可與 so 同時使用在同一句中，因為 because 與 so 語意重複。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Because she studied hard, she passed the exam with excellent marks.",
+      "chi": "因為她用功讀書，所以她以優異成績通過考試。",
+      "keywords": [
+        "because",
+        "原因子句前置"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Since you are already here, you might as well stay for dinner.",
+      "chi": "既然你已經來了，不妨留下來吃晚餐。",
+      "keywords": [
+        "since",
+        "已知原因"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He couldn't attend the meeting because his flight was delayed.",
+      "chi": "他無法參加會議，因為他的班機延誤了。",
+      "keywords": [
+        "because",
+        "直接原因"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "As it was raining heavily, we decided to postpone the outdoor event.",
+      "chi": "由於下大雨，我們決定延期舉辦戶外活動。",
+      "keywords": [
+        "as",
+        "伴隨原因"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷三詞區別：because 回答 Why 問題最直接；since 用於雙方都認可的原因（不用強調）；as 表時間同時發生的原因或附帶理由。記住：because 與 so 不能在同一句同時出現，應改用 because...period，或 S + V, so S + V。",
+    "examples": [
+      {
+        "test": "✗ Because he was tired, so he went to bed early.",
+        "result": "→ ✓ Because he was tired, he went to bed early. 或 He was tired, so he went to bed early.（因果邏輯不重複）"
+      },
+      {
+        "test": "Since you mentioned it, I should tell you the truth.",
+        "result": "→ 正確用法：表已知的前提或背景原因，since 不強調因由本身"
+      },
+      {
+        "test": "As the weather was fine, we went for a picnic.",
+        "result": "→ 正確用法：as 表伴隨的背景原因，天氣好這個條件恰好存在時進行活動"
+      }
+    ],
+    "note": "記憶口訣：Because 直接答 Why，Since 既知無需提，As 伴隨一起起。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        null,
+        " she missed the morning bus, she arrived at school late.",
+        null
+      ],
+      "blanks": [
+        "Because",
+        "So she arrived at school late 或 she was late to school"
+      ],
+      "sentence": "Because she missed the morning bus, she arrived at school late.",
+      "translation": "因為她錯過了早班公車，所以她上學遲到了。",
+      "keywords": [
+        "because",
+        "直接原因",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We should leave now ",
+        null,
+        " there is heavy traffic ahead."
+      ],
+      "blanks": [
+        "because"
+      ],
+      "sentence": "We should leave now because there is heavy traffic ahead.",
+      "translation": "我們現在應該離開，因為前面交通擁堵。",
+      "keywords": [
+        "because",
+        "直接理由",
+        "行動動機"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        " you have already finished your homework, you can relax this evening."
+      ],
+      "blanks": [
+        "Since"
+      ],
+      "sentence": "Since you have already finished your homework, you can relax this evening.",
+      "translation": "既然你已經完成功課了，你今晚可以放鬆一下。",
+      "keywords": [
+        "since",
+        "已知事實",
+        "前提條件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " the concert started, the audience immediately quieted down."
+      ],
+      "blanks": [
+        "As"
+      ],
+      "sentence": "As the concert started, the audience immediately quieted down.",
+      "translation": "當音樂會開始時，觀眾立即安靜下來。",
+      "keywords": [
+        "as",
+        "同時發生",
+        "伴隨背景"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "because",
+      "zh": "因為（語氣最強，表直接原因）"
+    },
+    {
+      "adj": "since",
+      "zh": "既然、因為（表已知原因）"
+    },
+    {
+      "adj": "as",
+      "zh": "由於、因為（表伴隨原因，語氣較弱）"
+    },
+    {
+      "adj": "so",
+      "zh": "所以、因此（注意：不能與 because 同用）"
+    },
+    {
+      "adj": "therefore",
+      "zh": "因此、所以（表結果推導）"
+    },
+    {
+      "adj": "reason",
+      "zh": "理由、原因（名詞，表示因由）"
+    },
+    {
+      "adj": "cause",
+      "zh": "原因、導致（名詞或動詞）"
+    },
+    {
+      "adj": "result",
+      "zh": "結果、導致（名詞或動詞）"
+    },
+    {
+      "adj": "due to",
+      "zh": "由於、因為（介詞片語，後接名詞）"
+    },
+    {
+      "adj": "owing to",
+      "zh": "由於、因為（介詞片語，較正式）"
+    },
+    {
+      "adj": "consequently",
+      "zh": "因此、結果（副詞，表因果結果）"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋、說明（動詞，說明原因）"
+    }
+  ],
+  "vocab_table_label": "常用原因連接詞"
+}

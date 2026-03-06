@@ -1,0 +1,217 @@
+{
+  "code": "6-17",
+  "chapter": 6,
+  "title": "S + be + V-ing（現在進行式）表未來計畫",
+  "formulas": [
+    {
+      "formula": "S + am/is/are + V-ing + 時間副詞",
+      "zh": "主詞 + 現在式助動詞 + 現在分詞 + 時間副詞，表達確定的未來計畫或安排"
+    },
+    {
+      "formula": "S + am/is/are + V-ing + 時間點/時間段",
+      "zh": "主詞 + 現在式助動詞 + 現在分詞 + 具體時間，強調已確定且近期的未來行動"
+    }
+  ],
+  "explanation": "現在進行式表達未來時，用於表示已確定的計畫、安排或預定行動，不同於單純的未來式。此用法強調：1) 計畫已確定或預訂；2) 通常需搭配時間副詞明確指出時間；3) 常用於談論交通、會議、活動等有具體安排的事項。易混淆點：勿與純進行中的動作混淆，現在進行式談未來時必須有明確時間詞。注意事項：某些動詞（go, come, leave, arrive, meet, start）特別常用於此句型。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "We are leaving for Japan next Monday morning.",
+      "chi": "我們下週一早上要出發去日本。",
+      "keywords": [
+        "are leaving",
+        "next Monday",
+        "確定的未來計畫"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The train is arriving at 3 PM, so please be ready on time.",
+      "chi": "火車下午3點要到達，所以請準時準備好。",
+      "keywords": [
+        "is arriving",
+        "at 3 PM",
+        "確定的時間點"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Sarah is meeting her boss tomorrow afternoon to discuss the project.",
+      "chi": "莎拉明天下午要與她的老闆見面討論這個專案。",
+      "keywords": [
+        "is meeting",
+        "tomorrow afternoon",
+        "已安排的會議"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The concert is starting at 7 PM this Saturday, and many fans are coming.",
+      "chi": "演唱會這週六晚上7點開始，許多粉絲都要來參加。",
+      "keywords": [
+        "is starting",
+        "are coming",
+        "this Saturday",
+        "共同未來計畫"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷標準：現在進行式表未來時，必須有明確時間副詞（next week、tomorrow、at 3 PM等）且指的是已確定安排。若無時間詞或指進行中的動作，則不是此用法。常見錯誤是混淆「正在進行」與「計畫中的未來」。",
+    "examples": [
+      {
+        "test": "I am studying English now. vs. I am studying English tomorrow.",
+        "result": "→ 前者為正在進行，後者為計畫好的未來安排；後者需加時間詞才成立。"
+      },
+      {
+        "test": "We are going to the beach. vs. We are going to the beach next Saturday.",
+        "result": "→ 前者意義模糊，後者因有時間詞而明確表達未來確定計畫。"
+      },
+      {
+        "test": "She is flying to London next month. (確定已訂機票) vs. She will fly to London next month. (未確定)",
+        "result": "→ 現在進行式強調已確定安排，比將來式更具體確定。"
+      }
+    ],
+    "note": "現在進行式表未來 = 已確定的計畫 + 明確時間詞，缺一不可。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The manager ",
+        null,
+        " with the team ",
+        null,
+        " to plan the new strategy."
+      ],
+      "blanks": [
+        "is meeting",
+        "next Friday"
+      ],
+      "sentence": "The manager is meeting with the team next Friday to plan the new strategy.",
+      "translation": "經理下週五要與團隊見面規劃新策略。",
+      "keywords": [
+        "is meeting",
+        "next Friday",
+        "已確定的會議"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Our flight ",
+        null,
+        " at 6 AM ",
+        null,
+        ", so we need to leave early."
+      ],
+      "blanks": [
+        "is departing",
+        "tomorrow morning"
+      ],
+      "sentence": "Our flight is departing at 6 AM tomorrow morning, so we need to leave early.",
+      "translation": "我們的班機明天早上6點要出發，所以我們需要早點出門。",
+      "keywords": [
+        "is departing",
+        "at 6 AM",
+        "確定的出發時間"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Many international students ",
+        null,
+        " to our university ",
+        null,
+        " for the autumn semester."
+      ],
+      "blanks": [
+        "are coming",
+        "next month"
+      ],
+      "sentence": "Many international students are coming to our university next month for the autumn semester.",
+      "translation": "許多國際學生下個月要來我們大學開始秋季學期。",
+      "keywords": [
+        "are coming",
+        "next month",
+        "未來的學期安排"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The project ",
+        null,
+        " this Friday, and we ",
+        null,
+        " a presentation that evening."
+      ],
+      "blanks": [
+        "is starting",
+        "are giving"
+      ],
+      "sentence": "The project is starting this Friday, and we are giving a presentation that evening.",
+      "translation": "專案這週五要開始，我們那天晚上要進行簡報。",
+      "keywords": [
+        "is starting",
+        "are giving",
+        "this Friday",
+        "連貫的未來計畫"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "leave",
+      "zh": "離開、出發"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "come",
+      "zh": "來、到來"
+    },
+    {
+      "adj": "go",
+      "zh": "去、前往"
+    },
+    {
+      "adj": "meet",
+      "zh": "見面、碰面"
+    },
+    {
+      "adj": "start",
+      "zh": "開始、啟動"
+    },
+    {
+      "adj": "next week",
+      "zh": "下週"
+    },
+    {
+      "adj": "tomorrow",
+      "zh": "明天"
+    },
+    {
+      "adj": "this weekend",
+      "zh": "這個週末"
+    },
+    {
+      "adj": "at 3 PM",
+      "zh": "下午3點"
+    },
+    {
+      "adj": "scheduled",
+      "zh": "已排定的、計畫好的"
+    },
+    {
+      "adj": "confirmed",
+      "zh": "已確認的、肯定的"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

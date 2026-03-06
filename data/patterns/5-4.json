@@ -1,0 +1,207 @@
+{
+  "code": "5-4",
+  "chapter": 5,
+  "title": "S + name/call/elect + O + N（受詞補語命名）",
+  "formulas": [
+    {
+      "formula": "S + name/call/elect/appoint/choose + O + N",
+      "zh": "主詞 + 命名/稱呼/選舉/任命/選擇 + 受詞 + 名詞（受詞補語）"
+    },
+    {
+      "formula": "S + be + called/named/elected/appointed/chosen + N (passive)",
+      "zh": "主詞 + 被 + 命名/稱呼/選舉/任命/選擇 + 名詞（被動式）"
+    }
+  ],
+  "explanation": "此句型使用命名、稱呼、選舉類動詞，後接受詞與名詞補語來說明受詞的身分或角色。受詞補語為名詞，表示被命名者、被選者或被任命者的身分。主要動詞包含name、call、elect、appoint、choose等。被動式時，受詞補語仍保留在述部。此句型常用於介紹人物身分、職位變更或正式任命場景，需注意補語名詞不加冠詞（當表職位時）或加冠詞（當表一般身分時）的差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The board appointed him director of the company last year.",
+      "chi": "董事會去年任命他為公司董事。",
+      "keywords": [
+        "appoint",
+        "director",
+        "受詞補語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "People called her the most talented pianist in the country.",
+      "chi": "人們稱她為全國最有才華的鋼琴家。",
+      "keywords": [
+        "call",
+        "pianist",
+        "稱呼"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The citizens elected John president of their organization.",
+      "chi": "公民選舉約翰為該組織的主席。",
+      "keywords": [
+        "elect",
+        "president",
+        "選舉"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "His parents named him Robert after his grandfather.",
+      "chi": "他的父母以他祖父的名字為他取名羅伯特。",
+      "keywords": [
+        "name",
+        "Robert",
+        "命名"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時需確認受詞補語是否為名詞而非形容詞。同時注意職位名詞前的冠詞：表特定職位（如 director）通常不加 a/the，但表身分描述（如 hero, genius）可加冠詞。被動轉換時，受詞補語位置不變，仍為述部補語。",
+    "examples": [
+      {
+        "test": "We elected him president. vs. We elected him the president.",
+        "result": "→ 第一句正確。職位名詞作補語不加冠詞；第二句不符合英文慣例。"
+      },
+      {
+        "test": "She was named Maria by her parents. vs. She was named a hero by the media.",
+        "result": "→ 兩句都正確。首句為取名，第二句表身分描述，可加冠詞。"
+      },
+      {
+        "test": "They chose John captain of the team. vs. They chose John as captain of the team.",
+        "result": "→ 兩句均可接受。前者為標準句型，後者加 as 亦可，但更強調轉換意義。"
+      }
+    ],
+    "note": "受詞 + 名詞補語 = 受詞的最終身分或角色，缺一不可；被動時主詞即為原受詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The committee ",
+        null,
+        " her chairwoman of the organization.",
+        ""
+      ],
+      "blanks": [
+        "appointed"
+      ],
+      "sentence": "The committee appointed her chairwoman of the organization.",
+      "translation": "委員會任命她為該組織的女主席。",
+      "keywords": [
+        "appoint",
+        "chairwoman",
+        "任命"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "This researcher is ",
+        null,
+        " the pioneer of modern biology by scientists worldwide.",
+        ""
+      ],
+      "blanks": [
+        "called"
+      ],
+      "sentence": "This researcher is called the pioneer of modern biology by scientists worldwide.",
+      "translation": "這位研究者被世界各地的科學家稱為現代生物學的先驅。",
+      "keywords": [
+        "called",
+        "pioneer",
+        "稱呼"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The voters ",
+        null,
+        " her their representative in parliament.",
+        ""
+      ],
+      "blanks": [
+        "elected"
+      ],
+      "sentence": "The voters elected her their representative in parliament.",
+      "translation": "選民選舉她為他們在議會的代表。",
+      "keywords": [
+        "elect",
+        "representative",
+        "選舉"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Her grandmother ",
+        null,
+        " her Emma, a name that carries family history.",
+        ""
+      ],
+      "blanks": [
+        "named"
+      ],
+      "sentence": "Her grandmother named her Emma, a name that carries family history.",
+      "translation": "她的祖母為她取名艾瑪，這個名字承載著家族歷史。",
+      "keywords": [
+        "named",
+        "Emma",
+        "命名"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "appoint",
+      "zh": "任命、委派"
+    },
+    {
+      "adj": "elect",
+      "zh": "選舉、選出"
+    },
+    {
+      "adj": "call",
+      "zh": "稱呼、叫做"
+    },
+    {
+      "adj": "name",
+      "zh": "取名、命名"
+    },
+    {
+      "adj": "choose",
+      "zh": "選擇、挑選"
+    },
+    {
+      "adj": "designate",
+      "zh": "指定、標記"
+    },
+    {
+      "adj": "declare",
+      "zh": "宣布、聲明"
+    },
+    {
+      "adj": "make",
+      "zh": "使成為、製成"
+    },
+    {
+      "adj": "president",
+      "zh": "主席、總統"
+    },
+    {
+      "adj": "director",
+      "zh": "主任、董事"
+    },
+    {
+      "adj": "manager",
+      "zh": "經理、管理員"
+    },
+    {
+      "adj": "champion",
+      "zh": "冠軍、擁護者"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

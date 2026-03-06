@@ -1,0 +1,209 @@
+{
+  "code": "5-22",
+  "chapter": 5,
+  "title": "S + used to + V（過去習慣）",
+  "formulas": [
+    {
+      "formula": "S + used to + V",
+      "zh": "主詞過去經常/曾經做某事，現在不再如此"
+    },
+    {
+      "formula": "Did + S + use to + V?",
+      "zh": "過去是否經常做某事的疑問句形式"
+    }
+  ],
+  "explanation": "used to 表達過去的習慣、經常性動作或已不存在的狀態，強調現在已改變。結構上，used to 後接原形動詞。否定形式為 didn't use to 或 used not to（較正式）。疑問句為 Did S use to V?。注意與 be used to + -ing（習慣於）區別：前者談過去習慣已改變，後者指現在已習慣某事。used to 通常需搭配過去時間副詞如 when I was young、in my childhood 等，以突顯時間對比。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I used to play basketball every day when I was in high school.",
+      "chi": "我高中時曾經每天打籃球。",
+      "keywords": [
+        "used to",
+        "過去習慣",
+        "時間對比"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She used to be afraid of heights, but now she enjoys rock climbing.",
+      "chi": "她曾經害怕高度，但現在她喜歡攀岩。",
+      "keywords": [
+        "used to",
+        "過去狀態",
+        "現在改變"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Did you use to live in Taipei before moving to Kaohsiung?",
+      "chi": "你搬到高雄前曾經住在台北嗎？",
+      "keywords": [
+        "Did...use to",
+        "疑問句",
+        "過去經驗"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "My grandfather didn't use to have a smartphone, but he learns it now.",
+      "chi": "我爺爺過去沒有用過智慧型手機，但現在他在學。",
+      "keywords": [
+        "didn't use to",
+        "否定",
+        "時間對比"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區別 used to 與 be used to：used to + V 談過去習慣已改變；be used to + -ing 談已習慣某事（現在仍持續）。另與 would 區別：would 表過去重複動作但無「現在改變」含義。used to 適合談習慣、狀態、職業等過去特徵。",
+    "examples": [
+      {
+        "test": "I used to smoke.",
+        "result": "→ 我曾經抽菸（現在不抽了）"
+      },
+      {
+        "test": "I am used to smoking.",
+        "result": "→ 我習慣於抽菸（現在仍在抽）"
+      },
+      {
+        "test": "He would visit me every weekend.",
+        "result": "→ 他過去每週末來訪（無現在對比意涵）"
+      }
+    ],
+    "note": "記住：used to = 過去的習慣或狀態，重點在「現在已改變」；be used to = 已習慣，強調「現在適應」。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " go to the library every Saturday, but now I prefer studying at home."
+      ],
+      "blanks": [
+        "used to"
+      ],
+      "sentence": "I used to go to the library every Saturday, but now I prefer studying at home.",
+      "translation": "我曾經每週六去圖書館，但現在我更喜歡在家裡讀書。",
+      "keywords": [
+        "used to",
+        "過去習慣",
+        "時間對比"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " you ",
+        null,
+        " drink coffee before sleeping?"
+      ],
+      "blanks": [
+        "Did",
+        "use to"
+      ],
+      "sentence": "Did you use to drink coffee before sleeping?",
+      "translation": "你曾經睡前喝咖啡嗎？",
+      "keywords": [
+        "Did...use to",
+        "疑問句",
+        "過去習慣"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "My mother ",
+        null,
+        " make homemade bread, but she is too busy now."
+      ],
+      "blanks": [
+        "used to"
+      ],
+      "sentence": "My mother used to make homemade bread, but she is too busy now.",
+      "translation": "我媽媽曾經做自製麵包，但她現在太忙了。",
+      "keywords": [
+        "used to",
+        "過去習慣",
+        "現在改變"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "They ",
+        null,
+        " not ",
+        null,
+        " eat meat, but they are vegetarian now."
+      ],
+      "blanks": [
+        "did",
+        "use to"
+      ],
+      "sentence": "They did not use to eat meat, but they are vegetarian now.",
+      "translation": "他們過去不吃肉，但他們現在是素食者。",
+      "keywords": [
+        "didn't use to",
+        "否定",
+        "狀態改變"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "when I was young",
+      "zh": "當我年輕時"
+    },
+    {
+      "adj": "in my childhood",
+      "zh": "在我的童年"
+    },
+    {
+      "adj": "a long time ago",
+      "zh": "很久以前"
+    },
+    {
+      "adj": "every day / week",
+      "zh": "每天/每週"
+    },
+    {
+      "adj": "frequently",
+      "zh": "經常地"
+    },
+    {
+      "adj": "often",
+      "zh": "常常"
+    },
+    {
+      "adj": "always",
+      "zh": "總是"
+    },
+    {
+      "adj": "rarely",
+      "zh": "很少"
+    },
+    {
+      "adj": "seldom",
+      "zh": "難得"
+    },
+    {
+      "adj": "regularly",
+      "zh": "規律地"
+    },
+    {
+      "adj": "habitually",
+      "zh": "習慣性地"
+    },
+    {
+      "adj": "in those days",
+      "zh": "在那些日子裡"
+    }
+  ],
+  "vocab_table_label": "常用時間表達"
+}

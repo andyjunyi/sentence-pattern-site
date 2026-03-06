@@ -1,0 +1,207 @@
+{
+  "code": "4-21",
+  "chapter": 4,
+  "title": "疑問詞 + to V（不定詞名詞片語）",
+  "formulas": [
+    {
+      "formula": "疑問詞 (what/how/where/when/which/whether) + to V",
+      "zh": "疑問詞加不定詞組成名詞片語，表達「做什麼、如何做、在哪裡做、何時做、選擇哪一個、是否做」等含義"
+    },
+    {
+      "formula": "疑問詞 + to V ≈ 疑問詞 + S + should + V (名詞子句)",
+      "zh": "兩種結構在意義上等價，但不定詞結構更簡潔且不涉及主語"
+    }
+  ],
+  "explanation": "疑問詞加不定詞形成名詞片語，可作動詞受詞、介詞受詞或主詞。此結構等同於「疑問詞+應助動詞+V」的名詞子句，但更簡潔。特別注意：whether to V表「是否要做某事」；what to V、how to V等直接表達動作內容。此結構常見於decide、know、explain、wonder等動詞後，適用於高中學測程度文章。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She didn't know what to wear to the formal dinner party.",
+      "chi": "她不知道要穿什麼衣服去參加那場正式晚宴。",
+      "keywords": [
+        "what to wear",
+        "受詞",
+        "不知道"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The teacher explained how to solve the complicated math problem clearly.",
+      "chi": "老師清楚地解釋了如何解決那個複雜的數學問題。",
+      "keywords": [
+        "how to solve",
+        "受詞",
+        "解釋"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Whether to accept the job offer was a difficult decision for him.",
+      "chi": "是否要接受工作邀請對他來說是個困難的決定。",
+      "keywords": [
+        "whether to accept",
+        "主詞",
+        "決定"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "I'm still confused about when to submit my application form.",
+      "chi": "我仍然困惑於何時要提交我的申請表。",
+      "keywords": [
+        "when to submit",
+        "介詞受詞",
+        "困惑"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵是辨識疑問詞後直接跟不定詞（無主語、無助動詞should）。若疑問詞後有完整S+V結構，應使用名詞子句而非此句型。whether to V常表「要不要……」的二選一意義；what/how/where等則表達具體動作內容。",
+    "examples": [
+      {
+        "test": "誤：I know what should I do. / 正：I know what to do.",
+        "result": "→ 不定詞結構不含助動詞should或主詞I，結構更簡潔"
+      },
+      {
+        "test": "I'm uncertain whether to go or stay. / I'm uncertain whether I should go or stay.",
+        "result": "→ 兩句意義相同，但不定詞版本更常用於日常英文"
+      },
+      {
+        "test": "She explained how to make the cake. / She explained what ingredients to use.",
+        "result": "→ 疑問詞搭配不同動詞，整體作受詞，結構不變"
+      }
+    ],
+    "note": "疑問詞+to V=疑問詞+should+V的簡潔版本，記住此結構無須出現S+should"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I still don't know ",
+        null,
+        " for my best friend's wedding next month.",
+        ""
+      ],
+      "blanks": [
+        "what to wear"
+      ],
+      "sentence": "I still don't know what to wear for my best friend's wedding next month.",
+      "translation": "我仍然不知道下個月要穿什麼衣服去參加我最好朋友的婚禮。",
+      "keywords": [
+        "what to wear",
+        "受詞",
+        "don't know"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The manager explained ",
+        null,
+        " the new software system to all employees.",
+        ""
+      ],
+      "blanks": [
+        "how to use"
+      ],
+      "sentence": "The manager explained how to use the new software system to all employees.",
+      "translation": "經理向所有員工解釋了如何使用新的軟體系統。",
+      "keywords": [
+        "how to use",
+        "受詞",
+        "explained"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " the summer internship was a tough choice for the high school graduate.",
+        ""
+      ],
+      "blanks": [
+        "Whether to accept"
+      ],
+      "sentence": "Whether to accept the summer internship was a tough choice for the high school graduate.",
+      "translation": "是否要接受暑期實習對那位高中畢業生來說是個艱難的選擇。",
+      "keywords": [
+        "Whether to accept",
+        "主詞",
+        "tough choice"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "I'm confused about ",
+        null,
+        " the chemistry exam, so I asked the teacher for help.",
+        ""
+      ],
+      "blanks": [
+        "when to prepare for"
+      ],
+      "sentence": "I'm confused about when to prepare for the chemistry exam, so I asked the teacher for help.",
+      "translation": "我對何時要為化學考試做準備感到困惑，所以我向老師尋求幫助。",
+      "keywords": [
+        "when to prepare for",
+        "介詞受詞",
+        "confused about"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "learn",
+      "zh": "學習、了解"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、懷疑"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "confused",
+      "zh": "困惑的"
+    },
+    {
+      "adj": "uncertain",
+      "zh": "不確定的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "unsure",
+      "zh": "不確定"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴、說明"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "7-1",
+  "chapter": 7,
+  "title": "V-ing / p.p. 作形容詞修飾名詞",
+  "formulas": [
+    {
+      "formula": "V-ing + N（主動/進行）",
+      "zh": "現在分詞修飾名詞，表示名詞正在進行的動作或主動性質"
+    },
+    {
+      "formula": "p.p. + N（被動/完成）",
+      "zh": "過去分詞修飾名詞，表示名詞所承受的動作或完成的狀態"
+    }
+  ],
+  "explanation": "分詞作形容詞修飾名詞時，單個分詞通常前置於名詞，分詞片語則後置修飾。V-ing表主動或進行中的動作（如 a running boy 正在跑步的男孩），p.p.表被動或已完成的動作（如 a broken window 破損的窗戶）。此句型常見於學測閱讀與寫作，須注意分詞的邏輯主語與名詞的一致性，區分前置單詞與後置片語的位置差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The sleeping child looked peaceful and innocent in the warm sunlight.",
+      "chi": "那個正在睡覺的孩子在溫暖陽光下看起來平靜而無辜。",
+      "keywords": [
+        "sleeping child",
+        "V-ing前置",
+        "進行中的狀態"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The abandoned dog found in the shelter was adopted by a kind family yesterday.",
+      "chi": "在收容所發現的被遺棄狗狗昨天被一個善心家庭領養了。",
+      "keywords": [
+        "abandoned dog",
+        "p.p.前置",
+        "被動/完成"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Students studying for the exam realized that time management was crucial for success.",
+      "chi": "正在為考試準備的學生們意識到時間管理對成功至關重要。",
+      "keywords": [
+        "studying for the exam",
+        "V-ing片語後置",
+        "進行中的動作"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The damaged buildings caused by the earthquake were carefully reconstructed over five years.",
+      "chi": "地震造成的受損建築物在五年內被仔細重建。",
+      "keywords": [
+        "damaged buildings",
+        "p.p.片語後置",
+        "被動狀態"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分主被動：V-ing表名詞主動執行動作（a reading student 正在讀書的學生），p.p.表名詞被動接受動作（a read book 被讀過的書）。判斷時問「名詞是否主動做這件事」，若是用V-ing，若被動接受則用p.p.。注意片語長度決定位置：簡短用前置，複雜用後置。",
+    "examples": [
+      {
+        "test": "a crying baby vs. a cried baby",
+        "result": "→ crying baby正確（嬰兒在哭）；cried baby不自然，p.p.用於如a beaten baby（被毆打的嬰兒）等被動狀態"
+      },
+      {
+        "test": "a walking man vs. a walked path",
+        "result": "→ walking man正確（男人正在走路）；walked path不常用，應用walked-on path或well-trodden path表示被踩過的小徑"
+      },
+      {
+        "test": "students studying hard vs. problems solved carefully",
+        "result": "→ 前者V-ing片語後置（學生正努力讀書），後者p.p.片語後置（問題被仔細解決），兩者邏輯主語與名詞一致"
+      }
+    ],
+    "note": "記住：V-ing=主動進行中，p.p.=被動已完成，分詞位置看複雜度，短詞前置長片語後置。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The ",
+        null,
+        " girl waved goodbye to her family at the airport."
+      ],
+      "blanks": [
+        "departing"
+      ],
+      "sentence": "The departing girl waved goodbye to her family at the airport.",
+      "translation": "那個正在離開的女孩在機場向她的家人揮手告別。",
+      "keywords": [
+        "departing",
+        "V-ing前置",
+        "進行中的動作"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The ancient vase ",
+        null,
+        " during the archaeological dig was carefully preserved in the museum."
+      ],
+      "blanks": [
+        "discovered"
+      ],
+      "sentence": "The ancient vase discovered during the archaeological dig was carefully preserved in the museum.",
+      "translation": "在考古挖掘中被發現的古代花瓶在博物館裡被小心保護。",
+      "keywords": [
+        "discovered",
+        "p.p.片語後置",
+        "被動完成"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The ",
+        null,
+        " children played happily in the park all afternoon."
+      ],
+      "blanks": [
+        "laughing"
+      ],
+      "sentence": "The laughing children played happily in the park all afternoon.",
+      "translation": "那些正在笑的孩子們整個下午都在公園裡開心地玩耍。",
+      "keywords": [
+        "laughing children",
+        "V-ing前置",
+        "進行中的狀態"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The documents ",
+        null,
+        " in the fire were considered lost forever until someone recovered them."
+      ],
+      "blanks": [
+        "burned"
+      ],
+      "sentence": "The documents burned in the fire were considered lost forever until someone recovered them.",
+      "translation": "在火災中被燒毀的文件被認為永久丟失了，直到有人發現它們。",
+      "keywords": [
+        "burned documents",
+        "p.p.片語後置",
+        "被動狀態"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "sleeping",
+      "zh": "正在睡覺的、沉睡中的"
+    },
+    {
+      "adj": "running",
+      "zh": "正在跑步的、奔跑中的"
+    },
+    {
+      "adj": "broken",
+      "zh": "破裂的、損壞的"
+    },
+    {
+      "adj": "abandoned",
+      "zh": "被遺棄的、廢棄的"
+    },
+    {
+      "adj": "damaged",
+      "zh": "受損的、被破壞的"
+    },
+    {
+      "adj": "stolen",
+      "zh": "被偷竊的、失竊的"
+    },
+    {
+      "adj": "exciting",
+      "zh": "令人興奮的、激動人心的"
+    },
+    {
+      "adj": "disappointed",
+      "zh": "失望的、沮喪的"
+    },
+    {
+      "adj": "burned",
+      "zh": "被燒毀的、焦焦的"
+    },
+    {
+      "adj": "flying",
+      "zh": "飛行中的、翱翔的"
+    },
+    {
+      "adj": "finished",
+      "zh": "已完成的、結束的"
+    },
+    {
+      "adj": "growing",
+      "zh": "正在生長的、發展中的"
+    }
+  ],
+  "vocab_table_label": "常用分詞形容詞"
+}

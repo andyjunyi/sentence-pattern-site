@@ -1,0 +1,203 @@
+{
+  "code": "6-14",
+  "chapter": 6,
+  "title": "S + look forward to + V-ing",
+  "formulas": [
+    {
+      "formula": "S + look forward to + V-ing",
+      "zh": "主語期待/盼望做某事"
+    },
+    {
+      "formula": "S + be + committed/dedicated/opposed/used + to + V-ing",
+      "zh": "主語致力於/專注於/反對/習慣於做某事"
+    }
+  ],
+  "explanation": "「look forward to」為片語動詞，to 為介系詞而非不定詞標記符，後接動名詞（V-ing）。用於表達期待或渴望某事物的到來。類似句型包括 be committed to、be dedicated to、be opposed to、be used to 等，這些片語中的 to 均為介系詞，後接 V-ing 形式。常見於日常對話和正式文體，表示積極的心理狀態或習慣性行為。注意：不可用 look forward for 或 look forward doing；to 後必須加動名詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I am looking forward to hearing from you soon.",
+      "chi": "我期待不久後收到你的消息。",
+      "keywords": [
+        "look forward to",
+        "hearing from",
+        "動名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The students are looking forward to having summer vacation next month.",
+      "chi": "學生們期待下個月放暑假。",
+      "keywords": [
+        "look forward to",
+        "having",
+        "vacation"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "She is committed to improving her English skills through daily practice.",
+      "chi": "她致力於透過日常練習來提升英文能力。",
+      "keywords": [
+        "committed to",
+        "improving",
+        "介系詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "We are used to waking up early in the morning for work.",
+      "chi": "我們習慣於早上早起上班。",
+      "keywords": [
+        "used to",
+        "waking up",
+        "習慣"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵在於「to」的詞性。若 to 前為 look forward、committed、dedicated、opposed、used 等詞，to 為介系詞，必接 V-ing。不可誤認為不定詞而用 V 形。容易混淆的是 want/hope + to + V（此處 to 為不定詞標記符）。記住介系詞後永遠加 V-ing。",
+    "examples": [
+      {
+        "test": "❌ I look forward to hear the news.",
+        "result": "→ ✓ I look forward to hearing the news.（to 為介系詞，需用 V-ing）"
+      },
+      {
+        "test": "❌ She is committed to work harder.",
+        "result": "→ ✓ She is committed to working harder.（介系詞 to 後接動名詞）"
+      },
+      {
+        "test": "✓ I hope to receive your reply soon.",
+        "result": "→ 此句 to 為不定詞標記符（hope + to + V），與 look forward to 結構不同"
+      }
+    ],
+    "note": "介系詞 to 後必加 V-ing，記住「look forward to + V-ing」的黃金組合，同類詞彙也遵循此規則。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The whole family is ",
+        null,
+        " the annual reunion this winter."
+      ],
+      "blanks": [
+        "looking forward to"
+      ],
+      "sentence": "The whole family is looking forward to the annual reunion this winter.",
+      "translation": "整個家族期待今年冬天的年度聚會。",
+      "keywords": [
+        "look forward to",
+        "reunion",
+        "期待"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Our company is ",
+        null,
+        " more products to the international market next year."
+      ],
+      "blanks": [
+        "committed to launching"
+      ],
+      "sentence": "Our company is committed to launching more products to the international market next year.",
+      "translation": "我們公司致力於明年向國際市場推出更多產品。",
+      "keywords": [
+        "committed to",
+        "launching",
+        "致力於"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I have never been ",
+        null,
+        " in such a hot climate, but I'm trying to adapt."
+      ],
+      "blanks": [
+        "used to living"
+      ],
+      "sentence": "I have never been used to living in such a hot climate, but I'm trying to adapt.",
+      "translation": "我從未習慣於在如此炎熱的氣候中生活，但我正在努力適應。",
+      "keywords": [
+        "used to",
+        "living",
+        "習慣於"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Many citizens are ",
+        null,
+        " the new environmental protection policies implemented by the government."
+      ],
+      "blanks": [
+        "opposed to supporting"
+      ],
+      "sentence": "Many citizens are opposed to supporting the new environmental protection policies implemented by the government.",
+      "translation": "許多市民反對政府實施的新環保政策。",
+      "keywords": [
+        "opposed to",
+        "supporting",
+        "反對"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "excited",
+      "zh": "興奮的"
+    },
+    {
+      "adj": "eager",
+      "zh": "渴望的"
+    },
+    {
+      "adj": "anxious",
+      "zh": "急不可待的"
+    },
+    {
+      "adj": "thrilled",
+      "zh": "非常高興的"
+    },
+    {
+      "adj": "delighted",
+      "zh": "欣喜的"
+    },
+    {
+      "adj": "keen",
+      "zh": "熱心的"
+    },
+    {
+      "adj": "anticipating",
+      "zh": "預期的"
+    },
+    {
+      "adj": "awaiting",
+      "zh": "等待的"
+    },
+    {
+      "adj": "desperate",
+      "zh": "絕望地期待"
+    },
+    {
+      "adj": "impatient",
+      "zh": "不耐煩的"
+    },
+    {
+      "adj": "hopeful",
+      "zh": "充滿希望的"
+    },
+    {
+      "adj": "unsure",
+      "zh": "不確定的"
+    }
+  ],
+  "vocab_table_label": "表期待的形容詞"
+}

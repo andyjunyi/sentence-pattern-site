@@ -1,0 +1,210 @@
+{
+  "code": "6-5",
+  "chapter": 6,
+  "title": "S + V + to V 或 V-ing（兩者皆可）",
+  "formulas": [
+    {
+      "formula": "S + like/start/begin/continue/try/remember/stop + to V",
+      "zh": "主詞 + 動詞 + 不定詞"
+    },
+    {
+      "formula": "S + like/start/begin/continue/try/remember/stop + V-ing",
+      "zh": "主詞 + 動詞 + 動名詞"
+    }
+  ],
+  "explanation": "此句型涵蓋可接不定詞或動名詞的動詞。某些動詞（like, start, begin, continue）接兩種形式意思相同；某些動詞（remember, forget, stop, try）接兩種形式意思差異大。remember to V表「記得要去做」，remember V-ing表「記得曾經做過」；stop to V表「停下來去做」，stop V-ing表「停止做某事」。使用時須注意語境判斷動詞後應用何種形式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I like reading novels because they help me relax after school.",
+      "chi": "我喜歡讀小說，因為它們幫助我在放學後放鬆。",
+      "keywords": [
+        "like",
+        "reading",
+        "動名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She remembered to bring her passport when traveling abroad last summer.",
+      "chi": "她在去年夏天出國旅遊時記得帶上護照。",
+      "keywords": [
+        "remember to",
+        "不定詞",
+        "記得要去做"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He stopped smoking to improve his health and fitness.",
+      "chi": "他戒菸以改善他的健康和體能。",
+      "keywords": [
+        "stop",
+        "V-ing",
+        "停止做某事"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "We started to learn about environmental protection in primary school.",
+      "chi": "我們從小學開始學習關於環境保護的知識。",
+      "keywords": [
+        "start to",
+        "不定詞",
+        "開始"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：remember/forget/stop 接不定詞或動名詞時意思差異最大。remember to V=記得去做（未做），remember V-ing=記得曾做（已做）。stop to V=停下來去做另一事，stop V-ing=停止正在做的事。context決定選擇。",
+    "examples": [
+      {
+        "test": "I remembered to call my mother. vs I remembered calling my mother.",
+        "result": "→ 前者：我記得(要)打給媽媽（可能還未打）；後者：我記得打過給媽媽（已打過）"
+      },
+      {
+        "test": "He stopped to chat with his friend. vs He stopped chatting with his friend.",
+        "result": "→ 前者：他停下來與朋友聊天（做新動作）；後者：他停止與朋友聊天（終止動作）"
+      },
+      {
+        "test": "She tried to open the door. vs She tried opening the door.",
+        "result": "→ 前者：她試圖打開門（嘗試一次）；後者：她試著打開門（嘗試不同方法）"
+      }
+    ],
+    "note": "remember/forget/stop 意思變：to V=未來/未做，V-ing=過去/已做；like/start/continue 意思同：兩者可互換。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I prefer ",
+        null,
+        " to watching television in my free time.",
+        " "
+      ],
+      "blanks": [
+        "reading"
+      ],
+      "sentence": "I prefer reading to watching television in my free time.",
+      "translation": "在空閒時間裡，我喜歡看書而不喜歡看電視。",
+      "keywords": [
+        "prefer",
+        "V-ing",
+        "對比"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She forgot ",
+        null,
+        " her keys at home yesterday.",
+        " "
+      ],
+      "blanks": [
+        "to bring",
+        "to take"
+      ],
+      "sentence": "She forgot to bring her keys at home yesterday.",
+      "translation": "她昨天忘記帶鑰匙在家。",
+      "keywords": [
+        "forgot to",
+        "不定詞",
+        "記得要去做"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The children continued ",
+        null,
+        " their homework even though it was late.",
+        " "
+      ],
+      "blanks": [
+        "doing",
+        "to do"
+      ],
+      "sentence": "The children continued doing their homework even though it was late.",
+      "translation": "儘管很晚了，孩子們仍繼續做功課。",
+      "keywords": [
+        "continued",
+        "V-ing",
+        "繼續"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "He tried ",
+        null,
+        " the engine, but it wouldn't start.",
+        " "
+      ],
+      "blanks": [
+        "to start",
+        "starting"
+      ],
+      "sentence": "He tried to start the engine, but it wouldn't start.",
+      "translation": "他試圖啟動引擎，但它就是不動。",
+      "keywords": [
+        "tried to",
+        "不定詞",
+        "嘗試"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "like",
+      "zh": "喜歡"
+    },
+    {
+      "adj": "start",
+      "zh": "開始"
+    },
+    {
+      "adj": "begin",
+      "zh": "開始"
+    },
+    {
+      "adj": "continue",
+      "zh": "繼續"
+    },
+    {
+      "adj": "try",
+      "zh": "嘗試"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記"
+    },
+    {
+      "adj": "stop",
+      "zh": "停止"
+    },
+    {
+      "adj": "prefer",
+      "zh": "更喜歡"
+    },
+    {
+      "adj": "hesitate",
+      "zh": "猶豫"
+    },
+    {
+      "adj": "fail",
+      "zh": "未能"
+    },
+    {
+      "adj": "attempt",
+      "zh": "企圖"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

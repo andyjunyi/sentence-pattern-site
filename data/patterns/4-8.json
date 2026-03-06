@@ -1,0 +1,209 @@
+{
+  "code": "4-8",
+  "chapter": 4,
+  "title": "S + V + prep. + which/whom + S + V（介系詞 + 關係代名詞）",
+  "formulas": [
+    {
+      "formula": "N + prep. + which + S + V (修飾物)",
+      "zh": "名詞 + 介系詞 + which + 主詞 + 動詞（關係代名詞前置介系詞，修飾事物）"
+    },
+    {
+      "formula": "N + prep. + whom + S + V (修飾人)",
+      "zh": "名詞 + 介系詞 + whom + 主詞 + 動詞（關係代名詞前置介系詞，修飾人物）"
+    }
+  ],
+  "explanation": "此句型為正式書面英文，介系詞置於關係代名詞前，即 prep. + which/whom 形式。修飾物體用 which，修飾人物用 whom。此為 of/in/with/about/on 等介系詞 + which/whom 之組合，語氣較口語的「S + V + prep.」結構更正式。關鍵在正確判斷先行詞性質（人或物），選用正確代名詞，並掌握介系詞搭配。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The book in which he is interested is a bestseller.",
+      "chi": "他感興趣的那本書是一本暢銷書。",
+      "keywords": [
+        "in which",
+        "介系詞前置",
+        "修飾物"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The professor with whom I studied graduated from Harvard.",
+      "chi": "我與其一起學習的那位教授畢業於哈佛大學。",
+      "keywords": [
+        "with whom",
+        "介系詞前置",
+        "修飾人"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company for which she works has expanded its operations.",
+      "chi": "她工作的那家公司已經擴展了業務。",
+      "keywords": [
+        "for which",
+        "正式書面用法",
+        "修飾物"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The students about whom the teacher spoke achieved excellent results.",
+      "chi": "老師提到的那些學生取得了優異的成績。",
+      "keywords": [
+        "about whom",
+        "介系詞前置",
+        "修飾人"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interested",
+      "zh": "感興趣的"
+    },
+    {
+      "adj": "concerned",
+      "zh": "相關的；關心的"
+    },
+    {
+      "adj": "aware",
+      "zh": "意識到的"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責的"
+    },
+    {
+      "adj": "grateful",
+      "zh": "感謝的"
+    },
+    {
+      "adj": "familiar",
+      "zh": "熟悉的"
+    },
+    {
+      "adj": "known",
+      "zh": "已知的"
+    },
+    {
+      "adj": "based",
+      "zh": "根據的；基於的"
+    },
+    {
+      "adj": "proud",
+      "zh": "驕傲的"
+    },
+    {
+      "adj": "excited",
+      "zh": "興奮的"
+    },
+    {
+      "adj": "certain",
+      "zh": "確定的"
+    },
+    {
+      "adj": "typical",
+      "zh": "典型的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 which 或 whom 的關鍵：先確認先行詞是人還是物。若先行詞為人，用 whom；為物，用 which。介系詞選擇應依據動詞或形容詞搭配，如 interested in、responsible for、proud of 等。",
+    "examples": [
+      {
+        "test": "The tool with which she built the house → (正式)",
+        "result": "→ 正確。which 修飾物體 tool，介系詞 with 前置"
+      },
+      {
+        "test": "The man to which I spoke → (錯誤)",
+        "result": "→ 應改為 to whom I spoke，先行詞 man 為人，用 whom"
+      },
+      {
+        "test": "She works for the company about which she is excited → (正式)",
+        "result": "→ 正確。which 修飾 company，about 是固定搭配"
+      }
+    ],
+    "note": "記憶口訣：人用 whom，物用 which，介系詞緊跟關係代名詞前，正式書面不可變。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The research project ",
+        null,
+        " they dedicated five years is finally complete.",
+        null
+      ],
+      "blanks": [
+        "to which",
+        null
+      ],
+      "sentence": "The research project to which they dedicated five years is finally complete.",
+      "translation": "他們投入五年心力的那個研究項目終於完成了。",
+      "keywords": [
+        "to which",
+        "修飾物",
+        "介系詞前置"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The journalist ",
+        null,
+        " the government spoke yesterday reported important findings.",
+        null
+      ],
+      "blanks": [
+        "to whom",
+        null
+      ],
+      "sentence": "The journalist to whom the government spoke yesterday reported important findings.",
+      "translation": "政府昨天和其談話的那位記者報導了重要發現。",
+      "keywords": [
+        "to whom",
+        "修飾人",
+        "介系詞前置"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The invention ",
+        null,
+        " modern technology is based has revolutionized industry.",
+        null
+      ],
+      "blanks": [
+        "on which",
+        null
+      ],
+      "sentence": "The invention on which modern technology is based has revolutionized industry.",
+      "translation": "現代技術所基於的那項發明已經改變了工業。",
+      "keywords": [
+        "on which",
+        "修飾物",
+        "正式書面"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The athletes ",
+        null,
+        " the coach is proud achieved Olympic medals.",
+        null
+      ],
+      "blanks": [
+        "of whom",
+        null
+      ],
+      "sentence": "The athletes of whom the coach is proud achieved Olympic medals.",
+      "translation": "教練為之驕傲的那些運動員獲得了奧運獎牌。",
+      "keywords": [
+        "of whom",
+        "修飾人",
+        "proud of 搭配"
+      ]
+    }
+  ]
+}

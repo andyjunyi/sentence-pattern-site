@@ -1,0 +1,203 @@
+{
+  "code": "5-14",
+  "chapter": 5,
+  "title": "S + make/let/have + O + V原形（使役動詞）",
+  "formulas": [
+    {
+      "formula": "make/let/have + O + 原形V",
+      "zh": "使役動詞後接受詞加原形動詞，表強迫、允許或委託"
+    },
+    {
+      "formula": "be made + to V（make的被動式）",
+      "zh": "make被動時需改為to V，其他兩個動詞被動式仍為原形V"
+    }
+  ],
+  "explanation": "使役動詞用於表示讓他人執行某動作。make表強迫或致使（帶有強制性），let表允許或准許（表自由），have表委託或吩咐（較正式）。三者後均接原形動詞。注意：make改為被動式時必須加to成為be made to V，但let和have的被動式仍保持原形。此為學測常考重點，易與被動語態混淆。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher made the students rewrite their essays more carefully.",
+      "chi": "老師強迫學生更仔細地重寫他們的文章。",
+      "keywords": [
+        "make",
+        "強迫",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Her parents let her attend the concert last weekend.",
+      "chi": "她的父母允許她上周末參加音樂會。",
+      "keywords": [
+        "let",
+        "允許",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I had my mechanic repair my car before the trip.",
+      "chi": "我委託機修工在出遊前修理我的車。",
+      "keywords": [
+        "have",
+        "委託",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The strict coach was made to apologize for his harsh words to the team.",
+      "chi": "那位嚴格的教練被迫為對球隊的刺耳言語道歉。",
+      "keywords": [
+        "be made to",
+        "被動式",
+        "to V"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "make被動時必須加to，是最常見錯誤。記住：主動make → 被動be made to。其他動詞let和have的被動式仍保持原形。判斷時先看使役動詞，再觀察後面動詞形式，確認是否為被動語態以決定是否加to。",
+    "examples": [
+      {
+        "test": "The general made the soldiers advance.",
+        "result": "→ 主動：make + O + 原形V。被動改為：The soldiers were made to advance by the general.（必須加to）"
+      },
+      {
+        "test": "Let him go home early today.",
+        "result": "→ let表允許，被動式為：He was let go home early.（保持原形，不加to）"
+      },
+      {
+        "test": "I have the worker paint the fence.",
+        "result": "→ have表委託，被動式為：The fence was had painted.（較少用被動，但保持原形）"
+      }
+    ],
+    "note": "Make被動加to，Let和Have被動保原形；一個強迫兩個溫和（Let自由，Have委託）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The coach ",
+        null,
+        " the players run ten laps every morning."
+      ],
+      "blanks": [
+        "has"
+      ],
+      "sentence": "The coach has the players run ten laps every morning.",
+      "translation": "教練每天早上讓球員跑十圈。",
+      "keywords": [
+        "have",
+        "委託",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The cruel king ",
+        null,
+        " the prisoners work in the mines without rest."
+      ],
+      "blanks": [
+        "made"
+      ],
+      "sentence": "The cruel king made the prisoners work in the mines without rest.",
+      "translation": "殘暴的國王強迫囚犯在礦場不停地工作。",
+      "keywords": [
+        "make",
+        "強迫",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Her mother ",
+        null,
+        " her stay out past midnight on weekends."
+      ],
+      "blanks": [
+        "lets"
+      ],
+      "sentence": "Her mother lets her stay out past midnight on weekends.",
+      "translation": "她的母親允許她在週末過午夜後才回家。",
+      "keywords": [
+        "let",
+        "允許",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The company was ",
+        null,
+        " provide better working conditions for all employees."
+      ],
+      "blanks": [
+        "made to"
+      ],
+      "sentence": "The company was made to provide better working conditions for all employees.",
+      "translation": "該公司被迫為所有員工提供更好的工作條件。",
+      "keywords": [
+        "be made to",
+        "被動式",
+        "to V"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "make",
+      "zh": "強迫、致使（帶強制意味）"
+    },
+    {
+      "adj": "let",
+      "zh": "允許、准許（表自由意願）"
+    },
+    {
+      "adj": "have",
+      "zh": "委託、吩咐（較正式用途）"
+    },
+    {
+      "adj": "原形動詞",
+      "zh": "不加to的動詞原形"
+    },
+    {
+      "adj": "主動句",
+      "zh": "使役者主動表達意圖"
+    },
+    {
+      "adj": "被動句",
+      "zh": "被使役者為主語"
+    },
+    {
+      "adj": "强制性",
+      "zh": "make特有的強迫特徵"
+    },
+    {
+      "adj": "自願性",
+      "zh": "let特有的允許特徵"
+    },
+    {
+      "adj": "受詞",
+      "zh": "被使役的人或物"
+    },
+    {
+      "adj": "過去式",
+      "zh": "動作已完成的時態"
+    },
+    {
+      "adj": "使役關係",
+      "zh": "主詞與受詞間的指使關係"
+    },
+    {
+      "adj": "to V",
+      "zh": "make被動時的特殊形式"
+    }
+  ],
+  "vocab_table_label": "常用使役動詞"
+}

@@ -1,0 +1,203 @@
+{
+  "code": "7-2",
+  "chapter": 7,
+  "title": "There + be + N + V-ing/p.p.（存在句 + 分詞）",
+  "formulas": [
+    {
+      "formula": "There + be + N + V-ing",
+      "zh": "存在某物正在進行某動作（主動分詞作後位修飾）"
+    },
+    {
+      "formula": "There + be + N + p.p.",
+      "zh": "存在某物被執行某動作（過去分詞作後位修飾）"
+    }
+  ],
+  "explanation": "此句型在存在句中，於名詞後接分詞片語作補語或後位修飾。V-ing表示該名詞主動執行某動作，p.p.表示該名詞被動接受某動作。分詞與名詞的主被動關係決定使用主動或被動形式。結構為：There be + 名詞 + 分詞片語。使用時機為描述存在之物的動態狀態或特性。易混淆點：需判斷名詞與分詞的邏輯關係，而非句子整體的時態。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "There are several students waiting outside the classroom for the teacher.",
+      "chi": "教室外有好幾位學生在等老師。",
+      "keywords": [
+        "There are",
+        "waiting",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "There is a broken window in the old building that needs to be repaired.",
+      "chi": "那棟老建築裡有一扇破損的窗戶需要修理。",
+      "keywords": [
+        "There is",
+        "broken",
+        "過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "There were many tourists visiting the museum during the summer holidays.",
+      "chi": "暑假期間有許多遊客在參觀博物館。",
+      "keywords": [
+        "There were",
+        "visiting",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "There is a lot of work to be done before the deadline arrives.",
+      "chi": "在截止日期前有很多工作需要完成。",
+      "keywords": [
+        "There is",
+        "to be done",
+        "被動結構"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷分詞類型的關鍵：名詞與分詞間若為主動關係（名詞執行動作），用V-ing；若為被動關係（名詞被執行動作），用p.p.。例如：students waiting（學生在等）vs. window broken（窗戶被破損）。避免混淆be動詞的時態與分詞的選擇。",
+    "examples": [
+      {
+        "test": "There are children playing in the park. vs. There are children played in the park.",
+        "result": "→ 正確：playing（孩子主動在玩）。錯誤：played（文法不當，過去分詞不能作此用）"
+      },
+      {
+        "test": "There is a book written by Shakespeare. vs. There is a book writing by Shakespeare.",
+        "result": "→ 正確：written（書被莎翁寫的，過去分詞）。錯誤：writing（邏輯不符）"
+      },
+      {
+        "test": "There were cars parked on the street all night.",
+        "result": "→ 正確：parked（車被停放，過去分詞表被動狀態）"
+      }
+    ],
+    "note": "名詞主動用V-ing，名詞被動用p.p.；分詞選擇看名詞與動詞的邏輯關係。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "There are many birds ",
+        null,
+        " on the tree branch right now."
+      ],
+      "blanks": [
+        "singing"
+      ],
+      "sentence": "There are many birds singing on the tree branch right now.",
+      "translation": "現在樹枝上有許多鳥兒在唱歌。",
+      "keywords": [
+        "There are",
+        "singing",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "There is a lot of homework ",
+        null,
+        " by the students this week."
+      ],
+      "blanks": [
+        "assigned"
+      ],
+      "sentence": "There is a lot of homework assigned by the students this week.",
+      "translation": "這週有很多老師指派給學生的家庭作業。",
+      "keywords": [
+        "There is",
+        "assigned",
+        "過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "There were several cars ",
+        null,
+        " outside the hotel when we arrived."
+      ],
+      "blanks": [
+        "waiting"
+      ],
+      "sentence": "There were several cars waiting outside the hotel when we arrived.",
+      "translation": "我們到達時，飯店外有幾輛車在等候。",
+      "keywords": [
+        "There were",
+        "waiting",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "There are some documents ",
+        null,
+        " on the manager's desk that need approval."
+      ],
+      "blanks": [
+        "scattered"
+      ],
+      "sentence": "There are some documents scattered on the manager's desk that need approval.",
+      "translation": "經理桌上有一些散落的文件需要核准。",
+      "keywords": [
+        "There are",
+        "scattered",
+        "過去分詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "waiting",
+      "zh": "等待中的（主動分詞）"
+    },
+    {
+      "adj": "running",
+      "zh": "奔跑中的（主動分詞）"
+    },
+    {
+      "adj": "playing",
+      "zh": "玩耍中的（主動分詞）"
+    },
+    {
+      "adj": "broken",
+      "zh": "破損的（過去分詞）"
+    },
+    {
+      "adj": "damaged",
+      "zh": "受損的（過去分詞）"
+    },
+    {
+      "adj": "lost",
+      "zh": "遺失的（過去分詞）"
+    },
+    {
+      "adj": "sitting",
+      "zh": "坐著的（主動分詞）"
+    },
+    {
+      "adj": "sleeping",
+      "zh": "睡眠中的（主動分詞）"
+    },
+    {
+      "adj": "painted",
+      "zh": "被油漆的（過去分詞）"
+    },
+    {
+      "adj": "written",
+      "zh": "被寫的（過去分詞）"
+    },
+    {
+      "adj": "scattered",
+      "zh": "分散的（過去分詞）"
+    },
+    {
+      "adj": "gathering",
+      "zh": "聚集中的（主動分詞）"
+    }
+  ],
+  "vocab_table_label": "常用分詞"
+}

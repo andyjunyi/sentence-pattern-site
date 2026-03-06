@@ -1,0 +1,199 @@
+{
+  "code": "4-23",
+  "chapter": 4,
+  "title": "S + V + N + that + S + V（同位語子句）",
+  "formulas": [
+    {
+      "formula": "N + that + S + V",
+      "zh": "名詞（通常為抽象名詞）+ that引導的同位語子句，用於解釋說明前面名詞的具體內容"
+    },
+    {
+      "formula": "N + that + S + V + ...",
+      "zh": "同位語that子句可含完整句子結構，對先行詞進行進一步詮釋或補充說明"
+    }
+  ],
+  "explanation": "同位語that子句用於解釋或說明前面的抽象名詞（如idea、fact、belief、news、possibility等），that本身不代替先行詞而是引導說明子句。與限定關係子句的主要區別：(1)同位語that不代替先行詞，關係that代替；(2)同位語that子句提供額外訊息，關係子句限定修飾；(3)同位語that子句常用逗號隔開或可省略that，關係子句則不可。該句型在學測中考查抽象名詞的理解及子句辨識能力。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The fact that he passed the exam surprised everyone in the class.",
+      "chi": "他通過考試這個事實令班上所有人都感到驚訝。",
+      "keywords": [
+        "fact",
+        "that子句",
+        "同位語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "We accepted the idea that technology would change our daily lives.",
+      "chi": "我們接受了科技會改變我們日常生活這個想法。",
+      "keywords": [
+        "idea",
+        "that引導",
+        "解釋說明"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The news that the company would close down shocked all employees.",
+      "chi": "公司將關閉的消息震驚了所有員工。",
+      "keywords": [
+        "news",
+        "同位語that",
+        "抽象名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She had no doubt that her son would become a successful doctor.",
+      "chi": "她毫無疑問地相信她的兒子將成為一名成功的醫生。",
+      "keywords": [
+        "doubt",
+        "確信",
+        "that子句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否為同位語that：(1)先行詞是否為抽象名詞；(2)that子句是否對先行詞進行詮釋而非限定修飾；(3)that子句可移除而句子結構仍完整。若that引導的子句用來限定修飾具體名詞，則為限定關係子句，不是同位語。",
+    "examples": [
+      {
+        "test": "The fact that he lied disappointed us.（同位語）vs. The letter that he wrote was lost.（關係子句）",
+        "result": "→ 前者fact為抽象名詞，that子句解釋fact內容；後者letter為具體名詞，that子句限定修飾哪一封信"
+      },
+      {
+        "test": "We ignored the suggestion that we should leave early.（同位語）vs. We ignored the suggestion which was unreasonable.（關係子句）",
+        "result": "→ 前者that引導子句說明suggestion是什麼；後者which代替suggestion並限定修飾其特徵"
+      }
+    ],
+    "note": "抽象名詞+that引導說明 = 同位語；具體名詞+that限定修飾 = 限定關係子句。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The possibility ",
+        null,
+        " would win the championship excited the fans."
+      ],
+      "blanks": [
+        "that our team"
+      ],
+      "sentence": "The possibility that our team would win the championship excited the fans.",
+      "translation": "我們隊伍將贏得冠軍的可能性令粉絲興奮不已。",
+      "keywords": [
+        "possibility",
+        "that子句",
+        "同位語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We rejected the assumption ",
+        null,
+        " were all dishonest."
+      ],
+      "blanks": [
+        "that politicians"
+      ],
+      "sentence": "We rejected the assumption that politicians were all dishonest.",
+      "translation": "我們拒絕了政治人物都不誠實這個假設。",
+      "keywords": [
+        "assumption",
+        "that引導",
+        "解釋說明"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The evidence ",
+        null,
+        " had stolen the money was convincing."
+      ],
+      "blanks": [
+        "that he"
+      ],
+      "sentence": "The evidence that he had stolen the money was convincing.",
+      "translation": "他盜竊金錢的證據很有說服力。",
+      "keywords": [
+        "evidence",
+        "同位語that",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "There is no doubt ",
+        null,
+        " has made great progress in technology."
+      ],
+      "blanks": [
+        "that our country"
+      ],
+      "sentence": "There is no doubt that our country has made great progress in technology.",
+      "translation": "毫無疑問，我們國家在科技方面取得了巨大進步。",
+      "keywords": [
+        "doubt",
+        "否定",
+        "同位語"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "fact",
+      "zh": "事實"
+    },
+    {
+      "adj": "idea",
+      "zh": "想法；概念"
+    },
+    {
+      "adj": "news",
+      "zh": "消息；新聞"
+    },
+    {
+      "adj": "belief",
+      "zh": "信念；信仰"
+    },
+    {
+      "adj": "doubt",
+      "zh": "懷疑；疑問"
+    },
+    {
+      "adj": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "adj": "evidence",
+      "zh": "證據"
+    },
+    {
+      "adj": "assumption",
+      "zh": "假設；認定"
+    },
+    {
+      "adj": "suggestion",
+      "zh": "建議；暗示"
+    },
+    {
+      "adj": "truth",
+      "zh": "真相；真理"
+    },
+    {
+      "adj": "probability",
+      "zh": "概率；可能性"
+    },
+    {
+      "adj": "conclusion",
+      "zh": "結論；結果"
+    }
+  ],
+  "vocab_table_label": "常用同位語名詞"
+}

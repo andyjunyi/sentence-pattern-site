@@ -1,0 +1,203 @@
+{
+  "code": "5-13",
+  "chapter": 5,
+  "title": "使役動詞 make/let/have + O + V",
+  "formulas": [
+    {
+      "formula": "make/let/have + O + 原形V",
+      "zh": "使役動詞後接受詞加原形動詞，表讓/使某人做某事"
+    },
+    {
+      "formula": "be made + to V（make 被動）",
+      "zh": "被動語態時 make 後接 to 不定詞"
+    }
+  ],
+  "explanation": "使役動詞 make、let、have 表示讓或使某人做某事。make 表強制或迫使，後接原形動詞；let 表許可或允許；have 表要求或安排。在被動語態中，make 被動後需加 to V，而 let 和 have 的被動較少使用。注意 make/let/have 後面必須接原形動詞，不能加 -ing 或 to V（make 被動除外）。常見錯誤為混淆使役動詞的主動被動形式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher made the students practice English sentences every day.",
+      "chi": "老師讓學生每天練習英文句子。",
+      "keywords": [
+        "make",
+        "原形動詞 practice",
+        "使役"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Her parents let her choose her own university major freely.",
+      "chi": "她的父母讓她自由選擇自己的大學科系。",
+      "keywords": [
+        "let",
+        "原形動詞 choose",
+        "許可"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I had the mechanic repair my car before the trip.",
+      "chi": "我讓機械師在旅行前修理我的車。",
+      "keywords": [
+        "have",
+        "原形動詞 repair",
+        "安排"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Students were made to take the final exam in the afternoon.",
+      "chi": "學生被迫在下午進行期末考試。",
+      "keywords": [
+        "was made to",
+        "被動語態",
+        "to V"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分三個使役動詞：make 帶強制意義，讓人被迫做；let 帶許可意義，允許某人做；have 帶要求或安排意義。make 被動時必須加 to V（was made to do），但主動時只用原形（made him do）。have 也可接 O + p.p. 表被動意義（have the car repaired）。",
+    "examples": [
+      {
+        "test": "The boss made him work overtime. vs The boss let him work overtime.",
+        "result": "→ made 表強制，讓人必須；let 表允許，表示可以做"
+      },
+      {
+        "test": "He was made to apologize. vs He made to apologize. (錯誤)",
+        "result": "→ 被動語態 make 後必須加 to V；主動語態 make 後接原形動詞"
+      },
+      {
+        "test": "I had the dress cleaned. vs I have clean the dress. (錯誤)",
+        "result": "→ have + O + p.p. 表被動（請人清理）；have + O + 原形只用於要求人做某事"
+      }
+    ],
+    "note": "make 强制用 to V 被動、let 許可用原形、have 變通用 p.p. 表被動。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The coach ",
+        null,
+        " the players run ten laps around the field."
+      ],
+      "blanks": [
+        "made"
+      ],
+      "sentence": "The coach made the players run ten laps around the field.",
+      "translation": "教練讓球員繞球場跑十圈。",
+      "keywords": [
+        "make",
+        "原形動詞 run",
+        "強制"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Parents should ",
+        null,
+        " their children make their own decisions sometimes."
+      ],
+      "blanks": [
+        "let"
+      ],
+      "sentence": "Parents should let their children make their own decisions sometimes.",
+      "translation": "父母應該有時讓孩子自己做決定。",
+      "keywords": [
+        "let",
+        "原形動詞 make",
+        "許可"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I need to ",
+        null,
+        " my hair cut before the graduation ceremony."
+      ],
+      "blanks": [
+        "have"
+      ],
+      "sentence": "I need to have my hair cut before the graduation ceremony.",
+      "translation": "我需要在畢業典禮前剪頭髮。",
+      "keywords": [
+        "have",
+        "p.p. cut",
+        "被動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The students were ",
+        null,
+        " complete the assignment by Friday."
+      ],
+      "blanks": [
+        "made to"
+      ],
+      "sentence": "The students were made to complete the assignment by Friday.",
+      "translation": "學生被要求在星期五前完成作業。",
+      "keywords": [
+        "was made to",
+        "被動語態",
+        "to V"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "make",
+      "zh": "迫使；製造（最強制意義）"
+    },
+    {
+      "adj": "let",
+      "zh": "允許；讓（最許可意義）"
+    },
+    {
+      "adj": "have",
+      "zh": "要求；安排；使得"
+    },
+    {
+      "adj": "forced",
+      "zh": "被迫的；強制的"
+    },
+    {
+      "adj": "allowed",
+      "zh": "被允許的"
+    },
+    {
+      "adj": "required",
+      "zh": "被要求的；必需的"
+    },
+    {
+      "adj": "practice",
+      "zh": "練習；實踐"
+    },
+    {
+      "adj": "do",
+      "zh": "做；執行"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解；明白"
+    },
+    {
+      "adj": "work",
+      "zh": "工作；運作"
+    },
+    {
+      "adj": "study",
+      "zh": "研究；學習"
+    },
+    {
+      "adj": "wait",
+      "zh": "等待；等候"
+    }
+  ],
+  "vocab_table_label": "常用使役動詞"
+}

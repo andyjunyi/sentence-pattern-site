@@ -1,0 +1,207 @@
+{
+  "code": "2-7",
+  "chapter": 2,
+  "title": "It is time (that) + S + V-ed / It is time to V",
+  "formulas": [
+    {
+      "formula": "It is (high/about) time + S + V-ed",
+      "zh": "是該……的時候了（應做但未做，用假設語氣過去式）"
+    },
+    {
+      "formula": "It is time + to V",
+      "zh": "是……的時候了（更直接的表達方式）"
+    }
+  ],
+  "explanation": "此句型表達事物已到應該進行的時刻。當使用 V-ed（過去式）時，帶有應當做但尚未做的含義，是虛擬語氣；加入 high 或 about 強調迫切性。不定詞形式 It is time to V 較為中性，不含虛擬意義。該句型常用於催促、建議或表達時機已到，學測常考其語法結構區分與時態搭配。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is high time that you stopped wasting your time on social media.",
+      "chi": "你早就應該停止在社群媒體上浪費時間了。",
+      "keywords": [
+        "high time",
+        "V-ed",
+        "虛擬語氣"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It is about time we left for the airport to catch our flight.",
+      "chi": "我們該出發去機場趕班機了。",
+      "keywords": [
+        "about time",
+        "虛擬語氣",
+        "催促"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is time to make an important decision about your future career.",
+      "chi": "現在是時候為你的未來事業做出重要決定了。",
+      "keywords": [
+        "time to",
+        "不定詞",
+        "建議"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It is high time that the government took action to reduce pollution.",
+      "chi": "政府早就應該採取行動來減少污染了。",
+      "keywords": [
+        "high time",
+        "虛擬語氣",
+        "政策"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時用虛擬語氣 V-ed（應做未做的含義）vs 不定詞 to V（時機已到的中性表達）。V-ed 形式強調後悔、催促；to V 則單純表時機。注意 that 子句中用虛擬過去式，不用 should + V 替代（避免混淆虛擬語氣的兩種寫法）。",
+    "examples": [
+      {
+        "test": "It is time that you finished your homework. vs It is time to finish homework.",
+        "result": "→ 前者帶催促與略顯責備；後者較中性，僅表現在是完成作業的時候"
+      },
+      {
+        "test": "It is high time we changed our attitude. vs It is time we change our attitude.",
+        "result": "→ 前者用 V-ed 是正確虛擬語氣；後者用現在式不符規範，應改為 V-ed"
+      },
+      {
+        "test": "It is about time the company improved its service. vs It is about time the company should improve.",
+        "zh": "→ 前者虛擬語氣正確；後者加 should 則為虛擬語氣的另一種寫法（但在 It is time 後較少見）"
+      }
+    ],
+    "note": "虛擬語氣用 V-ed，不定詞用 to V；high time 強調迫切，about time 表適當；該句型常考時態與語氣的區分。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "It is high time that we ",
+        null,
+        " our plan for the project.",
+        ""
+      ],
+      "blanks": [
+        "finalized / finalised"
+      ],
+      "sentence": "It is high time that we finalized our plan for the project.",
+      "translation": "我們早就應該最終確定這個項目的計畫了。",
+      "keywords": [
+        "high time",
+        "虛擬語氣",
+        "過去式"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It is about time you ",
+        null,
+        " thinking about your responsibilities.",
+        ""
+      ],
+      "blanks": [
+        "stopped"
+      ],
+      "sentence": "It is about time you stopped thinking about your responsibilities.",
+      "translation": "你該停止逃避責任了。",
+      "keywords": [
+        "about time",
+        "催促",
+        "V-ed"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It is time ",
+        null,
+        " seriously about your college applications.",
+        ""
+      ],
+      "blanks": [
+        "to think"
+      ],
+      "sentence": "It is time to think seriously about your college applications.",
+      "translation": "現在是時候認真考慮你的大學申請了。",
+      "keywords": [
+        "time to",
+        "不定詞",
+        "中性表達"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "It is high time that the students ",
+        null,
+        " more effort into their studies.",
+        ""
+      ],
+      "blanks": [
+        "put"
+      ],
+      "sentence": "It is high time that the students put more effort into their studies.",
+      "translation": "學生們早就應該更加努力學習了。",
+      "keywords": [
+        "high time",
+        "虛擬語氣",
+        "建議"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "high time",
+      "zh": "非常必要的時刻、迫切的時刻"
+    },
+    {
+      "adj": "about time",
+      "zh": "差不多該……的時候"
+    },
+    {
+      "adj": "long past",
+      "zh": "早就應該、遲到很久"
+    },
+    {
+      "adj": "the right time",
+      "zh": "合適的時刻"
+    },
+    {
+      "adj": "stopped",
+      "zh": "停止（常用動詞）"
+    },
+    {
+      "adj": "left",
+      "zh": "離開（常用動詞）"
+    },
+    {
+      "adj": "decided",
+      "zh": "決定（常用動詞）"
+    },
+    {
+      "adj": "started",
+      "zh": "開始（常用動詞）"
+    },
+    {
+      "adj": "changed",
+      "zh": "改變（常用動詞）"
+    },
+    {
+      "adj": "learned",
+      "zh": "學習（常用動詞）"
+    },
+    {
+      "adj": "considered",
+      "zh": "考慮（常用動詞）"
+    },
+    {
+      "adj": "prepared",
+      "zh": "準備（常用動詞）"
+    }
+  ],
+  "vocab_table_label": "常用時間片語"
+}

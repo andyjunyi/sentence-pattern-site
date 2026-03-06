@@ -1,0 +1,205 @@
+{
+  "code": "4-17",
+  "chapter": 4,
+  "title": "what + S + V（名詞子句作主詞）",
+  "formulas": [
+    {
+      "formula": "What + S + V + is/seems/appears... + (to be) + C",
+      "zh": "what引導的名詞子句作主詞，what等於the thing that，在子句中充當主詞或受詞"
+    },
+    {
+      "formula": "What matters/counts/is important + is...",
+      "zh": "What搭配不及物動詞形成的固定結構，強調某事物的重要性"
+    }
+  ],
+  "explanation": "此句型用what引導名詞子句作句子主詞，what本身在子句中扮演主詞或受詞角色，相當於the thing that或all that。常用於表達對事物的看法、感受或重要性。結構靈活，can搭配is、seems、appears等連繫動詞，或appears to be、proves to be等複合述語。易混淆點：what子句內不能再加主詞代詞；what與which的區別在於what引導名詞子句，which引導形容詞子句修飾名詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "What surprises me most is that she never complained about the difficult situation.",
+      "chi": "最令我驚訝的是，她從未抱怨過那個困難的處境。",
+      "keywords": [
+        "What",
+        "surprises",
+        "is that",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "What the company needs now is experienced staff who can solve problems quickly.",
+      "chi": "這家公司現在需要的是能快速解決問題的資深員工。",
+      "keywords": [
+        "What",
+        "needs",
+        "is",
+        "受詞角色"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "What matters most in relationships is trust, not money or material possessions.",
+      "chi": "在人際關係中最重要的是信任，而不是金錢或物質。",
+      "keywords": [
+        "What",
+        "matters",
+        "is",
+        "固定結構"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "What seemed impossible last year has now become a reality for our team.",
+      "chi": "去年看起來不可能的事，如今已成為我們團隊的現實。",
+      "keywords": [
+        "What",
+        "seemed",
+        "has become",
+        "過去與現在對比"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "surprising",
+      "zh": "令人驚訝的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "matters",
+      "zh": "重要、有關係"
+    },
+    {
+      "adj": "counts",
+      "zh": "重要、計入"
+    },
+    {
+      "adj": "concerns",
+      "zh": "關於、涉及"
+    },
+    {
+      "adj": "troubles",
+      "zh": "困擾、煩惱"
+    },
+    {
+      "adj": "worries",
+      "zh": "擔心、憂慮"
+    },
+    {
+      "adj": "interests",
+      "zh": "興趣、引起注意"
+    },
+    {
+      "adj": "fascinates",
+      "zh": "令人著迷"
+    },
+    {
+      "adj": "distinguishes",
+      "zh": "區別、使與眾不同"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看主詞是否為what子句，若是則該子句作名詞子句。注意what在子句內的角色—作主詞時之後直接接動詞（What he did is...），作受詞時之後接主詞再接動詞（What the company needs is...）。避免混淆what與which：what引導名詞子句可單獨作主詞，which則修飾先行詞。",
+    "examples": [
+      {
+        "test": "What he said _____ (is/are) very important to all of us.",
+        "result": "→ is（單數）。What he said是單數名詞子句，故用單數動詞"
+      },
+      {
+        "test": "❌ What matters to us is we must succeed. / ✓ What matters to us is that we must succeed.",
+        "result": "→ 名詞子句前應加that，使結構更清晰完整"
+      },
+      {
+        "test": "What I didn't expect _____ (happens/happened) yesterday was meeting my old friend.",
+        "result": "→ happened。時態應與發生的事件一致，past tense表示昨天的事"
+      }
+    ],
+    "note": "記憶口訣：What = The thing that，看What後直接跟動詞（主詞角色）或跟主詞再動詞（受詞角色）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " impressed the teacher was the student's creative thinking."
+      ],
+      "blanks": [
+        "What"
+      ],
+      "sentence": "What impressed the teacher was the student's creative thinking.",
+      "translation": "令老師印象深刻的是學生的創意思維。",
+      "keywords": [
+        "What",
+        "impressed",
+        "was"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "What the government should do now ",
+        null,
+        " to improve public education and healthcare."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "What the government should do now is to improve public education and healthcare.",
+      "translation": "政府現在應該做的是改善公共教育和醫療保健。",
+      "keywords": [
+        "What",
+        "should do",
+        "is"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " matters most in this decision is not the cost but the quality of the product."
+      ],
+      "blanks": [
+        "What"
+      ],
+      "sentence": "What matters most in this decision is not the cost but the quality of the product.",
+      "translation": "在這個決定中最重要的不是成本，而是產品的品質。",
+      "keywords": [
+        "What",
+        "matters",
+        "is"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "What I cannot accept ",
+        null,
+        " his constant lies and betrayal of our friendship."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "What I cannot accept is his constant lies and betrayal of our friendship.",
+      "translation": "我無法接受的是他經常的謊言和對友誼的背叛。",
+      "keywords": [
+        "What",
+        "cannot accept",
+        "is"
+      ]
+    }
+  ]
+}

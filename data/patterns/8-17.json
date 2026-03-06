@@ -1,0 +1,195 @@
+{
+  "code": "8-17",
+  "chapter": 8,
+  "title": "Not only... but (also)...",
+  "formulas": [
+    {
+      "formula": "Not only + 助動詞/be動詞 + S₁ + ..., but (also) + S₂ + V₂ ...",
+      "zh": "不只……而且……（主詞不同，not only 置於句首時須倒裝）"
+    },
+    {
+      "formula": "S + V + not only + A + but (also) + B",
+      "zh": "不只A而且B（連接對等的詞或片語，不需倒裝）"
+    }
+  ],
+  "explanation": "「Not only A but also B」用來強調「不只……而且……」，可連接對等的名詞、形容詞、動詞或子句。當 not only 置於句首時，該子句須使用倒裝語序（助動詞或 be 動詞移至主詞前），但 but also 引導的子句維持正常語序。動詞一致性依「就近原則」，動詞須與靠近的主詞 B 一致。also 可省略，but 不可省略。此句型常見於寫作中用以加強語氣與論述力道。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Not only does she speak English fluently, but she also writes beautifully.",
+      "chi": "她不只英文說得流利，而且寫得也很優美。",
+      "keywords": [
+        "Not only does",
+        "but also"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The movie is not only entertaining but also thought-provoking.",
+      "chi": "這部電影不只有娛樂性，而且發人深省。",
+      "keywords": [
+        "not only",
+        "but also"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Not only did the typhoon destroy houses, but it also caused serious flooding.",
+      "chi": "那場颱風不只摧毀了房屋，還造成了嚴重的水災。",
+      "keywords": [
+        "Not only did",
+        "but it also"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Not only the students but also the teacher was surprised by the result.",
+      "chi": "不只學生，連老師也對結果感到驚訝。",
+      "keywords": [
+        "Not only",
+        "but also",
+        "was"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "entertaining",
+      "zh": "有娛樂性的"
+    },
+    {
+      "adj": "thought-provoking",
+      "zh": "發人深省的"
+    },
+    {
+      "adj": "convenient",
+      "zh": "方便的"
+    },
+    {
+      "adj": "affordable",
+      "zh": "負擔得起的"
+    },
+    {
+      "adj": "beneficial",
+      "zh": "有益的"
+    },
+    {
+      "adj": "challenging",
+      "zh": "具挑戰性的"
+    },
+    {
+      "adj": "rewarding",
+      "zh": "值得的；有回報的"
+    },
+    {
+      "adj": "practical",
+      "zh": "實用的"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善；提升"
+    },
+    {
+      "adj": "promote",
+      "zh": "促進；推廣"
+    },
+    {
+      "adj": "broaden",
+      "zh": "拓展；擴大"
+    },
+    {
+      "adj": "strengthen",
+      "zh": "加強；鞏固"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否倒裝的關鍵：看 not only 的位置。若 not only 放在句首引導子句，該子句必須倒裝（助動詞提前）；若 not only 放在句中連接對等詞組（名詞、形容詞等），則不需倒裝。動詞看 B（就近原則）。",
+    "examples": [
+      {
+        "test": "Not only she speaks English but also French. ❌",
+        "result": "→ Not only does she speak English, but she also speaks French. ✅（not only 置於句首須倒裝）"
+      },
+      {
+        "test": "Not only the teachers but also the principal were present. ❌",
+        "result": "→ Not only the teachers but also the principal was present. ✅（動詞須與就近主詞 the principal 一致，用 was）"
+      },
+      {
+        "test": "He not only sings but also dances on stage.",
+        "result": "→ 正確。not only 在句中連接兩個動詞，不需倒裝，語序正常。"
+      }
+    ],
+    "note": "句首 not only 要倒裝，動詞跟著 B 走（就近原則）！"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Not only ",
+        null,
+        " he good at math, but he is also talented in music."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "Not only is he good at math, but he is also talented in music.",
+      "translation": "他不只擅長數學，而且在音樂方面也很有天分。",
+      "keywords": [
+        "Not only is",
+        "but also"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Not only ",
+        null,
+        " they clean the park, but they also planted many trees."
+      ],
+      "blanks": [
+        "did"
+      ],
+      "sentence": "Not only did they clean the park, but they also planted many trees.",
+      "translation": "他們不只清掃了公園，還種了許多樹。",
+      "keywords": [
+        "Not only did",
+        "but also"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "This app is not only ",
+        null,
+        " but also easy to use."
+      ],
+      "blanks": [
+        "free"
+      ],
+      "sentence": "This app is not only free but also easy to use.",
+      "translation": "這個應用程式不只免費，而且容易使用。",
+      "keywords": [
+        "not only",
+        "but also"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Not only you but also your sister ",
+        null,
+        " invited to the party."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "Not only you but also your sister is invited to the party.",
+      "translation": "不只你，你的姊姊也被邀請參加派對。",
+      "keywords": [
+        "Not only",
+        "but also",
+        "is"
+      ]
+    }
+  ]
+}

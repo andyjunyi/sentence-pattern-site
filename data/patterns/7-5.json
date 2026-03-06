@@ -1,0 +1,203 @@
+{
+  "code": "7-5",
+  "chapter": 7,
+  "title": "分詞構句（主動）V-ing...（代替副詞子句）",
+  "formulas": [
+    {
+      "formula": "V-ing + ..., S + V...",
+      "zh": "現在分詞片語開頭，後接主句；分詞的邏輯主詞與主句主詞相同"
+    },
+    {
+      "formula": "S + V..., V-ing + ...",
+      "zh": "主句在前，分詞片語在後，表補充說明或伴隨動作"
+    }
+  ],
+  "explanation": "現在分詞構句是將時間、原因、條件等副詞子句簡化而成，用V-ing形式開頭。關鍵原則：分詞的邏輯主詞必須與主句主詞相同。若邏輯主詞不同，則需保留主詞形成獨立分詞構句（Absolute phrase）。此句型避免重複主詞，使句子更簡潔有力。常見功能包括表時間（When/After）、原因（Because）、條件（If）等，是學測常考的進階語法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Finishing his homework, Tom went out to play with his friends.",
+      "chi": "完成功課後，湯姆出門去和朋友們玩。",
+      "keywords": [
+        "finishing",
+        "時間順序",
+        "分詞構句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Seeing the heavy rain, the children decided to stay indoors.",
+      "chi": "看到大雨，孩子們決定待在室內。",
+      "keywords": [
+        "seeing",
+        "原因",
+        "邏輯主詞相同"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Having studied hard for months, she passed the exam with flying colors.",
+      "chi": "經過數月的努力學習，她以優異成績通過考試。",
+      "keywords": [
+        "having studied",
+        "完成式分詞",
+        "背景說明"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Being a language teacher, Mr. Chen understands the difficulties students face.",
+      "chi": "身為語言老師，陳先生理解學生所面臨的困難。",
+      "keywords": [
+        "being",
+        "身份說明",
+        "伴隨狀況"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷邏輯主詞是否與主句主詞相同最重要。若不同應使用獨立分詞構句（保留主詞），如「The sun rising, the birds began to sing」。另注意V-ing可表動作同時進行或先後順序；完成式分詞（having + V-en）強調動作已完成。",
+    "examples": [
+      {
+        "test": "❌ Walking down the street, the rain started.",
+        "result": "→ 錯誤：rain不能walk。應改為：Walking down the street, he saw rain start. 或 The rain having started, he went home."
+      },
+      {
+        "test": "✓ Having finished breakfast, the students left for school.",
+        "result": "→ 正確：完成式分詞表先發生的動作，邏輯主詞students與主句相同"
+      },
+      {
+        "test": "✓ Considering the weather, we decided to cancel the picnic.",
+        "result": "→ 正確：分詞表原因，邏輯主詞we與主句主詞相同"
+      }
+    ],
+    "note": "邏輯主詞必須一致；若不一致，改用獨立分詞構句或保留完整子句。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        null,
+        " her notes before the exam, Sarah felt more confident.",
+        ""
+      ],
+      "blanks": [
+        "Reviewing"
+      ],
+      "sentence": "Reviewing her notes before the exam, Sarah felt more confident.",
+      "translation": "在考試前複習她的筆記，莎拉感到更有信心。",
+      "keywords": [
+        "reviewing",
+        "過去分詞",
+        "時間關係"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Knowing the deadline was approaching, ",
+        null,
+        " to work faster."
+      ],
+      "blanks": [
+        "they decided"
+      ],
+      "sentence": "Knowing the deadline was approaching, they decided to work faster.",
+      "translation": "知道截止日期臨近，他們決定加快工作速度。",
+      "keywords": [
+        "knowing",
+        "原因",
+        "現在分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        " at the beautiful sunset, the tourists took countless photographs.",
+        ""
+      ],
+      "blanks": [
+        "Amazed"
+      ],
+      "sentence": "Amazed at the beautiful sunset, the tourists took countless photographs.",
+      "translation": "被美麗的日落所驚嘆，遊客拍了無數張照片。",
+      "keywords": [
+        "amazed",
+        "過去分詞",
+        "伴隨狀況"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The project completed successfully, ",
+        null,
+        " for the next phase."
+      ],
+      "blanks": [
+        "the team prepared"
+      ],
+      "sentence": "The project completed successfully, the team prepared for the next phase.",
+      "translation": "專案順利完成，團隊為下一階段做準備。",
+      "keywords": [
+        "completed",
+        "獨立分詞構句",
+        "絕對片語"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "finishing",
+      "zh": "完成"
+    },
+    {
+      "adj": "seeing",
+      "zh": "看見"
+    },
+    {
+      "adj": "having studied",
+      "zh": "已經學習"
+    },
+    {
+      "adj": "being",
+      "zh": "是、身為"
+    },
+    {
+      "adj": "knowing",
+      "zh": "知道"
+    },
+    {
+      "adj": "reaching",
+      "zh": "到達"
+    },
+    {
+      "adj": "realizing",
+      "zh": "意識到"
+    },
+    {
+      "adj": "entering",
+      "zh": "進入"
+    },
+    {
+      "adj": "hearing",
+      "zh": "聽到"
+    },
+    {
+      "adj": "considering",
+      "zh": "考慮到"
+    },
+    {
+      "adj": "arriving",
+      "zh": "抵達"
+    },
+    {
+      "adj": "discovering",
+      "zh": "發現"
+    }
+  ],
+  "vocab_table_label": "常用分詞構句形式"
+}

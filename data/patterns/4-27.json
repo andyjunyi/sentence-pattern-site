@@ -1,0 +1,201 @@
+{
+  "code": "4-27",
+  "chapter": 4,
+  "title": "no matter + 疑問詞 / -ever 複合詞",
+  "formulas": [
+    {
+      "formula": "No matter what/who/how/where/when + S + V, S + V",
+      "zh": "無論……如何，主句……；讓步副詞子句，表示無條件地、不管怎樣"
+    },
+    {
+      "formula": "Whatever/Whoever/However/Wherever/Whenever + S + V, S + V",
+      "zh": "無論什麼/誰/如何/何處/何時，主句……；-ever複合關係詞用法"
+    }
+  ],
+  "explanation": "讓步副詞子句用於表達「無論如何」的概念。「no matter + 疑問詞」與「-ever複合關係詞」（whatever, whoever, however等）意義相同，可互換使用。此句型強調主句情況不受從句條件影響，呈現無條件性或確定性。主句可置於從句前後。注意：no matter後需接疑問詞；-ever詞可直接作連接詞，句法更緊湊，在學測中使用頻率較高。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "No matter how hard he studied, he still failed the exam.",
+      "chi": "無論他多努力讀書，他還是沒通過考試。",
+      "keywords": [
+        "no matter how",
+        "讓步",
+        "無條件"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whatever you decide, I will support your choice.",
+      "chi": "無論你決定什麼，我都會支持你的選擇。",
+      "keywords": [
+        "whatever",
+        "複合關係詞",
+        "決定"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Wherever you go, you should always remember your family.",
+      "chi": "無論你去哪裡，你應該永遠記住你的家庭。",
+      "keywords": [
+        "wherever",
+        "無論何處",
+        "家庭"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "No matter who you are, everyone must follow the school rules.",
+      "chi": "無論你是誰，每個人都必須遵守校規。",
+      "keywords": [
+        "no matter who",
+        "身份",
+        "規則"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷要點：此句型強調結果的確定性或無條件性。「no matter + 疑問詞」較正式、冗長；「-ever複合關係詞」更簡潔、現代，學測偏好。兩者可互換，但-ever詞用法在英文寫作中更常見。避免混用：不可寫「no matter whatever」。",
+    "examples": [
+      {
+        "test": "No matter what happens, I will finish this project. vs Whatever happens, I will finish this project.",
+        "result": "→ 兩句意思相同，都表示「無論發生什麼事，我都會完成這個項目」；-ever版本更簡潔"
+      },
+      {
+        "test": "❌ No matter how much you study, you understand nothing. vs ✓ However much you study, you understand nothing.",
+        "result": "→ however much (無論多麼) 比 no matter how much 更自然流暢，後者在口語中較為生硬"
+      },
+      {
+        "test": "Whenever you need help, just call me. vs No matter when you need help, just call me.",
+        "result": "→ 前句更自然；no matter when 帶有強調無條件的色彩，slightly more emphatic"
+      }
+    ],
+    "note": "「no matter + 疑問詞 = -ever詞」，兩者互換，無論……都……；前句強調條件，後句表達結果確定。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "No matter ",
+        null,
+        " you try, you cannot change the past."
+      ],
+      "blanks": [
+        "how hard"
+      ],
+      "sentence": "No matter how hard you try, you cannot change the past.",
+      "translation": "無論你多努力嘗試，你都無法改變過去。",
+      "keywords": [
+        "no matter how",
+        "努力",
+        "過去"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " you choose to study, consistency is the key to success."
+      ],
+      "blanks": [
+        "Whatever way / However"
+      ],
+      "sentence": "Whatever way you choose to study, consistency is the key to success.",
+      "translation": "無論你選擇用什麼方式讀書，持之以恆是成功的關鍵。",
+      "keywords": [
+        "whatever way",
+        "複合關係詞",
+        "成功"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I will protect you, ",
+        null,
+        " you are in danger."
+      ],
+      "blanks": [
+        "no matter where / wherever"
+      ],
+      "sentence": "I will protect you, no matter where you are in danger.",
+      "translation": "無論你在哪裡遇到危險，我都會保護你。",
+      "keywords": [
+        "no matter where",
+        "保護",
+        "危險"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " happens, we must stay calm and think rationally."
+      ],
+      "blanks": [
+        "No matter what / Whatever"
+      ],
+      "sentence": "No matter what happens, we must stay calm and think rationally.",
+      "translation": "無論發生什麼事，我們必須保持冷靜並理性思考。",
+      "keywords": [
+        "no matter what",
+        "冷靜",
+        "理性"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "hard",
+      "zh": "困難地、努力地"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "always",
+      "zh": "總是、永遠"
+    },
+    {
+      "adj": "never",
+      "zh": "從不"
+    },
+    {
+      "adj": "whether or not",
+      "zh": "是否"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "fail",
+      "zh": "失敗"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生"
+    },
+    {
+      "adj": "change",
+      "zh": "改變"
+    },
+    {
+      "adj": "try",
+      "zh": "嘗試、努力"
+    }
+  ],
+  "vocab_table_label": "常用形容詞／副詞"
+}

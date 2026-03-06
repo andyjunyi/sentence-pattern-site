@@ -1,0 +1,201 @@
+{
+  "code": "4-24",
+  "chapter": 4,
+  "title": "whoever/whatever/whichever + S + V",
+  "formulas": [
+    {
+      "formula": "Whoever/Whatever/Whichever + S + V, ...",
+      "zh": "複合關係代名詞引導的名詞子句，含先行詞，whoever=任何...的人，whatever=任何...的事物，whichever=任何...哪一個"
+    },
+    {
+      "formula": "..., whoever/whatever/whichever + S + V",
+      "zh": "複合關係代名詞可置於主句後，作為條件或讓步子句"
+    }
+  ],
+  "explanation": "複合關係代名詞(whoever/whatever/whichever)兼具關係代名詞與先行詞的雙重身份，不需額外先行詞。Whoever相當於anyone who，whatever相當於anything that，whichever相當於whichever one that。此類詞可在句中作主詞、受詞或介系詞受詞，引導名詞子句或讓步子句。區別於普通關係代名詞(who/what)必須有明確先行詞。學測常考作主詞或受詞的用法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Whoever wins the competition will receive a scholarship from the university.",
+      "chi": "誰贏得比賽，就能從大學獲得獎學金。",
+      "keywords": [
+        "Whoever",
+        "主詞",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "You can choose whatever book interests you most from the library collection.",
+      "chi": "你可以從圖書館藏書中選擇任何你最感興趣的書籍。",
+      "keywords": [
+        "whatever",
+        "受詞",
+        "選擇自由"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Whichever option you prefer, the company will support your decision completely.",
+      "chi": "無論你偏好哪個選項，公司都會完全支持你的決定。",
+      "keywords": [
+        "Whichever",
+        "讓步子句",
+        "條件"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Whatever mistakes we made in the past should not prevent us from moving forward.",
+      "chi": "無論我們過去犯了什麼錯誤，都不應該阻止我們前進。",
+      "keywords": [
+        "Whatever",
+        "受詞",
+        "退讓語氣"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "複合關係代名詞與普通關係代名詞的區別在於：前者已包含先行詞，後者需要先行詞。若句子缺少先行詞但需要關係詞，必用複合關係代名詞。注意whoever/whatever/whichever通常位於子句首位，引導完整名詞子句或讓步子句。避免誤用who、what、which而遺漏先行詞。",
+    "examples": [
+      {
+        "test": "✓ Whoever arrives first will get the best seat.",
+        "result": "→ 正確。Whoever已包含先行詞與關係詞雙重身份，作主詞。"
+      },
+      {
+        "test": "✗ The person who arrives first will get the best seat.",
+        "result": "→ 正確但不同結構。此句使用普通關係代名詞who，需要先行詞person。"
+      },
+      {
+        "test": "✓ Whatever you say will be recorded and used in the meeting.",
+        "result": "→ 正確。Whatever作受詞，引導完整名詞子句，含先行詞。"
+      }
+    ],
+    "note": "複合關係代名詞=自帶先行詞的關係詞，whoever/whatever/whichever三者常見於讓步或條件語境。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The school will award a certificate to ",
+        null,
+        " completes all the volunteer hours before the deadline."
+      ],
+      "blanks": [
+        "whoever"
+      ],
+      "sentence": "The school will award a certificate to whoever completes all the volunteer hours before the deadline.",
+      "translation": "學校將向在截止日期前完成所有志願服務時數的任何人頒發證書。",
+      "keywords": [
+        "whoever",
+        "受詞",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " happens, we must maintain our core values and integrity."
+      ],
+      "blanks": [
+        "Whatever"
+      ],
+      "sentence": "Whatever happens, we must maintain our core values and integrity.",
+      "translation": "無論發生什麼，我們都必須維持我們的核心價值觀和誠正。",
+      "keywords": [
+        "Whatever",
+        "主詞",
+        "讓步子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "You may select ",
+        null,
+        " music style you enjoy from this curated playlist collection."
+      ],
+      "blanks": [
+        "whichever"
+      ],
+      "sentence": "You may select whichever music style you enjoy from this curated playlist collection.",
+      "translation": "你可以從這個精選播放清單集合中選擇你喜歡的任何音樂風格。",
+      "keywords": [
+        "whichever",
+        "受詞",
+        "選擇"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " invested time and effort in this project deserves recognition for their contribution."
+      ],
+      "blanks": [
+        "Whoever"
+      ],
+      "sentence": "Whoever invested time and effort in this project deserves recognition for their contribution.",
+      "translation": "無論誰在這個項目中投入時間和努力，都應該因其貢獻而獲得認可。",
+      "keywords": [
+        "Whoever",
+        "主詞",
+        "名詞子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "whoever",
+      "zh": "任何...的人；無論誰"
+    },
+    {
+      "adj": "whatever",
+      "zh": "任何...的事物；無論什麼"
+    },
+    {
+      "adj": "whichever",
+      "zh": "任何...哪一個；無論哪一個"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "choose",
+      "zh": "選擇"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "require",
+      "zh": "需要"
+    },
+    {
+      "adj": "accept",
+      "zh": "接受"
+    },
+    {
+      "adj": "deserve",
+      "zh": "值得"
+    },
+    {
+      "adj": "ultimately",
+      "zh": "最終"
+    },
+    {
+      "adj": "regardless",
+      "zh": "不管；儘管"
+    },
+    {
+      "adj": "absolute",
+      "zh": "絕對的"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}

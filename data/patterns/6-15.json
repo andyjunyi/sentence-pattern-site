@@ -1,0 +1,211 @@
+{
+  "code": "6-15",
+  "chapter": 6,
+  "title": "S + be + accustomed/committed/dedicated + to + V-ing",
+  "formulas": [
+    {
+      "formula": "S + be + adj. + to + V-ing",
+      "zh": "主詞 + 動詞 be + 形容詞 + to + 動名詞（to 為介系詞）"
+    },
+    {
+      "formula": "S + be + adj. + to + N",
+      "zh": "主詞 + 動詞 be + 形容詞 + to + 名詞（to 為介系詞）"
+    }
+  ],
+  "explanation": "此句型用來表達主詞對某事物或某行為的態度、習慣或傾向。形容詞與 to 之間為固定搭配，to 為介系詞而非不定詞符號。常見形容詞包括：accustomed、used、committed、devoted、opposed、resistant、similar、equal 等。需特別注意 to 後接動名詞（V-ing）或名詞，切勿誤用不定詞。此句型常用於描述已養成的習慣、堅定的立場或內在特質。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She is accustomed to getting up early in the morning.",
+      "chi": "她習慣於每天早上早起。",
+      "keywords": [
+        "accustomed to",
+        "getting up",
+        "習慣"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The company is committed to reducing carbon emissions by 2030.",
+      "chi": "該公司承諾於 2030 年前減少碳排放。",
+      "keywords": [
+        "committed to",
+        "reducing",
+        "承諾"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Many people are opposed to changing the current education system.",
+      "chi": "許多人反對改變現行教育制度。",
+      "keywords": [
+        "opposed to",
+        "changing",
+        "反對"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He is devoted to helping disadvantaged children through his charity work.",
+      "chi": "他透過慈善工作致力於幫助弱勢兒童。",
+      "keywords": [
+        "devoted to",
+        "helping",
+        "致力於"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 to 是介系詞還是不定詞符號的關鍵：若 to 後可直接跟名詞、動名詞、代名詞，則為介系詞；若後接動詞原形，則為不定詞符號。此句型中 to 恆為介系詞，故必須接動名詞（V-ing）或名詞。常見錯誤為寫成 be used to do 的不定詞用法。",
+    "examples": [
+      {
+        "test": "She is used to getting up early. ✓ vs. She is used to get up early. ✗",
+        "result": "→ to 為介系詞，必須接動名詞 getting，不可接不定詞 get"
+      },
+      {
+        "test": "He is committed to working on this project. ✓ vs. He is committed to work on this project. ✗",
+        "result": "→ 介系詞用法需搭配動名詞 working，不可用不定詞形式"
+      },
+      {
+        "test": "They are opposed to violence. ✓ vs. They are opposed to violencing. ✗",
+        "result": "→ to 後可接名詞 violence，不一定要動名詞；但接動詞概念則用動名詞"
+      }
+    ],
+    "note": "記住這些形容詞都帶 to 介系詞：accustomed/used/opposed/committed/devoted/dedicated/similar/equal/resistant，to 後必接動名詞（V-ing）或名詞，絕不接不定詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The elderly man is ",
+        null,
+        " a daily walk in the park.",
+        null
+      ],
+      "blanks": [
+        "accustomed to taking",
+        "或 used to taking"
+      ],
+      "sentence": "The elderly man is accustomed to taking a daily walk in the park.",
+      "translation": "這位老人習慣於每天在公園裡散步。",
+      "keywords": [
+        "accustomed to",
+        "taking",
+        "習慣"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Our organization is ",
+        null,
+        " renewable energy sources.",
+        null
+      ],
+      "blanks": [
+        "committed to promoting",
+        "或 dedicated to promoting"
+      ],
+      "sentence": "Our organization is committed to promoting renewable energy sources.",
+      "translation": "我們的組織致力於推廣可再生能源。",
+      "keywords": [
+        "committed to",
+        "promoting",
+        "承諾"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Many citizens are ",
+        null,
+        " excessive plastic bags in supermarkets.",
+        null
+      ],
+      "blanks": [
+        "opposed to using",
+        "或 resistant to using"
+      ],
+      "sentence": "Many citizens are opposed to using excessive plastic bags in supermarkets.",
+      "translation": "許多市民反對在超市使用過多的塑膠袋。",
+      "keywords": [
+        "opposed to",
+        "using",
+        "反對"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Students who are ",
+        null,
+        " new technology often perform better in online learning.",
+        null
+      ],
+      "blanks": [
+        "not resistant to adapting to",
+        "或 accustomed to using"
+      ],
+      "sentence": "Students who are not resistant to adapting to new technology often perform better in online learning.",
+      "translation": "不抗拒適應新科技的學生通常在線上學習中表現更好。",
+      "keywords": [
+        "resistant to",
+        "adapting",
+        "適應"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "accustomed to",
+      "zh": "習慣於"
+    },
+    {
+      "adj": "used to",
+      "zh": "習慣於"
+    },
+    {
+      "adj": "committed to",
+      "zh": "承諾於、專注於"
+    },
+    {
+      "adj": "devoted to",
+      "zh": "致力於、獻身於"
+    },
+    {
+      "adj": "dedicated to",
+      "zh": "專心致力於"
+    },
+    {
+      "adj": "opposed to",
+      "zh": "反對、對立"
+    },
+    {
+      "adj": "resistant to",
+      "zh": "抵抗、抗拒"
+    },
+    {
+      "adj": "sensitive to",
+      "zh": "對...敏感"
+    },
+    {
+      "adj": "equal to",
+      "zh": "等於、勝任"
+    },
+    {
+      "adj": "similar to",
+      "zh": "相似於"
+    },
+    {
+      "adj": "exposed to",
+      "zh": "暴露於、接觸"
+    },
+    {
+      "adj": "subject to",
+      "zh": "受...約束、易受"
+    }
+  ],
+  "vocab_table_label": "常用 to + V-ing 片語"
+}

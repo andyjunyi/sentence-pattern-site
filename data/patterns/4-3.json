@@ -1,0 +1,203 @@
+{
+  "code": "4-3",
+  "chapter": 4,
+  "title": "關係代名詞 who / which / that（限定子句）",
+  "formulas": [
+    {
+      "formula": "N + who/that + V... (修飾人)",
+      "zh": "名詞＋關係代名詞(who/that)＋動詞...，用來修飾先行詞為人的情況"
+    },
+    {
+      "formula": "N + which/that + V... (修飾物)",
+      "zh": "名詞＋關係代名詞(which/that)＋動詞...，用來修飾先行詞為物的情況"
+    }
+  ],
+  "explanation": "關係代名詞引導形容詞子句，用來限定或補充說明先行詞。修飾人用 who 或 that；修飾物用 which 或 that。當關係代名詞在子句中作受詞時可省略。先行詞為 all、the only、最高級或序數詞時，習慣用 that 而非 which。形容詞子句提供必要資訊以區分先行詞，屬限定性修飾。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The student who won the competition is very intelligent and hardworking.",
+      "chi": "贏得比賽的那位學生非常聰明且勤奮。",
+      "keywords": [
+        "who",
+        "修飾人",
+        "限定子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The book which you recommended last week is on the bestseller list now.",
+      "chi": "你上週推薦的那本書現在在暢銷書榜單上。",
+      "keywords": [
+        "which",
+        "修飾物",
+        "省略可能"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "All the teachers that work in our school are well-qualified and experienced.",
+      "chi": "在我們學校任教的所有老師都是資深且合格的。",
+      "keywords": [
+        "that",
+        "all",
+        "先行詞為all"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The only solution that can solve this problem requires careful planning and teamwork.",
+      "chi": "唯一能解決這個問題的解決方案需要細心規劃和團隊合作。",
+      "keywords": [
+        "that",
+        "the only",
+        "限定修飾"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷先行詞性質決定關係代名詞：人用 who/that，物用 which/that。注意 that 可替代 who 和 which，但 who 和 which 不可互換。先行詞為 all、the only、最高級或不定代名詞時優先用 that。檢查關係代名詞在子句中的語法功能，作受詞可省略。",
+    "examples": [
+      {
+        "test": "The girl who/that studies hard will succeed. vs. The girl which studies hard will succeed.",
+        "result": "→ 第一句正確。修飾人用 who 或 that，不能用 which。"
+      },
+      {
+        "test": "The book (that) you read is interesting. vs. The book that is interesting costs $20.",
+        "result": "→ 第一句 that 可省（作受詞）；第二句 that 不能省（作主詞）。"
+      },
+      {
+        "test": "The best student that has ever attended this school is Mary. vs. The best student which has ever attended this school is Mary.",
+        "result": "→ 第一句正確。先行詞為最高級時用 that 而非 which。"
+      }
+    ],
+    "note": "人用 who/that，物用 which/that；先行詞為 all/the only/最高級優先用 that；作受詞可省略。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The engineers ",
+        null,
+        " designed the bridge are very talented professionals."
+      ],
+      "blanks": [
+        "who/that"
+      ],
+      "sentence": "The engineers who/that designed the bridge are very talented professionals.",
+      "translation": "設計那座橋的工程師們都是非常有才華的專業人士。",
+      "keywords": [
+        "who/that",
+        "修飾人",
+        "作主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The technology ",
+        null,
+        " we use today improves our daily lives significantly."
+      ],
+      "blanks": [
+        "that/which"
+      ],
+      "sentence": "The technology that/which we use today improves our daily lives significantly.",
+      "translation": "我們今天使用的科術大大改善了我們的日常生活。",
+      "keywords": [
+        "that/which",
+        "修飾物",
+        "作受詞可省略"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "All students ",
+        null,
+        " participate in this program benefit from the experience."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "All students that participate in this program benefit from the experience.",
+      "translation": "所有參與這個課程的學生都從中受益。",
+      "keywords": [
+        "that",
+        "all",
+        "先行詞為all"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The most difficult challenge ",
+        null,
+        " young people face requires courage and determination to overcome."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The most difficult challenge that young people face requires courage and determination to overcome.",
+      "translation": "年輕人所面臨的最大挑戰需要勇氣和決心來克服。",
+      "keywords": [
+        "that",
+        "最高級",
+        "作受詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "who",
+      "zh": "修飾人的關係代名詞"
+    },
+    {
+      "adj": "which",
+      "zh": "修飾物的關係代名詞"
+    },
+    {
+      "adj": "that",
+      "zh": "可修飾人或物的關係代名詞"
+    },
+    {
+      "adj": "all",
+      "zh": "全部、所有（常搭配 that）"
+    },
+    {
+      "adj": "the only",
+      "zh": "唯一的（常搭配 that）"
+    },
+    {
+      "adj": "the first/last",
+      "zh": "第一個／最後一個（常搭配 that）"
+    },
+    {
+      "adj": "everything",
+      "zh": "所有事物（常搭配 that）"
+    },
+    {
+      "adj": "nothing",
+      "zh": "沒有什麼（常搭配 that）"
+    },
+    {
+      "adj": "限定性",
+      "zh": "形容詞子句提供必要資訊，不可省略逗號前的內容"
+    },
+    {
+      "adj": "非限定性",
+      "zh": "形容詞子句提供補充資訊，前後有逗號（不適用此句型）"
+    },
+    {
+      "adj": "作受詞",
+      "zh": "關係代名詞在子句中作受詞時可省略"
+    },
+    {
+      "adj": "作主詞",
+      "zh": "關係代名詞在子句中作主詞時不可省略"
+    }
+  ],
+  "vocab_table_label": "關係代名詞"
+}

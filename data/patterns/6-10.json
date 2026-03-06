@@ -1,0 +1,209 @@
+{
+  "code": "6-10",
+  "chapter": 6,
+  "title": "S + be + adj. + enough + to V",
+  "formulas": [
+    {
+      "formula": "S + be + adj. + enough + to V",
+      "zh": "主詞 + 是 + 形容詞 + enough + 不定詞，表示「足夠……可以……」"
+    },
+    {
+      "formula": "S + be + adj. + enough + for + N + to V",
+      "zh": "主詞 + 是 + 形容詞 + enough + for + 名詞 + 不定詞，表示「對某人而言足夠……可以……」"
+    }
+  ],
+  "explanation": "此句型表達某物或某人具有足夠的特性以完成某動作。形容詞必須置於 enough 之前，這點與修飾名詞時 enough 置後的用法不同。可加 for + 受詞明確指出「對誰而言」足夠。常見形容詞如 old、strong、smart、mature、flexible 等。使用時注意 enough 在此句型中一定是副詞身份，修飾形容詞。易混淆處：勿將 enough 置於形容詞前（如 enough old 為誤）。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She is old enough to drive a car legally in Taiwan.",
+      "chi": "她已經足夠成熟，可以合法在台灣駕車。",
+      "keywords": [
+        "be + adj. + enough",
+        "old enough",
+        "不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "This rope is strong enough for us to climb the mountain.",
+      "chi": "這條繩子對我們來說足夠堅固，可以爬山。",
+      "keywords": [
+        "enough + for N",
+        "strong enough",
+        "to climb"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The weather is warm enough to go swimming tomorrow.",
+      "chi": "天氣足夠溫暖，明天可以去游泳。",
+      "keywords": [
+        "warm enough",
+        "be + adj.",
+        "to go swimming"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "His English is good enough for him to pass the TOEFL exam.",
+      "chi": "他的英文對他而言足夠好，可以通過托福考試。",
+      "keywords": [
+        "good enough for",
+        "不定詞",
+        "考試"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "old",
+      "zh": "年長的；足夠成熟的"
+    },
+    {
+      "adj": "young",
+      "zh": "年輕的"
+    },
+    {
+      "adj": "strong",
+      "zh": "強壯的；堅固的"
+    },
+    {
+      "adj": "smart",
+      "zh": "聰慧的；聰明的"
+    },
+    {
+      "adj": "mature",
+      "zh": "成熟的"
+    },
+    {
+      "adj": "flexible",
+      "zh": "靈活的；有彈性的"
+    },
+    {
+      "adj": "capable",
+      "zh": "有能力的；勝任的"
+    },
+    {
+      "adj": "confident",
+      "zh": "有信心的"
+    },
+    {
+      "adj": "patient",
+      "zh": "耐心的"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "experienced",
+      "zh": "有經驗的"
+    },
+    {
+      "adj": "qualified",
+      "zh": "有資格的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 enough 位置：若修飾形容詞或副詞，enough 置後（如 good enough）；若修飾名詞，enough 置前（如 enough time）。兩者語法截然不同，學測常考此區別。記住口訣「形容詞後 enough」可有效避免錯誤。",
+    "examples": [
+      {
+        "test": "❌ He is enough intelligent to solve the problem.",
+        "result": "→ ✓ He is intelligent enough to solve the problem.（enough 應置形容詞後）"
+      },
+      {
+        "test": "❌ This is enough strong rope to use.",
+        "result": "→ ✓ This is a strong enough rope to use.（修飾形容詞 strong，enough 必置後）"
+      },
+      {
+        "test": "✓ We have enough time to finish the project.",
+        "result": "→ 此時 enough 修飾名詞 time，所以置前（與本句型不同）"
+      }
+    ],
+    "note": "形容詞 + enough + 動詞：enough 永遠緊貼在形容詞身後，不可前移。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The students are ",
+        null,
+        " to understand the advanced grammar.",
+        "The students are ",
+        null,
+        " to understand the advanced grammar."
+      ],
+      "blanks": [
+        "smart enough"
+      ],
+      "sentence": "The students are smart enough to understand the advanced grammar.",
+      "translation": "這些學生足夠聰慧，可以理解進階文法。",
+      "keywords": [
+        "smart enough",
+        "be + adj. + enough"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "This material is ",
+        null,
+        " for carpenters to build a house.",
+        "This material is ",
+        null,
+        " for carpenters to build a house."
+      ],
+      "blanks": [
+        "durable enough"
+      ],
+      "sentence": "This material is durable enough for carpenters to build a house.",
+      "translation": "這個材料對木匠來說足夠耐久，可以蓋房子。",
+      "keywords": [
+        "durable enough",
+        "for + 名詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Jane is not ",
+        null,
+        " to take care of her younger brother.",
+        "Jane is not ",
+        null,
+        " to take care of her younger brother."
+      ],
+      "blanks": [
+        "mature enough"
+      ],
+      "sentence": "Jane is not mature enough to take care of her younger brother.",
+      "translation": "珍妮還不夠成熟，無法照顧她的弟弟。",
+      "keywords": [
+        "not...enough",
+        "否定式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The new equipment is ",
+        null,
+        " for the team to win the championship.",
+        "The new equipment is ",
+        null,
+        " for the team to win the championship."
+      ],
+      "blanks": [
+        "advanced enough"
+      ],
+      "sentence": "The new equipment is advanced enough for the team to win the championship.",
+      "translation": "新設備對隊伍而言足夠先進，可以贏得冠軍。",
+      "keywords": [
+        "advanced enough",
+        "to V"
+      ]
+    }
+  ]
+}

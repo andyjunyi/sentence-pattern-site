@@ -1,0 +1,204 @@
+{
+  "code": "6-1",
+  "chapter": 6,
+  "title": "S + V + to V（不定詞作受詞）",
+  "formulas": [
+    {
+      "formula": "S + want/hope/plan/decide/expect + to V",
+      "zh": "主詞＋想要/希望/計劃/決定/期望＋不定詞"
+    },
+    {
+      "formula": "S + wish/refuse/agree/promise/offer + to V",
+      "zh": "主詞＋希望/拒絕/同意/承諾/提供＋不定詞"
+    }
+  ],
+  "explanation": "此句型用於表達主詞的意願、計畫或期望。動詞（want, hope, plan, decide, expect等）後接不定詞作受詞，表示尚未實現的行動。不定詞前的to不能省略。這些動詞都是「控制動詞」，主詞通常是執行不定詞後動作的人。常用於表述目標、願望或決策，是英文中表達主觀意向的重要句型，須注意某些動詞的特定搭配規則。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I hope to travel around Europe next summer vacation.",
+      "chi": "我希望在明年暑假環遊歐洲。",
+      "keywords": [
+        "hope",
+        "to travel",
+        "未來計畫"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She decided to study medicine at National Taiwan University.",
+      "chi": "她決定在臺灣大學念醫學系。",
+      "keywords": [
+        "decided",
+        "to study",
+        "明確決定"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "My parents expect me to score well on the college entrance exam.",
+      "chi": "我的父母期望我在大學入學考試中取得高分。",
+      "keywords": [
+        "expect",
+        "to score",
+        "期望與要求"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He promised to help me finish this project before Friday.",
+      "chi": "他承諾在星期五前幫我完成這個項目。",
+      "keywords": [
+        "promised",
+        "to help",
+        "承諾"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：看主詞是否能執行不定詞後的動作。want/hope/plan表述計畫性，decide表達決策點，expect表達預期與要求。注意refuse和agree的使用時機：refuse表拒絕，agree表同意。某些動詞如manage強調克服困難才成功。",
+    "examples": [
+      {
+        "test": "I want to become a teacher. vs. I want you to become a teacher.",
+        "result": "→ 第一句主詞I執行become動作；第二句主詞I想要you執行become動作（需用want + 受詞 + to V的複雜結構）。本句型僅指主詞自身執行的動作。"
+      },
+      {
+        "test": "He refused to sign the contract. vs. He refused signing the contract.",
+        "result": "→ refused to sign是標準用法；refusing（動名詞）用於refuse後較不常見。本句型動詞後必須用不定詞to V。"
+      },
+      {
+        "test": "She hopes to pass the exam. vs. She hopes passing the exam.",
+        "result": "→ hopes to pass正確；hopes passing錯誤。hope只接不定詞，不接動名詞。"
+      }
+    ],
+    "note": "記憶口訣：「意願計畫來不定，主詞自己做動作；want, hope, plan, decide, expect是常客。」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "My brother ",
+        null,
+        " become a successful engineer in the future.",
+        ""
+      ],
+      "blanks": [
+        "wants to"
+      ],
+      "sentence": "My brother wants to become a successful engineer in the future.",
+      "translation": "我哥哥希望將來能成為一位成功的工程師。",
+      "keywords": [
+        "wants to",
+        "明確願望"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The government decided ",
+        null,
+        " new policies to protect the environment.",
+        ""
+      ],
+      "blanks": [
+        "to implement"
+      ],
+      "sentence": "The government decided to implement new policies to protect the environment.",
+      "translation": "政府決定實施新政策以保護環境。",
+      "keywords": [
+        "decided to",
+        "政策決定"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She promised ",
+        null,
+        " attend the meeting on time tomorrow.",
+        ""
+      ],
+      "blanks": [
+        "to"
+      ],
+      "sentence": "She promised to attend the meeting on time tomorrow.",
+      "translation": "她承諾明天準時參加會議。",
+      "keywords": [
+        "promised to",
+        "承諾行動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Our teachers expect us ",
+        null,
+        " hard for the final exams.",
+        ""
+      ],
+      "blanks": [
+        "to study"
+      ],
+      "sentence": "Our teachers expect us to study hard for the final exams.",
+      "translation": "我們的老師期望我們為期末考而努力讀書。",
+      "keywords": [
+        "expect",
+        "to study",
+        "期望與要求"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "want",
+      "zh": "想要"
+    },
+    {
+      "adj": "hope",
+      "zh": "希望"
+    },
+    {
+      "adj": "plan",
+      "zh": "計劃"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "expect",
+      "zh": "期望"
+    },
+    {
+      "adj": "wish",
+      "zh": "希望（正式）"
+    },
+    {
+      "adj": "refuse",
+      "zh": "拒絕"
+    },
+    {
+      "adj": "agree",
+      "zh": "同意"
+    },
+    {
+      "adj": "promise",
+      "zh": "承諾"
+    },
+    {
+      "adj": "offer",
+      "zh": "主動提供"
+    },
+    {
+      "adj": "attempt",
+      "zh": "嘗試"
+    },
+    {
+      "adj": "manage",
+      "zh": "設法成功"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

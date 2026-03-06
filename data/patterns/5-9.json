@@ -1,0 +1,203 @@
+{
+  "code": "5-9",
+  "chapter": 5,
+  "title": "S + have/has been + p.p.（現在完成被動）",
+  "formulas": [
+    {
+      "formula": "S + have/has been + p.p.",
+      "zh": "現在完成式被動語態，表示從過去到現在已被完成的動作或狀態"
+    },
+    {
+      "formula": "S + have/has been + p.p. + (since/for + 時間)",
+      "zh": "現在完成式被動語態加上時間狀語，強調被動動作持續的時間段"
+    }
+  ],
+  "explanation": "現在完成式被動語態由助動詞 have/has + been + 過去分詞組成。用於表示過去發生但對現在有影響的被動動作，或從過去開始持續到現在的被動狀態。與現在完成主動式的關鍵差異在於：主動式強調「主詞做了什麼」，被動式強調「主詞被做了什麼」。常搭配 since（自從）或 for（持續多久）等時間狀語。注意：過去分詞必須來自及物動詞，否則無法形成被動語態。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This bridge has been built for over fifty years.",
+      "chi": "這座橋已經被建造超過五十年了。",
+      "keywords": [
+        "has been built",
+        "被動語態",
+        "時間狀語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The project has been completed by the team successfully.",
+      "chi": "該項目已經被團隊成功完成了。",
+      "keywords": [
+        "has been completed",
+        "現在完成式被動",
+        "by+施事者"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Several mistakes have been found in the document.",
+      "chi": "文件中已經被發現幾個錯誤。",
+      "keywords": [
+        "have been found",
+        "被動語態",
+        "對現在的影響"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The museum has been visited by thousands of tourists since it opened.",
+      "chi": "自從開放以來，這家博物館已經被數千名遊客參訪過。",
+      "keywords": [
+        "has been visited",
+        "since時間狀語",
+        "持續到現在"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷現在完成被動式的關鍵：①確認主詞是「被作用者」而非「施事者」；②助動詞 have/has 決定時態，been 表示被動；③過去分詞來自及物動詞；④若強調「誰做的」，在過去分詞後加 by + 施事者。常見錯誤是混用主動語態，如誤寫 The bridge has built 而應為 The bridge has been built。",
+    "examples": [
+      {
+        "test": "主動 The company has developed this software. vs 被動 This software has been developed by the company.",
+        "result": "→ 主動強調公司的行動，被動強調軟體被開發的結果；兩者皆現在完成式，但語態不同"
+      },
+      {
+        "test": "錯誤 The report has written since last week. vs 正確 The report has been written since last week.",
+        "result": "→ 務必在過去分詞前加上 been，才能構成被動語態，否則意義不通"
+      },
+      {
+        "test": "現在完成被動 The document has been translated into five languages. vs 現在簡單被動 The document is translated into five languages.",
+        "result": "→ 被動表示「已翻譯完成」（已完成的狀態），簡單被動表示「現在被翻譯」（進行中或習慣性）"
+      }
+    ],
+    "note": "現在完成被動 = have/has + been + p.p.，記住「被」(been) 是被動的靈魂。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The new school building ",
+        null,
+        " since 2020."
+      ],
+      "blanks": [
+        "has been constructed"
+      ],
+      "sentence": "The new school building has been constructed since 2020.",
+      "translation": "新學校建築自從2020年以來已經被建造好了。",
+      "keywords": [
+        "has been constructed",
+        "現在完成式被動",
+        "since時間狀語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Many strategies ",
+        null,
+        " to improve the company's performance."
+      ],
+      "blanks": [
+        "have been proposed"
+      ],
+      "sentence": "Many strategies have been proposed to improve the company's performance.",
+      "translation": "許多策略已經被提出來以改善公司的績效。",
+      "keywords": [
+        "have been proposed",
+        "被動語態",
+        "現在完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Three new novels ",
+        null,
+        " by this famous author this year."
+      ],
+      "blanks": [
+        "have been published"
+      ],
+      "sentence": "Three new novels have been published by this famous author this year.",
+      "translation": "三部新小說今年已經被這位著名作家出版了。",
+      "keywords": [
+        "have been published",
+        "by+施事者",
+        "現在完成被動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The ancient ruins ",
+        null,
+        " extensively over the past decade."
+      ],
+      "blanks": [
+        "have been studied"
+      ],
+      "sentence": "The ancient ruins have been studied extensively over the past decade.",
+      "translation": "這些古代遺跡在過去十年內已經被廣泛研究過了。",
+      "keywords": [
+        "have been studied",
+        "被動語態",
+        "時間狀語"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "build",
+      "zh": "建造、建立"
+    },
+    {
+      "adj": "complete",
+      "zh": "完成"
+    },
+    {
+      "adj": "find",
+      "zh": "發現、找到"
+    },
+    {
+      "adj": "visit",
+      "zh": "參訪、造訪"
+    },
+    {
+      "adj": "damage",
+      "zh": "損害、破壞"
+    },
+    {
+      "adj": "publish",
+      "zh": "出版、發表"
+    },
+    {
+      "adj": "discover",
+      "zh": "發現"
+    },
+    {
+      "adj": "develop",
+      "zh": "開發、發展"
+    },
+    {
+      "adj": "influence",
+      "zh": "影響"
+    },
+    {
+      "adj": "recognize",
+      "zh": "認可、承認"
+    },
+    {
+      "adj": "translate",
+      "zh": "翻譯"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善、改進"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

@@ -1,0 +1,201 @@
+{
+  "code": "3-11",
+  "chapter": 3,
+  "title": "so + adj./adv. + that / such + N + that（結果子句）",
+  "formulas": [
+    {
+      "formula": "so + adj./adv. + that + 結果子句",
+      "zh": "如此...以至於...；表示因為某程度很高而導致某結果"
+    },
+    {
+      "formula": "such + (a/an) + adj. + N + that + 結果子句",
+      "zh": "如此...的...以至於...；通過修飾名詞來表達結果"
+    }
+  ],
+  "explanation": "此句型用於表達因為某事物的程度很高而導致的結果。so 後接形容詞或副詞，such 後接名詞片語（由形容詞和名詞組成）。兩者皆可互換改寫，但要注意詞性搭配：形容詞/副詞用 so，名詞片語用 such。that 引導的結果子句通常使用過去簡單式或現在簡單式。該句型在描述因果關係時特別有力，常見於書面英語。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The movie was so interesting that everyone stayed until the end.",
+      "chi": "那部電影非常有趣，以至於每個人都看到了最後。",
+      "keywords": [
+        "so + adj.",
+        "interesting",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She spoke so quickly that nobody could understand what she said.",
+      "chi": "她說話非常快，以至於沒人能聽懂她在說什麼。",
+      "keywords": [
+        "so + adv.",
+        "quickly",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It was such a difficult exam that many students failed.",
+      "chi": "那是一場如此困難的考試，以至於許多學生不及格。",
+      "keywords": [
+        "such + a + adj. + N",
+        "difficult exam",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He made such a terrible mistake that he lost his job.",
+      "chi": "他犯了這樣一個可怕的錯誤，以至於失去了工作。",
+      "keywords": [
+        "such + a + adj. + N",
+        "terrible mistake",
+        "結果子句"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "terrible",
+      "zh": "可怕的、糟糕的"
+    },
+    {
+      "adj": "quickly",
+      "zh": "快速地"
+    },
+    {
+      "adj": "carefully",
+      "zh": "小心地"
+    },
+    {
+      "adj": "bright",
+      "zh": "明亮的"
+    },
+    {
+      "adj": "loud",
+      "zh": "大聲的"
+    },
+    {
+      "adj": "long",
+      "zh": "長的"
+    },
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "heavily",
+      "zh": "沉重地、大量地"
+    },
+    {
+      "adj": "impressive",
+      "zh": "令人印象深刻的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷使用 so 或 such 的關鍵：so 直接修飾形容詞或副詞（so + adj./adv.），such 修飾名詞片語（such + a/an + adj. + N）。注意：a/an 的使用取決於名詞首字音素（如 a difficult exam，an impressive result）。不可混淆詞性，否則句子結構錯誤。",
+    "examples": [
+      {
+        "test": "❌ It was so a beautiful day that we went to the beach.",
+        "result": "→ ✓ It was such a beautiful day that we went to the beach.（直接修飾名詞片語應用 such）"
+      },
+      {
+        "test": "❌ He ran such fast that he won the race.",
+        "result": "→ ✓ He ran so fast that he won the race.（修飾副詞應用 so，不需 a/an）"
+      },
+      {
+        "test": "✓ The weather was so nice that everyone smiled. / Such nice weather made everyone smile.",
+        "result": "→ 兩句都正確，第一句用 so + adj. + that，第二句改為 such 的名詞片語主語形式"
+      }
+    ],
+    "note": "記住：so 配形容詞/副詞，such 配名詞片語（含形容詞修飾）；that 後接結果，通常是可以預測的後果。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The test was ",
+        null,
+        " that most students didn't finish it in time."
+      ],
+      "blanks": [
+        "so difficult"
+      ],
+      "sentence": "The test was so difficult that most students didn't finish it in time.",
+      "translation": "那場測驗非常困難，以至於大多數學生沒有及時完成。",
+      "keywords": [
+        "so + adj.",
+        "difficult",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She received ",
+        null,
+        " that she couldn't believe it was real."
+      ],
+      "blanks": [
+        "such a wonderful surprise"
+      ],
+      "sentence": "She received such a wonderful surprise that she couldn't believe it was real.",
+      "translation": "她收到了如此美妙的驚喜，以至於她無法相信那是真實的。",
+      "keywords": [
+        "such + a + adj. + N",
+        "wonderful surprise",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The music played ",
+        null,
+        " that the neighbors complained about the noise."
+      ],
+      "blanks": [
+        "so loudly"
+      ],
+      "sentence": "The music played so loudly that the neighbors complained about the noise.",
+      "translation": "音樂播放得非常大聲，以至於鄰居抱怨了噪音。",
+      "keywords": [
+        "so + adv.",
+        "loudly",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "It was ",
+        null,
+        " that we decided to cancel the outdoor event."
+      ],
+      "blanks": [
+        "such heavy rain"
+      ],
+      "sentence": "It was such heavy rain that we decided to cancel the outdoor event.",
+      "translation": "雨下得如此之大，以至於我們決定取消戶外活動。",
+      "keywords": [
+        "such + adj. + N",
+        "heavy rain",
+        "結果子句"
+      ]
+    }
+  ]
+}

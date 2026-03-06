@@ -1,0 +1,207 @@
+{
+  "code": "8-14",
+  "chapter": 8,
+  "title": "S + V + as + S + V（方式子句）",
+  "formulas": [
+    {
+      "formula": "S + V + as + S + V",
+      "zh": "主詞+動詞+如同+主詞+動詞，表示方式或比較"
+    },
+    {
+      "formula": "S + V + just as + S + V",
+      "zh": "主詞+動詞+正如+主詞+動詞，強調並列比較"
+    }
+  ],
+  "explanation": "此句型使用 as 引導方式副詞子句，表達「如同……一樣」的比較意義。as 可引導時間或方式子句，常見於敘述兩個平行動作或狀態。結構為：主要子句 + as + 副詞子句。使用時機為說明兩事物具有相似性或同時性。注意 as 不同於 like（介詞），as 後接完整主賓結構；as always（一如往常）為常用慣用語。易混淆點：區分 as（子句）與 like（片語）的語法差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "As the sun rose, the birds began to sing just as they did every morning.",
+      "chi": "當太陽升起時，鳥兒開始唱歌，正如牠們每天早上所做的一樣。",
+      "keywords": [
+        "as引導時間子句",
+        "just as",
+        "平行動作"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She works hard as her mother did, striving for excellence in everything.",
+      "chi": "她工作認真，如同她的母親一樣，在每件事上都力求卓越。",
+      "keywords": [
+        "as引導比較",
+        "方式副詞子句",
+        "相似性"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "As always, John arrived late to the meeting, causing frustration among team members.",
+      "chi": "一如往常，約翰開會遲到，引起團隊成員的不滿。",
+      "keywords": [
+        "as always慣用語",
+        "習慣性動作",
+        "時間副詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The student solved the problem as his teacher had shown him during the class.",
+      "chi": "那位學生按照老師在課堂上教他的方式解決了這個問題。",
+      "keywords": [
+        "as引導方式",
+        "過去完成式",
+        "說明方法"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "辨別 as（引導子句）與 like（介詞）：as 後必接完整子句（S+V），like 後接名詞或名詞片語。例：as he said（他說的方式）vs. like him（像他這樣的人）。易錯誤使用 like 取代 as 引導子句。",
+    "examples": [
+      {
+        "test": "✓ She sings as her mother does.",
+        "result": "→ 正確。as 引導子句，表示方式比較"
+      },
+      {
+        "test": "✗ She sings like her mother does.",
+        "result": "→ 不當混用。應改用 as，因為後接完整子句"
+      },
+      {
+        "test": "✓ As expected, the project succeeded.",
+        "result": "→ 正確。as expected 是常用慣用語，表示如預期"
+      }
+    ],
+    "note": "記憶口訣：as + 完整子句（主動詞）= 方式比較；as always/expected/usual = 時間狀語"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The team performed well ",
+        null,
+        " the coach had trained them throughout the season.",
+        ""
+      ],
+      "blanks": [
+        "as"
+      ],
+      "sentence": "The team performed well as the coach had trained them throughout the season.",
+      "translation": "球隊表現良好，如同教練整個賽季以來對他們的訓練一樣。",
+      "keywords": [
+        "as引導方式子句",
+        "比較",
+        "訓練成果"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        ", she forgot her keys at home again.",
+        ""
+      ],
+      "blanks": [
+        "As always"
+      ],
+      "sentence": "As always, she forgot her keys at home again.",
+      "translation": "一如往常，她又把鑰匙忘在家裡了。",
+      "keywords": [
+        "as always慣用語",
+        "習慣性",
+        "重複動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "He solved the math problem ",
+        null,
+        " the textbook had explained it.",
+        ""
+      ],
+      "blanks": [
+        "just as"
+      ],
+      "sentence": "He solved the math problem just as the textbook had explained it.",
+      "translation": "他正如教科書所解釋的那樣解決了數學問題。",
+      "keywords": [
+        "just as強調",
+        "並列比較",
+        "說明方法"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " predicted, the stock market dropped significantly after the announcement.",
+        ""
+      ],
+      "blanks": [
+        "As"
+      ],
+      "sentence": "As predicted, the stock market dropped significantly after the announcement.",
+      "translation": "如預期所料，公告發布後股市大幅下跌。",
+      "keywords": [
+        "as predicted",
+        "預測",
+        "因果關係"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "just",
+      "zh": "恰好、正好"
+    },
+    {
+      "adj": "always",
+      "zh": "一如往常"
+    },
+    {
+      "adj": "before",
+      "zh": "之前、像以前一樣"
+    },
+    {
+      "adj": "usual",
+      "zh": "像往常一樣"
+    },
+    {
+      "adj": "expected",
+      "zh": "如預期所料"
+    },
+    {
+      "adj": "planned",
+      "zh": "按計畫"
+    },
+    {
+      "adj": "supposed",
+      "zh": "如預期"
+    },
+    {
+      "adj": "intended",
+      "zh": "如預期"
+    },
+    {
+      "adj": "instructed",
+      "zh": "如被指示"
+    },
+    {
+      "adj": "required",
+      "zh": "如所要求"
+    },
+    {
+      "adj": "agreed",
+      "zh": "如約定"
+    },
+    {
+      "adj": "promised",
+      "zh": "如承諾"
+    }
+  ],
+  "vocab_table_label": "常用副詞"
+}

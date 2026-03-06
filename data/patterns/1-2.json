@@ -1,0 +1,221 @@
+{
+  "code": "1-2",
+  "chapter": 1,
+  "title": "It is + adj. + for/of sb. + to V",
+  "formula_for": "It is + [adj.] + for + [sb.] + to [V]",
+  "formula_for_zh": "做某事（對某人來說）是⋯⋯的",
+  "formula_of": "It is + [adj.] + of + [sb.] + to [V]",
+  "formula_of_zh": "某人做某事是⋯⋯的（評價人格特質）",
+  "explanation": {
+    "for": "for 用於描述某件事對某人而言的難易度、重要性或必要性，著重於「事情本身的性質」。形容詞描述的是不定詞所代表的動作，而非 for 後面的人。",
+    "of": "of 用於描述某人做了某件事所展現出的品格或特質，著重於「人的特質」。形容詞直接描述 of 後面那個人的個人特質或行為表現。"
+  },
+  "examples": [
+    {
+      "id": 1,
+      "sentence": "It is important for students to review their notes every day.",
+      "template": "It is ___ for students to review their notes every day.",
+      "parts": [
+        "It is ",
+        null,
+        " for students to review their notes every day."
+      ],
+      "blanks": [
+        "important"
+      ],
+      "answer": "important",
+      "translation": "學生每天複習筆記是很重要的。",
+      "preposition": "for",
+      "keywords": [
+        "It is",
+        "important",
+        "for",
+        "students",
+        "to review"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence": "It is difficult for beginners to master a new language quickly.",
+      "template": "It is ___ for beginners to master a new language quickly.",
+      "parts": [
+        "It is ",
+        null,
+        " for beginners to master a new language quickly."
+      ],
+      "blanks": [
+        "difficult"
+      ],
+      "answer": "difficult",
+      "translation": "對初學者來說，快速精通一門新語言是很困難的。",
+      "preposition": "for",
+      "keywords": [
+        "It is",
+        "difficult",
+        "for",
+        "beginners",
+        "to master"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence": "It is very kind of you to help me carry these heavy boxes.",
+      "template": "It is very ___ of you to help me carry these heavy boxes.",
+      "parts": [
+        "It is very ",
+        null,
+        " of you to help me carry these heavy boxes."
+      ],
+      "blanks": [
+        "kind"
+      ],
+      "answer": "kind",
+      "translation": "你幫我搬這些重箱子真的很好心。",
+      "preposition": "of",
+      "keywords": [
+        "It is",
+        "kind",
+        "of",
+        "to help",
+        "boxes"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence": "It is careless of Tom to forget his umbrella on such a rainy day.",
+      "template": "It is ___ of Tom to forget his umbrella on such a rainy day.",
+      "parts": [
+        "It is ",
+        null,
+        " of Tom to forget his umbrella on such a rainy day."
+      ],
+      "blanks": [
+        "careless"
+      ],
+      "answer": "careless",
+      "translation": "Tom 在這麼下雨的天氣還忘記帶傘，真的很粗心。",
+      "preposition": "of",
+      "keywords": [
+        "It is",
+        "careless",
+        "of",
+        "to forget"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "hard",
+      "zh": "艱難的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "convenient",
+      "zh": "方便的"
+    },
+    {
+      "adj": "dangerous",
+      "zh": "危險的"
+    },
+    {
+      "adj": "common",
+      "zh": "普遍的"
+    },
+    {
+      "adj": "natural",
+      "zh": "自然的"
+    },
+    {
+      "adj": "essential",
+      "zh": "不可或缺的"
+    }
+  ],
+  "adj_table_of": [
+    {
+      "adj": "kind",
+      "zh": "好心的"
+    },
+    {
+      "adj": "nice",
+      "zh": "好的、親切的"
+    },
+    {
+      "adj": "good",
+      "zh": "善良的"
+    },
+    {
+      "adj": "clever",
+      "zh": "聰明的"
+    },
+    {
+      "adj": "wise",
+      "zh": "明智的"
+    },
+    {
+      "adj": "foolish",
+      "zh": "愚蠢的"
+    },
+    {
+      "adj": "stupid",
+      "zh": "笨的"
+    },
+    {
+      "adj": "brave",
+      "zh": "勇敢的"
+    },
+    {
+      "adj": "careless",
+      "zh": "粗心的"
+    },
+    {
+      "adj": "rude",
+      "zh": "無禮的"
+    },
+    {
+      "adj": "polite",
+      "zh": "有禮貌的"
+    },
+    {
+      "adj": "generous",
+      "zh": "慷慨的"
+    }
+  ],
+  "extension": {
+    "title": "延伸學習：判斷用 for 還是 of",
+    "tip": "判斷技巧：把形容詞套用到人身上。如果句子合理，就用 of；如果不合理，就用 for。",
+    "examples": [
+      {
+        "test": "He is kind. → 合理",
+        "result": "→ 用 of：It is kind of him to do that."
+      },
+      {
+        "test": "He is important. → 不合理",
+        "result": "→ 用 for：It is important for him to do that."
+      }
+    ],
+    "note": "口訣：形容詞若能直接描述「人」的特質，用 of；若描述的是「事情」的性質，用 for。"
+  }
+}

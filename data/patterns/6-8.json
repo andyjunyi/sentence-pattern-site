@@ -1,0 +1,206 @@
+{
+  "code": "6-8",
+  "chapter": 6,
+  "title": "S + V + in order to / so as to + V",
+  "formulas": [
+    {
+      "formula": "S + V + in order to / so as to + V",
+      "zh": "主詞 + 動詞 + 為了...目的 + 不定詞動詞"
+    },
+    {
+      "formula": "In order to / So as to + V, S + V",
+      "zh": "為了...目的 + 不定詞動詞，主詞 + 動詞（目的句置句首）"
+    }
+  ],
+  "explanation": "不定詞用以表示行動目的，in order to 和 so as to 為正式用法，皆可置句首或句中。in order to 較常用，so as to 多見書面語。否定形式為 in order not to / so as not to。口語環境直接用 to 更簡潔。此句型強調主要動作實現的明確目標，常用於說明計畫、方法或原因。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She studies hard in order to pass the exam.",
+      "chi": "她努力讀書是為了通過考試。",
+      "keywords": [
+        "in order to",
+        "目的",
+        "不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "To save time, we decided to take the express train.",
+      "chi": "為了節省時間，我們決定搭乘快速列車。",
+      "keywords": [
+        "to",
+        "目的",
+        "簡潔用法"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He locked the door so as not to be disturbed while working.",
+      "chi": "他鎖上門是為了工作時不被打擾。",
+      "keywords": [
+        "so as not to",
+        "否定目的",
+        "正式用法"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "In order to improve her English, Mary watches English movies every day.",
+      "chi": "為了改進英文，瑪麗每天看英文電影。",
+      "keywords": [
+        "In order to",
+        "句首",
+        "目的句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "in order to 和 to 意思相同，但 in order to 更強調明確目的，適用正式場合。so as to 最正式但較少見。in order not to 是否定目的的正式表達；口語直接用 not to。注意：不定詞主詞必須與主句主詞相同。",
+    "examples": [
+      {
+        "test": "He went to the library to study. / He went to the library in order to study.",
+        "result": "→ 兩句意思相同，to 更口語，in order to 更正式"
+      },
+      {
+        "test": "錯：He went there so as to meeting his friend. / 正：He went there so as to meet his friend.",
+        "result": "→ in order to / so as to 後必用原形不定詞，不可加 -ing"
+      },
+      {
+        "test": "She stayed quiet in order not to disturb the others.",
+        "result": "→ 否定目的用 in order not to / so as not to，語意清晰"
+      }
+    ],
+    "note": "in order to = so as to = to（意思相同，正式度遞減），否定加 not to，記住：目的不定詞的主詞同主句主詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The athlete trained every day ",
+        null,
+        " win the championship.",
+        ""
+      ],
+      "blanks": [
+        "in order to / so as to / to"
+      ],
+      "sentence": "The athlete trained every day in order to win the championship.",
+      "translation": "這位運動員每天訓練是為了贏得冠軍。",
+      "keywords": [
+        "目的不定詞",
+        "in order to",
+        "訓練"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " avoid traffic, we left early in the morning.",
+        ""
+      ],
+      "blanks": [
+        "In order to / So as to / To"
+      ],
+      "sentence": "In order to avoid traffic, we left early in the morning.",
+      "translation": "為了避開交通堵塞，我們一大早就出發了。",
+      "keywords": [
+        "句首目的句",
+        "In order to",
+        "避免"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She wore a mask ",
+        null,
+        " not be recognized by the paparazzi.",
+        ""
+      ],
+      "blanks": [
+        "in order to / so as to"
+      ],
+      "sentence": "She wore a mask in order not to be recognized by the paparazzi.",
+      "translation": "她戴上面具是為了不被狗仔隊認出來。",
+      "keywords": [
+        "否定目的",
+        "in order not to",
+        "不定詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "We saved money for years ",
+        null,
+        " buy a house in the city.",
+        ""
+      ],
+      "blanks": [
+        "in order to / so as to / to"
+      ],
+      "sentence": "We saved money for years in order to buy a house in the city.",
+      "translation": "我們存了多年的錢是為了在城市裡買房子。",
+      "keywords": [
+        "長期目的",
+        "in order to",
+        "儲蓄"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study",
+      "zh": "讀書、研究"
+    },
+    {
+      "adj": "improve",
+      "zh": "改進、改善"
+    },
+    {
+      "adj": "save",
+      "zh": "節省、拯救"
+    },
+    {
+      "adj": "achieve",
+      "zh": "達成、實現"
+    },
+    {
+      "adj": "prevent",
+      "zh": "預防、阻止"
+    },
+    {
+      "adj": "practice",
+      "zh": "練習、實踐"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解、明白"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "survive",
+      "zh": "生存、倖存"
+    },
+    {
+      "adj": "escape",
+      "zh": "逃離、避開"
+    },
+    {
+      "adj": "prepare",
+      "zh": "準備"
+    },
+    {
+      "adj": "communicate",
+      "zh": "溝通、傳達"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

@@ -1,0 +1,202 @@
+{
+  "code": "8-25",
+  "chapter": 8,
+  "title": "S + V + now that + S + V",
+  "formulas": [
+    {
+      "formula": "Now that + S + V, S + V",
+      "zh": "既然……（現在情況已成立），……；強調現在已成立的原因或背景"
+    },
+    {
+      "formula": "Now that + S + V, S + will/can/should + V",
+      "zh": "既然……（現在情況已成立），……就能/應該……"
+    }
+  ],
+  "explanation": "Now that 為從屬連詞，引導原因狀語從句，表達「既然現在已成立的事實或情況」。相比 since 和 because，now that 更強調當下已成立的新情況，帶有「既然如此」的立即反應語氣。從句中的動詞通常用過去完成式或現在完成式，表示該情況已發生或已確立。主句則可用各種時態。此句型常見於正式或中等嚴肅的語境。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Now that you have graduated, you can finally pursue your dream job.",
+      "chi": "既然你已經畢業了，你終於可以追求你理想的工作。",
+      "keywords": [
+        "Now that",
+        "已完成的情況",
+        "結果導向"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Now that the project is completed, we should celebrate our team's hard work.",
+      "chi": "既然專案已完成，我們應該慶祝團隊的辛勞。",
+      "keywords": [
+        "Now that",
+        "現狀確立",
+        "後續行動"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Now that climate change is a serious global issue, governments must take immediate action.",
+      "chi": "既然氣候變遷已成為嚴重的全球問題，政府必須立即採取行動。",
+      "keywords": [
+        "Now that",
+        "客觀事實",
+        "必然結論"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Now that you understand the rules, you should follow them without hesitation.",
+      "chi": "既然你現在理解了規則，你應該毫不猶豫地遵守它們。",
+      "keywords": [
+        "Now that",
+        "認知達成",
+        "期望行為"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "Now that 與 since/because 的區別在於強調時間點。Now that 表「既然現狀如此」，暗示新情況已發生；since 則較中立的原因說明；because 則表邏輯因果。判斷時留意從句是否強調「已成立」的新現狀，而非單純的理由。",
+    "examples": [
+      {
+        "test": "Now that we have the funding, we can start the research project.",
+        "result": "→ 正確。強調資金已到位這個新現狀，由此引出可以開始的結論"
+      },
+      {
+        "test": "Now that it is raining, let's stay home instead.",
+        "result": "→ 正確。強調當下已下雨的現狀，引出立即調整的決定"
+      },
+      {
+        "test": "Now that he was tired, he went to bed early.",
+        "result": "→ 不妥。過去式不適合 now that；應改為 Since he was tired 或 Because he was tired"
+      }
+    ],
+    "note": "Now that 用於強調現在已成立的新情況，從句優先用現在完成式或現在簡單式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Now that you ",
+        null,
+        " your degree, you should start looking for a job."
+      ],
+      "blanks": [
+        "have completed / have received"
+      ],
+      "sentence": "Now that you have completed your degree, you should start looking for a job.",
+      "translation": "既然你已完成學位，你應該開始找工作。",
+      "keywords": [
+        "Now that",
+        "現在完成式",
+        "後續期望"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Now that the contract ",
+        null,
+        ", both parties can proceed with confidence."
+      ],
+      "blanks": [
+        "has been signed / is signed"
+      ],
+      "sentence": "Now that the contract has been signed, both parties can proceed with confidence.",
+      "translation": "既然合約已簽署，雙方可以有信心地推進。",
+      "keywords": [
+        "Now that",
+        "被動語態",
+        "行動開展"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        " you understand the importance of health, you must adopt better lifestyle habits."
+      ],
+      "blanks": [
+        "Now that"
+      ],
+      "sentence": "Now that you understand the importance of health, you must adopt better lifestyle habits.",
+      "translation": "既然你現在理解健康的重要性，你必須養成更好的生活習慣。",
+      "keywords": [
+        "Now that",
+        "認知確立",
+        "必然行動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Now that the technology ",
+        null,
+        ", companies can reduce production costs significantly."
+      ],
+      "blanks": [
+        "has been developed / has become available"
+      ],
+      "sentence": "Now that the technology has been developed, companies can reduce production costs significantly.",
+      "translation": "既然技術已經研發出來，公司可以大幅降低生產成本。",
+      "keywords": [
+        "Now that",
+        "事實確認",
+        "能力實現"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "graduate",
+      "zh": "畢業"
+    },
+    {
+      "adj": "complete",
+      "zh": "完成"
+    },
+    {
+      "adj": "know / understand",
+      "zh": "知道／理解"
+    },
+    {
+      "adj": "have",
+      "zh": "有機會"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生"
+    },
+    {
+      "adj": "become clear",
+      "zh": "變明確"
+    },
+    {
+      "adj": "establish",
+      "zh": "確立"
+    },
+    {
+      "adj": "can / should / must",
+      "zh": "能夠／應該／必須"
+    },
+    {
+      "adj": "no longer",
+      "zh": "不再"
+    },
+    {
+      "adj": "finally",
+      "zh": "終於"
+    },
+    {
+      "adj": "immediately / at once",
+      "zh": "立即"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

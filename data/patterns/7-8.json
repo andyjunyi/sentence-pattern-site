@@ -1,0 +1,202 @@
+{
+  "code": "7-8",
+  "chapter": 7,
+  "title": "Having + p.p., S + V（完成分詞構句）",
+  "formulas": [
+    {
+      "formula": "Having + p.p. + ..., S + V...",
+      "zh": "在…之後，主詞…；完成分詞構句表示分詞動作先於主句動作發生"
+    },
+    {
+      "formula": "Having been + p.p. + ..., S + V...",
+      "zh": "被動完成分詞構句；表示分詞的被動動作先於主句動作完成"
+    }
+  ],
+  "explanation": "完成分詞構句用於表達先後順序，分詞的動作在主句動作之前已完成。主要結構為「Having + 過去分詞」開頭，後接完整主句。被動語態時使用「Having been + 過去分詞」。此句型強調時間先後順序，常用於正式寫作和敘述事件。注意分詞的邏輯主詞必須與主句主詞一致，且分詞動作應明確先於主句動作發生。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Having finished her homework, Maria went out to play with her friends.",
+      "chi": "完成功課後，瑪麗亞出門和朋友一起玩。",
+      "keywords": [
+        "Having finished",
+        "完成分詞",
+        "先後順序"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Having been rejected by three universities, he finally decided to work abroad.",
+      "chi": "被三所大學拒絕後，他最終決定到國外工作。",
+      "keywords": [
+        "Having been rejected",
+        "被動完成分詞",
+        "經歷事件"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Having studied the report carefully, the manager made an important decision.",
+      "chi": "仔細研究報告後，經理做出了一項重要決定。",
+      "keywords": [
+        "Having studied",
+        "完成分詞",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Having waited for two hours, the passengers complained about the flight delay.",
+      "chi": "等待兩小時後，乘客抱怨航班延誤。",
+      "keywords": [
+        "Having waited",
+        "時間經過",
+        "結果反應"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "完成分詞句強調時間先後順序，分詞動作必先於主句動作完成。與現在分詞（doing）不同，完成分詞（having done）明確表達先完成的動作。邏輯主詞必須與主句主詞一致，否則構成懸垂分詞錯誤。",
+    "examples": [
+      {
+        "test": "Having finished the project, we celebrated our success.",
+        "result": "✓ 正確：「完成項目」先於「慶祝」發生，邏輯主詞一致"
+      },
+      {
+        "test": "Having been warned about the danger, the hikers still proceeded carefully.",
+        "result": "✓ 正確：被動完成分詞，表被警告後才繼續行動"
+      },
+      {
+        "test": "Having eaten breakfast, the students went to school.",
+        "result": "✓ 正確：「吃早餐」先於「上學」，時間順序清楚"
+      }
+    ],
+    "note": "記憶口訣：先「Having + 過去分詞」，後主句動作；完成分詞一定表示「先」發生的動作。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Having finished her studies, Sarah",
+        null,
+        "for a teaching position at the school."
+      ],
+      "blanks": [
+        "applied"
+      ],
+      "sentence": "Having finished her studies, Sarah applied for a teaching position at the school.",
+      "translation": "完成學業後，莎拉申請了學校的教學職位。",
+      "keywords": [
+        "Having finished",
+        "應聘",
+        "完成分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Having been",
+        null,
+        "by multiple job rejections, Tom decided to start his own business."
+      ],
+      "blanks": [
+        "discouraged"
+      ],
+      "sentence": "Having been discouraged by multiple job rejections, Tom decided to start his own business.",
+      "translation": "因多次求職被拒而灰心後，湯姆決定創辦自己的事業。",
+      "keywords": [
+        "Having been discouraged",
+        "被動完成分詞",
+        "結果決定"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        null,
+        "the contract carefully, the lawyer raised several important concerns."
+      ],
+      "blanks": [
+        "Having reviewed"
+      ],
+      "sentence": "Having reviewed the contract carefully, the lawyer raised several important concerns.",
+      "translation": "仔細審查合約後，律師提出了幾項重要疑慮。",
+      "keywords": [
+        "Having reviewed",
+        "審查完畢",
+        "之後提出"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Having",
+        null,
+        "for the exam for weeks, the students felt confident when taking the test."
+      ],
+      "blanks": [
+        "prepared"
+      ],
+      "sentence": "Having prepared for the exam for weeks, the students felt confident when taking the test.",
+      "translation": "準備考試數週後，學生們在考試時感到很有信心。",
+      "keywords": [
+        "Having prepared",
+        "準備充分",
+        "信心來源"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "complete",
+      "zh": "完成、做完"
+    },
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "leave",
+      "zh": "離開"
+    },
+    {
+      "adj": "read",
+      "zh": "閱讀"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "accept",
+      "zh": "接受"
+    },
+    {
+      "adj": "graduate",
+      "zh": "畢業"
+    },
+    {
+      "adj": "prepare",
+      "zh": "準備"
+    },
+    {
+      "adj": "receive",
+      "zh": "收到"
+    },
+    {
+      "adj": "spend",
+      "zh": "花費（時間）"
+    },
+    {
+      "adj": "achieve",
+      "zh": "達成、完成"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

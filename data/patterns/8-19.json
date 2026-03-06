@@ -1,0 +1,199 @@
+{
+  "code": "8-19",
+  "chapter": 8,
+  "title": "not only... but (also)...（連接詞組）",
+  "formulas": [
+    {
+      "formula": "not only A but (also) B",
+      "zh": "不僅A而且B；連接相同詞性的成分，強調B比A更重要"
+    },
+    {
+      "formula": "Not only + 助動詞 + S + V..., but (also) + S + V...",
+      "zh": "置於句首時，主句採倒裝語序，強調句子的強烈對比"
+    }
+  ],
+  "explanation": "not only...but also用於連接具相同詞性的語法成分（名詞、動詞、形容詞等），強調兩項事物都成立且後者更重要。當置於句首時，主句必須倒裝，即助動詞提前至主詞之前。此句型常見於學測，用於強調複合訊息。注意：but also中的also可省略，but 必須保留；倒裝時需確認主詞與動詞時態一致；不能與單純的and混淆。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Not only did he finish the project, but he also exceeded all expectations.",
+      "chi": "他不僅完成了這個專案，而且超越了所有人的期望。",
+      "keywords": [
+        "倒裝結構",
+        "過去式",
+        "強調"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "This book is not only educational but also highly entertaining for readers.",
+      "chi": "這本書不僅具教育意義，而且對讀者來說也相當有趣。",
+      "keywords": [
+        "形容詞連接",
+        "平行結構"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Not only does she speak English fluently, but she also masters three other languages.",
+      "chi": "她不僅英文說得流利，而且還精通其他三種語言。",
+      "keywords": [
+        "倒裝",
+        "現在式",
+        "能力強調"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The program benefits not only the students but also the teachers and parents.",
+      "chi": "這個計畫不僅造福學生，而且也造福教師和家長。",
+      "keywords": [
+        "名詞連接",
+        "多方受益"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "talented",
+      "zh": "有才華的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰慧的"
+    },
+    {
+      "adj": "hardworking",
+      "zh": "勤奮的"
+    },
+    {
+      "adj": "beneficial",
+      "zh": "有益的"
+    },
+    {
+      "adj": "challenging",
+      "zh": "具挑戰性的"
+    },
+    {
+      "adj": "creative",
+      "zh": "富創意的"
+    },
+    {
+      "adj": "reliable",
+      "zh": "可靠的"
+    },
+    {
+      "adj": "essential",
+      "zh": "必要的"
+    },
+    {
+      "adj": "innovative",
+      "zh": "創新的"
+    },
+    {
+      "adj": "effective",
+      "zh": "有效的"
+    },
+    {
+      "adj": "comprehensive",
+      "zh": "全面的"
+    },
+    {
+      "adj": "remarkable",
+      "zh": "傑出的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "句首倒裝時務必確認：(1)助動詞必須前置於主詞；(2)主詞後的動詞應使用原形（do/does/did）；(3)but also後的主詞若與前面不同，需重複或代詞指代。平時應將倒裝結構與原序結構相互轉換練習。",
+    "examples": [
+      {
+        "test": "❌ Not only he finished the work, but he also helped others.",
+        "result": "→ ✓ Not only did he finish the work, but he also helped others.（助動詞did必須前置）"
+      },
+      {
+        "test": "❌ She is not only hardworking and also talented.",
+        "result": "→ ✓ She is not only hardworking but also talented.（必須用but，不用and）"
+      },
+      {
+        "test": "✓ Not only are the flowers beautiful, but they also bloom year-round.",
+        "result": "→ 現在式倒裝，助動詞are前置，主詞flowers後接動詞原形"
+      }
+    ],
+    "note": "置句首倒裝：『助動詞提前，主詞隨後，動詞變原形』；平序連接則『名詞/形容詞/動詞對應，but也必須用』。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Not only ",
+        null,
+        " she master Chinese, but she also speaks Japanese fluently."
+      ],
+      "blanks": [
+        "does"
+      ],
+      "sentence": "Not only does she master Chinese, but she also speaks Japanese fluently.",
+      "translation": "她不僅掌握中文，而且還能流利地說日文。",
+      "keywords": [
+        "倒裝",
+        "助動詞does",
+        "語言技能"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "This project is ",
+        null,
+        " challenging but also rewarding for the team."
+      ],
+      "blanks": [
+        "not only"
+      ],
+      "sentence": "This project is not only challenging but also rewarding for the team.",
+      "translation": "這個專案不僅對團隊具挑戰性，而且也很有回報。",
+      "keywords": [
+        "平序結構",
+        "形容詞連接",
+        "but also"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Not only ",
+        null,
+        " the concert impressive, but it also raised awareness for charity."
+      ],
+      "blanks": [
+        "was"
+      ],
+      "sentence": "Not only was the concert impressive, but it also raised awareness for charity.",
+      "translation": "音樂會不僅令人印象深刻，而且還為慈善事業提升了認知。",
+      "keywords": [
+        "倒裝",
+        "was",
+        "過去式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The new policy benefits not only employees ",
+        null,
+        " also the company's reputation."
+      ],
+      "blanks": [
+        "but"
+      ],
+      "sentence": "The new policy benefits not only employees but also the company's reputation.",
+      "translation": "新政策不僅使員工受益，而且也提升了公司的聲譽。",
+      "keywords": [
+        "名詞連接",
+        "but也必須用",
+        "平行結構"
+      ]
+    }
+  ]
+}

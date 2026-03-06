@@ -1,0 +1,209 @@
+{
+  "code": "5-6",
+  "chapter": 5,
+  "title": "S + be + p.p. + (by + agent)（基本被動語態）",
+  "formulas": [
+    {
+      "formula": "S + am/is/are + p.p. + (by + agent)",
+      "zh": "主詞 + 是/被 + 過去分詞 + (由...)"
+    },
+    {
+      "formula": "S + am/is/are + p.p.",
+      "zh": "主詞 + 是/被 + 過去分詞（行為者省略時）"
+    }
+  ],
+  "explanation": "現在式被動語態用於表達動作承受者為主詞的句子。主詞不執行動作，而是承受動作。by 子句引導執行動作的人或物，但當行為者明顯、不重要或已知時可省略。使用被動語態需確保原動詞為及物動詞，且現在式被動用於敘述現在的狀態、習慣性動作或普遍事實。常見於科學、新聞、正式文體中。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This bridge is built by skilled engineers with modern technology.",
+      "chi": "這座橋由熟練的工程師用現代技術建造。",
+      "keywords": [
+        "被動語態",
+        "by 子句",
+        "行為者明確"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "English is spoken as a second language in many Asian countries.",
+      "chi": "在許多亞洲國家，英語被作為第二語言使用。",
+      "keywords": [
+        "現在式被動",
+        "廣泛用法",
+        "行為者省略"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The documents are reviewed carefully before publication.",
+      "chi": "這些文件在發表前被仔細審查。",
+      "keywords": [
+        "過去分詞",
+        "被動結構",
+        "時間狀語"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "These products are made from recycled materials.",
+      "chi": "這些產品由回收材料製成。",
+      "keywords": [
+        "材料介詞 from",
+        "現在式被動",
+        "日常應用"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用被動語態：若句子強調動作承受者或行為者不重要，使用被動。確認原動詞為及物動詞，不及物動詞（如 happen、occur）無被動形。注意被動語態的現在式助動詞必須與主詞單複數一致。",
+    "examples": [
+      {
+        "test": "主動：Engineers build this bridge.",
+        "result": "→ 被動：This bridge is built (by engineers). 強調橋的完成，工程師可省略"
+      },
+      {
+        "test": "主動：The company produces these goods.",
+        "result": "→ 被動：These goods are produced (by the company). 關注產品而非製造者"
+      },
+      {
+        "test": "錯誤：The accident is happened yesterday.",
+        "result": "→ 正確：The accident happened yesterday. (happen 為不及物動詞，無被動形)"
+      }
+    ],
+    "note": "記住：及物動詞 + by 子句 = 現在式被動語態；省略 by 時聚焦於動作結果而非執行者。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "These smartphones ",
+        null,
+        " manufactured in East Asia."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "These smartphones are manufactured in East Asia.",
+      "translation": "這些智慧型手機在東亞製造。",
+      "keywords": [
+        "be 動詞",
+        "過去分詞",
+        "複數主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The report ",
+        null,
+        " written ",
+        null,
+        " the research team."
+      ],
+      "blanks": [
+        "is",
+        "by"
+      ],
+      "sentence": "The report is written by the research team.",
+      "translation": "這份報告由研究團隊撰寫。",
+      "keywords": [
+        "單數主詞",
+        "過去分詞",
+        "by 行為者"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Fresh vegetables ",
+        null,
+        " delivered to the market every morning."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "Fresh vegetables are delivered to the market every morning.",
+      "translation": "新鮮蔬菜每天早上被運到市場。",
+      "keywords": [
+        "現在式被動",
+        "時間狀語",
+        "定期動作"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The championship trophy ",
+        null,
+        " awarded to the winning team ",
+        null,
+        " the coach."
+      ],
+      "blanks": [
+        "is",
+        "by"
+      ],
+      "sentence": "The championship trophy is awarded to the winning team by the coach.",
+      "translation": "冠軍獎盃由教練授予獲勝隊伍。",
+      "keywords": [
+        "單數主詞",
+        "間接受詞",
+        "by 子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "build",
+      "zh": "建造"
+    },
+    {
+      "adj": "speak",
+      "zh": "說話、使用"
+    },
+    {
+      "adj": "make",
+      "zh": "製作"
+    },
+    {
+      "adj": "teach",
+      "zh": "教導"
+    },
+    {
+      "adj": "write",
+      "zh": "寫作"
+    },
+    {
+      "adj": "produce",
+      "zh": "生產"
+    },
+    {
+      "adj": "publish",
+      "zh": "出版"
+    },
+    {
+      "adj": "design",
+      "zh": "設計"
+    },
+    {
+      "adj": "organize",
+      "zh": "組織、籌辦"
+    },
+    {
+      "adj": "influence",
+      "zh": "影響"
+    },
+    {
+      "adj": "appreciate",
+      "zh": "欣賞、重視"
+    },
+    {
+      "adj": "recognize",
+      "zh": "認識、承認"
+    }
+  ],
+  "vocab_table_label": "常用被動動詞"
+}

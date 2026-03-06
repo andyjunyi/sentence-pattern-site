@@ -1,0 +1,208 @@
+{
+  "code": "3-2",
+  "chapter": 3,
+  "title": "比較級 + than...（不等比較）",
+  "formulas": [
+    {
+      "formula": "adj./adv.-er + than + 比較對象",
+      "zh": "單音節形容詞/副詞加-er表比較級"
+    },
+    {
+      "formula": "more + adj./adv. + than + 比較對象",
+      "zh": "多音節形容詞/副詞用more表比較級"
+    }
+  ],
+  "explanation": "比較級用於兩者之間的對比。單音節形容詞通常加-er（如tall→taller），多音節形容詞用more（如expensive→more expensive）。部分形容詞兼具兩種用法（如common→commoner/more common）。須注意不規則比較級（good→better, bad→worse, far→farther/further）。比較對象必須詞性相同、邏輯可比，避免比較不同類別的事物。常用than引導被比較對象。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This smartphone is more expensive than that one, but it has better features.",
+      "chi": "這支手機比那支貴，但它的功能更好。",
+      "keywords": [
+        "more expensive than",
+        "better",
+        "比較級"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She runs faster than her brother and is more determined to win the race.",
+      "chi": "她比哥哥跑得快，而且更決心贏得比賽。",
+      "keywords": [
+        "faster than",
+        "more determined",
+        "副詞比較級"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The weather in summer is hotter and more humid than in spring.",
+      "chi": "夏天的天氣比春天更熱、更潮濕。",
+      "keywords": [
+        "hotter than",
+        "more humid",
+        "連接兩個比較級"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "This book is less interesting than the one I read last week.",
+      "chi": "這本書沒有我上週讀的那本有趣。",
+      "keywords": [
+        "less interesting than",
+        "否定比較",
+        "比較級"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "tall",
+      "zh": "高的"
+    },
+    {
+      "adj": "short",
+      "zh": "矮的/短的"
+    },
+    {
+      "adj": "fast",
+      "zh": "快的"
+    },
+    {
+      "adj": "slow",
+      "zh": "慢的"
+    },
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "cheap",
+      "zh": "便宜的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰明的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "comfortable",
+      "zh": "舒適的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷用-er或more的關鍵：數音節。one-syllable用-er（big→bigger），three or more用more（beautiful→more beautiful）。two-syllable有特例：happy→happier，clever→cleverer。另當形容詞修飾比較級時，使用even/much/far加強（much better）。",
+    "examples": [
+      {
+        "test": "我的房間比你的大 / My room is bigger than yours.",
+        "result": "→ 用bigger（單音節big）"
+      },
+      {
+        "test": "這個計畫比那個更重要 / This project is more important than that one.",
+        "result": "→ 用more important（多音節important）"
+      },
+      {
+        "test": "他跑得快得多 / He runs much faster than before.",
+        "result": "→ 用much修飾faster加強比較級語氣"
+      }
+    ],
+    "note": "單音節加-er，多音節用more；遇到不規則詞直接換詞（good→better）；若無法判斷音節數，用more較保險。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "This laptop is ",
+        null,
+        " that one, so I decided to buy it.",
+        "parts"
+      ],
+      "blanks": [
+        "more powerful than"
+      ],
+      "sentence": "This laptop is more powerful than that one, so I decided to buy it.",
+      "translation": "這台筆電比那台強大，所以我決定買它。",
+      "keywords": [
+        "more powerful than",
+        "多音節比較級",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She is ",
+        null,
+        " her sister in sports, and also ",
+        null,
+        " at studying."
+      ],
+      "blanks": [
+        "more talented than",
+        "more diligent"
+      ],
+      "sentence": "She is more talented than her sister in sports, and also more diligent at studying.",
+      "translation": "她在運動上比她妹妹更有天賦，在讀書上也更勤奮。",
+      "keywords": [
+        "more talented than",
+        "more diligent",
+        "連接多個比較級"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The old house is ",
+        null,
+        " the new one, but it has more character."
+      ],
+      "blanks": [
+        "smaller than"
+      ],
+      "sentence": "The old house is smaller than the new one, but it has more character.",
+      "translation": "舊房子比新房子小，但它更有特色。",
+      "keywords": [
+        "smaller than",
+        "單音節比較級",
+        "轉折連接詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "He speaks English ",
+        null,
+        " his friend, and his pronunciation is ",
+        null,
+        "."
+      ],
+      "blanks": [
+        "more fluently than",
+        "better"
+      ],
+      "sentence": "He speaks English more fluently than his friend, and his pronunciation is better.",
+      "translation": "他比他的朋友說得更流暢，他的發音也更好。",
+      "keywords": [
+        "more fluently than",
+        "better",
+        "副詞與形容詞比較級"
+      ]
+    }
+  ]
+}

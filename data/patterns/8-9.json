@@ -1,0 +1,203 @@
+{
+  "code": "8-9",
+  "chapter": 8,
+  "title": "before / after / until / since + S + V",
+  "formulas": [
+    {
+      "formula": "Before/After/Until/Since + S + V, S + V",
+      "zh": "在...之前/之後/直到/自從...時間點，主句動作發生"
+    },
+    {
+      "formula": "S + V before/after/until/since S + V",
+      "zh": "主句動作先發生，後接時間連接詞引導的時間子句"
+    }
+  ],
+  "explanation": "時間連接詞引導時間副詞子句，說明主句動作發生的時間點。Before/After/Until 可用於任何時態；Since 特殊，從句接過去簡單式，主句接現在完成式或現在完成進行式。時間子句可置於句首或句尾。注意 Since 表示「自從...以來」，強調持續性，而 Before/After 表示單一時間點。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Before I graduated from high school, I had never thought about studying abroad.",
+      "chi": "在我高中畢業之前，我從未想過出國留學。",
+      "keywords": [
+        "before",
+        "過去完成式",
+        "時間子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Since she moved to Taipei, she has made many new friends.",
+      "chi": "自從她搬到台北，她交了很多新朋友。",
+      "keywords": [
+        "since",
+        "現在完成式",
+        "持續性時間"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "After the exam finished, the students felt relieved and celebrated together.",
+      "chi": "考試結束後，學生們感到放鬆並一起慶祝。",
+      "keywords": [
+        "after",
+        "時間先後順序",
+        "過去簡單式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Until you practice regularly, you will never improve your English pronunciation.",
+      "chi": "除非你定期練習，否則你永遠無法改善英文發音。",
+      "keywords": [
+        "until",
+        "條件含義",
+        "現在簡單式"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "Since 子句必須用過去簡單式，主句必須用現在完成式。Before 和 After 的時態需配合邏輯：Before 後通常接過去完成式；After 後接過去簡單式。Until 可表否定義（not...until），意為「直到才」。",
+    "examples": [
+      {
+        "test": "Since she left, I have felt lonely. ✓ vs. Since she left, I felt lonely. ✗",
+        "result": "→ Since 子句用過去簡單式，主句必須用現在完成式表示持續至今的狀態"
+      },
+      {
+        "test": "Until he apologized, she didn't forgive him. ✓ vs. Until he apologized, she forgave him. ✗",
+        "result": "→ Until 配合否定形，表示「直到才」，強調時間的等待性"
+      },
+      {
+        "test": "After I finished my homework, I watched TV. ✓ vs. After I finish my homework, I watched TV. ✗",
+        "result": "→ After 子句與主句時態保持一致的過去簡單式"
+      }
+    ],
+    "note": "Since 用完成式，Before 用過去完成式，After 用過去簡單式，Until 配合否定義。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " she moved to London, she has been very happy."
+      ],
+      "blanks": [
+        "Since"
+      ],
+      "sentence": "Since she moved to London, she has been very happy.",
+      "translation": "自從她搬到倫敦，她一直很快樂。",
+      "keywords": [
+        "since",
+        "現在完成進行式",
+        "時間連接詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " the meeting started, the director has been discussing the project details."
+      ],
+      "blanks": [
+        "Since"
+      ],
+      "sentence": "Since the meeting started, the director has been discussing the project details.",
+      "translation": "自從會議開始，主任一直在討論專案細節。",
+      "keywords": [
+        "since",
+        "現在完成進行式",
+        "持續動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " graduation, many of my classmates have pursued their dreams in different fields."
+      ],
+      "blanks": [
+        "Since"
+      ],
+      "sentence": "Since graduation, many of my classmates have pursued their dreams in different fields.",
+      "translation": "自從畢業以來，我的許多同學在不同領域追求他們的夢想。",
+      "keywords": [
+        "since",
+        "現在完成式",
+        "時間段落"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " you finish reading this book, you will understand the author's intention better."
+      ],
+      "blanks": [
+        "After"
+      ],
+      "sentence": "After you finish reading this book, you will understand the author's intention better.",
+      "translation": "在你讀完這本書之後，你會更好地理解作者的意圖。",
+      "keywords": [
+        "after",
+        "未來簡單式",
+        "時間先後順序"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "before",
+      "zh": "在...之前"
+    },
+    {
+      "adj": "after",
+      "zh": "在...之後"
+    },
+    {
+      "adj": "until",
+      "zh": "直到；直到...才"
+    },
+    {
+      "adj": "since",
+      "zh": "自從；既然"
+    },
+    {
+      "adj": "graduate",
+      "zh": "畢業"
+    },
+    {
+      "adj": "moved",
+      "zh": "搬遷"
+    },
+    {
+      "adj": "finished",
+      "zh": "完成"
+    },
+    {
+      "adj": "practice",
+      "zh": "練習"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善"
+    },
+    {
+      "adj": "relieved",
+      "zh": "安心的；放鬆的"
+    },
+    {
+      "adj": "never",
+      "zh": "從不；決不"
+    },
+    {
+      "adj": "regularly",
+      "zh": "定期地"
+    }
+  ],
+  "vocab_table_label": "常用時間連接詞"
+}

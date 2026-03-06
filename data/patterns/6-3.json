@@ -1,0 +1,205 @@
+{
+  "code": "6-3",
+  "chapter": 6,
+  "title": "to V 作主詞／動名詞作主詞",
+  "formulas": [
+    {
+      "formula": "To V + is + adjective",
+      "zh": "不定詞作主詞，後接be動詞和形容詞"
+    },
+    {
+      "formula": "V-ing + is + adjective",
+      "zh": "動名詞作主詞，後接be動詞和形容詞"
+    },
+    {
+      "formula": "It + is + adjective + to V",
+      "zh": "虛主詞it，後接形容詞和不定詞，表示真正主詞"
+    }
+  ],
+  "explanation": "不定詞或動名詞可作句子主詞，兩者語法功能相同但語態略有差異。不定詞偏向具體單一動作，常用虛主詞it取代以簡化句式；動名詞偏向習慣性或抽象概念，較口語自然。兩種形式在學測中均為常考重點。虛主詞it結構特別常見，能使句子表達更簡潔優雅，避免句首過重。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "To learn English is necessary for your future career development.",
+      "chi": "學習英文對你的未來職業發展是必要的。",
+      "keywords": [
+        "To V + is",
+        "necessary",
+        "不定詞作主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Reading books regularly can improve your knowledge and vocabulary skills.",
+      "chi": "定期閱讀書籍可以提升你的知識和詞彙能力。",
+      "keywords": [
+        "V-ing + is",
+        "improve",
+        "動名詞作主詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is important to protect the environment for future generations.",
+      "chi": "保護環境對子孫後代來說很重要。",
+      "keywords": [
+        "It is adj. + to V",
+        "虛主詞it",
+        "protect"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It is challenging to achieve success without persistence and hard work.",
+      "chi": "在沒有堅持和努力的情況下取得成功是有挑戰性的。",
+      "keywords": [
+        "It is adj. + to V",
+        "challenging",
+        "虛主詞結構"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "challenging",
+      "zh": "有挑戰性的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "essential",
+      "zh": "本質上的、必不可少的"
+    },
+    {
+      "adj": "beneficial",
+      "zh": "有益的"
+    },
+    {
+      "adj": "harmful",
+      "zh": "有害的"
+    },
+    {
+      "adj": "urgent",
+      "zh": "緊急的"
+    },
+    {
+      "adj": "practical",
+      "zh": "實用的"
+    },
+    {
+      "adj": "worthwhile",
+      "zh": "值得做的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時注意：(1)不定詞To V強調單一具體動作，常與重要性、必要性等詞搭配；(2)動名詞V-ing表習慣或抽象概念，較口語；(3)虛主詞it使句子簡潔優雅，常用於正式書面語。",
+    "examples": [
+      {
+        "test": "To study abroad is my dream.",
+        "result": "→ 正確。不定詞作主詞，強調具體單一動作（去國外唸書）"
+      },
+      {
+        "test": "Studying abroad is my dream.",
+        "result": "→ 正確。動名詞作主詞，同樣可接受，但較口語自然"
+      },
+      {
+        "test": "It is my dream to study abroad.",
+        "result": "→ 正確。虛主詞it使主詞後置，句式更優雅簡潔"
+      }
+    ],
+    "note": "記憶口訣：『不定詞單一明確，動名詞習慣抽象，虛主詞it最優雅』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " is beneficial for developing critical thinking skills."
+      ],
+      "blanks": [
+        "Reading widely"
+      ],
+      "sentence": "Reading widely is beneficial for developing critical thinking skills.",
+      "translation": "廣泛閱讀對發展批判性思維能力很有益處。",
+      "keywords": [
+        "V-ing + is",
+        "beneficial",
+        "動名詞作主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It is ",
+        null,
+        " to balance work and family life in modern society."
+      ],
+      "blanks": [
+        "challenging"
+      ],
+      "sentence": "It is challenging to balance work and family life in modern society.",
+      "translation": "在現代社會中平衡工作和家庭生活是有挑戰性的。",
+      "keywords": [
+        "It is adj. + to V",
+        "challenging",
+        "虛主詞結構"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " English fluently opens many doors for your career opportunities."
+      ],
+      "blanks": [
+        "To speak"
+      ],
+      "sentence": "To speak English fluently opens many doors for your career opportunities.",
+      "translation": "能流暢地說英文為你的職業機會打開許多大門。",
+      "keywords": [
+        "To V + is",
+        "不定詞作主詞",
+        "opens"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "It is ",
+        null,
+        " to establish good habits when you are young and energetic."
+      ],
+      "blanks": [
+        "essential"
+      ],
+      "sentence": "It is essential to establish good habits when you are young and energetic.",
+      "translation": "在年輕精力充沛時養成良好習慣是必不可少的。",
+      "keywords": [
+        "It is adj. + to V",
+        "essential",
+        "establish"
+      ]
+    }
+  ]
+}

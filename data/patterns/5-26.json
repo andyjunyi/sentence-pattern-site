@@ -1,0 +1,203 @@
+{
+  "code": "5-26",
+  "chapter": 5,
+  "title": "S + must/have to + V（義務必要）",
+  "formulas": [
+    {
+      "formula": "S + must + V",
+      "zh": "主詞必須做某事（主觀強烈義務）"
+    },
+    {
+      "formula": "S + have to + V",
+      "zh": "主詞必須做某事（客觀必要條件）"
+    }
+  ],
+  "explanation": "must 表達說話者主觀上認為強烈必須做的事；have to 則表客觀環境或規則要求必須做。否定形式意思完全不同：must not 表「禁止、不允許」；don't have to 表「不必、無義務」。兩者肯定形式在考試中常互通，但否定形式是區別重點。此句型為高中必掌握基礎語法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Students must submit their homework before Friday.",
+      "chi": "學生必須在星期五前提交作業。",
+      "keywords": [
+        "must",
+        "主觀義務",
+        "submit"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "You have to wear a uniform at this school.",
+      "chi": "你必須在這所學校穿制服。",
+      "keywords": [
+        "have to",
+        "客觀規則",
+        "wear"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I must finish this project today; it's very important.",
+      "chi": "我今天必須完成這個專案；這很重要。",
+      "keywords": [
+        "must",
+        "強烈主觀",
+        "finish"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "They don't have to come to the meeting if they're busy.",
+      "chi": "如果他們很忙，就不必來參加會議。",
+      "keywords": [
+        "don't have to",
+        "非義務",
+        "unnecessary"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷使用 must 或 have to 的關鍵：若含有個人意見、判斷、強烈想法用 must；若是外在規定、法律、學校制度、他人要求用 have to。否定時最易出錯：must not ≠ don't have to，前者禁止，後者不必。",
+    "examples": [
+      {
+        "test": "正確：You must wear shoes in this restaurant.（我堅持認為必須）vs You have to wear shoes in this restaurant.（店規規定）",
+        "result": "→ 兩句肯定形式都可接受，但 must 更強調主觀看法"
+      },
+      {
+        "test": "You must not smoke here.（禁止吸菸）vs You don't have to smoke here.（不必吸菸）",
+        "result": "→ 第一句表禁止，第二句表無義務，意思完全不同"
+      },
+      {
+        "test": "I must finish this homework today.（我認為很重要）vs I have to finish this homework today.（老師規定或學校要求）",
+        "result": "→ must 強調個人決心，have to 強調外在壓力"
+      }
+    ],
+    "note": "must 是主觀強調，have to 是客觀規則；否定時 must not 禁止，don't have to 無需。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "All employees ",
+        null,
+        " follow the company safety regulations carefully."
+      ],
+      "blanks": [
+        "must / have to"
+      ],
+      "sentence": "All employees must / have to follow the company safety regulations carefully.",
+      "translation": "所有員工必須仔細遵守公司安全規定。",
+      "keywords": [
+        "must/have to",
+        "employees",
+        "regulations"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "You ",
+        null,
+        " attend the meeting tomorrow; your presence is required by management."
+      ],
+      "blanks": [
+        "have to"
+      ],
+      "sentence": "You have to attend the meeting tomorrow; your presence is required by management.",
+      "translation": "你明天必須參加會議；管理層要求你出席。",
+      "keywords": [
+        "have to",
+        "required",
+        "mandatory"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Students ",
+        null,
+        " submit their assignments on time, or they will lose marks."
+      ],
+      "blanks": [
+        "must / have to"
+      ],
+      "sentence": "Students must / have to submit their assignments on time, or they will lose marks.",
+      "translation": "學生必須按時提交作業，否則會扣分。",
+      "keywords": [
+        "must/have to",
+        "submit",
+        "assignments"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "You ",
+        null,
+        " speak English fluently for this job, but it would be helpful."
+      ],
+      "blanks": [
+        "don't have to"
+      ],
+      "sentence": "You don't have to speak English fluently for this job, but it would be helpful.",
+      "translation": "這份工作你不必說流利的英文，但這樣會有幫助。",
+      "keywords": [
+        "don't have to",
+        "not necessary",
+        "not required"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "urgent",
+      "zh": "緊急的"
+    },
+    {
+      "adj": "required",
+      "zh": "被要求的"
+    },
+    {
+      "adj": "strict",
+      "zh": "嚴格的"
+    },
+    {
+      "adj": "mandatory",
+      "zh": "強制的"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立即地"
+    },
+    {
+      "adj": "right now",
+      "zh": "現在"
+    },
+    {
+      "adj": "today",
+      "zh": "今天"
+    },
+    {
+      "adj": "by law",
+      "zh": "根據法律"
+    },
+    {
+      "adj": "no choice",
+      "zh": "別無選擇"
+    },
+    {
+      "adj": "absolutely",
+      "zh": "絕對地"
+    }
+  ],
+  "vocab_table_label": "常用形容詞"
+}

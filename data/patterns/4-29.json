@@ -1,0 +1,205 @@
+{
+  "code": "4-29",
+  "chapter": 4,
+  "title": "S + find/think/make + it + adj. + to V（虛受詞）",
+  "formulas": [
+    {
+      "formula": "S + V + it + adj. + to V",
+      "zh": "主詞＋動詞＋it（虛受詞）＋形容詞＋不定詞（真正受詞）"
+    },
+    {
+      "formula": "S + V + it + N + that 子句",
+      "zh": "主詞＋動詞＋it（虛受詞）＋名詞＋that子句（真正受詞）"
+    }
+  ],
+  "explanation": "此句型利用虛受詞it來代替真正受詞（不定詞或that子句），使句子結構更靈活。虛受詞it位於形容詞或名詞之前，真正受詞則置於句尾。常見動詞有find、think、consider、make、feel、believe等。使用時機：當欲強調形容詞/名詞的評價或修飾時。注意：it是形式受詞，不代表任何具體事物；真正受詞才是句子的實際邏輯受詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I find it difficult to learn Chinese characters.",
+      "chi": "我發現學習中文字很困難。",
+      "keywords": [
+        "find",
+        "it",
+        "difficult",
+        "to learn"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She thinks it important that students should study hard.",
+      "chi": "她認為學生應該努力讀書是重要的。",
+      "keywords": [
+        "thinks",
+        "it",
+        "important",
+        "that子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We consider it a great honor to receive this award.",
+      "chi": "我們認為獲得此獎是極大的榮幸。",
+      "keywords": [
+        "consider",
+        "it",
+        "honour",
+        "to receive"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The noise made it impossible for us to concentrate.",
+      "chi": "噪音使我們不可能專心。",
+      "keywords": [
+        "made",
+        "it",
+        "impossible",
+        "to concentrate"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的"
+    },
+    {
+      "adj": "false",
+      "zh": "虛假的"
+    },
+    {
+      "adj": "essential",
+      "zh": "本質的、必需的"
+    },
+    {
+      "adj": "unfortunate",
+      "zh": "不幸的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷虛受詞it的關鍵：it本身無實際意義，不能被真正受詞替代位置。若移除it，改為「S + V + to V」或「S + V + that子句」，意思完全改變。虛受詞it使句子更具靈活性，特別是形容詞或名詞較複雜時。常犯錯誤：混淆it為真受詞或遺漏it。",
+    "examples": [
+      {
+        "test": "I find it easy to speak English.",
+        "result": "→ 正確用法。it為虛受詞，to speak English為真受詞。"
+      },
+      {
+        "test": "❌ I find easy to speak English.",
+        "result": "→ 錯誤。缺少虛受詞it，語法不完整。"
+      },
+      {
+        "test": "We made it clear that we disagree.",
+        "result": "→ 正確用法。it為虛受詞，that子句為真受詞，clear為補語。"
+      }
+    ],
+    "note": "記住：it是虛受詞（形式），真正受詞（不定詞或that子句）才是內容，兩者缺一不可。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I find ",
+        null,
+        " to understand advanced mathematics."
+      ],
+      "blanks": [
+        "it difficult"
+      ],
+      "sentence": "I find it difficult to understand advanced mathematics.",
+      "translation": "我發現理解高等數學很困難。",
+      "keywords": [
+        "find",
+        "it difficult",
+        "to understand"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The teacher considers ",
+        null,
+        " that students submit their homework on time."
+      ],
+      "blanks": [
+        "it necessary"
+      ],
+      "sentence": "The teacher considers it necessary that students submit their homework on time.",
+      "translation": "老師認為學生準時交作業是必要的。",
+      "keywords": [
+        "considers",
+        "it necessary",
+        "that子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We felt ",
+        null,
+        " to meet such a talented person."
+      ],
+      "blanks": [
+        "it an honor"
+      ],
+      "sentence": "We felt it an honor to meet such a talented person.",
+      "translation": "我們感到很榮幸能夠認識這樣一位才華洋溢的人。",
+      "keywords": [
+        "felt",
+        "it an honor",
+        "to meet"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The accident made ",
+        null,
+        " for anyone to drive on that road."
+      ],
+      "blanks": [
+        "it unsafe"
+      ],
+      "sentence": "The accident made it unsafe for anyone to drive on that road.",
+      "translation": "那場事故使得任何人都無法在那條路上安全駕車。",
+      "keywords": [
+        "made",
+        "it unsafe",
+        "to drive"
+      ]
+    }
+  ]
+}

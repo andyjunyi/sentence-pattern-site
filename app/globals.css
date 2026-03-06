@@ -24,3 +24,71 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%       { transform: translateX(-7px); }
+  40%       { transform: translateX(7px); }
+  60%       { transform: translateX(-4px); }
+  80%       { transform: translateX(4px); }
+}
+
+.practice-shake {
+  animation: shake 0.4s ease;
+}
+
+/* ── Print utility classes ── */
+.print-only { display: none; }
+
+@media print {
+  @page { margin: 1.5cm; }
+
+  /* Show/hide */
+  .print-only { display: block !important; }
+  .no-print   { display: none  !important; }
+
+  /* Reset all backgrounds and shadows to white */
+  *, *::before, *::after {
+    background: white !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* Default text to black */
+  body, p, span, li, td, th, code, div {
+    color: black !important;
+  }
+
+  /* Headings keep dark blue */
+  h1, h2, h3 { color: #1A3A5C !important; }
+
+  /* Color block headers (adj table, explanation card) → outlined */
+  .color-header {
+    border-bottom: 2px solid #333 !important;
+  }
+  .color-header > span { color: #333 !important; }
+
+  /* Formula card: keep border visible */
+  .formula-card { border-color: #333 !important; }
+  .formula-card code  { color: #1A3A5C !important; }
+  .formula-card .formula-meaning { color: #555 !important; }
+
+  /* Keywords: preserve bold + underline */
+  strong {
+    font-weight: 700 !important;
+    text-decoration: underline !important;
+    color: black !important;
+  }
+
+  /* Typography */
+  body { font-size: 12pt; line-height: 1.6; }
+  h2   { font-size: 14pt; }
+  .adj-grid > div        { font-size: 10pt; }
+  .adj-grid > div > div  { font-size: 10pt; }
+
+  /* Avoid page breaks inside content blocks */
+  section          { page-break-inside: avoid; }
+  .adj-grid        { page-break-inside: avoid; }
+  .example-card    { page-break-inside: avoid; }
+  .extension-block { page-break-inside: avoid; }
+}

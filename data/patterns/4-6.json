@@ -1,0 +1,203 @@
+{
+  "code": "4-6",
+  "chapter": 4,
+  "title": "S + V + N + whom + S + V",
+  "formulas": [
+    {
+      "formula": "N + whom + S + V...",
+      "zh": "名詞 + 受格關係代名詞whom + 主詞 + 動詞...（whom作動詞或介系詞受詞）"
+    },
+    {
+      "formula": "N + whom + S + V + O",
+      "zh": "名詞 + 受格關係代名詞whom + 主詞 + 動詞 + 受詞"
+    }
+  ],
+  "explanation": "受格關係代名詞whom用來代替先行詞（人），在形容詞子句中作動詞或介系詞的受詞。此為正式書面用語。結構為：先行詞(人) + whom + 主詞 + 動詞。whom前常有介系詞(to/for/with/about)。口語中常以who替代或完全省略。判斷是否用whom：若關係代名詞在子句中作受詞，使用whom；作主詞則用who。需注意與who的區別，以及介系詞位置。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher whom I respect most has retired from the university.",
+      "chi": "我最尊敬的那位老師已從大學退休了。",
+      "keywords": [
+        "whom",
+        "受詞",
+        "敬重"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She introduced me to her friend, whom we had never met before.",
+      "chi": "她介紹我認識她的朋友，我們以前從未見過那個人。",
+      "keywords": [
+        "whom",
+        "介紹",
+        "見面"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The author whom the students studied last semester wrote many novels.",
+      "chi": "學生上學期研究的那位作家寫了許多小說。",
+      "keywords": [
+        "whom",
+        "作家",
+        "研究"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He helped several people, for whom he received a medal of honor.",
+      "chi": "他幫助了好幾個人，為此他獲得了榮譽勳章。",
+      "keywords": [
+        "whom",
+        "介系詞for",
+        "幫助"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷whom vs who：看關係代名詞在子句中的角色。若為主詞用who，若為受詞(動詞或介系詞之後)用whom。現代英語口語常用who替代whom，但學測重點測驗正式用法，務必掌握whom的用法。介系詞後必用whom。",
+    "examples": [
+      {
+        "test": "正確：The man whom I met yesterday is a doctor.",
+        "result": "→ whom作met的受詞，正確使用"
+      },
+      {
+        "test": "錯誤：The man who I met yesterday is a doctor.",
+        "result": "→ 口語可接受，但正式書面應用whom"
+      },
+      {
+        "test": "正確：The people to whom you referred are no longer here.",
+        "result": "→ 介系詞to後必用whom，不能用who"
+      }
+    ],
+    "note": "關係代名詞在動詞/介系詞後作受詞 → 用whom；作主詞 → 用who。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The professor ",
+        null,
+        " the students praised highly is now at Harvard University."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "The professor whom the students praised highly is now at Harvard University.",
+      "translation": "學生們高度讚揚的那位教授現在在哈佛大學。",
+      "keywords": [
+        "whom",
+        "受詞",
+        "教授"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She has a cousin ",
+        null,
+        " she grew up with in Taiwan."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "She has a cousin whom she grew up with in Taiwan.",
+      "translation": "她有一個表親，是她在台灣一起長大的。",
+      "keywords": [
+        "whom",
+        "介系詞with",
+        "表親"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The athlete ",
+        null,
+        " the coach trained became an Olympic champion."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "The athlete whom the coach trained became an Olympic champion.",
+      "translation": "教練訓練的那位運動員成為了奧運冠軍。",
+      "keywords": [
+        "whom",
+        "運動員",
+        "訓練"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "There are many people ",
+        null,
+        " we should be grateful to for their contributions."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "There are many people whom we should be grateful to for their contributions.",
+      "translation": "有很多人是我們應該為他們的貢獻而感謝的。",
+      "keywords": [
+        "whom",
+        "介系詞to",
+        "感謝"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "respect",
+      "zh": "尊敬、尊重"
+    },
+    {
+      "adj": "trust",
+      "zh": "信任、相信"
+    },
+    {
+      "adj": "admire",
+      "zh": "欽佩、景仰"
+    },
+    {
+      "adj": "meet",
+      "zh": "見面、遇到"
+    },
+    {
+      "adj": "know",
+      "zh": "認識、知道"
+    },
+    {
+      "adj": "help",
+      "zh": "幫助"
+    },
+    {
+      "adj": "teach",
+      "zh": "教導"
+    },
+    {
+      "adj": "support",
+      "zh": "支持、贊成"
+    },
+    {
+      "adj": "care for",
+      "zh": "在乎、關心"
+    },
+    {
+      "adj": "depend on",
+      "zh": "依賴、依靠"
+    },
+    {
+      "adj": "work with",
+      "zh": "與...共事"
+    },
+    {
+      "adj": "grateful to",
+      "zh": "感謝、感恩"
+    }
+  ],
+  "vocab_table_label": "常用動詞"
+}

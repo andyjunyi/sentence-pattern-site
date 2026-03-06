@@ -1,0 +1,202 @@
+{
+  "code": "1-8",
+  "chapter": 1,
+  "title": "It is not until... that + S + V",
+  "formulas": [
+    {
+      "formula": "It is not until + 時間/事件 + that + S + V (肯定動詞)",
+      "zh": "直到……（某時間或事件），……才……"
+    },
+    {
+      "formula": "Not until + 時間/事件 + 助動詞 + S + V（倒裝句型）",
+      "zh": "直到……才……（倒裝強調用法）"
+    }
+  ],
+  "explanation": "此句型為強調句（cleft sentence）的變體，用來強調「直到某個時間點或事件發生後，某動作才開始」。原句型為「S + do/does/did + not + V + until...」，改寫為「It is not until... that...」後，that 子句中的動詞使用肯定形式，不可再加 not。此句型常見於書面語及學測翻譯題，需特別注意 that 子句不用否定，以及時態須與語境一致。另可改寫為 Not until 開頭的倒裝句，此時主要子句須倒裝。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It was not until I lost my health that I realized the importance of exercise.",
+      "chi": "直到我失去健康，我才意識到運動的重要性。",
+      "keywords": [
+        "not until",
+        "that",
+        "realized"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It was not until midnight that the rescue team finally arrived at the scene.",
+      "chi": "直到午夜，救援隊才終於抵達現場。",
+      "keywords": [
+        "not until",
+        "midnight",
+        "arrived"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is not until you travel abroad that you truly appreciate your own culture.",
+      "chi": "直到你出國旅行，你才真正懂得欣賞自己的文化。",
+      "keywords": [
+        "not until",
+        "travel abroad",
+        "appreciate"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It was not until the teacher explained it again that the students understood the concept.",
+      "chi": "直到老師再次解釋，學生們才理解了這個概念。",
+      "keywords": [
+        "not until",
+        "explained",
+        "understood"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看到「直到……才……」的中文翻譯題，先確認是否要強調時間點。若需強調，使用「It is/was not until... that...」，that 後面動詞用肯定式。若用原句還原法，可先寫出「S didn't V until...」再改寫，確保語意正確。",
+    "examples": [
+      {
+        "test": "✗ It was not until he came that I didn't leave.",
+        "result": "→ 錯誤！that 子句不可再用否定。正確：It was not until he came that I left.（直到他來了我才離開。）"
+      },
+      {
+        "test": "原句：I didn't know the truth until she told me.",
+        "result": "→ 強調改寫：It was not until she told me that I knew the truth.（直到她告訴我，我才知道真相。）"
+      },
+      {
+        "test": "倒裝改寫：Not until she told me did I know the truth.",
+        "result": "→ Not until 置於句首時，主要子句須用倒裝語序（助動詞 + 主詞 + 原形動詞）。"
+      }
+    ],
+    "note": "「直到才」找 not until，that 後面轉肯定，倒裝記得助動詞提前！"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "It was ",
+        null,
+        " she spoke that I recognized her as my elementary school classmate."
+      ],
+      "blanks": [
+        "not until"
+      ],
+      "sentence": "It was not until she spoke that I recognized her as my elementary school classmate.",
+      "translation": "直到她開口說話，我才認出她是我的國小同學。",
+      "keywords": [
+        "not until",
+        "recognized"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It was not until the earthquake struck ",
+        null,
+        " people began to prepare emergency kits."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "It was not until the earthquake struck that people began to prepare emergency kits.",
+      "translation": "直到地震發生，人們才開始準備緊急避難包。",
+      "keywords": [
+        "not until",
+        "that",
+        "earthquake"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It was not until he ",
+        null,
+        " college that he learned how to cook for himself."
+      ],
+      "blanks": [
+        "entered"
+      ],
+      "sentence": "It was not until he entered college that he learned how to cook for himself.",
+      "translation": "直到他上大學，他才學會自己做飯。",
+      "keywords": [
+        "not until",
+        "entered",
+        "learned"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " I read the novel twice did I fully understand the author's message."
+      ],
+      "blanks": [
+        "Not until"
+      ],
+      "sentence": "Not until I read the novel twice did I fully understand the author's message.",
+      "translation": "直到我讀了那本小說兩遍，我才完全理解作者的意涵。",
+      "keywords": [
+        "Not until",
+        "did",
+        "understand"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "not until",
+      "zh": "直到……才"
+    },
+    {
+      "adj": "realize",
+      "zh": "意識到；了解"
+    },
+    {
+      "adj": "appreciate",
+      "zh": "欣賞；感激"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解；明白"
+    },
+    {
+      "adj": "discover",
+      "zh": "發現"
+    },
+    {
+      "adj": "recognize",
+      "zh": "認出；體認到"
+    },
+    {
+      "adj": "midnight",
+      "zh": "午夜"
+    },
+    {
+      "adj": "graduation",
+      "zh": "畢業"
+    },
+    {
+      "adj": "the last moment",
+      "zh": "最後一刻"
+    },
+    {
+      "adj": "the age of",
+      "zh": "在……歲時"
+    },
+    {
+      "adj": "importance",
+      "zh": "重要性"
+    },
+    {
+      "adj": "value",
+      "zh": "價值"
+    }
+  ],
+  "vocab_table_label": "核心詞彙"
+}
